@@ -1,6 +1,7 @@
 {{Rěc
-|mjeno 1=Русский язык
-|mjeno 2=rusojska rěc
+|barwa=Indoeuropska
+|mě 1=Русский язык
+|mě 2=rusojska rěc
 |kraje=[[Rusojska|Rusojska]], [[Běłoruska|Běłoruska]],<br />[[Zjadnośone staty Ameriki|Zjadnośone staty Ameriki]],<br />[[Ukraina|Ukraina]] a dalšne
 |rěcnicy=145 milionow
 |klasifikacija=[[indoeuropske rěcy|indoeuropske rěcy]]
@@ -25,23 +26,49 @@ Rusojski powěda wót 250 do 300 milionow luźi na cełem swěśe, a 145 miliono
 
 ==Rusojski alfabet==
 
-<table border="1" cellpadding="8">
-<tr>
-<td>'''А а''' /a/<td>'''Б б''' /b/<td>'''В в''' /w/<td>'''Г г''' /g/<td>'''Д д''' /d/
-</tr><tr>
-<td>'''Е е''' /ě/<td>'''Ё ё''' /jo/<td>'''Ж ж''' /ž/<td>'''З з''' /z/<td>'''И и''' /i/ 
-</tr><tr>
-<td>'''Й й''' /j/<td>'''К к''' /k/<td>'''Л л''' /ł/<td>'''М м''' /m/<td>'''Н н''' /n/
-</tr><tr>
-<td>'''О о''' /о/<td>'''П п''' /p/<td>'''Р р''' /r/<td>'''С с''' /s/<td>'''Т т''' /t/
-</tr><tr>
-<td>'''У у''' /u/<td>'''Ф ф''' /f/<td>'''Х х''' /ch/<td>'''Ц ц''' /c/<td>'''Ч ч''' /č/
-</tr><tr>
-<td>'''Ш ш''' /š/<td>'''Щ щ''' /šč/<td>'''ъ''' twardy pismik<td>'''ы''' /y/<td>'''ь''' měki pismik
-</tr><tr>
-<td>'''Э э''' /e/<td>'''Ю ю''' /ju/<td>'''Я я''' /ja/
-</tr>
-</table>
+{| border="1" cellpadding="8"
+| '''А а''' /a/
+| '''Б б''' /b/
+| '''В в''' /w/
+| '''Г г''' /g/
+| '''Д д''' /d/
+|-
+| '''Е е''' /ě/
+| '''Ё ё''' /jo/
+| '''Ж ж''' /ž/
+| '''З з''' /z/
+| '''И и''' /i/
+|-
+| '''Й й''' /j/
+| '''К к''' /k/
+| '''Л л''' /ł/
+| '''М м''' /m/
+| '''Н н''' /n/
+|-
+| '''О о''' /о/
+| '''П п''' /p/
+| '''Р р''' /r/
+| '''С с''' /s/
+| '''Т т''' /t/
+|-
+| '''У у''' /u/
+| '''Ф ф''' /f/
+| '''Х х''' /ch/
+| '''Ц ц''' /c/
+| '''Ч ч''' /č/
+|-
+| '''Ш ш''' /š/
+| '''Щ щ''' /šč/
+| '''ъ''' twardy pismik
+| '''ы''' /y/
+| '''ь''' měki pismik
+|-
+| '''Э э''' /e/
+| '''Ю ю''' /ju/
+| '''Я я''' /ja/
+|}
+
+
 
 [[Category:Pódzajtšnosłowjańske rěcy]]
 
