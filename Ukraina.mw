@@ -1,26 +1,30 @@
-{{Template:kraj|
-mjeno=Украïна<br>''Ukraina''|
-serbske mjeno=Ukraina|
-wopon=Coat of arms of Ukraine.svg|
-chórgoj=Flag_of_Ukraine.svg|
-gronko=„Воля, злагода, добро“<br>Wolia, złahoda, dobro|
-połoženje=LocationUkraine.png|
-rěc=[[ukrainska_rĕc|ukrainska]]|
-stolica=[[Kiĕw|Kiĕw]]|
-głowny=prezident Wiktor Juščenko|
-šef=premierminister Julia Tymošenko|
-płoń=603 700|
-wobydlarje=46 480 000|
-lěto=2006|
-gustosć ludnosći=77|
-pjenjeze=hrywnja, гривня ([[UAH]])|
-casowa cona=[[koordiněrowany swětowy cas|UTC]]+2|
-hymna=Ще не вмерла Українa <br>''Šče ne wmerła Ukraina''|
-znamje za awta=UA|
-TLD=.ua|
-telefonowe pśedwólenje=+380|
-kórta=Up-map.png|
+{{Stat
+|mě swójske=Украïна<br>''Ukraina''
+|mě serbske=Ukraina
+|wopon=Coat of arms of Ukraine.svg
+|chórgoj=Flag_of_Ukraine.svg
+|chórgoj-nastawk=Ukrainska chórgoj
+|gronko=„Воля, злагода, добро“<br>Wolia, złahoda, dobro 
+|połoženje=LocationUkraine.svg
+|rěc=[[ukrainska_rĕc|ukrainska]]
+|stolica=[[Kiĕw]] 
+|forma kněžerstwa=prezidentska republika
+|głowny=prezident [[Wiktor Juščenko]]
+|šef=premierminister [[Julia Tymošenko]]
+|płoń=603 700
+|wobydlerje=45 830 000
+|lěto=2007
+|gustosć ludnosći=76
+|pjenjeze=hrywnja (гривня)
+|nastaśe=
+|hymna=Ще не вмерла Українa <br>''Šče ne wmerła Ukraina''
+|casowa cona =[[srjejźnoeuropski cas|SEC]] ([[koordiněrowany swětowy cas|UTC]]+2)
+|TLD=.ua
+|telefon=+380
+|znamje za awta=UA
+|kórta=Up-map.png
 }}
+
 
 
 '''Ukraina''' jo kraj w pódzajtšnej [[Europa|Europje]].
@@ -38,7 +42,7 @@ Ukraina granicujo z [[Rusojska|Rusojskeju]], [[Běłoruska|Běłoruskeju]], [[Ru
 
 {{ZNK}}
 
-[[Category:Ukraina| ]]
+[[kategorija:Ukraina| ]]
 
 [[af:Oekraïne]]
 [[als:Ukraine]]
