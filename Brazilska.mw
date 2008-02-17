@@ -1,25 +1,26 @@
-{{Template:kraj|
-mjeno=República Federativa do Brasil|
-serbske mjeno=Brazilska fedaratiwna republika|
-wopon=Coat of arms of Brazil.svg|
-chórgoj=Flag of Brazil.svg|
-gronko=Ordem e Progresso|
-połoženje=LocationBrazil.svg|
-rěc=portugalska|
-stolica=[[Brasilia|Brasilia]]|
-głowny=prezident Luiz Inácio <br>Lula da Silva|
-šef=prezident Luiz Inácio <br>Lula da Silva|
-płoń=8 511 965|
-wobydlarje=190 010 650|
-lěto=2007|
-gustosć ludnosći=22,4|
-pjenjeze=real|
-casowa cona=[[koordiněrowany swětowy cas|UTC]] wót -2 do -5 <br><small>(lěśojski cas: UTC wót -3 do -4)</small>|
-hymna=Hino Nacional Brasileiro|
-znamje za awta=BR|
-TLD=.br|
-telefonowe pśedwólenje=+55|
-kórta=Br-map.gif|
+{{stat
+|mě swójske=República Federativa do Brasil
+|mě serbske=Brazilska fedaratiwna republika
+|wopon=Coat of arms of Brazil.svg
+|chórgoj=Flag of Brazil.svg
+|gronko=Ordem e Progresso
+|połoženje=LocationBrazil.svg
+|rěc=portugalska
+|stolica=[[Brasilia|Brasilia]]
+|głowny=prezident Luiz Inácio <br>Lula da Silva
+|šef=prezident Luiz Inácio <br>Lula da Silva
+|płoń=8 511 965
+|wobydlarje=190 010 650
+|lěto=2007
+|gustosć ludnosći=22,4
+|pjenjeze=real
+|casowa cona=[[koordiněrowany swětowy cas|UTC]] wót -2 do -5 <br><small>(lěśojski cas: UTC wót -3 do -4)</small>
+|hymna=Hino Nacional Brasileiro
+|znamje za awta=BR
+|TLD=.br
+|telefonowe pśedwólenje=+55
+|kórta=Br-map.gif
+|
 }}
 
 '''Brazilska''' jo nejwětšy po płońi a wobydlarjach kraj [[Pódpołdnjowa Amerika|Pódpołdnjoweje Ameriki]].
@@ -100,6 +101,7 @@ Brazilska jo nejwětšy romsko-katolski kraj na swěśie.
 [[he:ברזיל]]
 [[hi:ब्राज़ील]]
 [[hr:Brazil]]
+[[hsb:Brazilska]]
 [[ht:Brezil]]
 [[hu:Brazília]]
 [[hy:Բրազիլիա]]
