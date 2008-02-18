@@ -1,25 +1,26 @@
-{{Template:kraj|
-mjeno=Република България|
-serbske mjeno=Republika Bulgarska|
-wopon=Bulgaria coa.png|
-chórgoj=Flag of Bulgaria.svg|
-gronko=  Съединението прави силата |
-połoženje=LocationBulgaria.png|
-rěc=[[bulgarska rěc|bulgarska]]|
-stolica=[[Sofija]]|
-głowny=prezident [[Georgi Pyrwanow]]|
-šef=premierminister [[Sergiej Stanišew]]|
-płoń=110 910|
-wobydlarje=7 385 000|
-lěto=2006|
-gustosć ludnosći=67|
-pjenjeze=lew|
-hymna=Miła Rodino|
-casowa cona=[[srjejźnoeuropski cas|SEC]] ([[koordiněrowany swětowy cas|UTC]]+1)|
-znamje za awta=BG|
-TLD=.bg|
-telefonowe pśedwólenje=+359|
-kórta=Bu-map.jpg|
+{{stat
+|mě=Република България
+|serbske mě=Republika Bulgarska
+|wopon=Bulgaria coa.png
+|chórgoj=Flag of Bulgaria.svg
+|gronko=Съединението прави силата <br>Jadnota twóri móc
+|połoženje=LocationBulgaria.svg
+|rěc=[[bulgarska rěc|bulgarska]]
+|stolica=[[Sofija]]
+|głowny=prezident [[Georgi Pyrwanow]]
+|šef=premierminister [[Sergiej Stanišew]]
+|płoń=110 910
+|wobydlarje=7 385 000
+|lěto=2006
+|gustosć ludnosći=67
+|pjenjeze=lew
+|hymna=Miła Rodino
+|casowa cona=[[srjejźnoeuropski cas|SEC]] ([[koordiněrowany swětowy cas|UTC]]+1)
+|znamje za awta=BG
+|TLD=.bg
+|telefonowe pśedwólenje=+359
+|kórta=Bu-map.jpg
+|
 }}
 
 '''Bulgarska''' jo kraj w pódzajtšnej [[Europa|Europje]].
@@ -34,7 +35,7 @@ Wót 1 [[wezymski|wezymskego]] 2007 jo w [[Europska unija|Europskej uniji]].
 
 {{Europska unija}}
 
-[[Category:Bulgarska| ]]
+[[kategorija:Bulgarska| ]]
 
 [[af:Bulgarye]]
 [[als:Bulgarien]]
