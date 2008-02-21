@@ -1,25 +1,26 @@
-{{Template:kraj|
-mjeno=Bundesrepublik Deutschland|
-serbske mjeno=Nimska zwězkowa republika|
-wopon=Coat_of_Arms_of_Germany.svg|
-chórgoj=Flag of Germany.svg|
-gronko=-|
-połoženje=EU location GER.png|
-rěc=[[nimska rěc|nimska]]|
-stolica=[[Barliń]]|
-głowny=prezident Horst Köhler|
-šef=premierminister statna kanclarka [[Angela Merkel]]|
-płoń=357 092|
-wobydlarje=82 438 000|
-lěto=2005|
-gustosć ludnosći=231|
-pjenjeze=euro|
-casowa cona=[[koordiněrowany swětowy cas|UTC]]+1|
-hymna=Lied der Deutschen|
-znamje za awta=D|
-TLD=.de|
-telefonowe pśedwólenje=+49|
-kórta=Niemcy Mapa.png|
+{{Stat
+|mě swójske=Bundesrepublik Deutschland
+|mě serbske=Nimska zwězkowa republika
+|wopon=Coat_of_Arms_of_Germany.svg
+|chórgoj=Flag of Germany.svg
+|gronko=-
+|połoženje=EU location GER.png
+|rěc=[[nimska rěc|nimska]]
+|stolica=[[Barliń]]
+|głowny=prezident Horst Köhler
+|šef=premierminister,<br />statna kanclarka [[Angela Merkel]]
+|płoń=357 092
+|wobydlarje=82 438 000
+|lěto=2005
+|gustosć ludnosći=231
+|pjenjeze=euro
+|casowa cona=[[koordiněrowany swětowy cas|UTC]]+1
+|hymna=Lied der Deutschen
+|znamje za awta=D
+|TLD=.de
+|telefonowe pśedwólenje=+49
+|kórta=Niemcy Mapa.png
+|
 }}
 
 '''Nimska''' ([[nimšćina|nim.]] ''Deutschland''), oficielnje '''Nimska zwězkowa republika''' ([[nimšćina|nim.]] ''Bundesrepublik Deutschland'') jo kraj w srjejźnej [[Europa|Europje]].
@@ -49,7 +50,7 @@ Wót 7. oktobera [[1949]] do 3. oktobera [[1990]] stej wobstojałej dwa nimskej 
 ==Zwězkowe kraje Nimskeje zwězkoweje republiki==
 Zwězkowe kraje Nimskeje zwězkoweje republiki su :
 
-{| {{prettytable}} border="1" align="center" style="border-collapse:collapse; border-color:#f2f2f4; margin-top:1px; margin-bottom:15px; font-size:90%" cellpadding="1" width="100%"
+{| class="prettytable" border="1" align="center" style="border-collapse:collapse; border-color:#f2f2f4; margin-top:1px; margin-bottom:15px; font-size:90%" cellpadding="1" width="100%"
 |-
 ! bgcolor="#ffffff" rowspan="18" width="33%" valign="top" | [[image:Karte Deutsche Bundesländer (nummeriert).svg|220px|left|Kórta Nimskeje ze zakreslonymi granicami zwězkowych krajow]] 
 ! bgcolor="#efefef" width="3%"|
@@ -58,7 +59,7 @@ Zwězkowe kraje Nimskeje zwězkoweje republiki su :
 ! align="right" bgcolor="#f2f2f4" width="11%"| płoń (tys. km²)
 ! align="center" bgcolor="#f2f2f4" width="13%"| wobydlarstwo (mln.)<ref>Stan: 31.12.2004</ref>
 |-
-|align="center"|1 || Baden-Württemberg || [[Badeńska-Wirtembergska|Badeńska-Wirtembergska]] || align="right"|35,7 || align="center"|10,7 
+|align="center"|1 || Baden-Württemberg || [[Baden-Würtembergska]] || align="right"|35,7 || align="center"|10,7 
 |-
 |align="center"|2 || Bayern || [[Bayerska]] || align="right"|70,5 || align="center"|12,4
 |-
@@ -78,7 +79,7 @@ Zwězkowe kraje Nimskeje zwězkoweje republiki su :
 |-
 |align="center"|10 || Nordrhein-Westfalen || [[Pódpołnocna Poryńska-Westfalska]] || align="right"|34 || align="center"|18,1
 |-
-|align="center"|11 || Rheinland-Pfalz || [[Poryńska-Pfalcojska]] || align="right"|19,8 || align="center"|4,06
+|align="center"|11 || Rheinland-Pfalz || [[Rheinland-Pfalcojska]] || align="right"|19,8 || align="center"|4,06
 |-
 |align="center"|12 || Saarland || [[Saarlandska]] || align="right"|2,57 || align="center"|1,06
 |-
