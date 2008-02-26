@@ -85,6 +85,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |----- bgcolor="#FFDEAD"
 !Nr.
 !Wokrejsa
+!Wopon
 !wokrejsne město
 !Kfz.
 !płonina <br />(km²)
@@ -93,6 +94,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |1
 | <small> Landkreis Altenburger Land </small> </br> [[Landkreis Altenburger Land|wokrejs Starogrodojski kraj]]
+| [[image:Landkreiswappen des Landkreises Altenburger Land.png|40px]]
 | <small> Altenburg </small> </br> [[Altenburg|Starogrod]]
 |ABG
 |align=right|569,08
@@ -101,6 +103,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |2
 | <small> Landkreis Eichsfeld </small> </br> [[Landkreis Eichsfeld|wokrejs Eichsfeld]]
+| [[image:Wappen Landkreis Eichsfeld.png|40px]]
 | <small> Heilbad Heiligenstadt </small> </br> [[Heilbad Heiligenstadt|kupjele Heiligenstadt]]
 |EIC
 |align=right|939,82
@@ -109,6 +112,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |3
 | <small> Landkreis Gotha </small> </br> [[Landkreis Gotha|wokrejs Groda]]
+| [[image:Wappen Landkreis Gotha.png|40px]]
 | <small> Gotha </small> </br> [[Gotha|Groda]]
 |GTH
 |align=right|935,59
@@ -117,6 +121,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |4
 | <small> Landkreis Greiz </small> </br> [[Landkreis Greiz|wokrejs Grodz]]
+| [[image:Wappen Landkreis Greiz.png|40px]]
 | <small> Greiz </small> </br> [[Greiz|Grodz]]
 |GRZ
 |align=right|843,52
@@ -125,6 +130,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |5
 | <small> Landkreis Hildburghausen </small> </br> [[Landkreis Hildburghausen|wokrejs Hildburghausen]]
+| [[image:Wappen Landkreis Hildburghausen.png|40px]]
 |[[Hildburghausen|Hildburghausen]]
 |HBN
 |align=right|937,38
@@ -133,6 +139,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |6
 | <small> Ilm-Kreis </small> </br> [[Ilm-Kreis|Iłomska wokrejs]]
+| [[image:Wappen Ilm-Kreis.png|40px]]
 |[[Arnstadt|Arnstadt]]
 |IK
 |align=right|843,30
@@ -141,6 +148,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |7
 | <small> Kyffhäuserkreis </small> </br> [[Kyffhäuserkreis|Kyffhäuska wokrejs]]
+| [[image:Wappen Kyffhaeuserkreis.png|40px]] 
 |[[Sondershausen|Sondershausen]]
 |KYF
 |align=right|1.035,13
@@ -149,6 +157,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |8
 | <small> Landkreis Nordhausen </small> </br> [[Landkreis Nordhausen|wokrejs Nordhausen]]
+| [[image:Wappen Landkreis Nordhausen.png|40px]] 
 |[[Nordhausen|Nordhausen]]
 |NDH
 |align=right|710,91
@@ -157,6 +166,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |9
 | <small> Saale-Holzland-Kreis </small> </br> [[Saale-Holzland-Kreis|wokrejs Soławoje-Drjewojski kraj]]
+| [[image:Wappen Saale-Holzland-Kreis.png|40px]]
 |[[Eisenberg (Durinska)|Eisenberg]]
 |SHK
 |align=right|816,99
@@ -165,6 +175,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |10
 | <small> Saale-Orla-Kreis </small> </br> [[Saale-Orla-Kreis|wokrejs Soławoje-Ořla]]
+| [[image:Wappen Saale-Orla-Kreis.png|40px]]
 | <small> Schleiz </small> </br> [[Schleiz|Šlejź]]
 |SOK
 |align=right|1.148,41
@@ -173,6 +184,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |11
 | <small> Landkreis Saalfeld-Rudolstadt </small> </br> [[Landkreis Saalfeld-Rudolstadt|wokrejs Saalfeld-Rudolstadt]]
+| [[image:Wappen Landkreis Saalfeld-Rudolstadt.png|40px]]
 |[[Saalfeld (Soława)|Saalfeld]]
 |SLF
 |align=right|1.034,58
@@ -181,6 +193,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |12
 | <small> Landkreis Schmalkalden-Meiningen </small> </br> [[Landkreis Schmalkalden-Meiningen|wokrejs Schmalkalden-Meiningen]]
+| [[image:Wappen Landkreis Schmalkalden-Meiningen.png|40px]]
 |[[Meiningen|Meiningen]]
 |SM
 |align=right|1.210,14
@@ -189,6 +202,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |13
 | <small> Landkreis Sömmerda </small> </br> [[Landkreis Sömmerda|wokrejs Sömmerda]]
+| [[image:Wappen Landkreis Soemmerda.png|40px]]
 |[[Sömmerda|Sömmerda]]
 |SÖM
 |align=right|804,17
@@ -197,6 +211,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |14
 | <small> Landkreis Sonneberg </small> </br> [[Landkreis Sonneberg|wokrejs Sonneberg]]
+| [[image:Wappen Landkreis Sonneberg.png|40px]]
 |[[Sonneberg|Sonneberg]]
 |SON
 |align=right|433,36
@@ -205,6 +220,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |15
 | <small> Unstrut-Hainich-Kreis </small> </br> [[Unstrut-Hainich-Kreis|wokrejs Winstróda-Gajńšćo]]
+| [[image:Wappen Unstrut-Hainich-Kreis.png|40px]]
 |[[Mühlhausen (Durinska)|Mühlhausen]]
 |UH
 |align=right|975,48
@@ -213,6 +229,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |16
 | <small> Wartburgkreis </small> </br> [[Wartburgkreis|wokrejs Wartburg]]
+| [[image:Wappen Wartburgkreis.png|40px]]
 |[[Bad Salzungen|Bad Salzungen]]
 |WAK
 |align=right|1.304,84
@@ -221,6 +238,7 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |-
 |17
 | <small> Landkreis Weimarer Land </small> </br> [[Landkreis Weimarer Land|wokrejs Wojimořski kraj]]
+| [[image:Wappen Landkreis Weimarer Land.png|40px]]
 |[[Apolda|Apolda]]
 |AP
 |align=right|803,03
@@ -235,30 +253,37 @@ image:Sitzverteilung Landtag Thüringen.png|Seda w Durinsku parlamenśe.
 |----- bgcolor="#FFDEAD"
 !Nr.
 !bźezwokrejsne města
+!Wopon
 !Kfz.
 |-
 |EA
 | <small> Eisenach </small> </br> '''[[Eisenach|Zelezowa]]'''
+| [[image:Wappen Eisenach.png|40px]]
 |EA
 |-
 |EF
 | <small> Erfurt </small> </br> '''[[Erfurt|Jarogrod]]'''
+| [[image:Wappen Erfurt.png|40px]]
 |EF
 |-
 |G
 | '''[[Gera|Gera]]'''
+| [[image:Wappen Gera.png|40px]]
 |G
 |-
 |J
 | '''[[Jena|Jena]]'''
+| [[image:Wappen Jena.png|40px]]
 |J
 |-
 |SHL
 | '''[[Suhl|Suhl]]'''
-|S
+| [[image:Wappen Suhl.png|40px]]
+|SHL
 |-
 |WE
 | <small> Weimar </small> </br> '''[[Weimar|Wojimiř]]'''
+| [[image:Wappen Weimar.png|40px]]
 |WE
 |-
 |}
