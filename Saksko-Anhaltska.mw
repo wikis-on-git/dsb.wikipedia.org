@@ -119,65 +119,95 @@ image:Sitzverteilung Landtag Sachsen-Anhalt.png|Seda w Sakskem-Anhaltskem parlam
 [[wobraz:LandkreiseSachsenAnhalt2007.png|framed|right|upright|300px|wokrejsy a Skskej-Anhaltskej]]
 
 {| class="prettytable sortable" |
+!bgcolor=#dddddd|Kfz
 !bgcolor=#dddddd|wokrejs
+!bgcolor=#dddddd|wopon
 !bgcolor=#dddddd|wobydlaŕy
 !bgcolor=#dddddd|płonina
 |-
-| <small> Landkreis Anhalt-Bitterfeld </small> </br> [[Landkreis Anhalt-Bitterfeld|wokrejs Anhaltska-Bitterfeld]] (ABI)
+| ABI
+| <small> Landkreis Anhalt-Bitterfeld </small> </br> [[Landkreis Anhalt-Bitterfeld|wokrejs Anhaltska-Bitterfeld]]
+| 
 |align="right" |187.873
 |align="right" |1.452,71
 |-
-| <small> Burgenlandkreis </small> </br> [[Burgenlandkreis|Grodeje wokrejs]] (BLK)
+| BLK
+| <small> Burgenlandkreis </small> </br> [[Burgenlandkreis|Grodeje wokrejs]]
+| 
 |align="right" |205.097
 |align="right" |1.413,36
 |-
-| <small> Landkreis Börde </small> </br> [[Landkreis Börde|wokrejs Bróda]] (BK)
+| BK
+| <small> Landkreis Börde </small> </br> [[Landkreis Börde|wokrejs Bróda]] 
+|
 |align="right" |187.833
 |align="right" |2.366,19
 |-
-| <small> Landkreis Harz </small> </br> [[Landkreis Harz|wokrejs Smoliny]] (HZ)
+| HZ
+| <small> Landkreis Harz </small> </br> [[Landkreis Harz|wokrejs Smoliny]] 
+|
 |align="right" |244.248
 |align="right" |2.104,00
 |-
-| <small> Jerichower Land </small> </br> [[Landkreis Jerichower Land|wokrejs Jerješojski kraj]] (JL)
+| JL
+| <small> Jerichower Land </small> </br> [[Landkreis Jerichower Land|wokrejs Jerješojski kraj]] 
+|
 |align="right" |101.092
 |align="right" |1.576,66
 |-
-| <small> Landkreis Mansfeld-Südharz </small> </br> [[Landkreis Mansfeld-Südharz|wokrejs Manšojce-połudnjoski Smoliny]] (MSH)
+| MSH
+| <small> Landkreis Mansfeld-Südharz </small> </br> [[Landkreis Mansfeld-Südharz|wokrejs Manšojce-połudnjoski Smoliny]]
+| 
 |align="right" |160.984
 |align="right" |1.448,60
 |-
-| <small> Saalekreis </small> </br> [[Saalekreis|wokrejs Soława]] (SK)
+| SK
+| <small> Saalekreis </small> </br> [[Saalekreis|wokrejs Soława]] 
+|
 |align="right" |206.146
 |align="right" |1.433,22
 |-
-| <small> Salzlandkreis </small> </br> [[Salzlandkreis|wokrejs Soloje kraj]] (SLK)
+| SLK
+| <small> Salzlandkreis </small> </br> [[Salzlandkreis|wokrejs Soloje kraj]] 
+|
 |align="right" |222.727
 |align="right" |1.425,86
 |-
-| <small> Altmarkkreis Salzwedel </small> </br> [[Altmarkkreis Salzwedel|Staromarkojski wokrejs Salzwedel]] (SAW)
+| SAW
+| <small> Altmarkkreis Salzwedel </small> </br> [[Altmarkkreis Salzwedel|Staromarkojski wokrejs Salzwedel]]
+| 
 |align="right" |94.545
 |align="right" |2.292,52
 |-
-| <small> Landkreis Stendal </small> </br> [[Landkreis Stendal|wokrejs Stendał]] (SDL)
+| SDL
+| <small> Landkreis Stendal </small> </br> [[Landkreis Stendal|wokrejs Stendał]] 
+|
 |align="right" |129.481
 |align="right" |2.422,96
 |-
-| <small> Landkreis Wittenberg </small> </br> [[Landkreis Wittenberg|wokrejs Wittenberg]] (WB)
+| WB
+| <small> Landkreis Wittenberg </small> </br> [[Landkreis Wittenberg|wokrejs Wittenberg]] 
+|
 |align="right" |144.972
 |align="right" |1.929,89
 |-
-|'''Lichotne města:''' || ||
+| || '''Lichotne města:''' 
 |-
-| <small> Magdeburg </small> </br> 1. '''[[Magdeburg|Dźěwin]]*''' (MD)  
+| MD
+| <small> Magdeburg </small> </br> 1. '''[[Magdeburg|Dźěwin]]*''' 
+|  
 |align="right" |229.826
 |align="right" |200,95
 |-
-| <small> Dessau-Roßlau </small> </br> 2. '''[[Dessau-Roßlau|Děšow-Roźolow]]''' (DE)  
+| DE
+| <small> Dessau-Roßlau </small> </br> 2. '''[[Dessau-Roßlau|Děšow-Roźolow]]''' 
+|  
 |align="right" |91.243
 |align="right" |244,62
 |-
-| <small> Halle (Saale) </small> </br> 3. '''[[Halle (Saale)|Hałzow]]''' (Soława) (HAL)   
+| HAL
+| <small> Halle (Saale) </small> </br> 3. '''[[Halle (Saale)|Hałzow]]''' (Soława) 
+|   
 |align="right" |235.720
 |align="right" |135,02
 |-
