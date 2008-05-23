@@ -1,26 +1,30 @@
-{{Template:kraj|
-mjeno=''República del Paraguay''|
-serbske mjeno=Republika Paraguaya|
-wopon=Coat_of_arms_of_Paraguay.svg|
-chórgoj=Flag of Paraguay.svg|
-gronko=''"Paz y justicia"''|
-połoženje=LocationParaguay.svg|
-rěc=špańska|
-stolica=[[Asunción|Asunción]]|
-głowny=prezident Nicanor Duarte Frutos|
-šef=prezident Nicanor Duarte Frutos|
-płoń=406 750|
-wobydlarje=6 670 000|
-lěto=2007|
-gustosć ludnosći=14,6|
-pjenjeze=guarani|
-casowa cona=[[koordiněrowany swětowy cas|UTC]]-4 <small>(lěśojski cas: UTC -3)</small>|
-hymna=Paraguayos, República o Muerte|
-znamje za awta=PY|
-TLD=.py|
-telefonowe pśedwólenje=+595|
-kórta=Pa-map.png|
+{{Stat
+|mě swójske=República del Paraguay
+|mě serbske=Republika Paraguaya
+|wopon=Coat_of_arms_of_Paraguay.svg
+|chórgoj=Flag of Paraguay.svg
+|gronko=''"Paz y justicia"''<br>Měr a spšawnosć 
+|połoženje=LocationParaguay.svg
+|rěc=[[špańska rěc|špańska]]
+|stolica=[[Asunción]] 
+|forma kněžerstwa=prezidentska republika
+|głowny=prezident Nicanor Duarte Frutos
+|šef=prezident Nicanor Duarte Frutos
+|płoń=406 750
+|wobydlarje=6 670 000
+|lěto=2007
+|gustosć ludnosći=14,6
+|pjenjeze=guarani
+|nastaśe=
+|hymna=''"Paraguayos, República o Muerte"''
+|casowa cona=[[koordiněrowany swětowy cas|UTC]] -4 <small>(lěśojski cas: UTC -3)</small>
+|TLD=.py
+|telefon=+595
+|znamje za awta=PY
+|kórta=Pa-map.png
 }}
+
+
 
 '''Paraguay''' jo kraj w [[Pódpołdnjowa Amerika|Pódpołdnjowej Americe]].
 ==Geografija==
@@ -30,8 +34,9 @@ Paraguay ganicujo z  [[Argentinska|Argentinskeju]], [[Boliwiska|Boliwiskeju]] a 
 
 ==Stawizny==
 
+{{Nawikašćik Pódpołdnjowa Amerika}}
 
-[[Category:Paraguay| ]]
+[[kategorija:Paraguay| ]]
 
 [[af:Paraguay]]
 [[an:Paraguai]]
