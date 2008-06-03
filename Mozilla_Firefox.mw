@@ -1,0 +1,143 @@
+{{Infokašćik software
+|logo            = [[Wobraz:Firefox-logo.svg]]
+|mě = Mozilla Firefox
+|screenshot      = 
+|wopisanje    = 
+|zgótowaŕ      = [[Mozilla Foundation]]
+|aktualna_wersija = 2.0.0.14 <small>(16. apryla 2008)</small>
+|źěłański_system  = [[Linux]], [[Mac OS X]], [[Microsoft Windows|Windows]], a.&nbsp;dr.
+|kategorija       = [[Webowy wobglěddowak|webowy wobglědowak]]
+|licenca          = [[:de:Mozilla Public License|MPL]]/[[:de:GNU General Public License|GPL]]/[[:de:GNU Lesser General Public License|LGPL]] tšojna licenca
+|dolnoserbski   = jo (wersija 2.0.0.14)
+|webowe_sedło  = [http://firefox.sorbzilla.de serbski Firefox]
+}}
+[[Wobraz:Firefox 2 de.png|right|230px]]
+
+'''Mozilla Firefox''' [{{IPA|moʊˈzɪlə ˈfaɪɹfɑks}}] jo lichotny [[Webowy wobglědowak|wobglědowak]], kótaryž jo z [[Mozilla-Projekt|Mozilla-projekta]] wujšeł.
+
+== Historija ==
+
+W lěśe 2004 su se wuwiwarje programoweje zběrki [[Mozilla Application Suite]] rozsuźili, až swóju strategiju změniju. Pśicyna běšo mj. dr. rozsud firmy [[Apple]] swój wobglědowak [[Safari (wobglědowak)|Safari]] na drugem techniskem zakłaźe wuwiwaś.
+
+Mjaztym až su wuwiwarje suity Mozilla zaprědka wótglědane měli, p móžnosći wšé wažne internetne funkcije kaž webowy [[Webowy wobglědowak|wobglědowak]], [[E-mejl|e-mejlowy]] program, [[adresnik]] a 
+[[HTML-Editor]] w jadnom programowem pakśiku (Mozilla Application Suite) zjadnośiś, mějachu něnto na mysli, doněntejšne programowe komponenty něgajšneje Mozilla k samostatnym programam wuwiś. Toś te  měli se pśez spěšnejše startowanje a snadnjejšne wuśěženje składowaka a krotšy liceński cas wuznamjeniś.
+
+Funkciju webowego wobglědowaka jo Mozilla Firefox pśewzeł. Z e-mejloweje komponenty jo program z mjenim [[Mozilla Thunderbird]] nastał, HTML-editor bu k programoju [[Nvu|Nvu]] dalej wuwity a skóńcnje nasta kalendrowy program [[Mozilla Sunbird]], kótaryž ako janicka mjaz toś tymi něntejšnymi samostatnymi programami pjerwjej njejo standardny wobstatk suity Mozilla był, ale jano programowe rozšyrjenje, kótarež běšo trjeba pśidatnje instalěrowaś. Za Mozilla Application Suite 1.7 běchu něnto jano wěstotne aktualizacije. Wót 2005 se nowa suita aplikacijow pód mjenim [[SeaMonkey]] dalej wuwiwa.
+
+== Funkcije a wósebnosći ==
+
+Rowno tak kaž Mozilla wužywa Firefox tak pomjenjony Gecko Rendering Engine, modul za zwobraznjenje bokow we [[Wobznamjeńska rěc|wobznamjeńškima rěcom]] [[Hypertext Markup Language|HTML]] a [[XML User Interface Language|XUL]]. Slědna pomjenjona rěc bazěrujo na [[Extensible Markup Language|XML]] a słužy k tworjenjoju [[Grafiski wužywarski pówjerch|grafiskego wužywarskego pówjercha]].
+
+Firefox dajo móžnosć, aby se pśež suknje (eng. ''themes'') optiski spódobanjoju wužywarja pśiměrił a jen z rozšyrjenjami (eng. ''extensions'') wó licbne funkcije rozšyrił (na pśikład [[myšowe gesty]], pódpěru za [[GMail]], [[Adblock|blokowanje wabjenja]], wobaranje kšadnjenja datow (eng. [[Phishing]]), [[Weblog|blogowanje]], rědy za [[Webowy wuwiwaŕ|webowych wuwiwarjow]], [[Caret Browsing]] a wjele wěcej).
+
+Firefox pódpěra teke [[Tabbed Browsing]], t. j. zwobraznjenje někotarych webowych bokow na [[Registrowa kórta|registrowych kórtach]] (eng. ''tabs'') w jadnotliwem woknje.
+
+Mimo togo jo [[RSS]] we formje ''dynamiskich załožkow'' móžno. Toś te załožki aktualizěruja se pśi startowanju wobglědowaka a daju se kaž zarědniki wužywaś. Tak wužywaŕ pśecej aktualne zapiski powěsćowego boka abo [[Weblog|webloga]] na jadne póglědnjenje wiźi.
+
+Firefox jo w někotarych rěcach, mjaz nimi teke dolnoserbšćina a górnoserbšćina. Toś te wobě rěcnej wersiji nejstej pak oficielnej, stej priwatna iniciatiwa.
+
+== Pódpěrane platformy ==
+Firefox jo za wjele [[kompjuterowe systemy|kompjuterowych systemow]]. Firefox stoj za [[Źěłowy system|źěłowe systemy]] ''[[Microsoft Windows]] (wót [[Microsoft Windows 98|Windows&nbsp;98]])'', ''[[Linux]]'', ''[[OS/2]]'' (teke ''[[eComStation]]'') a ''[[Mac OS X|Mac&nbsp;OS&nbsp;X]]'' k dispoziciji. Minimalne systemowe wuměnjenja za wersije 1.0, 1.5 und 2.0 su pó podaśach zgótowarja za Windows/Linux: [[Pentium]] 233&nbsp;MHz, 64&nbsp;[[Byte|MB]] [[Random_Access_Memory_.28RAM.29|RAM]]. Za Mac: [[G3 (Prozessor)|G3]] z w.&nbsp;1.0: 64&nbsp;MB, w. 1.5/2.0: 128&nbsp;MB RAM.
+
+Mjenowejej zwady dla mjaz Debianom a Mozillu wó wuměnjenjach wužywanja za [[Marka (pšawniski šćit)|marki]] wót Mozilla jo Firefox w Debianje mě ''Iceweasel'' dostał. Druge produkty znamjenja wóry Mozilla su teke nowe mjena dostali, kótarež se wše z ''Ice'' zachopinaju.
+
+== Eksterne wótkaze ==
+
+* [http://firefox.sorbzilla.de Sedło za górnoserbski Firefox]
+* [http://www.mozilla-europe.org/de/products/firefox/ Oficielne nimske webowe sedło za Mozilla Firefox]
+* [http://www.firefox-browser.de/ Webowe sedło nimskego pśełožka, z forumom a Wiki]
+* [http://www.erweiterungen.de/ Portal za nimskorěcne rozšyrjenja wšych programow Mozilla]
+* [https://addons.mozilla.org/firefox/ Wěcejěcne rozšyrjenja/dodanki]
+* [http://www.mozilla.org/ports/os2/ Wersije za OS/2 a eComStation (engelski)]
+
+{{Nawikašćik Mozilla-programy}}
+
+{{Link FA|en}}
+
+{{Link FA|ar}}
+
+[[Kategorija:Lichotna software]]
+[[Kategorija:Mozilla|Firefox]]
+[[Kategorija:Webowy wobglědowak]]
+[[Kategorija:World Wide Web]]
+
+[[af:Mozilla Firefox]]
+[[als:Mozilla Firefox]]
+[[ar:موزيلا فايرفوكس]]
+[[ast:Mozilla Firefox]]
+[[az:Mozilla Firefox]]
+[[bat-smg:Mozilla Firefox]]
+[[be-x-old:Mozilla Firefox]]
+[[bg:Mozilla Firefox]]
+[[bn:মোজিলা ফায়ারফক্স]]
+[[bs:Mozilla Firefox]]
+[[ca:Mozilla Firefox]]
+[[cs:Mozilla Firefox]]
+[[csb:Mozilla Firefox]]
+[[cv:Mozilla Firefox]]
+[[cy:Firefox (porwr gwe)]]
+[[da:Mozilla Firefox]]
+[[de:Mozilla Firefox]]
+[[diq:Mozilla Firefox]]
+[[el:Mozilla Firefox]]
+[[en:Mozilla Firefox]]
+[[eo:Mozilla Firefox]]
+[[es:Mozilla Firefox]]
+[[et:Mozilla Firefox]]
+[[eu:Mozilla Firefox]]
+[[fa:موزیلا فایرفاکس]]
+[[fi:Mozilla Firefox]]
+[[fo:Mozilla Firefox]]
+[[fr:Mozilla Firefox]]
+[[fur:Mozilla Firefox]]
+[[ga:Mozilla Firefox]]
+[[gl:Mozilla Firefox]]
+[[he:מוזילה פיירפוקס]]
+[[hi:फ़ायरफ़ॉक्स]]
+[[hr:Mozilla Firefox]]
+[[hsb:Mozilla Firefox]]
+[[hu:Mozilla Firefox]]
+[[id:Mozilla Firefox]]
+[[ilo:Mozilla Firefox]]
+[[is:Mozilla Firefox]]
+[[it:Mozilla Firefox]]
+[[ja:Mozilla Firefox]]
+[[ka:Mozilla Firefox]]
+[[ko:모질라 파이어폭스]]
+[[ku:Mozilla Firefox]]
+[[la:Mozilla Firefox]]
+[[lb:Mozilla Firefox]]
+[[lt:Firefox]]
+[[mk:Mozilla Firefox]]
+[[ml:മോസില്ല ഫയര്‍ഫോക്സ്]]
+[[mr:फायरफॉक्स]]
+[[ms:Mozilla Firefox]]
+[[nl:Mozilla Firefox]]
+[[nn:Mozilla Firefox]]
+[[no:Mozilla Firefox]]
+[[oc:Mozilla Firefox]]
+[[pl:Mozilla Firefox]]
+[[pt:Mozilla Firefox]]
+[[ro:Mozilla Firefox]]
+[[ru:Mozilla Firefox]]
+[[sh:Mozilla Firefox]]
+[[si:මොසිල්ලා ෆයර්‍ෆොක්ස්]]
+[[simple:Mozilla Firefox]]
+[[sk:Mozilla Firefox]]
+[[sl:Mozilla Firefox]]
+[[sq:Mozilla Firefox]]
+[[sr:Мозила фајерфокс]]
+[[sv:Mozilla Firefox]]
+[[ta:ஃபயர் ஃபாக்ஸ்]]
+[[tg:Mozilla Firefox]]
+[[th:มอซิลลา ไฟร์ฟอกซ์]]
+[[tl:Mozilla Firefox]]
+[[tr:Mozilla Firefox]]
+[[uk:Mozilla Firefox]]
+[[uz:Mozilla Firefox]]
+[[vec:Mozilla Firefox]]
+[[vi:Mozilla Firefox]]
+[[yi:מאזילא פייערפוקס]]
+[[zh:Mozilla Firefox]]
+[[zh-min-nan:Mozilla Firefox]]
+[[zh-yue:Mozilla Firefox]]
