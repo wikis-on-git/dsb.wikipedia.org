@@ -1,0 +1,43 @@
+{{infokašćik software
+|mě                            = UniRed
+|wobraz                        = 
+|Wopisanje                     = 
+|zgótowjer                     = [[Jurij Finkel]]
+|aktualna_wersija              = 2.05
+|aktualna_wersija_datum        = [[20. apryla]] [[2006]]
+|źěłański_system               = Windows 9x až do Windows XP
+|rěc                           = Engelšćina, Rusojšćina (dalšne wersije w 21 rěcach)
+|dolnoserbski                  = 
+|licenca                       = http://www.gnu.org/copyleft/gpl.html
+|webowe_sedło                  = [http://www.esperanto.mv.ru/UniRed/UTF8/index.html Programa pagxo en Esperanto]
+[http://www.esperanto.mv.ru/UniRed/Help/Esperanto/index.html Helpa pagxo]
+|Standardo                     =
+}}
+
+'''UniRed''' jo wjelerěcne unicodowe tekstowe wobźěładło za [[Windows]] 9x až XP.
+
+UniRed pódpěra slědujece znamješkowe sady<ref>http://www.esperanto.mv.ru/UniRed/UTF8/index.html</ref>:
+
+* 16-bita Unicode <!--(pezokomenca kaj pezofina);-->
+* UTF-8;
+* systemowe znamješkowe sady wót Windows;
+* systemowe znamješkowe sady wót DOS (OEM);
+* Latin-1, Latin-2, Latin-3 atd;
+* cyriliske znamješkowe sady: cp866, windows-1251, koi8-r;
+
+Program pódpěra rozdźělne programowanske rěcy, kaž na pś. C/C++, [[Delfi]], [[Java]]. Ale teke pódpěra [[HTML]].
+
+Aby wólažcyś wobźěłanje datajow, UniRed móžo barwiś tekst pó syntaksy.
+
+Móžo narownaś teksty pśez [[regularne wurazy]] a sobuźěłaś z pšawopisny program [[ISpell]].
+
+==Noticy==
+<references/>
+
+{{zarodk informatiki}}
+
+[[Kategorija:Softwara]]
+[[Kategorija:Lichotna softwara]]
+
+[[eo:UniRed]]
+[[hsb:UniRed]]
