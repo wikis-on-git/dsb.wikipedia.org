@@ -1,0 +1,127 @@
+{{Infokašćik software
+| mě = Mozilla Thunderbird
+| logo = 
+| screenshot = 
+| wopisanje = 
+| zgótowaŕ = [[Mozilla Foundation]] 
+| aktualna_wersija = 2.0.0.16
+| aktualna_wersija_datum = 23. julija 2008
+| źěłański_system =  [[Microsoft Windows|Windows]], [[Mac OS X]], [[Linux|Linux]] a dr.
+| kategorija = [[E-majlowy program]]
+| licenca = [[:de:Mozilla Public License|MPL]]/[[:de:GNU General Public License|GPL]]/[[:de:GNU Lesser General Public License|LGPL]] tšojna licenca
+| dolnoserbski = jo (wersija 2.0.0.14)
+| webowe_sedło = [http://thunderbird.sorbzilla.de/dsb dolnoserbski]
+}}
+
+[[Wobraz:Mozilla thunderbird empty screenshot.png|right|230px]]
+
+'''Mozilla Thunderbird''' [{{IPA|moˈzɪla ˈθʌndəɹˌbɜːɹd}}] jo [[Lichotna softwara|lichotny]] program za [[e-mail]] a [[Diskusijna kupka|diskusijne kupki]] załožby ''[[Mozilla Foundation]]''.
+
+Toś ten program bazěrujo na žrědłowym teksće [[Mozilla Application Suite|suity Mozilla]] a stoj mj. dr. za [[Microsoft Windows|Windows]], [[Linux (źěłowy system)|Linux]], [[Mac OS X]], [[Berkeley Software Distribution|BSD]], [[Solaris (źěłowy system)|Solaris]] a [[OS/2]] (teke [[eComStation]]) k dispoziciji.
+
+== Kakosći ==
+
+=== Filter za cajk (spam) ===
+Program wobsejźi [[Cajk (spam)|cajkowy filter]], kótaryž móžo wuknuś, na zakłaźe 
+[[bayesowski filter|bayesowskego filtra]], tak až se pó krotkem casu cajk južo spóznawa a za cas dalšnego wužywanja filtrowańske wuslědki stawnje lěpjej bywaju.
+
+=== Wěstota ===
+
+Mozilla Thunderbird podpěra wěstotne komponenty kaž [[Elektroniska signatura|elektronisku signaturu]], [[Šifrěrowanje|šifrěrowanje]] powěsćow a [[Digitalny certifikat|certifikaty]] pó standarźe [[S/MIME]].
+
+Mimo togo stoj rozšyrjenje [[Enigmail]] z [[GNU Privacy Guard|GnuPG]]/[[Pretty Good Privacy|PGP]] [[Enigmail]] k dispoziciji, z kótarymž daju se e-majle teke z klucami  [[Pretty Good Privacy|PGP]] [[Šifrěrowanje|šifrěrowaś]] a digitalnje [[Elektroniska  signatura|signěrowaś]].
+
+=== Wopśimjeśa HTML ===
+
+Wužywaŕ móžo mjaz tśimi modusami za zwobraznjenje [[Hypertext Markup Language|HTML]] e-majlow wubraś. Prědny modus zwobraznjujo ''originalny HTML''. Drugi modus wóbgranicujo wudaśe HTML, filtrujo wše potencielnje tšašne elementy HTML wen. Slědny modus wušaltujo HTML dopołnje, t. gr. janož "lutny tekst" wótpowědneje powěsći se zwobraznjujo. Standardny modus jo – ''originalny HTML''.
+
+=== Wirtuelne zarědniki ===
+Wirtuelne zarědniki pokazuju wše powěsći, kótarež do togo definěrowanym pytańskim kriterijam wótpowěduju. Aby na&nbsp;pś. wše powěsći wěstego wótpósłarja ze wšych zarědnikow zwobraznjone dostało, pśewjeźo se pytanje wšych powěsćow toś togo wotpósłarja – toś to pytanje dajo se ako wirtuelny zarědnik składowaś. Na rozdźěl filtrow powěsći pśecej na 
+samskem městnje wóstawaja. Njeglědajucy na to dajo se toś ten wirtuelny zarědnik kuždy cas wócyniś a ned se wše wótpowědne powěsći zwobraznjuju, lěcrownož toś te pópšawem laže w rozdźělnych zarědnikach.
+
+=== Někotare identity ===
+''Mozilla Thunderbird'' podpěra źělone zastojanje někotarych kontow [[POP3]] a [[Internet Message Access Protocol|IMAP]]. Pó dobrozdaśu daju se wše konta [[POP3]] w "globalnem kašćiku" zjadnośiś.
+
+=== Dalšne kakosći ===
+[[Wužywarski pówjerch (Interfejs)|Wužywarski pówjerch]] Thunderbirda dajo 
+se pśez suknje (eng. ''themes'') datym pótrěbnosćam pśiměriś. Cytak [[RSS]] jo teke wobstatk programa. Z funkciju ''spěšne pytanje (Quick Search)'' stoj wěcej móžnosćow k dispoziciji, aby 
+[[E-majl|e-majle]] z głownego wokna wen namakało.
+
+Z pomocu rozšyrjenjow, tak pomjenjonych ''Extensions'', jo móžno, programoju
+dalšne funkcije pśidaś. Załožba [[Mozilla Foundation]] sama platformu za 
+to k dispoziciji staja, źož wuwiwarje swóje 
+rozšyrjenja za ześěgnjenje póbituju, ale najwěcej tam póbitowanych
+rozšyrjenjow jo engelskorěcne. Do nimčiny pśełožone rozšyrjenja se na 
+[http://www.erweiterungen.de nimskim njewótwisnem portalu] za rozšyrjenja póbituju.
+
+Rozšyrjenja w dolnoserbšćinje tuchylu žedne njejsu. Njejsu wšak ani spušćobne licby, wjele luźi dolnoserbske programy wužywa.
+
+=== Pšawopis ===
+
+ Za dolnoserbski Thunderbird jo integrěrowana dolnoserbska pšawopisna kontrola, kótaryž wšak jo hyšći wjelgin rudimentarna. Mimo togo wopśimujo dolnoserbski Thunderbird nimsku, engelsku a górnoserbsku pšawopisnu kontrolu.
+ 
+== Staw wuwiśa ==
+
+Aktualna wersija je 2.0.0.16 wot 23. julija 2008. Toś ta wersija bitujo napśeśiwo pśedchadnym wersijam wót wersije 2.0 jano pólěpšenja w stabiliśe a wěstośe.
+
+== Icedove, mjenjowa zwada z Debianom ==
+
+[[Distribucija (Linux)|Distribucija]] [[Linux (dźěłowy system)|Linux]] 
+[[Debian]] jo swóju wersiju toś togo e-majlowego programa dla mjenjoweje zwady z Mozilla do ''Icedove'' pśemjenił.
+
+== Eksterne wótkaze ==
+* [http://thunderbird.sorbzilla.de/dsb Mozilla Thunderbird dolnoserbski]
+* [http://www.mozilla-europe.org/de/products/thunderbird/ Oficielna nimske websedło za Mozilla Thunderbird]
+* [http://www.thunderbird-mail.de Nimski projekt za pśełožowanje programa Mozilla Thunderbird (z forumom)]
+* [http://www.lidux.de/thunderbird/thunderbird-handbuch.pdf pśirucka za 1.5] (ześěgnjenje PDF, 2,35 MB, nimski)
+* [http://www.mozilla.org/ports/os2/ bok wó programach za OS/2 a eComStation (engelski)]
+
+{{Nawikašćik Mozilla-programy}}
+
+
+[[Kategorija:Mozilla|Thunderbird]]
+[[Kategorija:Emajlowy program]]
+[[Kategorija:Lichotna softwara]]
+[[Kategorija:Usenet]]
+
+[[ar:موزيلا ثندربرد]]
+[[ast:Mozilla Thunderbird]]
+[[ca:Mozilla Thunderbird]]
+[[cs:Mozilla Thunderbird]]
+[[da:Mozilla Thunderbird]]
+[[de:Mozilla Thunderbird]]
+[[el:Mozilla Thunderbird]]
+[[en:Mozilla Thunderbird]]
+[[eo:Mozilla Thunderbird]]
+[[es:Mozilla Thunderbird]]
+[[eu:Mozilla Thunderbird]]
+[[fi:Mozilla Thunderbird]]
+[[fr:Mozilla Thunderbird]]
+[[gl:Mozilla Thunderbird]]
+[[he:Mozilla Thunderbird]]
+[[hsb:Mozilla Thunderbird]]
+[[hu:Mozilla Thunderbird]]
+[[id:Mozilla Thunderbird]]
+[[it:Mozilla Thunderbird]]
+[[ja:Mozilla Thunderbird]]
+[[ko:모질라 썬더버드]]
+[[ku:Mozilla Thunderbird]]
+[[lt:Mozilla Thunderbird]]
+[[nl:Mozilla Thunderbird]]
+[[no:Mozilla Thunderbird]]
+[[pl:Mozilla Thunderbird]]
+[[pt:Mozilla Thunderbird]]
+[[ro:Mozilla Thunderbird]]
+[[ru:Mozilla Thunderbird]]
+[[simple:Mozilla Thunderbird]]
+[[sk:Mozilla Thunderbird]]
+[[sl:Mozilla Thunderbird]]
+[[sr:Мозила тандерберд]]
+[[sv:Mozilla Thunderbird]]
+[[ta:மொசில்லா தண்டர்பேர்டு]]
+[[th:มอซิลลา ทันเดอร์เบิร์ด]]
+[[tr:Mozilla Thunderbird]]
+[[uk:Mozilla Thunderbird]]
+[[uz:Mozilla Thunderbird]]
+[[vi:Mozilla Thunderbird]]
+[[zh:Mozilla Thunderbird]]
