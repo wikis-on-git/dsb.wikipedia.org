@@ -5,39 +5,53 @@
 |zgótowjer                     = [[Jurij Finkel]]
 |aktualna_wersija              = 2.05
 |aktualna_wersija_datum        = [[20. apryla]] [[2006]]
-|źěłański_system               = Windows 9x až do Windows XP
-|rěc                           = Engelšćina, Rusojšćina (dalšne wersije w 21 rěcach)
-|dolnoserbski                  = 
+|źěłański_system               = Windows 9x, NT, 2000 a XP
+|rěc                           = Engelšćina, rusojšćina (dalšnych 21 rěcow)
+|dolnoserbski                  = ně
 |licenca                       = http://www.gnu.org/copyleft/gpl.html
-|webowe_sedło                  = [http://www.esperanto.mv.ru/UniRed/GER/index.html Programowy bok w Nimšćinje]
-[http://www.esperanto.mv.ru/UniRed/Help/Esperanto/index.html Pomocny bok w rěcy Esperanto]
-|Standardo                     =
+|webowe_sedło                  = [http://www.esperanto.mv.ru/UniRed/GER/index.html Programowy bok w nimšćinje]
+[http://www.esperanto.mv.ru/UniRed/Help/Esperanto/index.html Pomocny bok w rěcy esperanto]
+|Standard                     =
 }}
 
-'''UniRed''' jo wjelerěcne unicodowe tekstowe wobźěładło za [[Windows]] 9x až XP.
+'''UniRed''' je wjelerěcny unicodowy tekstowy editor za [[Windows]] 9x, NT, 2000 a XP a jo w programěrowańskej rěcy [[Delphi]] programěrowany.
 
-UniRed pódpěra slědujece znamješkowe sady<ref>http://www.esperanto.mv.ru/UniRed/UTF8/index.html</ref>:
+== Kakosći ==
 
-* 16-bita Unicode <!--(pezokomenca kaj pezofina);-->
+UniRed pódpěra slědujuce znamješkowe sajźby<ref>http://www.esperanto.mv.ru/UniRed/UTF8/index.html</ref>:
+
+* 16-bitowy Unicode ([[big endian]] a [[little endian]]);
 * UTF-8;
-* systemowe znamješkowe sady wót Windows;
-* systemowe znamješkowe sady wót DOS (OEM);
+* systemowe znamješkowe sajźby wót Windows;
+* systemowe znamješkowe sajźby wót DOS (OEM);
 * Latin-1, Latin-2, Latin-3 atd;
-* cyriliske znamješkowe sady: cp866, windows-1251, koi8-r;
+* cyriliske znamješkowe sajźby: cp866, windows-1251, koi8-r;
 
-Program pódpěra rozdźělne programowanske rěcy, kaž na pś. C/C++, [[Delfi]], [[Java]]. Ale teke pódpěra [[HTML]].
+Program pódpěra rozdźělne programěrowańske rěcy, kaž na pś. C/C++, [[Delphi]], [[Java]]. Ale pódpěra teke [[HTML]].
 
-Aby wólažcyś wobźěłanje datajow, UniRed móžo barwiś tekst pó syntaksy.
+Aby wobźěłanje datajow wólažcył, UniRed móžo tekst pó syntaksy zabarwiś.
 
-Móžo narownaś teksty pśez [[regularne wurazy]] a sobuźěłaś z pšawopisny program [[ISpell]].
+Móžo tekst z pomocu [[regularne wuraze|regularnych wurazow]] narownaś a z pšawopisnym programom [[ISpell]] gromaźe źěłaś.
 
-==Noticy==
+== Rěcy ==
+Standardnej rěcy za programowy pówjerch editora stej [[engelšćina]] a [[rusojšćina]] (maśeršćina awtora). Za dalšnych 21 rěcow su rěcne pakśiki, kótatrež daju se pózdźej instalěrowaś. Za [[Dolnoserbšćina|dolnoserbšćinu]] njejo doněnta  žeden rěcny pakśik.
+
+Mimo togo eksistuju rěcne pakśiki za [[Ukrainšćina|ukrainšćinu]], [[Běłorušćina|běłorušćinu]], [[Esperanto|esperanto]], [[Češćina|češćinu]], [[Walizišćina|walizišćinu]], [[Dańšćina|dańšćinu]], [[Nimčina|nimčinu]], [[Špańšćina|špańšćinu]], [[Francojšćina|francojšćinu]], [[Galicišćina|galicišćinu]], [[Italšćina|italšćinu]], [[Litawšćina|litawšćinu]], [[Madagaskaršćina|madagaskaršćinu]], [[Pólšćina|pólšćinu]], [[Portugišćina|portugišćinu]] za [[Portugalska|Portugalsku]] a [[Braziska|Brazilsku]], [[Słowakšćina|słowakšćinu]], [[Šwedšćina|šwedšćinu]], [[Tataršćina|tataršćinu]] a [[Grichišćina|grichišćinu]].
+
+== Pšawopis ==
+
+Z wuwześim górnoserbšćiny, madagaskaršćiny a walizišćiny su za wše rěcy teke pšawopisne pakśiki.
+
+== Wuwiśe ==
+Programowy awtor jo južo pśed někotarymi lětami wozjawił, až wón UniRed dalej njewuwijo.
+
+== Žrědła ==
 <references/>
 {{-}}
 {{zarodk informatiki}}
 
 [[Kategorija:Softwara]]
-[[Kategorija:Lichotna softwara]]
+[[Kategorija:Swobodna softwara]]
 
 [[eo:UniRed]]
 [[hsb:UniRed]]
