@@ -27,19 +27,12 @@ buttonlabel=załožyś
 |bgcolor="#f3fff3"|
 <div align=center>Jo južo [[Specialne:Statistika|'''{{NUMBEROFPAGES}}''']] [[Specialne:AllPages|bokow]].</div>
 
-<center>
-<div style="width:80%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
-* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
-</div>
-</center>
 
 |}
 </td></tr>
 
 
 </table>
-
 
 <table border="0" cellpadding="8" cellspacing="0">
 <tr><td height="115%" width="50%" valign="top">
