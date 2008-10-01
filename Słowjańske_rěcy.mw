@@ -22,10 +22,10 @@
 :::[[bulgarska rěc]]  (12 mln)
 :::[[makedońska rěc]] (2 mln)
 :::[[słowjeńska rěc]] (2 mln)
-:::[[serbiska rěc]] (9 mln)
-:::[[chorwatska rěc]] (6 mln)
-:::[[bosanska rěc]] (2 mln)
-:::[[crnogorska rěc]] (500 tys)
+:::[[serbisko-chorwatska rěc|serbisko-chorwatske rěcy]] (17 mln)
+::::[[serbiska rěc]] (9 mln)
+::::[[serbiska rěc]] (6 mln)
+::::dalšne (2 mln)
 ::[[pódzajtšnosłowjańske rěcy]] (210 mln)
 :::staroruska rěc &dagger;
 :::staroběłoruska rěc &dagger;
@@ -44,8 +44,7 @@
 ! [[rušćina|rusojski]]
 ! [[połobske rěcy|połobski]]
 ! [[kašubska rěc|kašubski]]
-! [[serbiska rěc|serbiski]]
-! [[chorwatska rěc|chorwatski]]
+! [[serbisko-chorwatska rěc|serbisko-chorwatski]]
 ! [[Bulgarska rěc|bulgarska]]
 |---- |- bgcolor="gainsboro"
 ! cłowjek
@@ -55,8 +54,7 @@
 ! человек [čjeławjek]
 ! clawak, clôwak
 ! człowiek
-! човек 
-! čovjek
+! човек / čovjek
 ! човек [čovek]
 |---- |- bgcolor="gainsboro"
 ! wjacor
@@ -66,8 +64,7 @@
 ! вечер [wječjer]
 ! vicer
 ! wieczór
-! вече 
-! večer
+! вече / veče
 ! вечер [wečer]
 |---- |- bgcolor="gainsboro"
 ! bratš
@@ -77,8 +74,7 @@
 ! брат [brat]
 ! brot 
 ! brat
-! бuраzep 
-! brat
+! брат / brat
 ! брат [brat]
 |---- |- bgcolor="gainsboro"
 ! źeń
@@ -88,8 +84,7 @@
 ! день [djeń]
 ! dôn
 ! dzéń
-! дaн 
-! dan
+! дaн / dan
 ! ден [den]
 |---- |- bgcolor="gainsboro"
 ! ruka
@@ -99,8 +94,7 @@
 ! рука [ruka]
 ! ręka
 ! rãka
-! рука
-! ruka
+! рука / ruka
 ! ръка [rəка]
 |---- |- bgcolor="gainsboro"
 ! nazymje
@@ -110,8 +104,7 @@
 ! осень [osjeń]
 ! prenja zaima, jisin
 ! jeséń
-! jeсен 
-! jesen
+! jeсен / jesen
 ! eсен [esen]
 |---- |- bgcolor="gainsboro"
 ! sněg
@@ -121,8 +114,7 @@
 ! снег [snjeg]
 ! sneg
 ! sniég
-! снег 
-! snijeg
+! снег / snijeg
 ! сняг [snjag]
 |---- |- bgcolor="gainsboro"
 ! lěśe
@@ -132,8 +124,7 @@
 ! лето [ljeto]
 ! lato
 ! lato
-! лето 
-! ljeto
+! лето / ljeto
 ! лято [ljato]
 |---- |- bgcolor="gainsboro"
 ! sotša
@@ -143,8 +134,7 @@
 ! сестра [sjestra]
 ! sestra
 ! sostra
-! сестра 
-! sestra 
+! сестра / sestra 
 ! сестра [sestra]
 |---- |- bgcolor="gainsboro"
 ! ryba
@@ -154,8 +144,7 @@
 ! рыба [ryba]
 ! ryba
 ! rëba
-! риба 
-! riba
+! риба / riba
 ! риба [ryba]
 |---- |- bgcolor="gainsboro"
 ! wogeń
@@ -165,8 +154,7 @@
 ! огонь [agoń]
 ! widin
 ! òdżiń
-! вaтрa 
-! vatra
+! вaтрa / vatra
 ! огън [ogən]
 |---- |- bgcolor="gainsboro"
 ! woda
@@ -176,8 +164,7 @@
 ! вода [wada]
 ! wôda
 ! wòda
-! вода 
-! voda
+! вода / voda
 ! вода [woda]
 |---- |- bgcolor="gainsboro"
 ! wětš
@@ -187,8 +174,7 @@
 ! ветер [wjetier]
 ! wjôter
 ! wiater
-! ветaр 
-! vjetar
+! ветaр / vjetar
 ! вятър [wjatər,wjatr]
 |---- |- bgcolor="gainsboro"
 ! zymje
@@ -198,15 +184,86 @@
 ! зима [zima]
 ! zaima
 ! zëma 
-! зима 
-! zima
+! зима / zima
 ! зима [zima]
 |}
 
+W serbisko-chorwatskech rěcach w [[Bosniska-Hercegowina|Bosniska-Hercegowinje]], [[Carnogórska|Carnogórskej]] a [[Serbiska|Serbiskej]] stej wužywane łatyńskie pismiki a cyrylica. W [[Chorwatska|Chorwatskej]] jano łatyńske. 
+
+{| align=center border=1
+| cyrylica
+| А а
+| Б б
+| В в
+| Г г
+| Д д
+| Ђ ђ
+| Е е
+| Ж ж
+| З з
+| И и
+| Ј ј
+| К к
+| Л л
+| Љ љ
+| М м
+|-
+| łatyńske
+| A a
+| B b
+| V v
+| G g
+| D d
+| Đ đ
+| E e
+| Ž ž
+| Z z
+| I i
+| J j
+| K k
+| L l
+| Lj lj
+| M m
+|}
+{| align=center border=1
+| cyrylica
+| Н н
+| Њ њ
+| О о
+| П п
+| Р р
+| С с
+| Т т
+| Ћ ћ
+| У у
+| Ф ф
+| Х х
+| Ц ц
+| Ч ч
+| Џ џ
+| Ш ш
+|-
+| łatyńske
+| N n
+| Nj nj
+| O o
+| P p
+| R r
+| S s
+| T t
+| Ć ć
+| U u
+| F f
+| H h
+| C c
+| Č č
+| Dž dž
+| Š š
+|}
 
 
-[[category:słowjany]]
-[[Category:Słowjańske rěcy|!Słowjańske rěcy]]
+[[kategorija:słowjany]]
+[[kategorija:Słowjańske rěcy|!Słowjańske rěcy]]
 
 [[af:Slawiese tale]]
 [[als:Slawische Sprachen]]
