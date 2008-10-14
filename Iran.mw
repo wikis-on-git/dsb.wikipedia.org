@@ -1,25 +1,25 @@
-{{Template:kraj|
-mjeno=  '''جمهوری اسلامی ايران'''<br> ''Jomhūrī-ye Eslāmī-ye Īrān''|
-serbske mjeno='''Islamska republika Irana'''|
-chórgoj=Flag of Iran.svg|
-wopon=Coat of arms of Iran.svg|
-gronko=''Esteqlāl, āzādī, jomhūrī-ye eslāmī''|
-połoženje=LocationIran.svg|
-rěc=farsi|
-stolica=[[Tehran]]|
-głowny=ajatollah [[Ali Chamenei]]|
-šef=prezident [[Mahmud Ahmadinežad]]|
-płoń=1 648 195 km² |
-wobydlarje=71.208.000 <small>(2007<ref>http://www.un.org/esa/population/publications/wpp2007/WPP2007%20web/Countries/Iran%20(Islamic%20Republic%20of)/demographic.xml</ref>)</small>|
-lěto=2006|
-gustosć ludnosći=42|
-pjenjeze=rial|
-casowa cona= [[koordiněrowany swětowy cas|UTC]]+3:30 |
-hymna=Sorūd-e Mellī-e Īrān|
-znamje za awta=IR|
-TLD=.ir|
-telefonowe pśedwólenje=+98|
-kórta=Iran map.png|
+{{stat
+|mě swójske= '''جمهوری اسلامی ايران'''<br> ''Jomhūrī-ye Eslāmī-ye Īrān''
+|mě serbske='''Islamska republika Irana'''
+|chórgoj=Flag of Iran.svg
+|wopon=Coat of arms of Iran.svg
+|gronko=''Esteqlāl, āzādī, jomhūrī-ye eslāmī''
+|połoženje=LocationIran.svg
+|rěc=farsi
+|stolica=[[Tehran]]
+|głowny=ajatollah [[Ali Chamenei]]
+|šef=prezident [[Mahmud Ahmadinežad]]
+|płoń=1 648 195 km² 
+|wobydlarje=71.208.000 <small>(2007<ref>http://www.un.org/esa/population/publications/wpp2007/WPP2007%20web/Countries/Iran%20(Islamic%20Republic%20of)/demographic.xml</ref>)</small>
+|lěto=2006
+|gustosć ludnosći=42
+|pjenjeze=rial
+|casowa cona= [[koordiněrowany swětowy cas|UTC]]+3:30 
+|hymna=Sorūd-e Mellī-e Īrān
+|znamje za awta=IR
+|TLD=.ir
+|telefonowe pśedwólenje=+98
+|kórta=Iran map.png
 }}
 
 '''Iran''' jo kraj w [[Azija|Aziji]].
@@ -40,7 +40,8 @@ Nejwětše města su :
 *[[Ahvaz]] - 973 600 wobydlarjow
 *[[Qom]] - 893 500 wobydlarjow	
 
-==Stawizny==
+==Noty==
+<references/>
 
 [[kategorija:Iran| ]]
 
