@@ -1,15 +1,18 @@
 {{Infokašćik software
-|logo            = 
-|mě = Mozilla Firefox
-|screenshot      = 
-|wopisanje    = 
-|zgótowaŕ      = [[Mozilla Foundation]]
-|aktualna_wersija = 3.0.4<br /><small>(12. nowembra 2008)</small>
-|źěłański_system  = [[Linux]], [[Mac OS X]], [[Microsoft Windows|Windows]], a.&nbsp;dr.
-|kategorija       = [[Webowy wobglěddowak|webowy wobglědowak]]
-|licenca          = [[:de:Mozilla Public License|MPL]]/[[:de:GNU General Public License|GPL]]/[[:de:GNU Lesser General Public License|LGPL]] tšojna licenca
-|dolnoserbski   = jo (wersija 2.0.0.17)<br /><small>(23. septembra 2008)</small>
-|webowe_sedło  = [http://firefox.sorbzilla.de/dsb dolnoserbski Firefox]
+|logo                   = 
+|mě                     = Mozilla Firefox
+|screenshot             = 
+|wopisanje              = 
+|zgótowaŕ               = [[Mozilla Foundation]]
+|aktualna_wersija       = 3.0.4
+|aktualna_wersija_datum = 12. nowembra 2008
+|testowa_wersija        = 3.1b2
+|testowa_wersija_datum  = 8. decembra 2008<ref>https://developer.mozilla.org/devnews/index.php/2008/12/08/firefox-31-beta-2-now-available-for-download/ {{ref-en}}</ref>
+|źěłański_system        = [[Linux]], [[Mac OS X]], [[Microsoft Windows|Windows]], a.&nbsp;dr.
+|kategorija             = [[Webowy wobglěddowak|webowy wobglědowak]]
+|licenca                = [[:de:Mozilla Public License|MPL]]/[[:de:GNU General Public License|GPL]]/[[:de:GNU Lesser General Public License|LGPL]] tšojna licenca
+|dolnoserbski           = jo (wersija 2.0.0.17)<br /><small>(23. septembra 2008)</small>
+|webowe_sedło           = [http://firefox.sorbzilla.de/dsb dolnoserbski Firefox]
 }}
 [[Wobraz:Firefox 2 de.png|right|230px]]
 
@@ -51,6 +54,9 @@ Pytańske tykace zmóžnjaju pytanje z pomocu wšakich pytańskich programow. St
 Firefox jo za wjele [[kompjuterowe systemy|kompjuterowych systemow]]. Firefox stoj za [[Źěłański system|źěłańske systemy]] ''[[Microsoft Windows]] (wót [[Microsoft Windows 98|Windows&nbsp;98]])'', ''[[Linux]]'', ''[[OS/2]]'' (teke ''[[eComStation]]'') a ''[[Mac OS X|Mac&nbsp;OS&nbsp;X]]'' k dispoziciji. Minimalne systemowe wuměnjenja za wersije 1.0, 1.5 und 2.0 su pó pódaśach zgótowarja za Windows/Linux: [[Pentium]] 233&nbsp;MHz, 64&nbsp;[[Byte|MB]] [[Random_Access_Memory_.28RAM.29|RAM]]. Za Mac: [[G3 (Prozessor)|G3]] z w.&nbsp;1.0: 64&nbsp;MB, w. 1.5/2.0: 128&nbsp;MB RAM.
 
 Mjenjoweje zwady dla mjaz Debianom a Mozillu wó wuměnjenjach wužywanja za [[Marka (pšawniski šćit)|marki]] wót Mozilla jo Firefox w Debianje mě ''Iceweasel'' dostał. Druge produkty znamjenja wóry Mozilla su teke nowe mjenja dostali, kótarež se wše z ''Ice'' zachopinaju.
+
+==Nota==
+<references/>
 
 == Eksterne wótkaze ==
 
