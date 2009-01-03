@@ -1,35 +1,32 @@
-<br style="clear:both"/>
-
-{|table id="toc" style="margin:0;background:"#ccccff";width:100%" align="right" cellpadding="1"
-| style="background:white"  align="center" width="130px" colspan=2 |'''<font color=black>Austro-Hungaricum<br>Osztrák-Magyar<br>Österreich-Ungarn</font>'''
-| 
-|-style="margin:0;background:"#ccccff";width:100%" align="center" cellpadding="2"
-! wopon
-! chórgoj 
-|- style="background: #ffffff; text-align: center;"
-| style="width: 145px;" | [[image:Austria-Hungaria transparency.png|140px]]
-| style="width: 145px;" | [[image:Flag_of_Austria-Hungary_1869-1918.svg|140px]]
-|- style="background: #ffffff; text-align: center;"
-! colspan="2" | zakładne daty
-|- style="background:#ffffff;"
-| hamtske rěcy: || łatyński, [[nimšćina|nimski]] a hungorski
-|----- bgcolor="#FFFFFF"
-| stolica: || [[Wien|Wien]] a [[Budapešt|Budapešt]]
-|----- bgcolor="#FFFFFF"
-| płoń: || 677 000 km² 
-|----- bgcolor="#FFFFFF"
-| wobydlarje: || 52 800 000 ''<small>(1900)</small>''
-|----- bgcolor="#FFFFFF"
-| gustosć ludnosći: || 79 wobydlarjow/km²
-|----- bgcolor="#FFFFFF"
-| pjenjeze: || awstrisko-hungorska kurona
-|----- bgcolor="#FFFFFF"
-| hymna: || Gott erhalte Franz den Kaiser
-|- 
-!colspan="2" align=center| Kórta
-|- style="background:#ffffff;"
-| colspan="2" align=center|[[image:Austria hungary 1911.jpg|200px]] 
-|}
+{{Stat
+|mě=
+|mě swójske=Österreich-Ungarn {{ref-de}}, Osztrák-Magyar {{ref-hu}}
+|mě serbske=Awstrisko-Hungorska
+|wopon = Austria-Hungaria transparency.png
+|wopon-nastawk = 
+|chórgoj = Flag_of_Austria-Hungary_1869-1918.svg
+|chórgoj-nastawk = 
+|gronko = 
+|gronko-serbski=
+|rěc = łatyński, [[nimšćina|nimski]] a hungorski
+|stolica = [[Wien|Wien]] a [[Budapešt|Budapešt]]
+|forma kněžerstwa = 
+|głowny = 
+|šef = 
+|płoń = 677 000 km² 
+|wobydlarje= 52 800 000 ''<small>(1900)</small>''
+|gustosć ludnosći = 79 wobydlarjow/km²
+|pjenjeze= awstrisko-hungorska kurona
+|nastaśe = 
+|hymna = Gott erhalte Franz den Kaiser
+|casowa cona = 
+|TLD = 
+|telefon = 
+|znamje za awta =
+|oficielna website =
+|kórta = Austria hungary 1911.jpg
+|komentar =
+}}
 
 '''Awstrisko-Hungorska''' (łat. Austro-Hungaricum, nim. Österreich-Ungarn, hung. Osztrák-Magyar) – jo był historiski kraj w Europje.
 
@@ -39,13 +36,48 @@ Awstrisko-Hungorska jo wobstojała wot 21 decembera [[1867]] do oktobera [[1918]
 
 ==Wobydlarstwo==
 
+{| class="prettytable" bgcolor="#efefef"
+|+ '''Wobydlarstwo Awstrisko-Hungorskej'''
+|-
+| nimske a awstriske
+| 24%
+|-
+| hungorske
+| 20%
+|-
+| česke
+| 13%
+|-
+| pólske
+| 10%
+|-
+| ruske
+| 8%
+|-
+| rumuńske
+| 6%
+|-
+| chorwatske
+| 5%
+|-
+| słowakske
+| 4%
+|-
+| serbiske
+| 4%
+|-
+| słowjeńske
+| 3%
+|-
+| italske
+| 3%
+|}
 
-<table align="left" border="1" cellpadding="5" cellspacing="0" bgcolor="#efefef"><caption>'''Wobydlarstwo Awstrisko-Hungorskej'''</caption><tr><td>nimske a awstriske</td><td>24%</td></tr><tr><td>hungorske</td><td>20%</td></tr><tr><td>česke</td><td>13%</td></tr><tr><td>pólske</td><td>10%</td></tr><tr><td>ruske</td><td>8%</td></tr><tr><td>rumuńske</td><td>6%</td></tr><tr><td>chorwatske</td><td>5%</td></tr><tr><td>słowakske</td><td>4%</td></tr><tr><td>serbiske</td><td>4%</td></tr><tr><td>słowjeńske</td><td>3%</td></tr><tr><td>italske</td><td>3%</td></tr></table>
-[[image:BanknoteA-H.jpg|Dwaźasća awstrisko-hungorskich korunow|thumb|right]]
+[[Dataja:BanknoteA-H.jpg|Dwaźasća awstrisko-hungorskich korunow|thumb|right]]
 
-[[Category:Stawizny]]
-[[Category:Awstriska]]
-[[Category:Hungorska]]
+[[Kategorija:Stawizny]]
+[[Kategorija:Awstriska]]
+[[Kategorija:Hungorska]]
 
 [[af:Oostenryk-Hongarye]]
 [[ang:Ēastrīce-Ungerland]]
