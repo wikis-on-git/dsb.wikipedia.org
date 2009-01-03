@@ -1,23 +1,23 @@
-{|table id="toc" style="margin:0;background:"#ccccff";width:100%" align="right" cellpadding="1"
-| style="background:blue"  align="center" width="130px" colspan=2 |'''<font color=white>Krakow</font>'''
-| 
-|-style="margin:0;background:"#ccccff";width:100%" align="center" cellpadding="2"
-! Wopon
-! Chórgoj 
-|- style="background: #ffffff; text-align: center;"
-| style="width: 145px;" | [[image:Krakow_Herb.png|140px]]
-| style="width: 145px;" | [[image:Flag of Krakow.svg|140px|border]]
-|----- bgcolor="#FFFFFF"
-| Geografiske połoženje : || 50°04' N <br> 19°57' E 
-|----- bgcolor="#FFFFFF"
-| Přestreń : || 326,80 km² 
-|----- bgcolor="#FFFFFF"
-| Wysokość : || 219 m 
-|- 
-!colspan="2" align=center| Korta
-|- style="background:#ffffff;"
-| colspan="2" align=center|[[image:Okolice_Krakowa_XIXwiek.jpg|140px]] 
-|}
+{{Infokašćik Město
+|mě=
+|mě swójske= Kraków {{ref-pl}}
+|mě serbske= Krakow
+|wopon=Krakow_Herb.png
+|chórgoj=Flag of Krakow.svg
+|lat_deg=50
+|lat_min=04
+|lon_deg=19
+|lon_min=57
+|stat=Pólska
+|wusokosć=219 m 
+|płonina=326,80 km² 
+|wobydlarstwo=
+|gustosć wobydlarstwa=
+|postowa licba=
+|pśedwólenje=
+|website=
+|kórta=Okolice_Krakowa_XIXwiek.jpg
+}}
 
 '''Krakow''' (pól. '''Kraków''', nim. '''Krakau''') jo město w pódpołdnjowej [[Pólska|Pólskej]], w [[małopólske wójewódstwo|małopólskem wójewódstwje]], nad rěku [[Wisła|Wisłu]]. Krakow jo stolica wójewódstwa a teke samostatny wokrejs (''[[powiat]]''). Toś to město jo wažnym turistiskim centrum.
 
@@ -70,6 +70,7 @@ W Krakowje gratej dwej nejstaršej [[kopańca|kopańcowej]] kluba (załožonej w
 [[gl:Cracovia-Kraków]]
 [[he:קרקוב]]
 [[hr:Krakov]]
+[[hsb:Krakow]]
 [[hu:Krakkó]]
 [[id:Kraków]]
 [[io:Kraków]]
