@@ -1,337 +1,99 @@
 __NOTOC__
-<table border="0" cellspacing="0">
-<tr><td height="100%" width="100%" valign="top">
-{| style="border:1px solid #006699; margin-right:8px; margin-left:8px;" cellspacing="0" cellpadding="5" class="plainlinks"
-| align="center" bgcolor="#D0E2EE" cellpadding="0" | '''Witajśo do Wikipedije, lichotneje encyklopedije!'''
-|-
-|style="border-top:1px solid #006699;" bgcolor="#f3fff3"|Projekt co stwóriś nejwětšu wjelerěcnu, wšyknym pśistupnu [[Encyklopedija|encyklopediju]]. Kuždy móžo se wobźěliś – '''teke Ty!''' Mimo wšyknych formalnosćow móžoš nowe gronidła spisaś a pśinoski wobźěłaś.
-[[Wikipedija|Wikipedija]] jo natwarjona na zasadach [[:de:GNU-Lizenz für freie Dokumentation|GNU-Licence]].
-
-Tuchylu wopśimjejo serbska Wikipedija <!--'''[[Specialnje:Statistics|{{NUMBEROFARTICLES}}]]'''--> jano mału licbu nastawkow. Zwóstanjo pótakem hyšći wjele źěła. Pomagaj nam, aby naša encyklopedija dalej rosła!
-<!--Dokradnjejše informacije wó tom, kak móžoš nam pomagaś, namakajoš w [[Wikipedija:Portal wužywarjow|Portalu wužywarjow]].-->
-'''Kak móžom se wobźěliś?'''
-Móžoš na pś. na "cerwjene linki" dołojce kliknuś a prědne gronidła pisaś. Móžoš teke pśi tom pomagaś, [[:de:Kategorie:Sorben|nastawki ze serbskeju tematiku]] z nimskorěcneje Wikipedije pśełožowaś abo [[Wikipedija:Póžedane pśełožki|pśełožowaś daś]] a je how załožyś. Aby se [[:de:GNU-Lizenz für freie Dokumentation|GNU-licenca]] doźaržała, dejali se pśi tom 3–5 tamnjejšych t. pomj. "głownych awtorow" pomjeniś. K tomu glědaj teke na [http://hsb.wikipedia.org/w/index.php?title=Jan_Bok&diff=prev&oldid=453 toś ten edit].
-
-Pomoc móžośo teke w serbskem kanalu IRC [irc://irc.freenode.net/#wikipedia-hsb wikipedia-hsb] dostaś.
-
-<inputbox>
-type=create
-width=50
-bgcolor=#ffffff
-preload=Template:Standard content for new page
-editintro=Template:Instructions
-default=
-buttonlabel=załožyś
-</inputbox>
-|-
-|bgcolor="#f3fff3"|
-<div align=center>Jo južo [[Specialne:Statistika|'''{{NUMBEROFPAGES}}''']] [[Specialne:AllPages|bokow]].</div>
-
-
-|}
-</td></tr>
-
-
-</table>
-
-<table border="0" cellpadding="8" cellspacing="0">
-<tr><td height="115%" width="50%" valign="top">
-{| style="border:1px solid #006699;" height=100% cellspacing="0" cellpadding="5" class="plainlinks" 
-| align="center" bgcolor="#D0E2EE" cellpadding="0" |
-<div style="float:right"></div> 
-'''Aktualnosći'''
-|-
-|style="border-top:1px solid #006699;" bgcolor="#f8f5ea" |
-{{Aktualnosći}}
-|-
-|style="border-top:solid 1px #006699; align="center" bgcolor="#D0E2EE" cellpadding="0" |
-<div style="float:right"></div> 
-'''Artikel mjaseca'''
-|-
-|style="border-top:1px solid #006699;" bgcolor="#f8f5ea" |
-{{Artikel mjaseca}}  
-|-
-<!-- |style="border-top:1px solid #006699; " bgcolor="#f8f5ea" |
-|- 
-|style="border-top:solid 1px #006699; align="center" bgcolor="#D0E2EE" cellpadding="0" |
-<div style="float:right"></div> 
-|-
-'''Zajmnostki'''
-|-
-|style="border-top:1px solid #006699;" bgcolor="#f8f5ea" |
-{{Zajmnostki}}  
-|-
-| style="border-top:solid 1px #006699; align="center" bgcolor="#D0E2EE" cellpadding="0" |
-'''Jubileumy mjaseca'''
-|-
-|style="border-top:1px solid #006699;" bgcolor="#f8f5ea" |{{Jubileumy nowember}} -->
-
-
-
-|} 
-</td>
-
-
-<td width="50%" height=100% valign="top">
-{| style="border:1px solid #006699;" height=100% cellspacing="0" cellpadding="5" class="plainlinks"
-| font: 115% Verdana; color:black;height:30px" align="center" bgcolor="#D0E2EE" cellpadding="0" | '''Encyklopedija'''
-|-
-| valign="middle" style="border-top:1px solid #006699;" bgcolor="#f3f3ff" | {{Encyklopedija}}
-|-
-<!-- | style="border-top:solid 1px #006699; align="center" bgcolor="#D0E2EE" cellpadding="0" |'''Kategorije gronidłow'''
-|-
-| style="border-top:1px solid #006699; " bgcolor="#f3f3ff" |{{kategorije}}
-|-
-| style="border-top:solid 1px #006699; style="font: 115% Verdana; color:black;height:30px" align="center" bgcolor="#D0E2EE" cellpadding="0" |'''Tematiske portale'''
-|-
-| style="border-top:1px solid #006699; " bgcolor="#f3f3ff" |{{Wikiportale}}
-|-
-| style="border-top:solid 1px #006699; style="font: 115% Verdana; color:black;height:30px" align="center" bgcolor="#D0E2EE" cellpadding="0" |'''Sy wěźał(a)...'''
-|-
-| style="border-top:1px solid #006699; " bgcolor="#f3f3ff" |{{Sy wěźał(a)}} -->
-
-
-| style="border-top:solid 1px #006699; align="center" bgcolor="#D0E2EE" cellpadding="0" |
-'''Zajmnostki'''
-|-
-|style="border-top:1px solid #006699;" bgcolor="#f8f5ea" |
-{{Zajmnostki}}  
-|-
-| style="border-top:solid 1px #006699; align="center" bgcolor="#D0E2EE" cellpadding="0" |
-'''Jubileumy mjaseca'''
-|-
-|style="border-top:1px solid #006699;" bgcolor="#f8f5ea" |{{Jubileumy februar}} 
-
-
-
-|}
-</td></tr>
-
-</table>
-
-{| width="100%"
-|[[Image:P social sciences.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Towarišnosć'''</div>
-|}
-
-[[Domowina|Domowina]] &bull;
-[[Serby|Serby]] &bull;
-[[Serbska ludowa strona|Serbska ludowa strona]] &bull;
-[[Serbski institut|Serbski institut]] &bull;
-[[Serbski seminar|Serbski seminar]] &bull;
-[[Stawizny Serbow|Stawizny Serbow]] &bull;
-[[Załožba za serbski lud|Załožba za serbski lud]] &bull;
-[[Lisćina serbskich spisowaśelow|Lisćina serbskich spisowaśelow]] &bull;
-[[Lisćina serbskich komponistow|Lisćina serbskich komponistow]] &bull;
-[[Lisćina serbskich twórjecych wuměłcow|Lisćina serbskich twórjecych wuměłcow]] &bull;
-[[Internecy|Internecy]]
-
-{| width="100%"
-|[[Image:P literature.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Kultura a rěc'''</div>
-|}
-[[dolnoserbski alfabet|Dolnoserbski alfabet]] &bull;
-[[Dolnoserbski gymnazium|Dolnoserbski gymnazium]] &bull;
-[[dolnoserbšćina|Dolnoserbšćina]] &bull;
-[[Górnoserbski|Górnoserbšćina]] &bull;
-[[Institut za sorabistiku|Institut za sorabistiku]] &bull;
-[[Mnichojstwo|Mnichojstwo]] &bull;
-[[Nowy Casnik|Nowy Casnik]] &bull;
-[[Rozhlad|Rozhlad]] &bull;
-[[runjewonline.info|runjewonline.info]] &bull;
-[[Schadowanka|Schadowanka]] &bull;
-[[Serbska chórgoj|Serbska chórgoj]] &bull;
-[[Serbski rozhłós|Serbski rozgłos]] &bull;
-[[Serbske Nowiny|Serbske Nowiny]] &bull;
-[[Sorabija|Sorabija]] &bull;
-[[Połobske Słowjany|Połobske Słowjany]] &bull;
-[[wóścenas|Wóścenas]] &bull;
-[[Zwězk serbskich wuměłcow|Zwězk serbskich wuměłcow]]
-
-{| width="100%"
-|[[Image:P vip.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Wósobiny'''</div>
-|}
-
-[[Alojs Andricki|Alojs Andricki]] &bull;
-[[Angela Merkel|Angela Merkel]] &bull;
-[[Arnošt Muka|Arnošt Muka]] &bull;
-[[Bjarnat Krawc|Bjarnat Krawc]] &bull;
-[[Bruno Schulz|Bruno Schulz]] &bull;
-[[Derwan|Derwan]] &bull;
-[[Don Bosco|Don Bosco]] &bull;
-[[Donald Tusk|Donald Tusk]] &bull;
-[[Fjodor Michajlowič Dostojewskij|Fjodor Michajlowič Dostojewskij]] &bull;
-[[Handrij Zejler|Handrij Zejler]] &bull;
-[[Hanka Krawcec|Hanka Krawcec]] &bull;
-[[Jakub Bart-Ćišinski|Jakub Bart-Ćišinski]] &bull;
-[[Jan Chojnan|Jan Chojnan]] &bull;
-[[Jurij Brězan|Jurij Brězan]] &bull;
-[[Jurij Koch|Jurij Koch]] &bull;
-[[Juro Surowin|Juro Surowin]] &bull;
-[[Kito Fryco Stempel|Kito Fryco Stempel]] &bull;
-[[Korla Awgust Kocor|Korla Awgust Kocor]] &bull;
-[[Marja Młynkowa|Marja Młynkowa]]
-[[Mato Kósyk|Mato Kósyk]] &bull;
-[[Měrćin Nowak-Njechorński|Měrćin Nowak-Njechorński]] &bull;
-[[Michał Frencel|Michał Frencel]] &bull;
-[[Mina Witkojc|Mina Witkojc]] &bull;
-[[Pavle Jurišić Šturm|Pavle Jurišić Šturm]] &bull;
-[[Pětr Młónk|Pětr Młónk]] &bull;
-[[Sahra Wagenknecht|Sahra Wagenknecht]] &bull;
-[[Siddhartha Gautama|Siddhartha Gautama]]
-
-{| width="100%"
-|[[Image:P geography.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Geografija'''</div>
-|}
-
-[[Błota|Błota]] &bull;
-[[Bramborska|Bramborska]] &bull;
-[[Budapešt|Budapešt]] &bull;
-[[Budyšyn|Budyšyn]] &bull;
-[[Chóśebuz|Chóśebuz]] &bull;
-[[Dolna Łužyca|Dolna Łužyca]] &bull;
-[[Dolnołužyske města|Dolnołužyske města]] &bull;
-[[Drježdźany|Drježdźany]] &bull;
-[[Europska unija|Europska unija]] &bull;
-[[Górna Łužyca|Górna Łužyca]] &bull;
-[[Hannover|Hannover]] &bull;
-[[Irkutsk|Irkutsk]] &bull;
-[[Kaliningrad|Kaliningrad]] &bull;
-[[Kaliningradski wobcerk|Kaliningradski wobcerk]] &bull;
-[[Kamjenc|Kamjenc]] &bull;
-[[Köln|Köln]] &bull;
-[[Lipsk|Lipsk]] &bull;
-[[London|London]] &bull;
-[[Łužyca|Łužyca]] &bull;
-[[Łužyska Nysa|Łužyska Nysa]] &bull;
-[[Mecklenburgska|Mecklenburgska]] &bull;
-[[Moskwa|Moskwa]] &bull;
-[[Oranienburg|Oranienburg]] &bull;
-[[Picnjo|Picnjo]] &bull;
-[[Pchjongjang|Pchjongjang]] &bull;
-[[Sakska|Sakska]] &bull;
-[[Soul|Soul]] &bull;
-[[Serbin|Serbin]] &bull;
-[[Sprjewja|Sprjewja]] &bull;
-[[Tokyo|Tokyo]] &bull;
-[[Barliń|Barliń]] &bull;
-[[Wórjejce|Wórjejce]] &bull;
-[[Wrocław|Wrocław]] &bull;
-[[Zwězkowy kraj|Zwězkowy kraj]] &bull;
-[[Strausberg|Strausberg]]
-
-{| width="100%"
-|[[Image:P countries.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Kontinenty'''</div>
-|}
-<table style="width:100%; background: white;">
-<td style="width:14%;">[[image:LocationAfrica.png|75px|Afrika]]<br/>[[Afrika|Afrika]]
-
-<td style="width:14%;">[[image:LocationAntarctica.png|75px|Antarktida]]<br/>[[Antarktida|Antarktida]]
-<td style="width:14%;">[[image:LocationAustralia.png|75px|Awstralska]]<br/>[[Awstralska (kontinent)|Awstralska]]
-<td style="width:14%;">[[image:LocationAsia.png|75px|Azija]]<br/>[[Azija|Azija]]
-<td style="width:14%;">[[image:LocationEurope.png|75px|Europa]]<br/>[[Europa|Europa]]
-<td style="width:14%;">[[image:LocationSouthAmerica.png|75px|Pódpołdnjowa Amerika]]<br/>[[Pódpołdnjowa Amerika|Pódpołdnjowa Amerika]]
-<td style="width:14%;">[[image:LocationNorthAmerica.png|75px|Pódpołnocna Amerika]]<br/>[[Pódpołnocna Amerika|Pódpołnocna Amerika]]
-</table>
-
-{| width="100%"
-|[[Image:P biology.png|35px]]
-| width="100%"|<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;"> '''Pśiroda, pśirodowěda, biologija, chemija, matematika ...'''</div>
-|}
-
-[[astronomija|Astronomija]] &bull;
-[[atom|Atom]] &bull;
-[[cerwjena lěsna mroja|Cerwjena lěsna mroja]] &bull;
-[[chemiska wězba|Chemiska wězba]] &bull;
-[[elektronegatiwita|Elektronegatiwita]] &bull;
-[[gromak|Gromak]] &bull;
-[[kardamom|Kardamom]] &bull;
-[[medicina|Medicina]] &bull;
-[[mutageneza|Mutageneza]] &bull;
-[[majs|Majs]] &bull;
-[[organiska chemija|Organiska chemija]] &bull;
-[[Matematika|Matematika]] &bull;
-[[molekul|Molekul]]  &bull;
-[[Běły kukol|Běły kukol]]
-
-{| width="100%"
-|[[Image:P math.png|35px]]
-| width="100%"|<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;"> '''Rěcywěda'''</div>
-|}
-
-[[dolnoserbski alfabet|Dolnoserbski alfabet]] &bull;
-[[dolnoserbšćina|Dolnoserbšćina]] &bull;
-[[fonem|Fonem]] &bull;
-[[Górnoserbski|Górnoserbšćina]] &bull;
-[[nimšćina|Nimšćina]] &bull;
-[[rěcywěda|Rěcywěda]] &bull;
-[[słowjańske rěcy|Słowjańske rěcy]] &bull;
-[[serbisko-chorwatska rěc|Serbisko-chorwatska rěc]] &bull;
-[[Pólska rěc|Pólska rěc]] &bull;
-[[drjewjanopołobšćina|Drjewjanopołobšćina]]&bull;
-[[glagolica|Glagolica]]
-
-{| width="100%"
-|[[Image:P literature.png|35px]]
-| width="100%"|<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;"> '''Literatura'''</div>
-|}
-
-[[nowela|Nowela]] &bull;
-[[žanr|Žanr]] &bull;
-[[družyna (lit.)|Družyna]] &bull;
-[[lyrika|Lyrika]] &bull;
-[[epika|Epika]] &bull;
-[[dramatika|Dramatika]] &bull;
-[[baseń|Baseń]] &bull;
-[[sonet|Sonet]] &bull;
-[[roman|Roman]] &bull;
-[[drama|Drama]] &bull;
-[[komedija|Komedija]]
-
-{| width="100%"
-|[[Image:P comp.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Informaciske technologije, computery, internet'''</div>
-|}
-
-[[Google|Google]] &bull;
-[[Yahoo!|Yahoo!]] &bull;
-[[Mozilla Firefox]]
-
-{| width="100%"
-|[[Image:LogoOV.png|35px]]
-| width="100%"|<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;"> '''Technika'''</div>
-|}
-
-[[Lisabonske elektriske|Lisabonske elektriske]] 
-
-{| width="100%"
-|[[Image:P ps.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Stawizny'''</div>
-|}
-
-[[Awstrisko-Hungorska|Awstrisko-Hungorska]] &bull;
-[[Bolesław Chrobry|Bolesław Chrobry]] &bull;
-[[Českosłowakska|Českosłowakska]] &bull;
-[[Drjewjańske Słowjany|Drjewjańske Słowjany]] &bull;
-[[Druga swětowa wójna|Druga swětowa wójna]] &bull;
-[[Jugosłowjańska|Jugosłowjańska]] &bull;
-[[Mieszko I.|Mieszko I.]] &bull;
-[[Nimska demokratiska republika|Nimska demokratiska republika]]&bull;
-[[Katerina Cornaro|Katerina Cornaro]]
-
-{| width="100%"
-|[[Image:Refdesk misc.png|35px]] 
-| width="100%" |<div style="text-align: left; font-family: sans-serif; font-size:130%; border-bottom: solid 2px #7D80B3; margin-bottom:5px;">'''Dalšne'''</div>
-|}
-
-[[Xochipilli|Xochipilli]] &bull;
-[[Xochiquetzal|Xochiquetzal]]
-
-{| style="border:1px solid width="100%" #006699;margin-bottom:8px;margin-left:8px;margin-right:8px;" cellspacing="0" cellpadding="5" class="plainlinks"
-| font: 115% Verdana; color:black;height:30px" align="center" bgcolor="#D0E2EE" cellpadding="0" | 
+<div style="width:100%;display:block;float:center;">
+{{Kašćik z pśedłogu
+|titel = <div style="font-size:125%;"> Witajśo do Wikipedije, lichotneje encyklopedije! </div>
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:GB-intro
+|slězynowa barwa wopśimjeśa=#f9f9ff
+|klasa1=gb-format1
+|klasa2=gb-titel1}}
+</div>
+<!--lěwy górny słup-->
+<div style="width:50%; display:block; float:left;">
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Internet-news-reader.svg|none|22px|Nowinki]] Aktualnosći
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:Aktualnosći
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2}}
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Nuvola_filesystems_services.png|none|22px|Nastawk měsaca]] Artikel mjaseca
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:Artikel mjaseca
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2}}
+</div>
+<!--prawa hornja špalta-->
+<div style="width:49%;display:block;float:right;">
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Wikipedia-logo.png|none|22px|Encyklopedija]] Encyklopedija
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:Encyklopedija
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2}}
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Crystal_ktip.png|none|22px|Zajimawosće]] Zajmnostki
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:Zajmnostki
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2}}
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Office-calendar.svg|none|22px|Róčnicy]] Jubileumy mjaseca
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:Jubileumy {{CURRENTMONTHNAME}}
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2}}
+</div>
+<!--kašćik w połnej šyrokosći-->
+{{-}}
+<div style="width:100%;display:block;float:center;">
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Crystal_128_three.png|none|22px|wobraz tyźenja]] Wobraz tyźenja
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:GB-wobraz tyźenja
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2}}
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Wikipedia-logo.png|none|22px|Encyklopedija]] Wažne wopśimjeśa
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:GB-wopśimjeśa
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2}}
+</div>
+{{-}}
+<div style="display:block; width:100%; float:center;">
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Globe_of_letters.png|none|22px|Wikipedija w druhich rěčach]] Wikipedija w drugich rěcach
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:GB-Druge rěcy
+|slězynowa barwa wopśimjeśa=#efffff
+|klasa1=gb-format3
+|klasa2=gb-titel3}}
+{{Kašćik z pśedłogu
+|titel = [[Wobraz:Wikipedia-logo.png|none|22px|Sotrowske projekty]] Sotšojske projekty
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:GB-Sotšojske projekty
+|slězynowa barwa wopśimjeśa=#efffff
+|klasa1=gb-format3
+|klasa2=gb-titel3}}
+</div>
+<div>
+{{Kašćik z pśedłogu
+|titel=Co jo dolnoserbšćina?
+|slězynowa barwa titela=#f1faff
+|pśedłoga =Pśedłoga:Co jo dolnoserbšćina?
+|slězynowa barwa wopśimjeśa=#efffff
+|klasa1=gb-format3
+|klasa2=gb-titel3
+}}
+</div>
 
 [[be:]]
 [[bg:]]
