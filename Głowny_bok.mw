@@ -1,5 +1,3 @@
-__NOTOC__
-__NOEDITSECTION__
 <div style="width:100%;display:block;float:center;">
 {{Kašćik z pśedłogu
 |titel = <div style="font-size:125%;"> Witajśo do Wikipedije, lichotneje encyklopedije! </div>
@@ -68,8 +66,7 @@ __NOEDITSECTION__
 |klasa1=gb-format2
 |klasa2=gb-titel2}}
 </div>
-{{-}}
-<div style="display:block; width:100%; float:center;">
+<div style="display:block; width:100%; float:center; clear:both;">
 {{Kašćik z pśedłogu
 |titel = [[Wobraz:Globe_of_letters.png|none|22px|Wikipedija w druhich rěčach]] Wikipedija w drugich rěcach
 |slězynowa barwa titela=#f1faff
@@ -95,7 +92,8 @@ __NOEDITSECTION__
 |klasa2=gb-titel3
 }}
 </div>
-
+__NOTOC__
+__NOEDITSECTION__
 [[be:]]
 [[bg:]]
 [[br:]]
