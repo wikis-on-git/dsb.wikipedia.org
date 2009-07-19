@@ -80,14 +80,40 @@ Einige Konsonanten der sorbischen Schriftsprachen Obersorbisch und Niedersorbisc
 
 __TOC__
 
+{|
+|-
+! align="center" bgcolor="#ffffff" width="5%"| <font color=White> </--.....-->
+! align="center" bgcolor="#ffffff" width="95%"| 
+|-
+| valign="prettytable"; style="background: #FFD7AF; text-align: center;" | || <small> Sedło w wukrajej </small>
+|-
+| valign="prettytable"; style="background: #99BBFF; text-align: center;" | || <small> Sedło w pólskego Łužycy </small>
+|-
+| valign="prettytable"; style="background: #B6CED6; text-align: center;" | || <small> Sedło w českego Łužycy </small>
+|-
+| valign="prettytable"; style="background: #ccccff; text-align: center;" | || style="background:EEEEFF#; | <small> stawizne Sedło</small>
+|-
+|}
+
 == A ==
 
-{|class="wikitable sortable"
-|- class="hintergrundfarbe5"
-! gmejna <br /> město <br /> sedlišćo <br /> wjas !! ''[[nimšćina|nim.]]'' !! [[górnoserbšćina|''gsb.'']] !! wokrejs !! class="unsortable"| gmejna/amt !! class="unsortable" | druge mě !! class="unsortable" | komentěrowaś
-|- 
-| Wołobuz || Allmosen ||   || [[Landkreis Oberspreewald-Lausitz|OSL]] || [[Amt Altdöbern|Altdöbern]] ||   ||   ||
-|- 
+{| class="wikitable" table id="toc" width:100%" align="center" cellpadding="2"
+|-
+! align="center" bgcolor="#cccccc" width="15%"| <font color=Black> město/sedło<br /><small>([[nimšćina]])</small>
+! align="center" bgcolor="#ccccff" width="15%"| <font color=Black> [[dolnoserbšćina]]<br /><br />
+! align="center" bgcolor="#ccccff" width="15%"| <font color=Black> [[górnoserbšćina]]<br /><br />
+! align="center" bgcolor="#cccccc" width="10%"| <font color=Black> amt/gmejna/město/wjas<br /><br />
+! align="center" bgcolor="#cccccc" width="10%"| <font color=Black> wokrejs<br /><br />
+! align="center" bgcolor="#cccccc" width="10%"| <font color=Black> kraj/stat<br /><br />
+! align="center" bgcolor="#cccccc" width="10%"| <font color=Black> druge mě<br /><br />
+! align="center" bgcolor="#cccccc" width="15%"| <font color=Black> komentěrowaś<br /><br />
+|-
+|  ||  ||  ||  ||  ||  || 
+|-
+| style="background: #FFD7AF; text-align: center;" | Woshington || style="background: #FFD7AF; text-align: center;" | [[Woshington]] || style="background: #FFD7AF; text-align: center;" | || style="background: #FFD7AF; text-align: center;" | <small>stolica w [[USA|USA]]</small> || style="background: #FFD7AF; text-align: center;" | <small>stolica w [[USA|USA]]</small> || style="background: #FFD7AF; text-align: center;" | [[USA]] || valign="prettytable"; style="background: #FFD7AF; text-align: center;" | [[angloamerikanšćina|''ang.'']] Woshington || ...               
+|-
+| style="background: #ffffff; text-align: center;" | Wotan || style="background: #ffffff; text-align: center;" | [[Wotań]] || style="background: #ffffff; text-align: center;" | || style="background: #ffffff; text-align: center;" | [[Baršć|<small>měsćański źěl w</small><br />Baršća]] || style="background: #ffffff; text-align: center;" | [[Wokrejs Sprjewja-Nysa|SPN <br /><small>Wokrejs Sprjewja-Nysa</small>]] || style="background: #ffffff; text-align: center;" | [[Bramborska]] || style="background: #ffffff; text-align: center;" | ... || ...       
+|-
 |}
 
 == B ==
