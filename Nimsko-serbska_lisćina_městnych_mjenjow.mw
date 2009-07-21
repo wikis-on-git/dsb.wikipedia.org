@@ -168,17 +168,31 @@ __TOC__
 |-
 ! style="background: #CCCCFF; text-align: center;" |    
 
+|}
+{| class="wikitable" style="width:100%;"
+|-
+! align="center" bgcolor="#cccccc" width="15%"| 
+! align="center" bgcolor="#ccccff" width="15%"| 
+! align="center" bgcolor="#ccccff" width="15%"| 
+! align="center" bgcolor="#cccccc" width="10%"| 
+! align="center" bgcolor="#cccccc" width="10%"| 
+! align="center" bgcolor="#cccccc" width="10%"| 
+! align="center" bgcolor="#cccccc" width="10%"| 
+! align="center" bgcolor="#cccccc" width="15%"| 
+|-
+! style="background: #ccccff; text-align: center;" | 
+
 ===<big>W</big>===
 
 |-
-! style="background: #FFFFFF; text-align: center;" | Wadelsdorf 
-! style="background: #FFFFFF; text-align: center;" | [[Zakrjejc]] 
-! style="background: #FFFFFF; text-align: center;" | ... 
-! style="background: #FFFFFF; text-align: center;" | [[...|...]]
-! style="background: #FFFFFF; text-align: center;" | [[Wokrejs Sprjewja-Nysa|SPN <br /><small>Wokrejs Sprjewja-Nysa</small>]] 
-! style="background: #FFFFFF; text-align: center;" | [[Bramborska]] 
-! style="background: #FFFFFF; text-align: center;" | ... 
-! style="background: #FFFFFF; text-align: left;" | ...       
+| valign="prettytable"; style="background: #FFFFFF; text-align: center;" | Wadelsdorf 
+| valign="prettytable"; style="background: #FFFFFF; text-align: center;" | [[Zakrjejc]] 
+| valign="prettytable"; style="background: #FFFFFF; text-align: center;" | ... 
+| valign="prettytable"; style="background: #FFFFFF; text-align: center;" | [[...|...]]
+| valign="prettytable"; style="background: #FFFFFF; text-align: center;" | [[Wokrejs Sprjewja-Nysa|SPN <br /><small>Wokrejs Sprjewja-Nysa</small>]] 
+| valign="prettytable"; style="background: #FFFFFF; text-align: center;" | [[Bramborska]] 
+| valign="prettytable"; style="background: #FFFFFF; text-align: center;" | ... 
+| valign="prettytable"; style="background: #FFFFFF; text-align: left;" | ...       
 |-
 ! style="background: #FFFFFF; text-align: center;" | Waditz 
 ! style="background: #FFFFFF; text-align: center;" | ... 
@@ -294,7 +308,7 @@ __TOC__
 ! style="background: #FFD7AF; text-align: center;" | <small>stolica w<br>[[Pólska|Pólskej]]</small> 
 ! style="background: #FFD7AF; text-align: center;" | <small>stolica w<br>[[Pólska|Pólskej]]</small> 
 ! style="background: #FFD7AF; text-align: center;" | [[Pólska]] 
-! style="background: #FFD7AF; text-align: center;" | [[pólšćina|"pól."]] Warzawa 
+! style="background: #FFD7AF; text-align: center;" | [[pólšćina|''pól.'']]<br />Warzawa 
 ! style="background: #FFD7AF; text-align: left;" | ...
 |-
 ! style="background: #EEEEFF; text-align: center;" | Wartburg<br />(grod) 
@@ -636,16 +650,16 @@ __TOC__
 ! style="background: #B6CED6; text-align: center;" | jo wjas w [[Okres Děčín|wokrejs Děčína]] w
 ! style="background: #B6CED6; text-align: center;" | [[Ústecký kraj|Ústeckéch kraja]] 
 ! style="background: #B6CED6; text-align: center;" | [[Česka]]
-! style="background: #B6CED6; text-align: center;" | [[češćina|"češ."]] '''Srbská Kamenice'''
+! style="background: #B6CED6; text-align: center;" | [[češćina|''češ.'']]<br />'''Srbská Kamenice'''
 ! style="background: #B6CED6; text-align: left;" | ...
 |-
 ! style="background: #99BBFF; text-align: center;" | Wendisch Mosty 
 ! style="background: #99BBFF; text-align: center;" | [[Móst (Pólska)|Móst]] 
 ! style="background: #99BBFF; text-align: center;" | ...
-! style="background: #99BBFF; text-align: center;" | [[...|...]] 
-! style="background: #99BBFF; text-align: center;" | [[...|... <br /><small>...</small>]] 
+! style="background: #99BBFF; text-align: center;" | [[Przewóz|gmejna Przewóz<br />(gmina Przewóz)]] 
+! style="background: #99BBFF; text-align: center;" | [[Wójewództwo Lubuskie|we lubuskem wójewódstwje]] 
 ! style="background: #99BBFF; text-align: center;" | [[Pólska]] 
-! style="background: #99BBFF; text-align: center;" | [[pólšćina|"pól."]] Mosty 
+! style="background: #99BBFF; text-align: center;" | [[pólšćina|''pól.'']]<br />Mosty 
 ! style="background: #99BBFF; text-align: left;" | ...   
 |-
 ! style="background: #FFFFFF; text-align: center;" | Wendisch Paulsdorf   
@@ -1059,7 +1073,7 @@ __TOC__
 ! style="background: #FFD7AF; text-align: center;" | <small>stolica w [[USA|USA]]</small> 
 ! style="background: #FFD7AF; text-align: center;" | <small>stolica w [[USA|USA]]</small> 
 ! style="background: #FFD7AF; text-align: center;" | [[USA]]  
-! style="background: #FFD7AF; text-align: center;" | [[angloamerikanšćina|"ang."]] Woshington 
+! style="background: #FFD7AF; text-align: center;" | [[angloamerikanšćina|''ang.'']]<br />Woshington 
 ! style="background: #FFD7AF; text-align: left;" |...      
 |-
 ! style="background: #FFFFFF; text-align: center;" | Wotan 
