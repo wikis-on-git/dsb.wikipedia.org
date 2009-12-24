@@ -1,25 +1,25 @@
-{{Template:kraj|
-mjeno=<font size="+1">'''대한민국'''</font> '''Daehan Minguk'''</font> <br />|
-serbske mjeno='''Republika Koreja'''</font> <br />|
-chórgoj=Flag of South Korea.svg|
-wopon=Coat_of_arms_of_South_Korea.svg|
-gronko=홍익인간(弘益人間)|
-połoženje=LocationSouthKorea.png|
-rěc=[[korejska rěc|korejska]]|
-stolica=[[Soul]]|
-głowny=prezident [[Roh Moo-Hyun]]|
-šef=premierminister [[Han Duck-soo]]|
-płoń=99 646 km² |
-wobydlarje=49 024 737|
-lěto=2007|
-gustosć ludnosći=480|
-pjenjeze=pódpołdnjowo korejski won|
-casowa cona= [[koordiněrowany swětowy cas|UTC]]+9|
-hymna=Aegukga|
-znamje za awta=ROK|
-TLD=.kr|
-telefonowe pśedwólenje=+82|
-kórta=Korea, South-CIA WFB Map.png|
+{{stat
+|mjeno=<font size="+1">'''대한민국'''</font> '''Daehan Minguk'''</font> <br />
+|serbske mjeno='''Republika Koreja'''</font> <br />
+|chórgoj=Flag of South Korea.svg
+|wopon=Coat_of_arms_of_South_Korea.svg
+|gronko=홍익인간(弘益人間)
+|połoženje=LocationSouthKorea.png
+|rěc=[[korejska rěc|korejska]]
+|stolica=[[Soul]]
+|głowny=prezident [[Roh Moo-Hyun]]
+|šef=premierminister [[Han Duck-soo]]
+|płoń=99 646 km² 
+|wobydlarje=49 024 737
+|lěto=2007
+|gustosć ludnosći=480
+|pjenjeze=pódpołdnjowo korejski won
+|casowa cona= [[koordiněrowany swětowy cas|UTC]]+9
+|hymna=Aegukga
+|znamje za awta=ROK
+|TLD=.kr
+|telefonowe pśedwólenje=+82
+|kórta=Korea, South-CIA WFB Map.png
 }}
 
 
@@ -29,6 +29,11 @@ kórta=Korea, South-CIA WFB Map.png|
 === Města ===
 * [[Soul]]
 * [[Jeju (město)|Jeju]]
+
+==Linky==
+*[http://deu.mofat.go.kr/languages/eu/deu/official/kontakt/index.jsp Nastawk pódpołdnjokorejańskego wjelikopósłaństwa w Barliniju]
+
+
 {{Link FA|vi}}
 
 [[Kategorija:Pódpołdnjowa Koreja| ]]
