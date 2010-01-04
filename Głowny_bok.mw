@@ -5,7 +5,8 @@
 |pśedłoga = Pśedłoga:GB-intro
 |slězynowa barwa wopśimjeśa=#f9f9ff
 |klasa1=gb-format1
-|klasa2=gb-titel1}}
+|klasa2=gb-titel1
+}}
 </div>
 <!--lěwy górny słup-->
 <div style="width:50%; display:block; float:left;">
@@ -32,7 +33,9 @@
 |pśedłoga = Pśedłoga:Zajmnostki
 |slězynowa barwa wopśimjeśa=#f3f3ff
 |klasa1=gb-format2
-|klasa2=gb-titel2}}
+|klasa2=gb-titel2
+|pomoc=[[Specialne:Nowe boki|Nowe boki]]
+}}
 {{Kašćik z pśedłogu
 |titel = [[Wobraz:Wikipedia-logo.png|none|22px|Encyklopedija]] Encyklopedija
 |slězynowa barwa titela=#f1faff
@@ -57,7 +60,9 @@
 |pśedłoga = Pśedłoga:GB-wobraz tyźenja
 |slězynowa barwa wopśimjeśa=#f3f3ff
 |klasa1=gb-format2
-|klasa2=gb-titel2}}
+|klasa2=gb-titel2
+|pomoc=[[Wikipedija:Wobraze tyźenja|Nowe wobraze móžoš how pśidaś]] • [[Wikipedija:Wobraze tyźenja/wobraze pśiducych tyźenjow|Lisćina]] 
+}}
 {{Kašćik z pśedłogu
 |titel = [[Wobraz:Wikipedia-logo.png|none|22px|Encyklopedija]] Wažne wopśimjeśa
 |slězynowa barwa titela=#f1faff
@@ -80,7 +85,9 @@
 |pśedłoga = Pśedłoga:GB-Sotšojske projekty
 |slězynowa barwa wopśimjeśa=#efffff
 |klasa1=gb-format3
-|klasa2=gb-titel3}}
+|klasa2=gb-titel3
+|pomoc=[[Specialne:Lisćina projektow Wikimedije|Lisćina wšych projektow Wikimedije]]
+}}
 </div>
 <div>
 {{Kašćik z pśedłogu
@@ -90,6 +97,7 @@
 |slězynowa barwa wopśimjeśa=#efffff
 |klasa1=gb-format3
 |klasa2=gb-titel3
+|pomoc=[[Serbšćina]] • [[Dolnoserbšćina]] • [[Górnoserbšćina]]
 }}
 </div>
 __NOTOC__
