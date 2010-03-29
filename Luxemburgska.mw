@@ -1,26 +1,30 @@
-{{Template:kraj|
-mjeno=Grand-Duché de Luxembourg<br />Großherzogtum Luxemburg<br />Grousherzogdem Lëtzebuerg|
-serbske mjeno=Wielikie wjerchojstwo Luxemburga|
-wopon=Coat of Arms of Luxembourg.svg|
-chórgoj=Flag_of_Luxembourg.svg|
-gronko=„Mir wëlle bleiwe wat mir sin“|
-połoženje=LocationLuxembourg.png|
-rěc= francojska, [[nimšćina|nimska]], luxemburgska|
-stolica=Luxemburg|
-głowny=wjeliki wjerch Henri|
-šef=premierminister Jean-Claude Juncker|
-płoń=2586|
-wobydlarje=443 000|
-lěto=2005|
-gustosć ludnosći=171|
-pjenjeze=euro|
-casowa cona=[[srjejźnoeuropski cas|SEC]] ([[koordiněrowany swětowy cas|UTC]]+1)|
-hymna=Ons Hémécht|
-znamje za awta=L|
-TLD=.lu|
-telefonowe pśedwólenje=+352|
-kórta=Lu-map.png|
+{{Stat
+|mě swójske=Grand-Duché de Luxembourg,<br />Großherzogtum Luxemburg,<br />Grousherzogdem Lëtzebuerg
+|mě serbske=Wjelikie wjerchojstwo Luxemburga
+|wopon=Coat of Arms of Luxembourg.svg
+|chórgoj=Flag_of_Luxembourg.svg
+|gronko=„Mir wëlle bleiwe wat mir sin“<br /> „Comy wóstaś tymi ako smy“
+|połoženje=LocationLuxembourg.png
+|rěc=francojska, [[nimšćina|nimska]], luxemburgska
+|stolica=Luxemburg
+|forma kněžerstwa=konstitucijna monarchija
+|głowny=wjeliki wjerch Henri
+|šef=premierminister Jean-Claude Juncker
+|płoń=2586
+|wobydlarje=502 202
+|lěto=2010
+|gustosć ludnosći=194,1
+|pjenjeze=euro
+|hymna=Ons Hémécht
+|casowa cona=[[srjejźnoeuropski cas|SEC]] ([[koordiněrowany swětowy cas|UTC]]+1)<small>(lěśojski cas: UTC +2)</small>
+|znamje za awta=L
+|TLD=.lu
+|telefonowe pśedwólenje=+352
+|kórta=Lu-map.png
 }}
+
+
+
 
 '''Luxemburgska''' jo kraj w pódwjacornej [[Europa|Europje]].
 
@@ -32,7 +36,7 @@ Luxemburgska granicujo ze [[Belgiska|Belgiskeju]], [[Nimska|Nimskeju]] a [[Franc
 
 == Eksterny wótkaz ==
 {{Europska unija}}
-
+{{Nawikašćik Europa}}
 [[Kategorija:Luxemburgska| ]]
 
 [[ace:Luksèmburg]]
