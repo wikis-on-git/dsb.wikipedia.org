@@ -6,9 +6,9 @@ Až decembera 2010 buźo liniji numer 236 wobgóspodarimi pśez [[Vogtlandbahn|B
 
 {| class="prettytable" border="1" align="center" style="border-collapse:collapse; border-color:#0000CC; margin-top:1px; margin-bottom:15px; font-size:90%" cellpadding="1" width="60%"
 |-
-| colspan="5" align="center" | [[wobraz:236 Liberec - Rybniště Seifhennersdorf.jpg|350px|right|kórta z linije 236]]
+| colspan="5" align="center" | [[wobraz:236 Liberec - Rybniště Seifhennersdorf.jpg|330px|right|kórta z linije 236]]
 |-
-| colspan="5" align="center" |
+| colspan="5" align="center" style="background: #000080;"| <font color=White>
 ==== Te linije Českeje Zeleznicowy ==== 
 |-
 ! align="left" bgcolor="#f2f2f4" width="10%"| ... 
@@ -50,7 +50,11 @@ Až decembera 2010 buźo liniji numer 236 wobgóspodarimi pśez [[Vogtlandbahn|B
 |-
 | colspan="5" align="right" | <br /><br /> ↓ <small>[[Tanvalt|''Tanvalt'']] ([[Česka|ČZ]])</small> <br /> <br />     
 |-
-| colspan="5" align="center" | 
+|}
+
+{| class="prettytable" border="1" align="center" style="border-collapse:collapse; border-color:#0000CC; margin-top:1px; margin-bottom:15px; font-size:90%" cellpadding="1" width="60%"
+|-
+| colspan="5" align="center" style="background: #000080;"| <font color=White>
 ==== Te linije Saksko-českeje Zeleznicowy ==== 
 |-
 ! align="left" bgcolor="#f2f2f4" width="10%"| ... 
