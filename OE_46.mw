@@ -1,15 +1,25 @@
 '''OE 46''' w regionalna cera [[Chóśebuz]]-[[Baršć]], w linija z [[Pódzajtšnonimske Zelenica|Pódzajtšnonimske Zelenicy]]. 
 
-{| class="prettytable sortable"
-! ... !! dwórnišćo !! ... 
+
+
+{| class="prettytable" border="1" align="center" style="border-collapse:collapse; border-color:#0000CC; margin-top:1px; margin-bottom:15px; font-size:90%" cellpadding="1" width="60%"
 |-
-| -0,6 || <small>Cottbus Hauptbahnhof</small><br />[[Chóśebuz głowne dwórnišćo]] || 75 m
+! align="left" bgcolor="#f2f2f4" width="10%"| ... 
+! align="left" bgcolor="#f2f2f4" width="30%"| dwórnišćo 
+! align="left" bgcolor="#f2f2f4" width="10%"| ... 
+! align="left" bgcolor="#f2f2f4" width="10%"| <small>statne<br />teritorij</small>
 |-
-| 2,1 || <small>Cottbus Sandow</small><br />[[Chóśebuz Žandow]] ||
+| colspan="5" align="left" | <br /> ↑ <small>[[OE 65|''Žitawa'']]</small> <br /><br />        
 |-
-| 13,8 || <small>Klinge</small><br />[[Łukojce|Klinka]] || 84 m
+| -0,6 || <small>Cottbus Hauptbahnhof</small><br />[[Chóśebuz głowne dwórnišćo]] || 75 m || [[wobraz:Flag of Germany.svg|center|15px]]
 |-
-| 22,0 || <small>Forst (Lausitz)</small><br />[[Baršć (Łužyca)]] || 77 m
+| 2,1 || <small>Cottbus Sandow</small><br />[[Chóśebuz Žandow]] ||   || [[wobraz:Flag of Germany.svg|center|15px]]
+|-
+| 13,8 || <small>Klinge</small><br />[[Łukojce|Klinka]] || 84 m || [[wobraz:Flag of Germany.svg|center|15px]]
+|-
+| 22,0 || <small>Forst (Lausitz)</small><br />[[Baršć (Łužyca)]] || 77 m || [[wobraz:Flag of Germany.svg|center|15px]]  
+|-
+| colspan="5" align="right" | <br /><br /> ↓ <small>[[RB93|''Żary'']] ([[Pólska|PL]])</small>      
 |-
 |}
 
