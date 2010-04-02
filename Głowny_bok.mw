@@ -11,7 +11,8 @@
 <!--lěwy górny słup-->
 <div style="width:50%; display:block; float:left;">
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Nuvola_filesystems_services.png|none|22px|Nastawk měsaca]] Artikel mjaseca
+|wobraz=Nuvola_filesystems_services.png
+|titel =  Artikel mjaseca
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:Artikel mjaseca
 |slězynowa barwa wopśimjeśa=#f3f3ff
@@ -20,7 +21,8 @@
 |pomoc={{Artikel mjaseca/klikni}}
 }}
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Internet-news-reader.svg|none|22px|Nowinki]] Aktualnosći
+|wobraz=Internet-news-reader.svg
+|titel =  Aktualnosći
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:Aktualnosći
 |slězynowa barwa wopśimjeśa=#f3f3ff
@@ -30,7 +32,8 @@
 <!--prawa hornja špalta-->
 <div style="width:49%;display:block;float:right;">
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Crystal_ktip.png|none|22px|Zajimawosće]] Zajmnostki
+|wobraz=Crystal_ktip.png
+|titel =  Zajmnostki
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:Zajmnostki
 |slězynowa barwa wopśimjeśa=#f3f3ff
@@ -39,14 +42,16 @@
 |pomoc=[[Specialne:Nowe boki|Nowe boki]]
 }}
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Wikipedia-logo.png|none|22px|Encyklopedija]] Encyklopedija
+|wobraz=Wikipedia-logo.png
+|titel =  Encyklopedija
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:Encyklopedija
 |slězynowa barwa wopśimjeśa=#f3f3ff
 |klasa1=gb-format2
 |klasa2=gb-titel2}}
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Office-calendar.svg|none|22px|Róčnicy]] Jubileumy mjaseca
+|wobraz=Office-calendar.svg
+|titel =  Jubileumy mjaseca
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:Jubileumy {{CURRENTMONTHNAME}}
 |slězynowa barwa wopśimjeśa=#f3f3ff
@@ -57,7 +62,8 @@
 {{-}}
 <div style="width:100%;display:block;float:center;">
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Crystal_128_three.png|none|22px|wobraz tyźenja]] Wobraz tyźenja
+|wobraz=Crystal_128_three.png
+|titel =  Wobraz tyźenja
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:GB-wobraz tyźenja
 |slězynowa barwa wopśimjeśa=#f3f3ff
@@ -66,7 +72,8 @@
 |pomoc=[[Wikipedija:Wobraze tyźenja|Nowe wobraze móžoš how pśidaś]] • [[Wikipedija:Wobraze tyźenja/wobraze pśiducych tyźenjow|Lisćina]] 
 }}
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Wikipedia-logo.png|none|22px|Encyklopedija]] Wažne wopśimjeśa
+|wobraz=Wikipedia-logo.png
+|titel =  Wažne wopśimjeśa
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:GB-wopśimjeśa
 |slězynowa barwa wopśimjeśa=#f3f3ff
@@ -75,14 +82,16 @@
 </div>
 <div style="display:block; width:100%; float:center; clear:both;">
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Globe_of_letters.png|none|22px|Wikipedija w druhich rěčach]] Wikipedija w drugich rěcach
+|wobraz=Globe_of_letters.png
+|titel = Wikipedija w drugich rěcach
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:GB-Druge rěcy
 |slězynowa barwa wopśimjeśa=#efffff
 |klasa1=gb-format3
 |klasa2=gb-titel3}}
 {{Kašćik z pśedłogu
-|titel = [[Wobraz:Wikipedia-logo.png|none|22px|Sotrowske projekty]] Sotšojske projekty
+|wobraz=Wikipedia-logo.png
+|titel = Sotšojske projekty
 |slězynowa barwa titela=#f1faff
 |pśedłoga = Pśedłoga:GB-Sotšojske projekty
 |slězynowa barwa wopśimjeśa=#efffff
