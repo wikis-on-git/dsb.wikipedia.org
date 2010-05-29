@@ -1,44 +1,50 @@
 {{žrědło}}
 {{Njerozymliwy}}
-{|table id="toc" style="margin:0;background:"#ccccff";width:100%" align="right" cellpadding="1"
-| style="background:white"  align="center" width="130px" colspan=2 |'''<font color=black><big>Děčín</big></br>Jěčina</br> (Tetschen-Bodenbach)</font>'''
-| 
-|-style="margin:0;background:"#ccccff";width:100%" align="center" cellpadding="2"
-! Wopon
-! Chórgoj 
-|- style="background: #ffffff; text-align: center;"
-| style="width: 145px;" | [[Dataja:Decin-czech-rep-shield.jpg|140px]]
-| style="width: 145px;" | [[Dataja:Flag of Decin.svg|140px]]
-|----- bgcolor="#FFFFFF"
-| geografiske połoženje : || [http://stable.toolserver.org/geohack/geohack.php?pagename=D%C4%9B%C4%8D%C3%ADn&language=de&params=50.773611111111_N_14.196111111111_E_dim:10000_scale:100000_region:CZ-US_type:city(53098) 50° 46′ 25″ N, 14° 11′ 46″ O] 
-|----- bgcolor="#FFFFFF"
-| płoń : || 118,04 km² 
-|----- bgcolor="#FFFFFF"
-| zwězkowy kraj : || [[Ústecký kraj|'''Ústecký''']]
-|----- bgcolor="#FFFFFF"
-| wokrejs : || wokrejsne město 
-|----- bgcolor="#FFFFFF"
-| wobydlarjow : || '''53 098''' <small>(2008)</small>
-|----- bgcolor="#FFFFFF"
-| postowe licby : || '''ČZ-405 02'''
-|----- bgcolor="#FFFFFF"
-| adresa měsćańskego</br>zastojnistwa : || Magistrát města Děčína</br>Mírové nám. 1175/5</br>'''ČZ-405 38 Děčín 4'''  
-|----- bgcolor="#FFFFFF"
-| Internetowy bok : || <small>[http://www.mmdecin.cz/ www.mmdecin.cz]</small> 
-|----- bgcolor="#FFFFFF"
-| e-mailowa adresa || <small>posta@mmdecin.cz</small> 
-|----- bgcolor="#FFFFFF"
-| wuša šołtowka : || [[Jaroslav Sykáček|'''Ing. Vladislav Raška''']]
-|-
-! colspan="2" align=center| Na kórśe Českeje
-|- style="background:#ffffff;"
-| colspan="2" align=center|[[Dataja:Map cz Děčín kroton.svg|250px]]
-|-
-| colspan="2" align=center|[[Dataja:Decin.JPG|280px]] </br><small> Grod w Děčínje </small>
-|----- bgcolor="#FFFFFF"
-! colspan="2" align=center| Zeleznicowy wobchad 
-|- style="background:#ffffff;"
-| colspan="2" align=left| '''[[090 České dráhy|090]] [[Praga]] ↔ Jěčina  ↔ [[Drježdźany]] ↔ [[Barliń]] ↔ [[Hamburg]]</br>[[073 České dráhy|073]] [[Ústí nad Labem|Ústí nad Labem-Střekov]] ↔ Jěčina </br>[[081 České dráhy|081]] Jěčina ↔ [[Česká Lípa]] ↔ [[Rybníště]] ↔ [[Rumburk]]</br>[[098 České dráhy|098]] Jěčina ↔ [[Dolní Žleb|Dolny Žleb]] ↔ [[Bad Schandau|'''''Bad Schandau''''']] ↔ [[Drježdźany|''Drježdźany'']]</br>[[132 České dráhy|132]] [[Duchcova]] ↔ Jěčina ↔ [[Oldřichov]]''' 
+
+{{Infokašćik Město
+|mě=Děčín
+|wopon=Decin-czech-rep-shield.jpg
+|lat_deg=50 |lat_min=46 |lat_sec=25  
+|lon_deg=14 |lon_min=11 |lon_sec=46  
+|stat=Česka
+|zwězkowy kraj=[[Ústecký kraj]] 
+|wokrejs=[[Okres Děčín]]
+|wusokosć=135 m
+|płonina=118,04 [[kwadratny kilometer|km²]]
+|wobydlarstwo=53&nbsp;098 ''<small>(2008)</small>''
+|gustosć wobydlarstwa=450&nbsp;wobydlarjow/km²
+|postowa licba=405 02
+|pśedwólenje=
+|KFZ-wobznamjenje=
+|gmejnski kluc=
+|měsćańske zastojnstwo=jo
+|adresa=Magistrát města Děčína<br />Mírové nám. 1175/5<br />405 38 Děčín 4
+|website=[http://www.mmdecin.cz/ www.mmdecin.cz]
+|Politika=jo
+|wušy šołta=Ing. Vladislav Raška
+}}
+
+'''Jěčina''' ([[Česka rěc|''čes.'']] '''Děčín''', [[nimšćina|''nim.'']] Tetschen-Bodenbach) jo město w pódpołnocnych [[Česka|Čechach]] na [[Łobje|łobjowym dolinym]] a [[Ploučnice|Plóčnicym]], wokoło 35 km pśećiwojem rěcu wót [[Drježdźany|Drježdźan]] a wokoło 70 km z pódpołnocnym awtodrozejch wót [[Praga]]ch.
+
+[[Wobraz:Decin.JPG|thumb|250px|left|Grod w Děčínje]]
+[[Wobraz:Elbe in Decin.jpg|thumb|250px|left|Jěčin - łobjowy móst z Nowego Města do Starego Města]]
+{{-}}
+{{Wertikalna lisćina wobrazow
+|wobraz1=Flag of Decin.svg
+|wopis1=měsćańska chórgoj
+|wobraz2=Decin DC CZ.png
+|wopis2=Na kórśe [[Okres Děčín|Děčínskeje wokrejsy]]
+|wobraz3=
+|wopis3=
+}}
+
+{{-}}
+== Wobchod ==
+
+{|
+! colspan="2" align=center| Zeleznicowy wobchad  
+|- style="background:#A2A2D0;"
+| colspan="2" align=left| '''[[090 České dráhy|090]] [[Praga]] ↔ Děčín ↔ [[Drježdźany]] ↔ [[Barliń]] ↔ [[Hamburg]]</br>[[073 České dráhy|073]] [[Ústí nad Labem|Ústí nad Labem-Střekov]] ↔ Děčín </br>[[081 České dráhy|081]] Děčín ↔ [[Česká Lípa]] ↔ [[Rybníště]] ↔ [[Rumburk]]</br>[[098 České dráhy|098]] Děčín ↔ [[Dolní Žleb|Dolny Žleb]] ↔ [[Bad Schandau|'''''Bad Schandau''''']] ↔ [[Drježdźany|''Drježdźany'']]</br>[[132 České dráhy|132]] [[Duchcova]] ↔ Děčín ↔ [[Oldřichov]]''' 
 |-style="margin:0;background:"#ccccff";width:100%" align="center" cellpadding="2" 
 |- style="background: #ffffff; text-align: center;"
 | style="width: 145px;" align=left|   
@@ -46,12 +52,10 @@
 |}
 
 
-'''Jěčina''' ([[Česka rěc|''čes.'']] '''Děčín''', [[nimšćina|''nim.'']] Tetschen-Bodenbach) jo město w pódpołnocnych [[Česka|Čechach]] na [[Łobje|łobjowym dolinym]] a [[Ploučnice|Plóčnicym]], wokoło 35 km pśećiwojem rěcu wót [[Drježdźany|Drježdźan]] a wokoło 70 km z pódpołnocnym awtodrozejch wót [[Praga]]ch.
-
-[[Dataja:Elbe in Decin.jpg|thumb|250px|left|Jěčin - łobjowy móst z Nowego Města do Starego Města]]
-
-
 {{Commons|Category:Děčín}}
+
+{{Nawikašćik Ústecký kraj}}
+{{Nawikašćik Česka}}
 
 [[Kategorija:Města Českeje]]
 [[Kategorija:Łobjowy doliny]]
