@@ -15,7 +15,7 @@
  | dolnoserbski           = jo
  | webowe_sedło           = [http://nocc.sourceforge.net/ nocc.sourceforge.net]
 }}
-'''NOCC''' jo [[webmail|webmailowy klient]] (to jo websoftwara za zarědowanje elektroniskego pósta), iniciěrowany wót Olivier Cahagne a Nicolas Chalanset, nejpjerwjej napisany w Perlu pód mjenim Epimail, pón pód mjenim NOCC ('''N'''icolas '''O'''livier '''C'''halanset '''C'''ahagne) w PHP4 pśeprograměrowany. 
+'''NOCC''' jo [[webmail|webmailowy klient]] (to jo websoftwara za zastojanje elektroniskego posta), iniciěrowany wót Olivier Cahagne a Nicolas Chalanset, nejpjerwjej napisany w Perlu pód mjenim Epimail, pón pód mjenim NOCC ('''N'''icolas '''O'''livier '''C'''halanset '''C'''ahagne) w PHP4 pśeprograměrowany. 
 
 Pódpěra protokole IMAP (wěsty abo nic), POP3 (wěsty abo nic) a SMTP (z awtentifikaciju abo bźez awtentifikacije). Su we formaśe XHTML 1.1 Strict napórane a wužywaju někótare JavaScriptowe funkcije, aby se wěste funkcije wólažcyli. 
 
