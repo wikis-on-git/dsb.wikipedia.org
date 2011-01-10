@@ -17,7 +17,7 @@
 }}
 '''NOCC''' jo [[webmail|webmailowy klient]] (to jo websoftwara za zastojanje elektroniskego posta), iniciěrowany wót Olivier Cahagne a Nicolas Chalanset, nejpjerwjej napisany w Perlu pód mjenim Epimail, pón pód mjenim NOCC ('''N'''icolas '''O'''livier '''C'''halanset '''C'''ahagne) w PHP4 pśeprograměrowany. 
 
-Pódpěra protokole IMAP (wěsty abo nic), POP3 (wěsty abo nic) a SMTP (z awtentifikaciju abo bźez awtentifikacije). Su we formaśe XHTML 1.1 Strict napórane a wužywaju někótare JavaScriptowe funkcije, aby se wěste funkcije wólažcyli. 
+Pódpěra protokole IMAP (wěsty abo nic), POP3 (wěsty abo nic) a SMTP (z awtentifikaciju abo bźez awtentifikacije). Napórane boki su we formaśe XHTML 1.1 Strict a wužywaju někótare JavaScriptowe funkcije, aby se wěste funkcije wólažcyli. 
 
 Jogo zaměr jo, jadnory webmailowy klient k dispoziciji stajiś, kótaryž wót tak mało ako móžno PHP-modulow wótwisujo (tuchylu stej to jano modula IMAP za wóteběranje e-mailkow a ICONV za rědowanje trěbnych znamuškowych sajźbow).
 
