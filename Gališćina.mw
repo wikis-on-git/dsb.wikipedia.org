@@ -5,25 +5,31 @@
 |tema2=žywa keltiska rěc
 }}
 {{Infokašćik rěc
-|Barwa=Indoeuropska
-|mě=Gališćina
+|barwa=Indoeuropska
+|mě=Gališćina<ref name="dnw">{{dnw|titel=gallisch}}{{dnw|titel=Gallien}} (W słowniku stej jano słowje za ''gallisch'' a ''Gallien'', tak až toś ta forma se analogiski pó drugich mjenjach rěcow twóri.)</ref>
 |mortwa=wót 6. lětstotka, snaź regionalnje akle wót 10. lětstotka
 |klasifikacija=[[Indoeuropske rěcy]]
 :[[Keltiske rěcy]]
 ::[[Kontinentalne keltiske rěcy]]
-:::'''Gališćina'''
+:::'''Gališćina'''<ref name="dnw" />
 |družyna pisma=[[staroitalski alfabet]], [[łatyński alfabet]], [[grichiski alfabet]]
 |iso_639-3=[http://www.sil.org/iso639-3/documentation.asp?id=xtg xtg] Transalpinska gališćina<br />
 [http://www.sil.org/iso639-3/documentation.asp?id=xcg xcg] Cisalpinska gališćina<br />
-[http://www.sil.org/iso639-3/documentation.asp?id=xlp xlp] Lepontišćina<br />
-[http://www.sil.org/iso639-3/documentation.asp?id=xga xga] Galatišćina
+<!--[http://www.sil.org/iso639-3/documentation.asp?id=xlp xlp] Lepontišćina<br />
+[http://www.sil.org/iso639-3/documentation.asp?id=xga xga] Galatišćina-->
 }}
-'''Gališćina''' jo była keltiska rěc, kótaraž bu wót [[Galličan|Galličanow]] w teritorijach źinsajšnych krajow powědana:
+'''Gališćina'''<ref name="dnw" /> jo była keltiska rěc, kótaraž bu wót [[Galieŕ|Galierjow]] w teritorijach źinsajšnych krajow powědana:
 * [[Francojska]]
 * [[Belgiska]]
 * Pódwjacorna [[Nimska]]
 * Pódpołnocna [[Italska]]
+[[Lepontišćina]] a [[Galatišćina]] stej byłej pódobnej rěcy, ale se wót někotarych awtorow za narěcy matej. Wóna jo mimo [[Kelitberišćina|Keltiberišćiny]] głowne žrědło za [[kontinentalne keltiske rěcy]].
 
+== Dopokazy ==
+Nejwěcej znatej dopokaza rěcy stej Kalender wót Coligny (nimski ''Kalender von Coligny'', 50-80) a grafiti wót Condetomagos (nimski ''Graffiti von Condetomagos'', La Graufesenque, 1. lětstotk).
+
+== Nožki ==
+<references/>
 
 == Žrědła ==
 * {{Literatura
@@ -38,6 +44,25 @@
   | Online=http://www.esperanto.be/fel/mon/006035.html
   | boki=16 a 17
 }}  {{ref-eo}}
+* {{Literatura
+  | awtor=Harald Haarmann
+  | titel=Lexikon der untergegangenen Sprachen
+  | rěc=Nimšćina
+  | nakładnistwo=Verlag C.H.Beck
+  | lěto=2002
+  | ISBN=3-406-47596-5
+  | boki=74-75
+}} {{ref-de}}
+* {{Literatura
+  | wudawaŕ=Helmut Glück
+  | titel=Metzler Lexikon Sprache
+  | rěc=Nimšćina
+  | nakładnistwo=J.B. Metzler
+  | městno=Stuttgart, Weimar
+  | lěto=1993
+  | ISBN=3-476-00937-8
+  | boki=203
+}} {{ref-de}}
 
 {{Nawikašćik keltiske rěcy}}
 
