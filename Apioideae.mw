@@ -38,99 +38,325 @@ W pódswójźbje Apioideae jo wěcej 400 rodow a něźi 3500 družynow. Moderne 
 
 Pódswójźba Apioideae se tuchylu do 21 tribusow rozrědujo a někotare rody hyšći njejsu do žednego tribusa zarědowane (pó Steven R. Downie u. a. 2001,<ref name="Downie2001" /> F.-J. Sun u. a. 2004,<ref name="Sun2004" /> A. R. Magee u. a. 2009<ref name="Magee2009" />), pśidatne informacije su „[[Germplasm Resources Information Network]]“ <ref name="GRIN"/>, „The Plant List - A working list of all plant species“<ref name="plantlist"/>a „The Euro+Med Plantbase - the information resource for Euro-Mediterranean plant diversity“<ref name="Euro+Med"/> wuwzate) (wuběrk na rody):
 
-
-* [[Gusyne stopki (rod)|Gusyne stopki]]<ref>{{dnw|titel=Giersch}}</ref> (''Aegopodium'')
-* [[Hundspetersilie]] (''Aethusa cynapium'')
-* [[Knorpelmöhren]] (''Ammi'')
-** ''[[Ammi majus]]''
-* [[Dyla (rod)]] (''Anethum'')
-** [[Dyla]]<ref>{{Starosta1999|bok=127}}</ref><ref>{{dnw|titel= Dill}}</ref> (''Anethum graveolens'')
-* [[Angelika]]<ref>{{dnw|titel=Engelwurz}}</ref> (''Angelica''): Z něźi 110 družynami:
-** [[Arznei-Engelwurz|Engelwurz]] (''Angelica archangelica'')
-* [[Kerbjel]]<ref>{{dnw|titel=Kerbel}}</ref> (''Anthriscus'')
-* [[Měrik]]<ref>{{Starosta1999|bok=292}}</ref><ref>{{dnw|titel= Sellerie}}</ref> (''Apium'')
-* ''[[Arracacia]]'': Z něźi 55 družynami.
-* [[Alpen-Augenwurz|Augenwurz]] (''Athamanta'') 
-* [[Berle (Gattung)|Berle]] (''Berula''):
-** [[Schmalblättriger Merk]] (''Berula erecta'')
-* [[Stinkkoriander]] (''Bifora'')
-** [[Strahliger Hohlsame]] (''Bifora radians'')
-* [[Knollenkümmel]] (''Bunium'')
-* [[Hasenohren]] (''Bupleurum''): Z něźi 190 družynami.
-* [[Garba (rod)]]<ref name="starosta">{{Starosta1999|bok=192|lema="Wiesenkümmel"}}</ref> <ref name="dnw">{{dnw|titel= Kümmel}}</ref> (''Carum'')
-** [[Garba]]<ref name="starosta"/><ref name="dnw"/> (''Carum carvi'')
-** ''[[Carum multiflorum]]''
-* [[Haftdolde]] (''Caucalis'')
-** [[Möhren-Haftdolde]] (''Caucalis platycarpos'')
-* [[Kälberkropf]] (''Chaerophyllum''): Z něźi 60 družynami.
-* [[Wasserschierlinge]] (''Cicuta'')
-** [[Wasserschierling]] (''Cicuta virosa'')
-* [[Brenndolden]] (''Cnidium'')
-* [[Bołgłowa]]<ref>{{dnw|titel= Schierling}}</ref> (''Conium'')
-** [[Gefleckter Schierling]] (''Conium maculatum'')
-* [[Schierlingssilge]] (''Conioselinum'')
-* [[Koriander (rod)|Koriander]]<ref>{{dnw|titel=Koriander}}</ref> (''Coriandrum'')
-* [[Meerfenchel]] (''Crithmum'')
-* ''[[Cryptotaenia]]''
-** [[Mitsuba]] (''Cryptotaenia japonica'')
-* [[Kreuzkümmel]] (''Cuminum'')
-* [[Marchwej]]<ref>{{Starosta1999|bok=224}}</ref><ref>{{dnw|titel= Möhre}}</ref> (''Daucus'')
-** [[Wšedna marchwej]] (''Daucus carota'')
-* [[Sichelmöhre]] (''Falcaria'')
-** [[Gemeine Sichelmöhre]] (''Falcaria vulgaris'')
-* [[Steckenkräuter]] (''Ferula''): Z něźi 175 družynami.
-* [[Kopśica]]<ref>{{Starosta1999|bok=190}}</ref><ref>{{dnw|titel= Fenchel}}</ref> (''Foeniculum vulgare'')
-* [[Wjelkowa stopa]]<ref>{{dnw|titel=Bärenklau}}</ref> (''Heracleum''): Z něźi 65 družynami.
-* [[Rosskümmel]] (''Laser'')
-* [[Laserkraut]] (''Laserpitium'')
-* [[Libštok]]<ref>{{Starosta1999|bok=217}}</ref><ref>{{dnw|titel= Liebstöckel}}</ref> (''Levisticum'')
-* [[Maćica]] (''Ligusticum''): Z něźi 50 družynami, na pś.:
-** [[:hsb:Alpiska maćica]] (''Ligusticum mutellina'')
-* ''[[Lomatium]]'': Z něźi  74 družynami.
-* [[Bärwurz]] (''Meum athamanticum'')
-* ''[[Myrrhidendron]]''
-* [[Domacna paprotka]]<ref>{{dnw|titel= Süßdolde}}</ref> (''Myrrhis odorata'')
-* Wasserfenchel (''Oenanthe'')
-* [[Strahldolde]] (''Orlaya''):
-** [[Strahlen-Breitsame]] (''Orlaya grandiflora'')
-* [[Pastinaka]]<ref>{{dnw|titel=Pastinake}}</ref> (''Pastinaca'')
-* [[Peterzilija (rod)]] (''Petroselinum''):
-** [[Peterzilija]]<ref>{{Starosta1999|bok=294}}</ref><ref>{{dnw|titel= Petersilie}}</ref> (''Petroselinum crispum'')
-* [[Haarstrang (Gattung)|Haarstrang]] (''Peucedanum''): Z něźi 110 družynami.
-* [[Bibernelle]] (''Pimpinella''): Z něźi 150 družynami.
-* [[Rippendolde]] (''Pleurospermum''):
-** [[Österreichischer Rippensame]] (''Pleurospermum austriacum'')
-* [[Venuskamm (Gattung)]] (''Sandix''):
-** [[Venuskamm]] (''Scandix pecten-veneris'')
-* [[Silge]] (''Selinum''):
-** [[Kümmelblättrige Silge]] (''Selinum carvifolia'')
-* [[Bergfenchel]] (''Seseli''): Z něźi 110 družynami:
-** [[Steppenfenchel]] (''Seseli annuum'')
-** [[:hsb:Hojaca morchwica]] (''Seseli libanotis'')
-* [[Merk (Gattung)|Merk]] (''Sium'')
-** [[Zuckerwurzel]] (''Sium sisarum'')
-* [[Wiesensilgen]] (''Silaum'')
-** [[Gewöhnliche Wiesensilge]] (''Silaum silaus'')
-* [[Gelbdolde]] (''Smyrnium'')
-* [[Zirmet]] (''Tordylium'')
-* [[Borstendolden]] oder Klettenkerbel (''Torilis'')
-*  (''Trachyspermum'').
-** [[Ajowan]] (''Trachyspermum ammi'')
-** [[Radhuni]] (''Trachyspermum ''roxburghianum'' (DC.) H.Wolff)
-* [[Faserschirme]] (''Trinia'')
-** [[Blaugrüner Faserschirm]] (''Trinia glauca'')
-* [[Klettendolde]] (''Turgenia latifolia'')
-
-=== Saniculoideae ===
-[[Dataja:Astrantia major6.jpg|thumb|[[Wulki bělan]] (''Astrantia major'')]]
-Toś ta pódswójźba jo rědowana do dweju tribusowu z něźo źaseś rodami a 335 družynami:
-: Steganotaenieae C.I.Calviño & S.R.Downie: Z dwoma rodoma a jano dwěma až tśi družynami:
-* ''[[Steganotaenia]]''
-: Saniculeae Burnett: Z wósym rodami a něźi 333 družynami.
-* [[Sterndolde]] (''Astrantia'')
-* [[Mannstreu]] (''Eryngium''): Z něźi 250 družynami.
-* [[Schaftdolde]] (''Hacquetia'')
-* [[Sanikel]] (''Sanicula'')
+*Tribus [[Aciphylleae]] <span class="Person">[[Mark F.Watson|M.F.Watson]]</span> & <span class="Person">[[Stephen R. Downie|S.R.Downie]]</span>:<ref name="Evol"/>
+** ''[[Aciphylla]]'' <span class="Person">[[Johann Reinhold Forster|J.R.Forst.]]</span> & <span class="Person">[[Georg Forster| & G.Forst.]]</span> (Syn.: ''Coxella'' <span class="Person">Cheeseman</span> & <span class="Person">Hemsl.</span>): Něźi 40 družynow jo pśedewšym w [[Nowoseelandska|Nowoseelandskej]] rozšyrjone; něźi dwě družynje stej w [[Awstralija|Awstraliji]] domacnej.
+** ''[[Anisotome]]'' <span class="Person">[[Joseph Dalton Hooker|Hook.f.]]</span>: Domownja něźi 16 družynow je pśedewšym Nowoseelandska.
+** ''[[Gingidia]]'' <span class="Person">[[John Wyndham Dawson|J.W.Dawson]]</span> (Syn.: ''Gingidium'' <span class="Person">J.R.Forst.</span> & <span class="Person">G.Forst.</span>): Něźi sedym družynow se namaka z pěś družynami w Nowoseelandskej a dwěma družynoma w Awstraliji.
+** ''[[Lignocarpa]]''  <span class="Person">J.W.Dawson</span>: Něźi dwě družynje stej w Nowoseelandskej domacnej.
+** ''[[Scandia (Apiaceae)|Scandia]]'' <span class="Person">J.W.Dawson</span>: Domownja něźi dweju družynowu je Nowoseelandska.
+*Tribus [[Annesorhizeae]] <span class="Person">[[Anthony R. Magee|Magee]]</span>, <span class="Person">[[Carolina I. Calviño|C.I.Calviño]]</span>, <span class="Person">[[Mei Liu|M.Liu]]</span>, <span class="Person">S.R.Downie</span>, <span class="Person">[[Patricia M. Tilney|P.M.Tilney]]</span> & <span class="Person">[[Ben-Erik Van Wyk|B.-E. van Wyk]]</span>: Z něźi šesć rodami w [[Europa|Europje]] a [[Afrika|Africe]]:
+** ''[[Annesorhiza]]'' <span class="Person">[[Adelbert von Chamisso|Cham.]]</span> & <span class="Person">[[Diederich Franz Leonhard von Schlechtendal|Schltdl.]]</span>: Něźi 14 družynow jo w [[Pódpołdnjowa Afrika (region)|pódpołdnjowej Africe]] rozšyrjone.
+** ''Astydamia'' <span class="Person">[[Augustin-Pyrame de Candolle|DC.]]</span>: Z jadnučkeju družynu:
+*** [[Nymphendolde]] (''Astydamia latifolia'' (<span class="Person">[[Carl von Linné (Sohn)|L.f.]]</span>) <span class="Person">[[Henri Ernest Baillon|Baill.]]</span>): Rozšyrjeński teritorij jo na dłujkowjacornu Afriku a [[Kanariske kupki]] wobgranicowany.
+** ''[[Chamarea]]'' <span class="Person">[[Christian Friedrich Ecklon|Eckl.]]</span> & <span class="Person">[[Carl Ludwig Philipp Zeyher|Zeyh.]]</span> (Syn.: ''Schlechterosciadium'' <span class="Person">H.Wolff</span>): Něźi pěś družynow jo w pódpołdnjowej Africe rozšyrjone.<ref>[http://redlist.sanbi.org/search.php?sppsearch=Chamarea Zapisk] pśi [http://redlist.sanbi.org ''Red List of South African Plants'' pśi ''sanbi.org''.]</ref>
+** ''Ezosciadium'' <span class="Person">[[Brian Laurence Burtt|B.L.Burtt]]</span>: Z jadnučkeju družynu:
+*** ''[[Ezosciadium capense]]'' (<span class="Person">Eckl.</span> & <span class="Person">Zeyh.</span>) <span class="Person">B.L.Burtt</span>: Toś ta wobgrozona družyna jo jadnolětna rostlina a [[endemit]] [[Pódzajtšny kap|Pódzajtšnego kapa]]<ref>[http://redlist.sanbi.org/species.php?species=2113-1 Zapisk] pśi [http://redlist.sanbi.org ''Red List of South African Plants'' pśi ''sanbi.org''.]</ref>.
+** ''Itasina'' <span class="Person">[[Constantine S. Rafinesque-Schmaltz|Raf.]]</span> (Syn.: ''Thunbergiella'' <span class="Person">H.Wolff</span>): Z jadnučkeju družynu:
+*** ''[[Itasina filifolia]]'' (<span class="Person">[[Carl Peter Thunberg|Thunb.]]</span>) <span class="Person">Raf.</span>: Toś ta wobgrozona družyna jo [[endemit]] [[Pódwjacorny kap|Pódwjacornego kapa]].<ref>[http://redlist.sanbi.org/species.php?species=2145-1 Zapisk] pśi [http://redlist.sanbi.org ''Red List of South African Plants'' pśi ''sanbi.org''.]</ref>
+** ''[[Molopospermum]]'' <span class="Person">[[Wilhelm Daniel Joseph Koch|W.D.J.Koch]]</span>: Jadna až tśi družyny wustupuju w Europje, na pś.:
+*** [[Peloponnesische Schirmdolde]], Striemendolde, Striemensame (''Molopospermum peloponnesiacum'' (<span class="Person">[[Carl von Linné|L.]]) <span class="Person">W.D.J.Koch</span>)
+[[Dataja:Foeniculum vulgare.JPG|miniatur|Habitus, listowe łopjena a dwójne wokołkowe kwiśonkowe stołki [[Kopśica|kopśicy]] (''Foeniculum vulgare'').]]
+*Tribus [[Apieae]] <span class="Person">[[Armen Tachtadschjan|Takht.]]</span> ex <span class="Person">[[Vera Mikhaylovna Vinogradova|V.M.Vinogr.]]</span>:
+** [[Knorpelmöhren]] (''Ammi'' <span class="Person">L.</span>, Syn.: ''Visnaga'' <span class="Person">Gaertn.</span>): Něźi šesć družynow jo w [[Region Srjejźnego mórja|regionje Srjejźnego mórja]] domacne<ref name="FloCh"/>; na pś.:
+*** ''[[Ammi majus]]'' <span class="Person">L.</span>
+** [[Dyla (rod)]] (''Anethum'' <span class="Person">L.</span>: Z jadnučkeju družynu<ref name="FloCh"/>):
+*** [[Dyla]]<ref>{{Starosta1999|bok=127}}</ref><ref>{{dnw|titel= Dill}}</ref> (''Anethum graveolens'' <span class="Person">L.</span>): Spócetny rozšyrjeński teritorij źinsa swětodaloko sajźoneje wěrcowego zelka jo była Krotkozajtšna Azija.
+** [[Měrik]]<ref>{{Starosta1999|bok=292}}</ref><ref>{{dnw|titel= Sellerie}}</ref> (''Apium'' <span class="Person">L.</span>, Syn.: ''Panulia'' (<span class="Person">Baill.</span>) <span class="Person">Koso-Pol.</span>): Něźi 20 družynow jo w měrnych šyrinach swětodaloko rozšyrjone.
+** ''[[Billburttia]]'' <span class="Person">Magee</span> & <span class="Person">B.-E.van Wyk</span>: Dwě družynje stej na [[Madagaskar]]je endemiskej<ref name="PlSysEv"/>.
+** ''[[Deverra]]'' <span class="Person">DC.</span> (Syn.: ''Pituranthos'' <span class="Person">Viv.</span>)
+** ''Foeniculum'' <span class="Person">[[Philip Miller|Mill]]</span>: Z jadnučkeju družynu:
+*** [[Kopśica]]<ref>{{Starosta1999|bok=190}}</ref><ref>{{dnw|titel= Fenchel}}</ref> (''Foeniculum vulgare'' <span class="Person">L.</span>): Spócetny rozšyrjeński teritorij źinsa swětodaloko sajźaneje rostliny jo był region Srjejźnego mórja.
+** ''Naufraga'' <span class="Person">[[Lincoln Constance|Constance]]</span> & <span class="Person">[[John Francis Michael Cannon|Cannon]]</span>: Z jadnjučkeju družynu:
+*** ''[[Naufraga balearica]]'' <span class="Person">Constance</span> & <span class="Person">Cannon</span>: Domownja lažy na špańskej kupce [[Mallorca]].
+** [[Peterzilija (rod)]] (''Petroselinum'' <span class="Person">[[John Hill|Hill]]</span>): Z dwěma družynoma, mjaz tym znata kulturna rostlina [[peterzilija]]<ref>{{Starosta1999|bok=294}}</ref><ref>{{dnw|titel= Petersilie}}</ref> (''Petroselinum crispum'' (<span class="Person">Mill.</span>) <span class="Person">Nyman</span> & <span class="Person">A.W.Hill</span>); spócetnje domacna w Europje a zazdaśim Pódwjacorna Azija.
+** ''Ridolfia'' <span class="Person">[[Giuseppe Giacinto Moris|Moris]]</span>: Z jadnučkeju družynu:
+*** ''[[Ridolfia segetum]]'' (<span class="Person">Guss.</span>) <span class="Person">Moris</span> w regionje Srjejźnego mórja.
+[[Dataja:Bupleurum angulosum1.jpg|miniatur|Habitus, listowe łopjena a kwiśonkowy stołk wót ''[[Bupleurum angulosum]]''.]]
+*Tribus [[Arracacia]]:
+** ''Arracacia'' Bancr.: Z jano jadneju družynu:
+*** [[Arakacha]] (''Arracacia xanthorrhiza''): Domownja jo Peru a Kolumbiska.
+** ''[[Coaxana]]'' J.M.Coult. & Rose
+** ''[[Coulterophytum]]'' B.L.Rob.
+** ''Dahliaphyllum'' Constance & Breedlove: Z jano jadneju družynu:
+*** ''[[Dahliaphyllum almedae]]'' Constance & Breedlove
+** ''[[Donnellsmithia]]'' J.M.Coult. & Rose
+** ''Enantiophylla'' J.M.Coult. & Rose: Z jano jadneju družynu:
+*** ''[[Enantiophylla heydeana]]'' J.M.Coult. & Rose
+** ''Mathiasella'' Constance & C.Hitchc.: Z jano jadneju družynu:
+*** ''[[Mathiasella bupleuroides]]'' Constance & C.L.Hitchc.
+** ''[[Myrrhidendron]]'' J.M.Coult. & Rose
+** ''[[Prionosciadium]]'' S.Watson
+** ''[[Rhodosciadium]]'' S.Watson
+*Tribus Bupleureae Spreng. (snaź swójska pódswójźba Bupleuroideae S.L.Pan.): Z jadnučkim rodom:
+** [[Hasenohren]] (''Bupleurum'' L.): Z 180 až 190 družynami spócetnje w měrnych conach pódpołnocneje połkule rozšyrjone.
+[[Dataja:Aegopodium podagraria Heidelberg.JPG|miniatur|[[Gusyne stopki]] (''Aegopodium podagraria'')]]
+*Tribus [[Careae]] Baill.:
+**''[[Aegokeras]]'' Raf.
+** [[Gusyne stopki (rod)|Gusyne stopki]]<ref>{{dnw|titel=Giersch}}</ref> (''Aegopodium''): Z pěś až sedym družynami a rozšyrjenim w Europje a Aziji.
+** [[Garba (rod)]]<ref name="starosta">{{Starosta1999|bok=192|lema="Wiesenkümmel"}}</ref><ref name="dnw">{{dnw|titel= Kümmel}}</ref> (''Carum'' L., Syn.: ''Selinopsis'' Coss. & Durieu): 20 až 30 družynow jo w Europje, pódpołnocnej Africe a Aziji rozšyrjone<ref name="Papini"/>. Na pś.:
+*** [[Garba|Wšedna garba]]<ref name="starosta"/><ref name="dnw"/> (''Carum carvi'') L.: Domownja lažy w krajach Srjejźnego mórja a w Krotkozajtšneje Azije.
+*** ''[[Carum multiflorum]]'' (Sm.) Boiss.: Domownja jo pódzajtšny region Srjejźnego mórja.
+** ''[[Cyclospermum]]'' Lag.
+** [[Sichelmöhren (Gattung)|Sichelmöhren]] (''Falcaria'' Fabr.): Na pś. [[Gemeine Sichelmöhre|Gemeinen Sichelmöhre]].
+** ''[[Fuernrohria]]'' K.Koch
+** ''[[Grammosciadium]]'' DC.
+** ''[[Rhabdosciadium]]'' Boiss.
+*Tribus Choritaenieae Magee, C.I.Calviño, M.Liu, S.R.Downie, P.M.Tilney & B.-E. van Wyk: Z jadnučkim rodom:
+** ''Choritaenia'' Benth.: Z jadnučkeju družynu:
+*** ''[[Choritaenia capensis]]'' Burtt Davy: Wustupujo w pódpołdnjowej Africe.
+*Tribus [[Echinophoreae]] Benth.:
+** ''Anisosciadium'' DC.<ref name="Taxonomicom"/>: Domownja něźi tśich družynow lažy w Bliskem Pódzajtšu.
+** ''Dicyclophora'' Boiss.: Z jadnučkeju družynu:
+*** ''[[Dicyclophora persica]]'' Boiss.: Domownja lažy w Iranje.
+** ''[[Echinophora]]'' L.: Něźi źaseś družynow jo wót region Srjejźnego mórja pśez Balkansku połkupu a Ukrainu ale teke pśez pódwjacornu Aziju až do regiona Kawkaza rozšyrjone. Jadna družyna toś togo roda jo ''[[Echinophora spinosa]]''.
+** ''Ergocarpon'' C.C.Towns.<ref name="Taxonomicom"/>: Z jadnučkeju družynu:
+*** ''[[Ergocarpon cryptanthum]]'' (Rech.f.) C.C.Towns.: Domownja jo Iran.
+** ''[[Pycnocycla]]'' Lindl.: Domownja jadneje až někotarych družynow lažy w regionje Bliskego Pódzajtša.
+*Tribus [[Eriginieae]] Rydb.:
+** ''[[Hansenia]]'' Turcz.
+** ''[[Komarovia]]'' Korovin
+** ''[[Parasilaus]]'' Leute
+** ''[[Physospermopsis]]'' H.Wolff
+*Tribus [[Heracleum (Tribus)|Heracleum]]:
+** [[Wjelkowa stopa]]<ref>{{dnw|titel=Bärenklau}}</ref> (''Heracleum'' L.)
+** ''[[Malabaila]]'' Hoffm.
+** [[Pastinaka]]<ref>{{dnw|titel=Pastinake}}</ref> (''Pastinaca'') L.
+** ''[[Tetrataenium]]'' (DC.) Manden
+** ''[[Tordylium]]'' Tourn. ex L.: Z něźi dwěma družynoma; na pś.:
+*** [[Apulischer Zirmet]] (''Tordylium apulum'' L.)
+** ''[[Zosima]]'' Hoffm.
+*Tribus [[Heteromorpheae]] M.F.Watson & S.R.Downie:
+** ''[[Anginon]]'' Raf.
+** ''[[Dracosciadium]]'' Hilliard & B.L.Burtt
+** ''[[Glia (Gattung)|Glia]]'' Sond.
+** ''[[Heteromorpha]]'' Cham. & Schltdl.
+** ''[[Polemannia]]'' Eckl. & Zeyh.
+** ''[[Pseudocarum]]'' C.Norman
+[[Dataja:Lichtensteinia lacera plant Cape Town.JPG|miniatur|''[[Lichtensteinia lacera]]'']]
+*Tribus Lichtensteinieae Magee, C.I.Calviño, M.Liu, S.R.Downie, P.M.Tilney & B.-E. van Wyk: Z jadnučkim rodom:
+** ''[[Lichtensteinia]]'' Cham. & Schltdl.: Z rozšyrjenim w Pódpołdnjoweje Afriki.
+*Tribus Marlothielleae Magee, C.I.Calviño, M.Liu, S.R.Downie, P.M.Tilney & B.-E. van Wyk: Z jano jadnym rodom:
+** ''[[Marlothiella]]'' H.Wolff: Z rozšyrjenim w pódpołdnjoafrikańskej Namibiji.
+[[Dataja:OenantheAquatica.jpg|miniatur|Habitus a listowe łopjena [[Großer Wasserfenchel|Großen Wasserfenchel]] (''Oenanthe aquatica'').]]
+*Tribus [[Oenantheae]] Dum.:
+** [[Berle (Gattung)|Berle]] (''Berula'' W.D.J.Koch)
+** [[Wasserschierlinge]] (''Cicuta'' L.): Z tśimi až wósym družynami w pódpołnocnych měrnych conach.
+** ''[[Cryptotaenia]]'' DC.
+** ''[[Cynosciadium]]'' DC.
+** ''[[Helosciadium]]'' W.D.Koch
+** ''[[Lilaeopsis]]'' Greene
+** ''[[Limnosciadium]]'' Mathias & Constance
+** ''[[Neogoezia]]'' Hemsl.
+** [[Wasserfenchel (Gattung)|Wasserfenchel]] (''Oenanthe'' L.): Z něźi jadnasćo družynami; na pś.:
+*** [[Großer Wasserfenchel]] (''Oenanthe aquatica'' (L.) Poir.)
+** ''[[Oxypolis]]'' Raf.
+** ''[[Perideridia]]'' Rchb.
+** ''[[Ptilimnium]]'' Raf.
+** [[Merk (Gattung)|Merk]] (''Sium'' L.): Z něźi źaseś až 15 družynami z rozšyrjenim w Africe, Euraziji a pódpołnocnej Americe.
+*Tribus Phlyctidocarpeae Magee, C.I.Calviño, M.Liu, S.R.Downie, P.M.Tilney & B.-E. van Wyk: Z jano jadnym rodom:
+** ''[[Phlyctidocarpa]]'' Cannon & Theobald: Wustupujo w pódpołdnjoafrikańskej [[Namibia|Namibiji]].
+[[Dataja:Pimpinella major 001.JPG|miniatur|[[Große Bibernelle]] (''Pimpinella major'')]]
+*Tribus [[Pimpinelleae]] Spreng.:
+** ''[[Aphanopleura]]'' Boiss.
+** ''[[Arafoe]]'' Pimenov & Lavrova
+** ''[[Bubon]]'' L.
+** [[Bibernellen]] (''Pimpinella'' L.): Z něźi 150 družynami, z kótarychž 16 z europskim wustupjenim.
+** ''[[Psammogeton]]'' Edgew.
+** ''[[Registaniella]]'' Rech.f.
+*Tribus [[Pleurospermeae]] M.F.Watson & S.R.Downie:
+** ''[[Aulacospermum]]'' Ledeb.
+** ''[[Eleutherospermum]]'' K.Koch
+** ''[[Physospermum]]'' Cuss.
+** [[Rippendolden]] (''Pleurospermum'') Hoffm.: Na pś. [[Österreichischer Rippensame|Österreichischen Rippensamen]] (''Pleurospermum austriacum'' (L.) Hoffm.).
+*Tribus [[Pyramidoptereae]] Boiss.:
+** [[Knollenkümmel]] (''Bunium'' L.)
+** ''[[Crithmum]]'' L.: Mit beispielsweise:
+*** [[Meerfenchel]] (''Crithmum maritimum'' L.)
+** ''[[Elaeosticta]]'' Fenzl
+** ''[[Lagoecia]]'' L.
+** ''[[Oedibasis]]'' Koso-Pol.
+** ''[[Pyramidoptera]]'' Boiss.
+** ''[[Scaligeria]]'' DC.
+[[Dataja:Astrantia major6.jpg|miniatur|[[Sterndolde]] (''Astrantia major'')]]
+*Tribus [[Saniculeae]] Burnett: Z wósym rodami a něźi 333 družynami:
+** [[Sterndolde]] (''Astrantia'' L.): Z źaseś družynami a pśewažnym rozšyrjenim w Europje.
+** [[Mannstreu]] (''Eryngium'' L.): Z něźi 230 až 250 družynami we wšych měrnych a śopłych regionach, pśedewšym w Centralnej Americe a pódpołdnjowej Americe.
+** ''Hacquetia'' Neck. ex DC.: Z jadnučkeju družynu:
+*** [[Schaftdolde]] (''Hacquetia epipactis'' DC.): Wustupujo pśedewšym w Srjejźnej Europje.
+** [[Sanikel]] (''Sanicula'' L.): Z něźi 37 až 40 družynami a głownym rozšyrjenim w pódpołnocnej Americe a pódzajtšnej Aziji; jadna družyna wustupujo w Srjejźnej Europje.
+*Tribus [[Scandiceae]] Spreng.:
+[[Dataja:Laser trilobium flowers 2.jpg|miniatur|''[[Laser trilobium]]'']]
+[[Dataja:Orlaya Grandiflora hc.JPG|miniatur|[[Strahlen-Breitsame]] (''Orlaya grandiflora'')]]
+**Pódtribus Daucinae Dumort.:
+*** ''[[Agrocharis]]'' Hochst.
+*** ''Ammodaucus'' Coss. & Durieu: Z jadnučkeju družynu:
+**** ''[[Ammodaucus leucotrichus]]'' Coss.
+*** ''[[Conopodium]]'' W.D.J.Koch
+*** ''[[Cuminum]]'' L.: Z něźi styri družynami, na pś.:
+**** [[Kreuzkümmel]] (''Cuminum cyminum'' L.)
+*** [[Marchwej]]<ref>{{Starosta1999|bok=224}}</ref><ref>{{dnw|titel= Möhre}}</ref> (''Daucus'' L.): Na pś.: [[Wšedna marchwej]] (''Daucus carota'')
+*** ''[[Krasnovia]]'' Popov ex Schischk.
+*** ''Laser'' Borkh. ex G.Gaertn., B.Mey. & Scherb.: Z jadnučkeju družynu:
+**** [[Rosskümmel]]'' (''Laser trilobum'' (L.) Borckh.)
+*** [[Laserkräuter]] (''Laserpitium'' L.)
+*** ''[[Melanoselinum]]'' Hoffm.
+*** ''Monizia'' Lowe: Z jadnučkeju družynu:
+**** ''[[Monizia edulis]]'' Lowe
+*** Strahldolde (''Orlaya'' Hoffm.): Na pś.:
+**** [[Strahlen-Breitsame]] (''Orlaya grandiflora'' (L.) Hoffm.)
+*** ''Pachyctenium'' Maire & Pamp.: Z jadnučkeju družynu:
+**** ''[[Pachyctenium mirabile]]'' Maire & Pamp.
+*** ''[[Polylophium]]'' Boiss.
+*** ''[[Pseudorlaya]]'' (Murb.) Murb.
+*** ''[[Thapsia]]'' L.
+[[Dataja:Myrrhis odorata002.jpg|miniatur|[[Süßdolde]] (''Myrrhis odorata'')]]
+[[Dataja:Scandix pecten-veneris.jpg|miniatur|[[Venuskamm]] (''Scandix pecten-veneris'')]]
+** Pódtribus Scandicinae Tausch:
+*** [[Kerbjel]]<ref>{{dnw|titel=Kerbel}}</ref> (''Anthriscus'' Pers.)
+*** ''[[Balansaea]]'' Boiss. & Reut.
+*** [[Kälberkröpfe]] (''Chaerophyllum'' L., Syn.: ''Chrysophae'' Koso-Pol.; manchmal ''Neoconopodium'' (Koso-Pol.) Pimenov & Kljuykov): Něźi 40 družynow wustupujo w [[Eurazija|Euraziji]] a pódpołnocnej Americe.
+*** ''[[Conopodium]]'' W.D.J.Koch
+*** ''[[Geocaryum]]'' Coss.
+*** ''[[Kozlovia]]'' Lipsky
+*** ''Krasnovia'' Popov ex Schischk.: Z jadnučkeju družynu:
+**** ''[[Krasnovia longiloba]]'' (Kar. & Kir.) Popov ex Schischk.
+*** ''[[Myrrhis]]'' Mill.: Na pś.:
+**** [[Domacna paprotka]]<ref>{{dnw|titel= Süßdolde}}</ref> (''Myrrhis odorata'' (L.) Scop.)
+*** ''Myrrhoides'' Heist. ex Fabr.: Z jadnučkeju družynu:
+**** ''[[Myrrhoides nodosa]]'' (L.) Cannon
+*** ''[[Neoconopodium]]'' (Koso-Pol.) Pimenov & Kljuykov (wótergi w roźe [[Kälberkröpfe]] (''Chaerophyllum''))
+*** ''[[Osmorhiza]]'' Raf.
+*** ''[[Scandix]]'' L.: Na pś.:
+**** [[Venuskamm]] (''Scandix pecten-veneris'' L.)
+*** ''[[Sphallerocarpus]]'' Besser ex DC.
+*** ''[[Tinguarra]]'' Parl.
+*** ''[[Todaroa]]'' Parl.
+[[Dataja:Torilis japonica.jpeg|miniatur|[[Gewöhnlicher Klettenkerbel]] (''Torilis japonica'')]]
+** Untertribus Torilidinae Dumort.:
+*** ''[[Astrodaucus]]'' Drude
+*** [[Haftdolden]] (''Caucalis'' L.): Na pś.:
+**** [[Möhren-Haftdolde]] (''Caucalis platycarpos'' L.)
+*** ''Chaetosciadium'' Boiss.: Z jadnučkeju družynu:
+**** ''[[Chaetosciadium trichospermum]]'' Boiss.
+*** ''Glochidotheca'' Fenzl: Z jadnučkeju družynu:
+**** ''[[Glochidotheca foeniculacea]]'' Fenzl
+*** ''[[Lisaea]]'' Boiss.
+*** ''Szovitsia'' Fisch. & C.A.Mey.: Z jadnučkeju družynu:
+**** ''[[Szovitsia callicarpa]]'' Fisch. & C.A.Mey.
+*** [[Borstendolden]] oder Klettenkerbel (''Torilis'' Adans.): Z něźi 20 družynami.
+*** [[Klettendolde]] (''Turgenia'' Hoffm.)
+*** ''Yabea'' Koso-Pol.: Z jadnučkeju družynu:
+**** ''[[Yabea microcarpa]]'' Koso-Pol.
+[[Dataja:Floral starburst of Fool's parsley - geograph.org.uk - 843734.jpg|miniatur|Ausschnitt des Blütenstandes von [[Hundspetersilie]] (''Aethusa cynapium'')]]
+[[Dataja:AngelicaArchangelica1.jpg|miniatur|[[Arznei-Engelwurz]] (''Angelica archangelica'')]]
+[[Dataja:Apiaceae - Peucedanum cervaria-1.JPG|miniatur|[[Hirschwurz-Haarstrang]] (''Peucedanum cervaria''), Blütenstandsausschnitt]]
+[[Dataja:Selinum carvifolia eF.jpg|miniatur|[[Kümmelblättrige Silge]] (''Selinum carvifolia'')]]
+*Tribus [[Selineae]] Spreng.:
+** ''Aethusa'' L.: Z jadnučkeju družynu:
+*** [[Hundspetersilie]] (''Aethusa cynapium'') L.: Rozšyrjeński teritorij dosega wót Europy až  do [[Pódzajtšna Azija|Pódzajtšneje Azije]].
+** ''[[Aletes (Gattung)|Aletes]]'' J.M.Coult. & Rose
+** [[Angelika]]<ref>{{dnw|titel=Engelwurz}}</ref> (''Angelica'' L.): Z 100 až 200 družynami pśedewšym w Africe a Euraziji, ale teke něźi 24 družynami w pódpołnocnej Americe.
+** ''Carlesia'' Dunn.: Z jadnučkeju družynu:
+*** ''[[Carlesia sinensis]]'' Dunn
+** ''[[Chamaele]]'' Miq.
+** ''[[Chymsydia]]'' Albov
+** ''[[Cnidiocarpa]]'' Pimenov
+** ''[[Coelopleurum]]'' Ledeb. (se wót někotarych žrědłow ako synonym wot ''[[Engelwurzen|Angelica]]'' wjeźo<ref name="GRIN1" />)
+** ''[[Cortia]]'' DC.
+** ''[[Cymopterus]]'' Raf.
+** ''[[Dystaenia]]'' Kitag.
+** ''[[Endressia]]'' J.Gay
+** ''[[Exoacantha]]'' Labill.
+** ''[[Glehnia]]'' F.Schmidt ex Miq.
+** ''[[Grafia]]'' Rchb.
+** ''Harbouria'' J.M.Coult. & Rose: Z jadnučkeju družynu:
+*** ''[[Harbouria trachypleura]]'' J.M.Coult. & Rose
+** ''[[Imperatoria]]'' L.
+** ''[[Johrenia]]'' DC.
+** ''[[Karativia]]'' Pimenov &Lavrova
+** ''[[Libanotis]]'' Haller ex Zinn
+** ''[[Lomatium]]'' Raf.
+** ''Meum'' Mill.: Z jadnučkeju družynu:
+*** [[Bärwurz (Pflanze)|Bärwurz]] (''Meum athamanticum'' (L.) H.Karst.)
+** ''[[Musineon]]'' Raf.
+** ''[[Neoparrya]]'' Mathias
+** ''[[Notopterygium]]'' H.Boissieu
+** ''[[Oreonana]]'' Jeps.
+** ''[[Oreoxis]]'' Raf.
+** ''[[Orogenia]]'' S.Watson
+** ''[[Paraligusticum]]'' V.N.Tikhom.
+** [[Haarstrang (Gattung)|Haarstrang]] (''Peucedanum'' L.): Z 100 až 200 družynami w Euraziji a Africe.
+** ''[[Phlojodicarpus]]'' Turcz. ex Ledeb.
+** ''[[Podistera]]'' S.Watson
+** ''[[Polytaenia]]'' DC.
+** ''[[Pseudocynopterus]]'' J.M.Coult. & Rose
+** ''[[Pteryxia]]'' Nutt. ex Torr. & A.Gray
+** [[Silge]] (''Selinum'' L.): Beispielsweise mit:
+*** [[Kümmelblättrige Silge]] (''Selinum carvifolia'')
+** [[Bergfenchel]] (''Seseli'' L.):
+** ''Shoshonea Evert & Constance: Z jadnučkeju družynu:
+*** ''[[Shoshonea pulvinata]]'' Evert & Constance
+** ''[[Spermolepis]]'' Raf.
+** ''Sphenosciadium'' A.Gray (se teke wótergi w ''[[Angelica]]'' wjeźo<ref name="GRIN2" />): Z jadnučkeju družynu:
+*** ''[[Sphenosciadium capitellatum]]'' A.Gray
+** ''[[Taenidia]]'' (Torr. & A.Gray) Drude
+** ''[[Tauschia]]'' Schltdl.
+** ''[[Thaspium]]'' Nutt.
+** ''[[Tommasinia]]'' Bertol.
+** ''[[Xanthogalum]]'' Lallem.
+** ''[[Zizia]]'' W.D.J.Koch
+[[Dataja:Smyrnium olusatrum 0001.JPG|miniatur|[[Pferdeeppich]] (''Smyrnium olusatrum'')]]
+*Tribus [[Smyrnieae]] Spreng.:
+** ''Lecokia'' DC.: Z jadnučkeju družynu:
+*** ''[[Lecokia cretica]]'' DC.
+** [[Gelbdolde]] (''Smyrnium'' L.)
+*Tribus [[Steganotaenieae]] C.I.Calviño & S.R.Downie: Z dwěma rodoma a jano dwěma až tśimi družynami:
+** ''[[Steganotaenia]]'' Hochst.
+*Tribus [[Tordylieae]] W.D.J.Koch:
+** ''[[Cymbocarpum]]'' DC. ex C. A.Mey.
+[[Dataja:Athamanta cretensis1.jpg|miniatur|Wurězk płodowego stołka z młodymi płodami [[Alpen-Augenwurz]] (''Athamanta cretensis'').]]
+[[Dataja:Bifora radians19052002 ombelle.JPG|miniatur|[[Strahliger Hohlsame]] (''Bifora radians''), Ausschnitt des Blütenstandes.]]
+*Njezarědowane do tribusa su ([[incertae sedis]]):
+** ''[[Ammoselinum]]'' Torr. & A.Gray
+** [[Augenwurzen]] (''Athamanta'' L.): Z něźi jadnasćo družynami; na pś.:
+*** [[Alpen-Augenwurz]] (''Athamanta cretensis'').
+** [[Hohlsamen]] (''Bifora'' Hoffm.): Z něźi tśimi družynami; na pś.:
+*** [[Strahliger Hohlsame]] (''Bifora radians'')
+** ''[[Cenolophium]]'' W.D.J.Koch
+** [[Brenndolden]] (''Cnidium'' Cusson)
+** [[Bołgłowa]]<ref>{{dnw|titel= Schierling}}</ref> (''Conium'' L.): Na pś.:
+*** [[Gefleckter Schierling]] (''Conium maculatum'')
+** [[Schierlingssilge]] (''Conioselinum'' Hoffm.)
+** [[Koriander (rod)|Koriander]]<ref>{{dnw|titel=Koriander}}</ref> (''Coriandrum'' L.): Z dwěma družynoma.
+** ''[[Diplolophium]]'' Turcz.
+** ''[[Erigenia]]'' Nutt.
+*** ''[[Erigenia bulbosa]]'' Nutt.
+** [[Steckenkräuter]] (''Ferula'' L.): Na pś.:
+*** [[Asant]] (''Ferula assa-foetida'')
+** ''[[Ferulago]]'' W.D.J.Koch: Na pś.:
+*** ''[[Ferulago nodosa]]''
+*** ''[[Ferulago thyrsiflora]]''
+** ''[[Krubera]]'' Hoffm.
+** [[Libštok]]<ref>{{Starosta1999|bok=217}}</ref><ref>{{dnw|titel= Liebstöckel}}</ref> (''Levisticum'' Hill (Syn.: ''Hipposelinum'' Britton & Rose)): Něźi tśi družyny su w Afghanistanje, krotkowjacornej Aziji, Europje a pódpołnocnej Americe rozšyrjone<ref name="FloCh"/>; na pś.
+*** [[Liebstöckel]] (''Levisticum officinale'' W.D.J.Koch): Spócetna domownja lažy w pódwjacornej Aziji.
+** [[Mutterwurzen]] (''Ligusticum'' L.): Z něźi 48 družynami, na pś.:
+*** [[Alpen-Mutterwurz]] (''Ligusticum mutellina'' (L.) Crantz)
+** ''[[Lithosciadium]]'' Turcz.
+** ''[[Opopanax]]'' W.D.J.Koch: Na pś.:
+*** ''[[Opopanax hispidus]]''
+** ''[[Prangos]]'' Lindl.
+** [[Wiesensilgen]] (''Silaum'' Mill.): Na pś.:
+*** [[Gewöhnliche Wiesensilge]] (''Silaum silaus'')
+** ''[[Smyrniopsis]]'' Boiss.
+** ''[[Sphaenolobium]]'' Pimenov
+** ''Thecocarpus'' Boiss.: Z jadnučkeju družynu:
+*** ''[[Thecocarpus carvifolius]]'' (Boiss. & Balansa) Hedge & Lamond: Domownja jo Turkojska.
+** ''[[Thysselinum]]'' Adans.
+** ''[[Trachyspermum]]'' Link: Z něźi pěś družynami, na p̣ś.:
+*** [[Ajowan]] (''Trachyspermum ammi'' (L.) Sprague)
+*** [[Radhuni]] (''Trachyspermum roxburghianum'' (DC.) H.Wolff)
+** [[Faserschirme]] (''Trinia'' Hoffm.): Z něźi šesć družynami; na pś.:
+*** [[Blaugrüner Faserschirm]] (''Trinia glauca'')
 
 == Nožki ==
 <!--{{referency|2|schowajobny=jo}}-->
