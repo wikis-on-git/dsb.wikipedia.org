@@ -1,7 +1,7 @@
 {{Infokašćik rěc
 |barwa=Indoeuropska
-|mě 1=Українська мова
-|mě 2=ukrainska rěc
+|mě 1=русиньскый язык
+|mě 2=rusińska rěc
 |kraje=[[Ukraina]], [[Rusojska]], [[Běłoruska]],<br />[[Zjadnośone staty Ameriki]], [[Kazachstan]]<br /> a dalšne
 |rěcnicy=39 milionow
 |klasifikacija=[[indoeuropske rěcy]]
@@ -18,6 +18,42 @@
 |kórta=Map of Ukrainian dialects.png
 |wopis kórty=kórta ukrainskeje rěcy
 }}
+
+{{Infobox jazyk
+   |Jazyk=Rusínština ''(русиньскый язык)''
+   |Rozšíření=
+<div style="width: 200px;">
+[[Prešovský kraj]] ([[Slovensko]]), [[Zakarpatská oblast]] ([[Ukrajina]]), [[Vojvodina]] ([[Srbsko]])
+</div>
+   |Mluvčích=623 960 <ref>[http://www.ethnologue.org/show_language.asp?code=rue Rusínština na Ethnologue]</ref>, podle oficiálních statistik sčítání lidu 56&nbsp;893 <ref>Oficiální statistiky sčítání lidu v jednotlivých zemích, kde žijí [[Rusíni]]:
+* [[Slovensko]] - 24 201 [http://www.statistics.sk/webdata/scitanie/def_sr/Data/100000/Z155A_100000.pdf]
+* [[Srbsko]] - 15 626 [http://webrzs.stat.gov.rs/zip/esn31.pdf]
+* [[Ukrajina]] - 6 725 [http://www.ukrcensus.gov.ua/results/nationality_population/nationality_popul2/select_5/?data1=1&box=5.5W&rz=1_1&rz_b=2_1&k_t=00&botton=cens_db]
+* [[Chorvatsko]] - 2 337 [http://www.dzs.hr/default_e.htm]
+* [[Polsko]] - 5 800 [http://www.stat.gov.pl/english/]
+* [[Maďarsko]] - 1 098 [http://www.nepszamlalas.hu/eng/volumes/18/tables/load1_28.html]
+* [[Česko]] - 1 106 [http://www.czso.cz/csu/2005edicniplan.nsf/t/D6002FD8F5/$File/kap_I_05.pdf]</ref>
+   |Klasifikace=
+<div style="width: 200px;">
+* [[Indoevropské jazyky]]
+** [[Slovanské jazyky]]
+*** [[Východoslovanské jazyky]]
+</div>
+   |Písmo=[[Cyrilice]]
+   |Úřední jazyk=
+<div style="width: 200px;">
+[[Vojvodina]] ([[Srbsko]]), uznávána jako jazyk menšiny na [[Slovensko|Slovensku]]
+</div>
+   |Regulátor=
+<div style="width: 200px;">
+''není stanoven''
+</div>
+   |ISO6391=ry
+   |ISO6392B=sla
+   |ISO6392T=sla
+   |SIL=RUE
+   |wiki=[[:rue:Головна_сторінка|rue.wikipedia.org]]
+ }}
 
 [[af:Rusyn]]
 [[az:Rusin dili]]
