@@ -1,40 +1,32 @@
-<br style="clear:both"/>
-{|table id="toc" style="margin:0;background:"#ccccff";width:100%" align="right" cellpadding="1"
-| style="background:blue"  align="center" width="130px" colspan=2 |'''<font color=White>Zagreb</font>'''
-| 
-|-style="margin:0;background:"#ccccff";width:100%" align="center" cellpadding="2"
-! wopon
-! chórgoj 
-|- style="background: #ffffff; text-align: center;"
-| style="width: 145px;" | [[Dataja:Zagreb coa.gif|140px]]
-| style="width: 145px;" | 
-|----- bgcolor="#FFFFFF"
-| geografiske połoženje: || 45°49′0″N<br /> 15°59′0″E 
-|----- bgcolor="#FFFFFF"
-| płoń: || 641,29 km² 
-|----- bgcolor="#FFFFFF"
-| wobydlarjow  || 973 600 (lěto 2005)
-|----- bgcolor="#FFFFFF"
-| gustosć ludnosći: || 1521 wobydlarjow/km²
-|----- bgcolor="#FFFFFF"
-| wusokosć: || 122 - 1035 m 
-|----- bgcolor="#FFFFFF"
-| šołta: || Milan Bandić 
-|- 
-!colspan="2" align=center| kórta
-|- style="background:#ffffff;"
-| colspan="2" align=center|[[Dataja:CroatiaGradZagreb.png|140px]] 
-|}
+{{Infokašćik Město
+|mě=Zagreb
+|mě swójske=
+|mě serbske=
+|wopon=Zagreb coa.gif
+|lat_deg=45
+|lat_min=49
+|lat_sec=0
+|lon_deg=15
+|lon_min=59
+|lon_sec=0
+|stat=Chorwatska
+|wusokosć=120 m 
+|płonina=641,355 km²
+|wobydlarstwo=708.000 (lěto 2011)
+|gustosć wobydlarstwa=1104 wobydlarjow/km²
+|postowa licba=
+|pśedwólenje=(+385) 01
+|website=
+|Politika=jo
+|šołta=Milan Bandić 
+|kórta=CroatiaGradZagreb.png
+|wopis kórty=Połoženje Zagreba w Chorwatskej
+}}
 
 '''Zagreb''' jo głowne město a [[stolica]] [[Chorwatska|Chorwatskeje]].
 
-
-
 == Rozdźělenje města ==
-
-
-
-{|  border="1" cellpadding="4" cellspacing="0" style="margin: 0px 0 0px 0px; background: #f9f9f9; border: 1px #AAA solid; border-collapse: collapse; font-size: 95%; float: left;"
+{| class="prettytable"
 |-
 ! style="background: #efefef; border-bottom: 2px solid gray;" | 
 ! style="background: #efefef; border-bottom: 2px solid gray;" | źěl města
@@ -87,14 +79,14 @@
 [[Dataja:Zagrzeb stare miasto.jpg|thumb|right]]
 
 [[Dataja:Panorama Zagreb.jpg|800px|<center>'''Zagreb'''</center>]]
-== Eksterny wótkaz ==
+
+== Eksterne wótkaze ==
 * [http://www.zagreb.hr Internetowe boki Zagreba]
 
-[[Kategorija:Chorwatska]]
+[[Kategorija:Sedlišćo w Chorwatskej]]
+[[Kategorija:Stolica w Europje]]
 
 {{Link FA|hr}}
-
-[[vep:Zagreb]]
 
 [[af:Zagreb]]
 [[am:ዛግሬብ]]
@@ -210,6 +202,7 @@
 [[uk:Загреб]]
 [[ur:زغرب]]
 [[vec:Zagavria]]
+[[vep:Zagreb]]
 [[vi:Zagreb]]
 [[vo:Zagreb]]
 [[war:Zagreb]]
