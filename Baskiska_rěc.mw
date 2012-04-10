@@ -13,6 +13,39 @@ Dajo 6 głownych dialektow baskišćiny:
 
 [[Dataja:Basque Dialects.svg|thumb|330px|[[Nářečí|dialekty]] Baskišćiny]]
 
+== Rěcne charakteristiki ==
+
+=== Fonologija ===
+
+'''Konsonanty Baskišćiny'''
+
+{| class="prettytable"
+!
+![[labial]]
+![[dental]]
+![[Alveolar|apiko-<br />alveol.]]
+![[Alveolar|dorso-<br />alveol.]]
+![[Postalveolar|postalv.]]
+![[palatal]]
+![[velar]]
+![[glottal]]
+|-
+|[[Okklusiv]]e<br />[[njespěwny]]||{{IPA|p}}||{{IPA|t}}||{{IPA|ʦ}} (tz)||{{IPA|ʨ}} (ts)||{{IPA|ʧ}} (tx)||({{IPA|c}}) (tt)||{{IPA|k}}||.
+|-
+|[[Okklusiv]]e<br />[[spěwny]]||{{IPA|b}}||{{IPA|d}}||.||.||.||({{IPA|ɟ}}) (dd)||{{IPA|g}}||.
+|-
+|[[Frikatiwny|Frikatiwne]]||({{IPA|f}})||.||{{IPA|s}} (z)||{{IPA|ɕ}} (s)||{{IPA|ʃ}} (x)||.||{{IPA|x/ʤ}} (j)||{{IPA|h}}
+|-
+|[[Nazalny|Nazale]]||{{IPA|m}}||{{IPA|n}}||.||.||.||({{IPA|ɲ}}) (ñ)||.||.
+|-
+|[[Wibrant]]y||.||.||.||{{IPA|r}} (rr)||.||.||.||.
+|-
+|[[Tap (fonetika)|Taps]]/[[Flap (fonetik)|Flaps]]||.||.||.||{{IPA|ɾ}} (r)||.||.||.||.
+|-
+|[[Lateralny|Lateralne]]||.||.||.||{{IPA|l}}||.||{{IPA|ʎ}} (ll)||.||.
+|-
+|}
+
 [[af:Baskies]]
 [[als:Baskische Sprache]]
 [[an:Idioma vasco]]
