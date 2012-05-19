@@ -1,0 +1,262 @@
+[[Dataja:WorldMapLongLat-eq-circles-tropics-non.png|thumb|440px|Swětowa kórta z cerami za geografiske šyriny a dlininy w [[Kartografiska projekcija|projekciji]] Eckert-VI]] 
+
+Z '''geografiskimi koordinatami''' ([[geografiska šyrina]] a [[geografiska dlinina]]) dajo se połoženje dypka na [[zemja|zemi]] wopisaś. Zemja rozdźělujo se pśi tom do 360 stopnjow dlininy a 180 stopnjow šyriny. [[Stopjeń dlininy|Stopnje dlininy]] běže psez [[Pódpołnocny pol|pódpołnocny]] a [[Pódpołdnjowy pol|pódpołdnjowy pol]], [[Stopjeń šyriny|stopnje šyriny]] paralelnje k [[Ekwator|ekwatoroju]].
+
+== Koordinatowy system ==
+[[Dataja:Geographic coordinates sphere.svg|thumb|Geografiske koordinaty na kuli]] [[Stopnjowa seś]] zemje jo myslony koordinatowy system na pówjerchu zemje z pšawokutnje prěcecymi se stopnjami dlininy a stopnjami šyriny. Słužy geografiskemu [[Póstajenje pozicije|póstajenjeju pozicije]], to groni, póstajenjeju swójskego stojnišća. Stopnje šyriny lice se pśi tom wót [[Ekwator|ekwatora]] sem, pola lažytej pla 90° pódpołnocneje resp. pódpołdnjoweje šyriny, stopnje dlininy lice se wót pśipadnego [[Nulowy meridian|nulowego meridiana]] na pódzajtšo a pódwjacor, až do pó 180°. Póstajenje kutow jo napśeśiwo systemoju [[Kulowe koordinaty|kulowych koordinatow]] zwuconemu w matematice.
+
+Do zachopjeńka 20. stolěśa su w rozdźělnych krajach rozdźělne nulowe meridiany nałog byli (na&nbsp;pś. [[Ferro-Meridian]] wót [[El Hierro]] a [[Parisowy meridian]]), źinsa wužywa se swětodaloko [[Royal Greenwich Observatory|Greenwichowy meridian]] (gwězdarnja w [[London]]je).
+
+Pśi dokradnem póstajenju pozicije dej se na to źiwaś, až zemja njejo 
+kula, ale pśibližnje [[Elipsoid|elipsoid]], což by mógło pśesunjenja 
+městnow wó až k 20 km wustatkowaś. Teke mógu geografiske koordinaty, pó 
+kraju, rozdźělne póśěgowe systemy měś, kótarychž [[Referencny 
+elipsoid|referencne elipsoidy]] su regionalnemu póloju śěźnosći 
+([[Geoid]]) pśiměrjone. Mjazynarodnje wužywa se źinsa zwětšego [[World Geodetic System 1984]] (WGS84).
+
+== Kórty ==
+W 18. a 19. stolěśu wurownowachu geodety wětše regionalne wótchylenja 
+[[Zemska pódoba|zemskeje pódoby]] wót ''idealnego elipsoida'' pśez to, 
+až wóne su we wótpowědnych stronach ''[[nejlěpjej pśizamnjecy se 
+elipsoid]]'' wulicyli, až jo "zlagnuł" se derje na pówjerch zemje we 
+wótpowědnych stronach. Srjeźišćo takego elipsoida njejo se z masowym 
+srjeźišćom zemje kšyło, wobwjertna wós wšak jo paralelnje k zemskej 
+wósy. Koordinatowy system jo w pśirunanju k drugim takim elipsoidam  
+"pśesunjony" a "zekśiwjony". Tak su źasetki geodetiskich systemow 
+(póśěgowych systemow za kórty) nastali. Z wuwiwanim [[Global 
+Positioning System|satelitoweje nawigacije]] jo se dejał swětodaloko 
+jadnotny system napóraś, něntejšny [[WGS84]].
+
+W zemskich abo morskich kórtach, kótarež bazěruju skoro pśecej na 
+pjerwjejšnych systemach, by mógło pódaśe we wopacnem póśěgowem systemje 
+(na pś. zapisowanje GPS-pozicije) zmólku wjele stow metrow zawinowaś, 
+jolic referencny elipsoid (teke [[Geodetiski datum|kórtowy datum]], 
+póśěgowy 
+system) pódaśa njejo ten samki ako ten kórty. Togodla ma se pśi 
+dokradnych koordinatowych pódaśach (zaspomnjeńka: lěpše ako 1&nbsp;km 
+abo lěpše ako 1 łukowa mjeńšina) póśěgowy system pśidaś.
+
+Koordinaty daju se z pomocu gódneje transformaciskeje softwary z 
+jadnogo systema do drugego pśelicyś. Taka softwara musy parametry 
+wopśimjeś, kótarež definěruju wótchylenje póśěgowych systemow jadnogo 
+wót druego resp. wót WGS84 z tak wusokeju kaž móžno dokradnosću.
+
+=== Lětarstwo a nawtika ===
+Dokradnjejše poziciske pódaśa su trěbne w [[Lětarstwo|lětarstwje]] a 
+[[Nawtika|nawtice]]. How pódawaju geografisku šyrinu a dlininu w 
+stopnjach a [[Wobłukowa minuta|wobłukowych minutach]], na&nbsp;pś. 
+[[Zugspitze]] Lat&nbsp;=&nbsp;47°&nbsp;25’&nbsp;N abo pódpołnocneje 
+šyriny, Lon&nbsp;=&nbsp;010°&nbsp;59’&nbsp;E abo pódzajtšneje dlininy.
+* Wobłukowe minuty rozrěduju se decimalnje dalej.
+* Pó DIN 13312, płaśiwy za lětarstwo a namórnistwo, skrotcujo se 
+geografiska šyrina z ''Lat'' abo staršej z φ, geografiska dlinina z 
+''Lon'' abo λ. ''B'' a ''L'' njewótpowědujotej normje.
+* Šyrinowa minuta wótpowědujo na pówjerchu zemje cerje wót 
+1,852&nbsp;km a definěrujo dłujkosć [[Mórska mila|mórskeje mile]].
+* Cera, kótaraž wótpowědujo dlininowej minuśe, jo na ekwatorje teke 
+1,852&nbsp;km, pomjeńšujo se wšak do pola z [[Sinus a 
+kosinus|kosinusom]] geografiskeje šyriny až na nul. Wóna jo pótakem 
+''wót šyriny wótwisna''. W Europje lažy cera mjazy 1,0&nbsp;km a 
+1,5&nbsp;km (glej teke [[Wótšyrjenje|wótšyrjenje]]<ref>Pśełožowańske 
+naraźenje, glej nimski terminus [[:de:Abweitung|Abweitung]]</ref>).
+
+=== Rozměrjenje kraja ===
+W [[Rozměrjenje kraja|rozměrjenju kraja]] su dokradnosći na centimetry 
+póžědane – togodla njedosega pódaśe we [[Wobłukowa sekunda|wobłukowych 
+sekundach]], dokulaž jadna wobłukowa sekunda (1″) wótpowědujo 
+pśibližnje 31&nbsp;m (syrine pódaśe) resp. 20&nbsp;m (dlinine pódaśe w 
+Europje). W Nimskej jo se dotychměst połoženje [[Kšuty dypk|kšutych 
+dypkow]] na milimetry dokradne ako [[Koordinata Gauß-Krüger|koordinata 
+Gauß-Krüger]], póśěgowane na [[Elipsoid Besse|elipsoid Bessell]] 
+pódało, resp. na stronach [[Nimska demokratiska republika|NDR]], wót 
+1950ych lět, póśěgowane na [[Elipsoid Krassowski|elipsoid Krassowski]]. 
+Wót 1990ych lět pśewjeźo se pśestajenje na 
+[[UTM-Koordinatensystem|UTM-koordinaty]] w [[ETRS89]]-systemje, póśěgowane na [[GRS80]]-elipsoid.
+
+== Pśirodne, astronomiske, elipsoidiske, geodetiske koordinaty ==
+Pśirodne koordinaty (astronomiska šyrokosć φ a astronomiska dłujkosć λ) 
+daju se pśez [[Astronomiske póstajenje pozicije]] zwěsćiś. Póśěguju se 
+na napšawdny [[Lotowy směr|lotowy směr]] pśi měrjeńskem dypku. 
+[[Elipsoidiske koordinaty]] (B, L – teke geodetiske koordinaty 
+pomjenjone) póśěguju se na směr [[Normala|normale]] wužywanego 
+referencnego elipsoida. Diferenca mjazy lotowym směrom a elipsoidowej 
+normalu jo zwětšego mjeńša ako 10″ a groni se [[Lotowe 
+wótchylenje|lotowe wótchylenje]]. Zwětšego njeběžy ani lotowy směr ani 
+elipsoidowa normala pśez srjeźišćo zemje.
+
+Jolic stajaju se jano snadne wupominanja na dokradnosć, na&nbsp;pś. pśi 
+zwobraznjenjach kórtow we wjelgin małych měritkach, pśibližujo se 
+zemske śěleso za zjadnorjenje pśez kulu. W toś tom paźe wótpowědujotej 
+geografiska šyrina a dlinina [[Kulowe koordinaty|kulowym koordinatam]]. 
+Jano pótom jo šyrina kutow w srjeźišću zemje mjazy ekwatorom a pytanym dypkom.
+
+== Stawizny ==
+''Rozdźělenje do stopnjow'' ako rozdźělenje [[Kut|połnego kuta]] krejza 
+do 360° źo na astronoma [[Hypsikles z Alexandrije|Hypsiklesa z 
+Alexandrije]] („Anaphorikos“, 170 př.Chr.n.) a [[Hipparch z 
+Nikaia|Hipparcha z Nikaia]] (190–120 př.Ch.n.) slědk.
+
+Južo [[Claudius Ptolemäus]] jo w swójom źěle [[Geographike Hyphegesis]] 
+wokoło 150 pó Chr.n. stopnjowu seś ze stopnjami dlininy a stopnjami 
+šyriny wužył. Jogo nulowy meridian jo był až do 19. stolěśa zwětšego 
+wužyty [[Ferro-Meridian]] pśez nejpódwjacornjejšy zemski dypk, kótaryž jo 
+tegdy znaty był. Dla wjele pśemałeje kalkulacije zemskeje wobměry (neźi 
+30.000 km město 40.000 km) njewótchylaju jogo pódaśa k geografiskej 
+dlininje wó 18°3', ale w srjeźnej Europje wó wěcej ak 24° wót togo, 
+kótaryž póśěgujo se na [[Nulowy meridian|Greenwich]]. Jogo pódaśa wó 
+šyrinje laže z njejasnych pśicynow nad 
+korektnymi.<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Periods/Roman/_Texts/Ptolemy/2/10.html Claudios Ptolemaios: Geographike Hyphegesis, kap. 10. Germania Magna (Pśirownaj stopnjowe pódaśa z tych źinsajšnych kórtow)]</ref> Na jadnom boce njepasujo k pśemałemu zemskemu pśerězkoju Ptolemeusa, na drugem boce by dejało, pśi jogo pśemało wuliconem wótstawku mjazy słyńcom a zemju, 1210 zemskich radiusow ze stawa słyńca, na pśemały stopnjowy wótstawk wót ekwatora suźiś.
+
+Pó zasejnamakanju jogo źěła Geographike Hyphegesis a jogo pśełožka do 
+łatyńšćiny w ranem 15. stolěśu jo se ''stopnjowy system Ptolemeusa'' 
+malsnje pśesajźił. <ref> [http://findarticles.com/p/articles/mi_go2043/is_n5-6_v43/ai_n28609525/ An alternative route to mapping history]</ref>
+
+[[Duarte Pacheco Pereira]] (1469–1533) jo pólěpšył antikne měrjeńske 
+metody za globalnu [[Nawigacija|nawigaciju]] zakokulonu w 
+[[Acory|Acorach]]. Z rozdźělenim zemskeje kule do špańskeje a 
+portugiziskeje hemisfery w [[Dogrono wót Tordesillasa|dogronje wót 
+Tordesillasa]] z lěta 1494 jo zasej etablěrowana stopnjowa seś 
+politiski wuznam zdobyła.
+
+W lěśe 1634 jo se na El Hierro ako nejpódwjacornjejša z [[Kanariske 
+kupy|Kanariskich kupow]] nulowy meridian pśez ''Faro de Orchilla'' 
+póstajiło a akle wót lěta 1884 jo se meridian wót 
+Greenwicha zwucony wót lěta 1738 w Engelskej pśeśiwo drugim narodnym nulowym 
+meridianam pśesajźił.
+
+''Nouvelle Triangulation de la France'', kótaraž źo na měrjenja wót 
+[[Jacques Cassini]] a [[Jean Dominique Comte de Cassini]] z casa do 
+1793 slědk, jo se w běgu [[Metriski system jadnotkow#Zawjeźenje 
+metriskego systema|metrifikacije]] (pśestajenje wšych relewantnych měrow na 
+[[Meter|meter]] jako standard) wotměła. Nulowy meridian běžy pśez 
+Paris, tak až  „Old Royal Observatory“ w Greenwichu lažy pla 
+2°&nbsp;20′&nbsp;14,025″&nbsp;W (NTF), pódany w nowostopnjach. To 
+wopśimujo teke decimalne rozdźělenje [[Stopnjowa měra|stopnjoweje 
+měry]] do nowostopnjow, ''grades (nouvelle)'', źinsa pó zakonje ako [[Gon]] (1 [[połnonuhel]] = 400 nowostopnjow).
+
+Mjaztym až meridian w Greenwichu jo se pśesajźił, jo se kutowa měra Gon 
+a rozdźělenje do 400° k geodetiskemu standardoju w srjeźnej Europje 
+wuwiła. Krejzne rozdźělenje do 360° rozmějo se źinsa cesto jano 
+wobgranicowane ako terestristiske stopnjowe rozdźělenje ''(stopnjowa 
+seś)''.
+
+== Dokłady ==
+<references/>
+== Eksterne wótkaze==
+* [http://www.kowoma.de/gps/geo/laengenbreitengrad.htm Stopnje dlininy 
+a stopnje šyriny jadnorje wujasnjone
+šěrokostniki jednorje rozjasnjene] (nimski)
+* [http://www.webkuehn.de/hobbys/wikipedia/geokoordinaten/index.htm 
+Geografiske koordinaty z nastawkow Wikipedije] (nimski)
+
+[[Kategorija:Matematiska geografija]]
+
+[[af:Geografiese koördinatestelsel]]
+[[als:Geografische Lage]]
+[[am:የምድር መጋጠሚያ ውቅር]]
+[[an:Coordenatas cheograficas]]
+[[ar:نظام الإحداثيات الجغرافية]]
+[[arz:نظام تحديد المكان الجغرافى]]
+[[ast:Sistema de Coordenaes Xeográfiques]]
+[[az:Coğrafi koordinat sistemi]]
+[[bar:Geografische Koordinatn]]
+[[be:Геаграфічныя каардынаты]]
+[[be-x-old:Геаграфічныя каардынаты]]
+[[bg:Географски координати]]
+[[bn:ভৌগোলিক স্থানাঙ্ক ব্যবস্থা]]
+[[bs:Geografske koordinate]]
+[[ca:Coordenades geogràfiques]]
+[[ceb:Koordenadang heograpiko]]
+[[cs:Zeměpisné souřadnice]]
+[[cy:System gyfesur ddaearyddol]]
+[[da:Geografiske koordinater]]
+[[de:Geographische Koordinaten]]
+[[el:Γεωγραφικές συντεταγμένες]]
+[[en:Geographic coordinate system]]
+[[eo:Geografia koordinata sistemo]]
+[[es:Coordenadas geográficas]]
+[[et:Geograafilised koordinaadid]]
+[[eu:Koordenatu geografiko sistema]]
+[[fa:دستگاه مختصات جغرافیایی]]
+[[fi:Koordinaattijärjestelmä]]
+[[fr:Coordonnées géographiques]]
+[[fy:Geografyske koördinaten]]
+[[ga:Córas comhordanáide geografaí]]
+[[gd:Co-chomharran an Domhain]]
+[[gl:Coordenadas xeográficas]]
+[[gu:અક્ષાંશ-રેખાંશ]]
+[[gv:Corys co-ordnaidyn çheer-oaylleeagh]]
+[[he:קואורדינטות גאוגרפיות]]
+[[hi:भूगोलीय निर्देशांक प्रणाली]]
+[[hr:Zemljopisne koordinate]]
+[[hsb:Geografiske koordinaty]]
+[[hu:Földrajzi koordináta-rendszer]]
+[[hy:Աշխարհագրական կոորդինատներ]]
+[[ia:Systema geographic de coordinatas]]
+[[id:Sistem koordinat geografi]]
+[[ilo:Heograpikal a nagsasabtan]]
+[[is:Hnit (landafræði)]]
+[[it:Coordinate geografiche]]
+[[ja:地理座標系]]
+[[jv:Sistem koordinat géografi]]
+[[ka:გეოგრაფიული კოორდინატები]]
+[[kk:Географиялық координаттар]]
+[[kn:ಭೌಗೋಳಿಕ ನಿರ್ದೇಶಾಂಕ ಪದ್ಧತಿ]]
+[[ko:지리 좌표계]]
+[[ky:Географиялык координаталар]]
+[[la:Coordinata geographica]]
+[[lij:Coordinæ geografiche]]
+[[lmo:Cuurdinad geugrafich]]
+[[lo:ພິກັດພູມສາດ]]
+[[lv:Ģeogrāfiskā koordinātu sistēma]]
+[[map-bms:Sistem koordinat geografi]]
+[[mhr:Географик координат-влак]]
+[[mk:Географски координатен систем]]
+[[ml:ജ്യോഗ്രഫിക് കോഓർഡിനേറ്റ് സിസ്റ്റം]]
+[[mn:Газарзүйн координатын систем]]
+[[mr:भौगोलिक गुणक पद्धती]]
+[[ms:Sistem koordinat geografi]]
+[[mzn:دستگاه مختصات جغرافیایی]]
+[[nah:Cemonocāyōtl cemānāhuacāyōcopa]]
+[[nap:Sëštém d'u cördënazjôn gjögrafëxë]]
+[[nds:Geograafsche Laag]]
+[[nds-nl:Geografische koördinaoten]]
+[[nl:Geografische coördinaten]]
+[[no:Jordens koordinatsystem]]
+[[oc:Coordenadas geograficas]]
+[[os:Географион координатæтæ]]
+[[pfl:Geografisch Laach]]
+[[pl:Współrzędne geograficzne]]
+[[pms:Coordinà geogràfiche]]
+[[pt:Coordenadas geográficas]]
+[[qu:Tinkurachina siwi]]
+[[ro:Coordonate geografice]]
+[[ru:Географические координаты]]
+[[sah:География координаталара]]
+[[sh:Geografske koordinate]]
+[[si:භූගෝලීය ඛණ්ඩාංක පද්ධතිය]]
+[[simple:Geographic coordinate system]]
+[[sk:Geografický súradnicový systém]]
+[[sl:Geografski koordinatni sistem]]
+[[sn:Gumbapamwe reZviringani ZveTaranyika]]
+[[sq:Koordinatat gjeografike]]
+[[sr:Географске координате]]
+[[su:Sistim koordinat géografi]]
+[[sv:Geografiska koordinatsystem]]
+[[sw:Anwani ya kijiografia]]
+[[szl:Geograficzne wspůłrzyndne]]
+[[ta:புவியியல் ஆள்கூற்று முறை]]
+[[th:พิกัดภูมิศาสตร์]]
+[[tk:Koordinatalar]]
+[[tl:Sistemang heograpikal ng mga koordinato]]
+[[tr:Coğrafi koordinat sistemi]]
+[[uk:Географічні координати]]
+[[ur:جغرافیائی متناسق نظام]]
+[[uz:Koordinatalar]]
+[[vec:Cordinade giogràfeghe]]
+[[vi:Hệ tọa độ địa lý]]
+[[vls:Geografische coördinoatn]]
+[[vo:Koordinatasit taledavik]]
+[[yo:Sístẹ́mù ajọfọ̀nàkò jẹ́ọ́gráfì]]
+[[zh:经纬度]]
+[[zh-yue:地理座標系統]]
