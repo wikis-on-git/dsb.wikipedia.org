@@ -1,0 +1,72 @@
+'''Wótšyrjenje'''<ref>Pśełožowańske naraźenje, glej nimski terminus [[:de:Abweitung]]</ref> (nimski ''[[:de:Abweitung|Abweitung]]'', eng. ''departure'') pomjenjujo [[Dłujkosć (matematika)|dłujkosć]] [[Krejzny wobłuk|wobłuka šyrinowego krejza]] mjazy dwěma [[Dypk (geometrija)|dypkoma]] togo samskego [[Šyrinowy krejzk|šyrinowego krejza]] [[Geografiska šyrina|geografiskeje šyriny]] <math>\, \phi</math> na [[Zemja|pówjerchu zemje]]. Wótšyrjenje jo (za <math>\, \phi</math> njerowno 0°) wětše ako [[Ortodrom|ortodrom]] (nejkrotša [[Wótstawk|zdalonosć]] mjazy woběma dypkoma). (Pla <math>\, \phi</math> = 0°, pótakem na [[Ekwator|ekwatorje]], wótpowědujo wótšyrjenje nejkrotšej zdalonosći, dokulaž ekwator ako jadnucki šyrinowy krejz jo [[Wjeliki krejz|wjeliki krejz]] a wótšyrjenje pótakem jo ortodrom).
+
+W nawtice jo wótšyrjenje pótakem [[Kateta|kateta]] w [[Kursowy tśirožk|kursowem tśirožku]], kótaraž pada z paralelnym krejzom na jadno.<ref name="Meyers">''Abweichung (Deklination)''. W: ''Meyers Großes Konversations-Lexikon.'' Band 1. Leipzig 1905, S. 66. ([http://www.zeno.org/Meyers-1905/A/Abweichung zeno.org])</ref>
+
+Cesto teke wobgranicujo se definicija wótšyrjenja na [[Wótstawk|wótstawk]] pósporomje šyrinowego krejza mjazy dwěma [[Meridian (geografija)|meridianoma]], kótarejž dokradnje 1° jaden wót drugego zdalonej.<ref name="uni-rostock">na př.: ''[http://www.geoinformatik.uni-rostock.de/einzel.asp?ID=1225863622 Abweitung]''. W: ''Geoinformatik-Service. Lexikon.'' geoinformatik.uni-rostock.de</ref>
+
+== Gódnoty ==
+W zmysle wótstawka 1° mjazy šyrinowymi krejzami jo wótšyrjenje na ekwatorje 111,319491&nbsp;km (z wjelikeju połwósu z [[WGS84]] licone). K [[Pol (geografija)|polam]] se wótšyrjenje pomjeńšujo, na poloma jo wóno nul.
+
+{|
+|+ Wótšyrjenje dlininy (pó [[Bessel]]u)<ref name="wissenschaft-online">pótakem w nastupanju [[Besselowy elipsoid|Besselowego elipsoida]], citat  pó ''[http://www.wissenschaft-online.de/abo/lexikon/karto/44 Abweitung].'' W: ''Lexikon der Kartographie und Geomatik.'' Spektrum Akademischer Verlag, wissenschaft-online.de (jano za 1°, zbytk Wikipedija wulicujo)</ref>
+|-align="right"
+! Šyrina <small>[°]</small> || 1° <small>[km]</small> || 1′ <small>[m]</small> || 1″ <small>[m]</small>
+|-class="hintergrundfarbe5" align="right"
+| 0 || 111,307 || 1855 || 30,9
+|-align="right"
+| 10 || 109,627 || 1827 || 30,5
+|-align="right"
+| 20 || 104,635 || 1744 || 29,1
+|-align="right"
+| 30 || 96,475 || 1608 || 26,8
+|-align="right"
+| 40 || 85,384 || 1423 || 23,7
+|-class="hintergrundfarbe5" align="right"
+| 45 || 78,837 || 1314 || 21,9
+|-align="right"
+| 50 || 71,687 || 1195 || 19,9
+|-align="right"
+| 60 || 55,736 || 929 || 15,5
+|-align="right"
+| 70 || 38,182 || 636 || 10,6
+|-align="right"
+| 80 || 19,391 || 323 || 5,4
+|-class="hintergrundfarbe5" align="right"
+| 90 || 0,000 || 0 || 0
+|}
+[[Geografiske koordinaty]] dokradne na [[Wobłukowa sekunda|sekundy]] su pótakem w srjejźnej Europje (na něźi 49°&nbsp;šyriny) w dłujkosći na 20&nbsp;metrow, w šyrokosći pśecej na  30&nbsp;metrow dokradne (dlininowe krejze, źož se šyrina licy, su pśecej wjelike krejze, w šyrinje jo to jano ekwator, pla 0°&nbsp;šyiny). Pozicija dokradna na metry trjeba pótakem nanejmjenjej druge komowe městno decimalnych sekundow.
+
+== Powšykne woblicenje za kulowatu zemju ==
+
+Dypk A ma koordinaty (<math>\, \phi, \lambda_A</math>),<br />
+dypk B ma koordinaty (<math>\, \phi, \lambda_B</math>).<br />
+K směroju pódwjacor jo <math>\, \lambda</math> pozitiwny, k směroju pódzajtšo negatiwny; <math>\, \phi</math> jo pozitiwny za šyriny pódpołnocneje hemisfery a negatiwny na pódpołdnjowej połkuli.
+
+Pótom płaśi:<br>
+<math>W\acute{o}t\check{s}yrjenje = U \cdot \frac{\lambda_B - \lambda_A}{360}</math>,<br />
+
+pśi comž U wopisujo wobměru šyrinowego krejza <math>\, \phi</math>, kótaraž slědujo z:<br />
+<br />
+<math> U = 2 \cdot \pi \cdot radius\ zemje \cdot \cos \phi</math>
+
+
+Zjadnorjone, za woblicenje wótstawka mjazy dwěma meridianoma slědujo:
+
+<math>W\acute{o}t\check{s}yrjenje = \frac{wobm\check{e}ra\ zemje}{360} \cdot cos(\phi) </math>
+
+== Woblicenje za zemju ako referencny elipsoid ==
+
+Za dokradnjejše woblicenje wužywa se město wobměry zemje wótpowědujuca gódnota wužytego [[Referencny elipsoid|referencnego elipsoida]]: 
+
+<math>W\acute{o}t\check{s}yrjenje = N(\phi) \cdot cos(\phi) \cdot \delta \lambda </math>
+
+z <math> N(\phi) </math> ako [[Radius prěčnego wokłona|radius prěcnego wokłona]] wótpowědneje geografiskeje šyriny <math> \phi </math> a <math> \delta \lambda </math> ako diferenca geografiskich dlininow celowego a wuchadnego městna.
+
+== Žrědła ==
+<references />
+
+
+[[Kategorija:Matematiska geografija]]
+
+[[de:Abweitung]]
+[[hsb:Wotšěrjenje]]
