@@ -1,0 +1,51 @@
+Jolic póstajotej se na [[Krejz (geometrija)|krejzu]] dwa někakejžkuli [[Dypk (geometrija)|dypka]] a toś tej zwězujotej se pśez [[Cera (geometrija)|cery]] ze srjejźišćom krejza, stej woba źěla [[Płonina krejza|płoniny krejza]], kótarejž wótźělujotej se pśez toś te cery jaden wót drugego, [[Krejzowy wurězk|krejzowej wurězka]] (teke krejzowej sektora pomjenowanej). Krejzowy wurězk ''wurězujo se'' pótakem ako se groni pśez dwa [[Radius|radiusa]] z krejza. Źěl [[Krejzna linija|krejzoweje linije]], kótaryž słušy ku krejzowemu sektoroju, groni se '''pšužyna'''; kut mjazy wobyma radiusoma groni se ''[[Srjejźišćowy kut|srjejźišćowy kut]]''. <br/>
+
+== Woblicenje ==
+[[Dłujkosć (matematika)|Dłujkosć]] ''b'' pšužyny ze srjejźišćowym kutom α w [[Kutowa měra|kutowej měrje]] a radiusu r dajo se pśez slědujucu formulu woblicyś:
+
+:<math>b = \pi \sdot r \sdot \frac {\alpha} {180^{\displaystyle\circ}}</math>
+
+[[Wopśimjeśe płoniny]] wótpowědnego krejzowego wurězka woblicujo se tak:
+
+:<math>A = \pi \sdot r^2 \sdot \frac {\alpha} {360^{\displaystyle\circ}}</math>
+
+Jolic srjejźišćowy kut α pódawa se we [[Wobłukowa měra|wobłukowej měrje]], stej slědujucej formuli:
+:<math>b = r \sdot \alpha  \qquad  A = \frac{r^2 \sdot \alpha}{2} </math>
+
+[[Tšuna (geometrija)|Krejzowa tšuna]] dłujkosći l dostanjomy pśez slědujucy zwisk z pšužyny b a radiusa r:
+:<math>l = 2 \sdot r \sdot \sin\left(\frac{b}{2 \sdot r}\right)</math>
+
+
+[[Kategorija:Geometriska křiwica]]
+
+[[ar:قوس (هندسة)]]
+[[ast:Arcu (xeometría)]]
+[[be:Дуга, геаметрыя]]
+[[br:Gwareg (geometriezh)]]
+[[ca:Arc (geometria)]]
+[[cs:Kruhový oblouk]]
+[[da:Cirkelbue]]
+[[de:Kreisbogen]]
+[[en:Arc (geometry)]]
+[[eo:Arko (geometrio)]]
+[[es:Arco (geometría)]]
+[[et:Kaar]]
+[[fa:کمان (هندسه)]]
+[[fr:Arc (géométrie)]]
+[[gl:Arco (xeometría)]]
+[[hsb:Kružny łuk]]
+[[it:Arco (geometria)]]
+[[ja:弧 (幾何学)]]
+[[km:ធ្នូរង្វង់]]
+[[ko:호 (수학)]]
+[[mr:कंस (चाप)]]
+[[nl:Boog (meetkunde)]]
+[[nn:Boge]]
+[[no:Bue (geometri)]]
+[[pl:Łuk okręgu]]
+[[pt:Arco (matemática)]]
+[[ru:Дуга окружности]]
+[[sl:Krožni lok]]
+[[sv:Cirkelbåge]]
+[[ta:வில் (வடிவவியல்)]]
+[[zh:弧]]
