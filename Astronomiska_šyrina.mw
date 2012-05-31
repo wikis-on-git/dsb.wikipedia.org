@@ -1,0 +1,41 @@
+'''Astronomiska šyrina''' – cesto teke '''„polowa wusokosć“''' pomjenowana – jo [[Wusokostny kut|wusokostny kut]] pódpołnocnego (resp. pódpołdnjowego) [[Njebjaski pol|njebjaskego pola]] na stojnišću wobglědowarja.
+
+Njepóśěgujo se direktnje na zemsku kulu resp. [[Zemski elipsoid|zemski elipsoid]], ale na napšawdny (fyzikaliski) [[Lotowy směr|lotowy směr]] a wótpowědujo [[Deklinacija (astronomija)|deklinaciji]] [[Cenit|cenita]].
+
+== Astronomiske koordinaty a lotowe wótchylenje ==
+Pśi blišym wobglědowanju njesmějo se ''astronomiska'' šyrina z ''[[Geografiska šyrina|geografiskeju šyrinu]]'' najadno stajiś, lěcrownož se to wót ekspedicijow 15. stolěśa cesto stawa. Wobej [[stopjeń šyriny|šyrinje]] rozeznawatej se wó [[Lotowe wótchylenje|lotowe wótchylenje]] – t.&nbsp;g. wó ten mały kut ''&xi;'', wó kótaryž ''napšawdny'' lotowy směr wótchyla se wót ''teoretiskeje'' normale na zemski elipsoid. We formulach wuzwigujo se toś ten rozdźěl zwětšego pśez formulowe znamjo ''&phi;' '' (resp. ''B' '' ), w pśirownowanju z ''&phi;'' (resp. ''B'') za geografisku šyrinu. Ako slěd lotowego wótchylenja płaśi pótakem za astronomisku šyrinu a jeje pendant, [[Astronomiska dłujkosć|astronomisku dlininu]]:
+:''<math>\varphi' = \varphi + \xi</math>''
+:''<math>\lambda' = \lambda + \eta \cos\varphi</math>'' 
+Wobej komponenśe lotowego wótchylenja (''&xi;, &eta;'') wuměnijotej se pśez [[Masowe rozdźělenje|masowe njepšawidłownosći]] zemskego śělesa. Na dypku w [[Mórski niwow|mórskem niwowje]] jo ''&xi;'' kutowa diferenca mjazy napšawdnym horicontom ([[Geoid|geoid]]) a elipsoidiskim horicontom.
+
+Astronomiska šyrina jo pótakem na jadnom boce ''fyzikaliski'' fakt [[Zemske pólo śěžnosći|zemskego póla śěžnosći]], dajo se wšak teke na drugem boce ''geometriski'' – ako [[Kut|kut]] mjazy lotowym směrom a  [[Njebjaski ekwator|njebjaskim ekwatorom]] – interpretěrowaś. Tomu napśeśiwo jo „geografiska“ šyrina fyzikaliska fikcija – pótakem kut, kótaryž jo jano na idealizěrowanem zemskem elipsoiźe definěrowany a wótwisujo wót jogo formowych parametrow.
+
+Aby na wěcejzmysłowosć zapśimjeśa „šyrina“ źiwało, groni se w [[Geodezija|geodeziji]] lěpjej wó „elipsoidiskej“ (geodetiskej) šyrinje ako wó „geografiskej“ šyrinje. [[Zemske wopłonjenje|Zemskego wopłonjenja]] dla (wótchylenje idealneje [[Zemska forma|zemskeje formy]] wót kuloweje formy) jo w geowědomnosćach samo tśeśe zapśimjeśe šyriny, „[[geocentriska šyrina]]“.
+
+== Zespominanje ==
+;Astronomiska šyrina &phi;: kut mjazy napšawdnym lotowym směrom a ekwatoroweju rowninu ([[Njebjaski ekwator|njebjaski ekwator]]). Diferenca k [[Elipsoidiska šyrina|elipsoidiskej šyrinje]] jo pódpołnocno-pódpołdnjowa komponenta (''&xi;'') [[Lotowe wótchylenje|lotowego wótchylenja]].
+;Elipsoidiska šyrina &phi;: Wužywa se ako zemski model [[Rotaciski elipsoid|rotaciski elipsoid]], tak wótpowědujo kutoju mjaz [[Ekwatorowa rownina|ekwatoroweju rowninu]] a [[Ortogonalnosć|elipsoidoweju normalu]]. Groni teke ''geodetiska šyrina'' a wužywa se w [[Rozměrjenje kraja|rozměrjenju kraja]] a [[Kartografija|kartografiji]]. Pśi [[Póstajenje pozicije|póstajenjach pozicije]] z [[Global Positioning System|GPS]] dobywaju se teke [[Elipsoidiske koordinaty|elipsoidiske koordinaty]] (šyrina a dlinina). 
+;Geocentriska šyrina &psi;: směr k [[Zemske srjejźišćo|zemskemu srjejźišćoju]]. Lotowy směr a elipsoidowa normala njejźotej – mimo na [[Ekwator|ekwatorje]] a na [[Pol (geografija)|poloma]] – pśez zemske srjejźišćo. Geocentriska šyrina rozeznawa se wót ''geodetiskeje  resp. elipsoidiskeje'' šyriny wó až k 0,2°.
+
+== Měrjeńske metody a instrumenty ==
+Měrjenje astronomiskeje šyriny (pomjenowaneje gromaźe z dlininy něga zamólnje ''astronomiske [[póstajenje pozicije]]'') móžo se z někotarymi metodami [[Astrogeodezija|astrogeodezije]] abo [[Astrometrija|astrometrije]] pśewjasć. Pśi znatych [[Gwězdne městno|koordinatach]] wobglědowanych gwězdow su nejdokradnješe metody (pó zasajźonku 0,3″ až 0,05″ na wjacor):
+* Póstajenje šyriny pśez měrjenje [[Cenitowa distanca|cenitowych distancow]]
+** pśi [[Gwězdny pśechod|gwězdnem pśechoźe]] w [[Meridian (astronomija)|meridianje]] wobglědowarja: [[Sterneckowa metoda]] a [[Horrebow-Talcottowa metoda]]
+** w [[Prědny wertikal|prědnem wertikalu]] (pomina se teke dokradne [[Casowe měrjenje|casowe měrjenje]], což ako drugi produkt librujo astronomisku ''dlininu'' abo [[Gwězdny cas|gwězdny cas]])
+* Póstajenje šyriny z [[Horicontalny směr|horicontalnych směrow]]
+** w [[Nejwětša digresija|nejwětšej digresiji]] (maksimalny pódpołnocny wótstawk) gwězdy: [[Embachska metoda]]
+** we wertikalu terestriskego [[Daloki cel|cela]]: [[Döllen]]owa metoda a [[Theodor Niethammer|Niethammer]]owa metoda
+** (toś te 3 metody su pśigódne, gaž muse se teke astronomiske [[Acimut|acimuty]] resp. dokradna orientacija instrumenta póstajiś. Howac by měli se lubjej górjejce a dołojce pódane wužywaś)
+* Simultane póstajenje šyriny a dlininy: [[Metoda teje samskeje wusokosći]]
+* Fotografije [[Cenit|cenita]] do dweju napśeśiwneju směrow:
+** z [[Astrograf|astrografom]] a pśipnětym [[Horrebow-Niwow|Horrebow-niwowom]]
+** z [[Cenitowa kamera|cenitoweju kameru]] (fotografiski abo z pomocu [[CCD-sensor]]a).
+
+3 slědne naspomnjete metody su źinsa (z modernymi instrumentami) nejmalsnjej pśewjedne. Stej ''wobej'' komponenśe [[Lotowy směr|lotowego směra]] (mimo B teke L) póžedanej, jo metoda jadnakich wusokosćow z [[Ni2-astrolab]]om nejwěcej ekonomiska, a nejdokradnjejša z [[Danjonowa astrolab|Danjonowym astrolabom]].
+
+Pśigódne měrjeńske instrumenty kutowych metodow su [[Uniwersalny instrument|uniwersalny instrument]] (abo dokradny teodolit z [[Cenitowa prisma|cenitoweju prismu]]), transitowy abo [[Pasažowy instrument|pasažowy instrument]]. Nejwuša preciznosć jo z [[Cenitowy teleskop|cenitowym teleskopom]] dojśpijobna – wizuelnje něźi 0,1″, [[Fotografiski cenitowy teleskop|fotografiski]] abo [[fotoelektriski]] samo dokradnjej.
+
+[[Kategorija:Matematiska geografija]]
+
+[[de:Astronomische Breite]]
+[[hsb:Astronomiska šěrokosć]]
