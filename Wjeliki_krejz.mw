@@ -1,0 +1,92 @@
+[[Dataja:Small_and_great_circles_3d.png|miniatur|Wjeliki krejz (cerwjeny) a mały krejz (módry)]]
+[[Dataja:Grosskreis.svg|miniatur|Wšelke wjelike krejze (pśeśěgnjone linije). Nachylenje dweju carneju wjelikeju krejzowu k ekwatoroju (módry) něźi 55° a 60°]]
+[[Dataja:Great circle Switzerland.jpg|miniatur|Kórta wjelikich krejzow za Šwicarsku]]
+
+'''Wjeliki krejz''' jo tak wjeliki ako móžno [[Krejz (geometrija)|krejz]] na [[Kulowy powjerch|kulowem powjerchu]]. Jogo srjejźišćo padnjo pśecej ze srjejźišćom [[Kule|kule]] na jadno a rěz na wjelikem krejzu źěli kulu na kuždy pad do dweju („jadnak wjelikeju“) połojcow. Dokulaž jo pśewšo wjele móžnosćow, kulu tak rozrězaś, aby rězna płonina srjejźišćo kule trjefiła, jo teke pśewšo wjele wjelikich krejzow. Wósebny pad wjelikich krejzow su [[Meridian (geografija)|meridiany]], kótarež su poł wjelikego krejza, kótarež wupśestrěwaju se wót [[Pódpołnocny pol|pódpołnocnego]] do [[Pódpołdnjowy pol|pódpołdnjowego pola]].
+
+W [[Geografiske koordinaty|geografiskem koordinatowem systemje]] zemje su [[Ekwator|ekwator]] (módry) kaž teke kuždy por jadnogo drugemu „napśeśiwo lažecych“ [[Geografiska dlinina|stopnjow dlininy]] wósebnje lažece wjelike krejze (stopnje dlininy = meridiany, how žołte), na&nbsp;pś. [[Nulowy meridian|nulowy meridian]] (0°) a meridian 180°. [[Šyrinowy krejz|Šyrinowy krejze]] pak (smužkowane linije) z wuwześim ekwatora njejsu wjelike krejze, ale mjeńše ako maksimalna wobměra kule. Gronje se togodla póbocne abo [[Mały krejz|małe krejze]].
+
+Na wjelikich krejzach [[Zemja|zemje]] wótpowědujo jadna [[Wobłukowa minuta|wobłukowa minuta]] jadnej [[Mórska mila|mórskej mili]], skrotconej ''sm'' (eng. ''nautical mile'', ''nm'' abo ''NM''). Dajo se (pótakem ako „dlininowa minuta“ resp. ako „šyrinowa minuta na ekwatorje“) z 1.852&nbsp;metrami pśi gódanej zemskej wobměrje 40.000&nbsp;km woblicyś. Pśerězny [[Zemski radius|zemski radius]] jo 6.371&nbsp;km. 
+
+Nejkrotšy zwisk mjazy dwěma dypkoma na kulowem powjerchu –&nbsp;tak pomjenjona [[Ortodroma|ortodroma]]&nbsp;– jo pśecej źěl wjelikego krejza (tak pomjenjony głowny wobłuk). Togodla du ruty łoźnistwa a pśedewšym ruty leśenja zwětšego spóromje wjelikich krejzow. Wobjězdźowanje zemskeje 
+kule na ortodromach groni se płachtowanje na wjelikich krejzach; „kurse wjelikich krejzow“ dojśpěwaju pitśku wětše šyriny ako wótpowědujucy startowy a celowy dypk (na&nbsp;pś. [[München]]–[[Peking]] pśez [[Sibirska|Sibirsku]]).
+
+Na [[Zemski elipsoid|zemskem elipsoiźe]] a drugich płoninach groni se ortodroma [[Geodetiska linija|geodetiska linija]]. Wóna jo ''kśiwanka wětšego rěda'' (wótchylenje wót wjelikego krejza kule wó někotare promile) a wótpowědujo pśeběgoju wjelgin wupněteje [[Niś|niśi]] bźez šurowanja.
+
+== Zwobraznjenje na kórtach ==
+
+Dokulaž se wjele [[Kórta (kartografija)|kórtow]] (na&nbsp;pś. pśi [[Mercatorowa projekcija|merkatorowej kórśe]]) tak zwobraznja, až pokazuju se šyrinowe krejze ako rowne, wodorowne linije, statkuju ruty leśenja njeglědajucy na swóje krotkosć skśiwjone a du dalej k [[Pol (geografija)|poloju]] (glej teke [[Loksodroma|loksodroma]]). Aby zjadnoriło kreslenje, su specialne kórty wjelikich krejzow (glej [[Gnomoniska projekcija|gnomonisku projekciju]]), na kótarychž pokazuju se wšykne wjelike krejze ako rowna cera, wokolina pak jo pitśku spryšćona.
+
+Na [[Mórska kórta|mórskich kórtach]] jo na pšawej a lěwej kšomje [[Geografiska šyrina|geografiska šyrina]] pódana, t.&nbsp;g. wótpowědujucy wurězk wótpowědnego wjelikego krejza dlininy. How móžo [[Nawtika|nawtikaŕ]] ze [[Zaštapne kružydło|zaštapnym kružydłom]] distancu pśepśimaś (1 wobłukowa minuta = 1 mórska mila) a za zakreslenje kursa do kórty pśenjasć.
+
+== Woblicenje ==
+Kut mjazy dypkoma A a B z koordinatami šyriny <math>\varphi</math> a koordinatami dlininy <math>\lambda</math> na wjelikem krejzu woblicujo se tak:
+
+<math>\, \zeta =\arccos\Big(\sin(\varphi_A) \cdot \sin(\varphi_B) + \cos(\varphi_A) \cdot \cos(\varphi_B) \cdot \cos(\lambda_B - \lambda_A) \Big) </math>
+
+Jolic pódawa se <math>\, \zeta</math> we wobłukowej měrje, dajo se ''zdalonosć wjelikego krejza d'' mjazy woběma dypkoma ze zemskego radiusa r<sub>E</sub> woblicyś:
+
+<math>\, d = \zeta \cdot r_E</math>
+
+Zdalonosć wjelikego krejza jo maksimalnje poł zemskeje wobměry.
+
+Rězny kut wjelikego krejza wót A a B z meridianom w dypku A groni se [[Kursowy kut|kursowy kut]] <math>\, \omega</math>. Woblicujo se pśez:
+
+<math>\cos \omega = \frac {\sin \varphi_B - \sin \varphi_A \cdot \cos \zeta} {\cos \varphi_A \cdot \sin \zeta}</math>
+
+Za pódzajtšne kurse (λ<sub>B</sub> > λ<sub>A</sub>) lažy kursowy kut mjazy 0° a 180°, za pódwjacorne kurse (λ<sub>B</sub> < λ<sub>A</sub>) lažy kursowy kut mjazy 180° a 360°. Na rozdźěl wót rowneje geometrije njerozeznawaju se kursowe kuty wót A do B a wót B do A wó 180°. W ekstremnem paźe, gaž wjeliki krejz źo pśez pola, móžotej wobej kursowej kuta samo jadnak byś.
+
+== Eksterne wótkaze ==
+* [http://astrosail.de/de/static/tutorial/best5.php?cat=42 Zběrka formulow k nawigaciji na wjelikich krejzach] (nimski)
+* [http://gc.kls2.com Great Circle Mapper] - Great Circle mapper including [[ETOPS]] ranges (engelski)
+* [http://www.cactus2000.de/de/unit/massgrk.shtml Woblicadło wjelikich krejzow] (nimski)
+
+[[Kategorija:Astronomiski koordinatowy system]]
+[[Kategorija:Matematiska geografija]]
+[[Kategorija:Nawigacija leśenja]]
+
+[[am:ታላቅ ክብ]]
+[[ar:دائرة عظمى]]
+[[ast:Gran círculu]]
+[[bg:Голяма окръжност]]
+[[br:Kelc'h bras]]
+[[ca:Cercle màxim]]
+[[da:Storcirkel]]
+[[de:Großkreis]]
+[[en:Great circle]]
+[[eo:Ĉefcirklo]]
+[[es:Gran círculo]]
+[[et:Suurringjoon]]
+[[fa:دایره بزرگ]]
+[[fi:Isoympyrä]]
+[[fr:Grand cercle]]
+[[fy:Grutsirkel]]
+[[he:מעגל גדול]]
+[[hi:महावृत्त]]
+[[hr:Ortodroma]]
+[[hsb:Wulki kruh]]
+[[hu:Főkör]]
+[[id:Lingkaran besar]]
+[[is:Stórbaugur]]
+[[it:Cerchio massimo]]
+[[ja:大圏コース]]
+[[ko:대원]]
+[[la:Circulus magnus]]
+[[lb:Grousskrees]]
+[[ms:Bulatan besar]]
+[[nl:Grootcirkel]]
+[[nn:Storsirkel]]
+[[no:Storsirkel]]
+[[oc:Grand cercle]]
+[[pl:Koło wielkie]]
+[[pt:Círculo máximo]]
+[[ru:Ортодромия]]
+[[sh:Velika kružnica]]
+[[simple:Great circle]]
+[[sl:Veliki krog]]
+[[sr:Велика кружница]]
+[[sv:Storcirkel]]
+[[ta:பெரு வட்டம்]]
+[[uk:Велике коло]]
+[[zh:大圆]]
+[[zh-min-nan:Tōa-îⁿ]]
