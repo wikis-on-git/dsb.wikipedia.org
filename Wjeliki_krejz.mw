@@ -24,7 +24,7 @@ Kut mjazy dypkoma A a B z koordinatami šyriny <math>\varphi</math> a koordinata
 
 <math>\, \zeta =\arccos\Big(\sin(\varphi_A) \cdot \sin(\varphi_B) + \cos(\varphi_A) \cdot \cos(\varphi_B) \cdot \cos(\lambda_B - \lambda_A) \Big) </math>
 
-Jolic pódawa se <math>\, \zeta</math> we wobłukowej měrje, dajo se ''zdalonosć wjelikego krejza d'' mjazy woběma dypkoma ze zemskego radiusa r<sub>E</sub> woblicyś:
+Jolic pódawa se <math>\, \zeta</math> we wobłukowej měrje, dajo se ''zdalonosć wjelikego krejza d'' mjazy wobyma dypkoma ze zemskego radiusa r<sub>E</sub> woblicyś:
 
 <math>\, d = \zeta \cdot r_E</math>
 
