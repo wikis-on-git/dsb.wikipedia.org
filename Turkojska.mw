@@ -22,11 +22,57 @@
 |kórta=Tu-map.png
 }}
 
-'''Turkojska''' jo kraj w [[Aziska|Aziskej]] a [[Europa|Europje]], pśi cymž wětšy źěl lažy w Aziji.
+{{ LocMap+ | Turkojska | width=500 | float=right | maptype=relief | caption= | places=
+    {{ LocMap~ | Turkojska | position=6  | lat=39/55/00 | long=32/51/00 | region=TR | label='''[[Ankara]]'''}}
+    {{ LocMap~ | Turkojska | position=12 | lat=41/00/00 | long=28/57/00 | region=TR | label=<small>[[Istanbul]]</small>}}
+    {{ LocMap~ | Turkojska | position=3  | lat=38/25/00 | long=27/09/00 | region=TR | label=<small>[[Izmir]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=40/11/00 | long=29/04/00 | region=TR | label=<small>[[Bursa]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=36/59/00 | long=35/19/00 | region=TR | label=<small>[[Adana]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=37/04/00 | long=37/23/00 | region=TR | label=<small>[[Gaziantep]]</small>}}
+    {{ LocMap~ | Turkojska | position=3  | lat=37/52/00 | long=32/29/00 | region=TR | label=<small>[[Konya]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=36/53/00 | long=30/42/00 | region=TR | label=<small>[[Antalya]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=38/43/00 | long=35/28/00 | region=TR | label=<small>[[Kayseri]]</small>}}
+    {{ LocMap~ | Turkojska | position=12 | lat=37/54/00 | long=40/14/00 | region=TR | label=<small>[[Diyarbakır]]</small>}}
+    {{ LocMap~ | Turkojska | position=9  | lat=36/48/00 | long=34/37/00 | region=TR | label=<small>[[Mersin]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=39/47/00 | long=30/31/00 | region=TR | label=<small>[[Eskişehir]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=41/17/00 | long=36/20/00 | region=TR | label=<small>[[Samsun]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=37/46/00 | long=29/05/00 | region=TR | label=<small>[[Denizli]]</small>}}
+    {{ LocMap~ | Turkojska | position=3  | lat=37/09/00 | long=38/47/00 | region=TR | label=<small>[[Şanlıurfa]]</small>}}
+    {{ LocMap~ | Turkojska | position=12 | lat=37/35/00 | long=36/56/00 | region=TR | label=<small>[[Kahramanmaraş]]</small>}}
+    {{ LocMap~ | Turkojska | position=9  | lat=38/21/00 | long=38/19/00 | region=TR | label=<small>[[Malatya]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=38/30/00 | long=43/22/00 | region=TR | label=<small>[[Van (Türkei)|Van]]</small>}}
+    {{ LocMap~ | Turkojska | position=6  | lat=39/54/00 | long=41/16/00 | region=TR | label=<small>[[Erzurum]]</small>}}
+    {{ LocMap~ | Turkojska | position=12 | lat=38/40/00 | long=39/13/00 | region=TR | label=<small>[[Elazığ]]</small>}}
 
-== Geografija ==
+    {{ LocMap~ | Turkojska | position=9 | lat=39/42/00 | long=44/18/00 | region=TR | mark=RedMountain.svg | marksize=12 | label=<small>[[Ararat]]</small>}}
+    {{ LocMap~ | Y=98 | X=67 | position=12 | label_style=bold/uppercase|label_color=#646464 | label=Syriska}}
+    {{ LocMap~ | Y=95 | X=95 | position=10 | label_style=bold/uppercase|label_color=#646464 | label=Irak}}
+    {{ LocMap~ | Y=54 | X=100 | position=10 | label_style=bold/uppercase|label_color=#646464 | label=<small>Iran</small>}}
+    {{ LocMap~ | Y=28 | X=100 | position=9 | label_style=bold/uppercase|label_color=#646464 | label=<small>Armeń-<br />ska</small>}}
+    {{ LocMap~ | Y=7 | X=98 | position=9 | label_style=bold/uppercase|label_color=#646464 | label=<small>Georgiska</small>}}
+    {{ LocMap~ | Y=0 | X=0 | position=4 | label_style=bold/uppercase|label_color=#646464 | label=<small>Bulgarska</small>}}
+    {{ LocMap~ | Y=19 | X=11 | position=6 | label_style=bold/italic/letterspacing/uppercase|label_color=#2A6DB5 | label=<small>Marmara-<br />mórjo</small>}}
+    {{ LocMap~ | Y=65 | X=0 | position=3 | label_style=bold/italic/letterspacing/uppercase|label_color=#2A6DB5 | label=<small>Egejske<br />mórjo</small>}}
+    {{ LocMap~ | Y=2 | X=65 | position=6 | label_style=bold/italic/letterspacing/uppercase|label_color=#2A6DB5 | label=Carne mórjo}}
+    {{ LocMap~ | Y=100 | X=20 | position=2 | label_style=bold/italic/letterspacing/uppercase|label_color=#2A6DB5 | label=Srjejźne mórjo}}
 
-== Stawizny ==
+    {{ LocMap~ | Y=52 | X=92 | position=9 | label=<small>''[[Vansee]]''</small>}}
+    {{ LocMap~ | Y=55 | X=46 | position=9 | label=<small>''[[Tuz Gölü]]''</small>}}
+    {{ LocMap~ | Y=66 | X=31 | position=6 | label=<small>''[[Beyşehir Gölü|Beyşehir<br />Gölü]]''</small>}}
+    {{ LocMap~ | Y=64 | X=28 | position=9 | label=<small>''[[Eğirdir Gölü|Eğirdir<br />Gölü]]''</small>}}
+}}
+
+'''Turkojska''' jo stat w Małej [[Azija|Aziji]] a pó źělach na [[Balkańska połkupa|Balkańskej połkupje]] w krotkozajtšnej [[Europa|Europje]]. Granicujo z [[Grichiska|Grichiskeju]] na pódwjacorje, z [[Bulgarska|Bulgarskeju]] na dłujkem wjacorje, z [[Carne mórjo|Carnym mórjom]] na pódpołnocu, z [[Georgiska|Georgiskeju]] na dłujkem zajtšu, z [[Armeńska|Armeńskeju]] a [[Iran]]om na pódzajtšu, z [[Irak]]om na krotkem zajtšu a ze [[Syriska|Syriskej]] na pódpołdnju.
+
+Stolica jo [[Ankara]], nejwětše město pak [[Istanbul]].
+
+== Wótkaz ==
+{{Commonscat|Turkey|Turkojska}}
+
+{{Nawikašćik Europa}}
+{{Nawikašćik Azija}}
+
+{{pśeźěłuj|zarodk|img|sources}}
 
 [[Kategorija:Turkojska| ]]
 
