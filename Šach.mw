@@ -102,6 +102,26 @@ Běgaŕ jo za tśi buriky.
 |Běgaŕ móžo śěgnuś tak dłujko polow daloko ako co w diagonalnem směrje.
 }}
 
+==== Kónik ====
+
+Kónik jo za tśi buriky.
+
+{{Chess diagram small
+| tright
+|
+|=
+ 8 |  |  |  |  |  |  |  |  |=
+ 7 |  |  |  |  |  |  |  |  |=
+ 6 |  |  |xx|  |xx|  |  |  |=
+ 5 |  |xx|  |  |  |xx|  |  |=
+ 4 |  |  |  |nd|  |  |  |  |=
+ 3 |  |xx|  |  |  |xx|  |  |=
+ 2 |  |  |xx|  |xx|  |  |  |=
+ 1 |  |  |  |  |  |  |  |  |=
+    a  b  c  d  e  f  g  h
+| Móžnosći kak móžo kónik śěgnuś.
+}}
+
 [[Kategorija:Graśe]]
 
 {{Link FA|af}}
