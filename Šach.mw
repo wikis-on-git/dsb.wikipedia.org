@@ -23,6 +23,22 @@ a b c d e f g h
 
 ==== Kral ====
 
+{{Schachbrett|=
+| tright
+|
+|=
+ 8 |  |  |  |  |  |  |  |  |=
+ 7 |  |  |  |  |  |  |  |  |=
+ 6 |  |  |xx|xx|xx|  |  |  |=
+ 5 |  |  |xx|kl|xx|  |  |  |=
+ 4 |  |  |xx|xx|xx|  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |  |  |  |  |  |  |  |  |=
+ 1 |  |  |  |  |  |  |  |  |=
+    a  b  c  d  e  f  g  h
+| Der König kann ein Feld in jede Richtung ziehen.
+}}
+
 [[Kategorija:Graśe]]
 
 {{Link FA|af}}
