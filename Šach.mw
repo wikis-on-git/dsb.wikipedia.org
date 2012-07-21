@@ -143,6 +143,37 @@ Burik bjerjo diagonalnje jano wo jadno polo. Gaž pśijźo na kóńc šachownice
 | Móžnosći kak móžo burik śěgnuś.
 }}
 
+{{Chess diagram small
+| tright
+|
+|=
+ 8 |  |  |  |  |  |  |  |  |=
+ 7 |  |  |  |  |  |  |  |  |=
+ 6 |  |  |rd|  |nd|  |  |  |=
+ 5 |  |  |  |pl|  |  |  |  |=
+ 4 |  |  |  |  |  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |  |  |  |  |  |  |  |  |=
+ 1 |  |  |  |  |  |  |  |  |=
+    a  b  c  d  e  f  g  h
+| Der weiße Bauer kann den schwarzen Turm schlagen, ein Feld vorrücken oder den schwarzen Springer schlagen.
+}}
+{{Chess diagram small
+| tright
+|
+|=
+ 8 |  |  |  |  |  |  |  |  |=
+ 7 |  |  |  |  |  |  |  |  |=
+ 6 |  |  |xx|  |  |  |  |  |=
+ 5 |  |  |pd|pl|  |  |  |  |=
+ 4 |  |  |  |  |  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |  |  |  |  |  |  |  |  |=
+ 1 |  |  |  |  |  |  |  |  |=
+    a  b  c  d  e  f  g  h
+| [[En passant|En-passant-Schlagen]]: Nachdem der schwarze Bauer einen Doppelschritt von c7 nach c5 gemacht hat und damit das bedrohte Feld c6 hinter sich gelassen hat, kann der weiße Bauer nach c6 schlagen und den schwarzen Bauern vom Feld c5 nehmen.
+}}
+
 [[Kategorija:Graśe]]
 
 {{Link FA|af}}
