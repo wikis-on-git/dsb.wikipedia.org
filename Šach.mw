@@ -219,6 +219,25 @@ Pśikłady:
 * 0–0
 * 0-0-0
 
+=== Mat ===
+Mat jo, gaž pśeśiwnik ma šach a daniž njamóžo daś pśed krala žednu figuru daniž graś z kralom. To jo kóńc partyje. Chto jo dał mat, ten jo dobył. Kóńc partyje móžo byś teke remiza. Nichten njejo dobył.
+
+{{Chess diagram small
+| tright
+|
+|=
+ 8 |rd|nd|bd|  |kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|  |pd|pd|pd|=
+ 6 |  |  |  |  |  |  |  |  |=
+ 5 |  |  |  |  |pd|  |  |  |=
+ 4 |  |  |  |  |  |  |pl|qd|=
+ 3 |  |  |  |  |  |pl|  |  |=
+ 2 |pl|pl|pl|pl|pl|  |  |pl|=
+ 1 |rl|nl|bl|ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+| Pśikład matu - mat błazanow
+}}
+
 [[Kategorija:Graśe]]
 
 {{Link FA|af}}
