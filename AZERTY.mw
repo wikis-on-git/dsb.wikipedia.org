@@ -16,35 +16,42 @@ Mě póchada wót pismikow šesć tastow w górnem, lěwem źělu alfanumeriskej
 
 Interpunkciske znamješka atd mógu wariěrowaś. Tastatura AZERTY bu nacerjona, aby wótwobrośił pśetergowanje dla rownocasnego wužywanja susednych tastow za cas epochy pisańskeje mašiny.
 
+== Tastatura za Windows XP ==
 Tu francojska tastatura za Windows XP (141 znamješkow) slědujo:
-<pre>
-    1   2   3   4   5   6   7   8   9   0   °   +
-²   &   é~  "#  '{  ([  -|  è`  _\  ç^  à@  )]  =}
-
-     A   Z   E   R   T   Y   U   I   O   P   ¨   £
-     a   z   e€  r   t   y   u   i   o   p   ^   $¤
-
-      Q   S   D   F   G   H   J   K   L   M   %   µ
-      q   s   d   f   g   h   j   k   l   m   ù   *
-
-   >   W   X   C   V   B   N   ?   .   /   §
-   <   w   x   c   v   b   n   ,   ;   :   !
-</pre>
+ ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
+ │   │1  │2  │3  │4  │5  │6  │7  │8  │9  │0  │°  │+  │       │
+ │²  │&  │é <span style="color:#F00;">~</span>│" #│' {│( [│- |│è <span style="color:#F00;">`</span>│_ \│ç ^│à @│) ]│= }│       │
+ ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
+ │     │A  │Z  │E  │R  │T  │Y  │U  │I  │O  │P  │<span style="color:#F00;">¨</span>  │£  │     │
+ │     │a  │z  │e €│r  │t  │y  │u  │i  │o  │p  │<span style="color:#F00;">^</span>  │$ ¤│     │
+ ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┐    │
+ │      │Q  │S  │D  │F  │G  │H  │J  │K  │L  │M  │%  │µ  │    │
+ │      │q  │s  │d  │f  │g  │h  │j  │k  │l  │m  │ù  │*  │    │
+ ├────┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴───┴────┤
+ │    │>  │W  │X  │C  │V  │B  │N  │?  │.  │/  │§  │          │
+ │    │<  │w  │x  │c  │v  │b  │n  │,  │;  │:  │!  │          │
+ ├────┴┬──┴─┬─┴──┬┴───┴───┴───┴───┴───┴─┬─┴──┬┴───┼────┬─────┤
+ │     │    │    │                      │    │    │    │     │
+ │     │    │    │                      │    │    │    │     │
+ └─────┴────┴────┴──────────────────────┴────┴────┴────┴─────┘
 
 A tu belgiska tastatura za Windows XP (153 znamješkow) slědujo (belgiska tastatura jo wěcej bogata w Linuksu):
-<pre>
-³   1   2   3   4   5   6   7   8   9   0   °   _
-²   &|  é@  "#  '   (   §^  è   !   ç{  à}  )   -
-
-     A   Z   E   R   T   Y   U   I   O   P   ¨   *
-     a   z   e€  r   t   y   u   i   o   p   ^[  $]
-
-      Q   S   D   F   G   H   J   K   L   M   %   £
-      q   s   d   f   g   h   j   k   l   m   ù´  µ`
-
-   >   W   X   C   V   B   N   ?   .   /   +
-   <\  w   x   c   v   b   n   ,   ;   :   =~
-</pre>
+ ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
+ │³  │1  │2  │3  │4  │5  │6  │7  │8  │9  │0  │°  │_  │       │
+ │²  │& |│é @│" #│'  │(  │§ ^│è  │!  │ç {│à }│)  │-  │       │
+ ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
+ │     │A  │Z  │E  │R  │T  │Y  │U  │I  │O  │P  │<span style="color:#F00;">¨</span>  │*  │     │
+ │     │a  │z  │e €│r  │t  │y  │u  │i  │o  │p  │<span style="color:#F00;">^</span> [│$ ]│     │
+ ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┐    │
+ │      │Q  │S  │D  │F  │G  │H  │J  │K  │L  │M  │%  │£  │    │
+ │      │q  │s  │d  │f  │g  │h  │j  │k  │l  │m  │ù <span style="color:#F00;">´</span>│µ <span style="color:#F00;">`</span>│    │
+ ├────┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴───┴────┤
+ │    │>  │W  │X  │C  │V  │B  │N  │?  │.  │/  │+  │          │
+ │    │< \│w  │x  │c  │v  │b  │n  │,  │;  │:  │= <span style="color:#F00;">~</span>│          │
+ ├────┴┬──┴─┬─┴──┬┴───┴───┴───┴───┴───┴─┬─┴──┬┴───┼────┬─────┤
+ │     │    │    │                      │    │    │    │     │
+ │     │    │    │                      │    │    │    │     │
+ └─────┴────┴────┴──────────────────────┴────┴────┴────┴─────┘
 
 Jo jadne znamješko, kótarež móžoš direktnje tipowaś z pomocy francojskeje tastatury, ale nic z pomocy belgiskeje: '¤'.
 A tu slědujo 13 znamješkow, kótarež móžoš tipowaś z pomocy belgiskeje tastatury, ale nic z pomocy  francojskeje: '³', '´', 'Á', 'á', 'É', 'Í', 'í', 'Ó', 'ó', 'Ú', 'ú', 'Ý' a 'ý'.
