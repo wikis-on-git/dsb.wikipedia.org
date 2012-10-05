@@ -77,8 +77,8 @@ Wokale:
 * Wokale: /a/, /e/, /i/, /o/, /u/ wótpowědaju mjenjej (abo) wěcej Špańske a IPA ekwiwalenty, lěcrownož wótergi alofony [ɛ], [ɔ] se wužywaju cesćej; '''y''' je [[zacynjony, centralny njekulowaty wokal]] /ɨ/.
 
 {| class="prettytable"
-|Pšawopis
-|Wugronjenje
+! Pšawopis
+! Wugronjenje
 |-
 |a || [{{IPA|a}}]
 |-
@@ -93,13 +93,13 @@ Wokale:
 |y || [{{IPA|ɨ}}]
 |}
 
-Mimo togo eksistěruju ze wšych 6 wokalow teke nazalne warianty (ã, ẽ, ĩ, õ, ũ, ỹ) Nazalne wokale su jano w akcentuěrowanej złožce distinktiwne. Pśedpśizwukowe wokale bywaju dla nazalneje asimilacije pśed slědujucymi nazalnymi wokalami abo nazalnymi konsonantami nazalne, ale se w drugich padach njenazalnje wugronjone.
+Mimo togo eksistěruju ze wšych 6 wokalow teke nazalne warianty (ã, ẽ, ĩ, õ, ũ, ỹ) Nazalne wokale su jano w akcentuěrowanej złožce distinktiwne. Pśedpśizukowe wokale bywaju dla nazalneje asimilacije pśed slědujucymi nazalnymi wokalami abo nazalnymi konsonantami nazalne, ale se w drugich padach njenazalnje wugronjone.
 
 Konsonanty:
 
 {| class="prettytable"
-| Pšawopis
-| Wugronjenje
+! Pšawopis
+! Wugronjenje
 |-
 | colspan=2 | [[Nazal]]e
 |-
@@ -109,7 +109,7 @@ Konsonanty:
 |-
 | ñ || [{{IPA|ɲ}}]
 |-
-| g̃ (auch ng) || [{{IPA|ŋ}}]
+| g̃ (teke ng) || [{{IPA|ŋ}}]
 |-
 | colspan=2 | Njespiwne kluzile
 |-
@@ -119,7 +119,11 @@ Konsonanty:
 |-
 | k || [{{IPA|k}}]
 |-
+| ' || [{{IPA|ʔ}}] ([[zaknyk]])
+|-
 | colspan=2 | Frikatiwy
+|-
+| v || [{{IPA|ʋ}}]
 |-
 | s || [{{IPA|s}}]
 |-
@@ -130,12 +134,8 @@ Konsonanty:
 | colspan=2 | Flap
 |-
 | r || [{{IPA|ɾ}}]
-|-
-| colspan=2 | Approximant
-|-
-| v || [{{IPA|ʋ}}]
-|-
-|colspan=2 | Zwězki z nazala a homorganskego spiwnego kluzila (teke w nazuku)
+ |-
+|colspan=2 | Zwězki z nazala a homorganskego spiwnego kluzila (teke w zazuku)
 |-
 | mb || [{{IPA|mb}}]
 |-
@@ -143,11 +143,7 @@ Konsonanty:
 |-
 | ng || [{{IPA|ŋg}}]
 |-
-| colspan=2 | [[kyrkowy łusk]]
-|-
-| ' || [{{IPA|ʔ}}]
-|-
-| colspan=2 |
+| colspan=2 | [[Aproksimant]]
 |-
 | j  || [{{IPA|ɟ}}]
 |}
@@ -180,6 +176,7 @@ Eksistěruju někotare substantiwy, kótarež njamaju /t-/ w bazowych formach, a
 
 Ale teke eksistěruju někotare njeregularne substantiwy z dwěma formoma, na pś.
 * túva "nan" -> che ru "mój nan"
+
 == Gramatika ==
 
 Nomina a werby se bu tak jasnje kaž w Nimšćinje a Serbšćinje njerozeznawaju.
