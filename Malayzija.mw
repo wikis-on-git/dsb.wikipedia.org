@@ -26,6 +26,31 @@
 
 '''Malayzija''' (teke '''Malaysia''') jo  [[federacija|federatiwna]] konstitucionelna monarchija w krotkozajtšnej [[Azija|Aziji]], na pódpołdnju [[Malajiska połkupa|Malajiskeje połkupy]] a na pódpołnocy kupy [[Borneo]]. Jeje susedy su [[Indoneska]], [[Brunei]], [[Singapur]] a [[Thailand]].
 
+{{LocMap+ |  Malaysia | maptype=relief | width=500 | float=right | caption= | places=
+{{LocMap~ |  Malaysia | position=3  | lat=3.133333 | long=101.7     | region=MY | label='''[[Kuala Lumpur]]'''|marktype=stolica}}
+{{LocMap~ |  Malaysia | position=3  | lat=01/29/00 | long=103/44/00 | region=MY | label=<small>[[Johor Bahru]]</small>}}
+{{LocMap~ |  Malaysia | position=12 | lat=05/58/00 | long=116/04/00 | region=MY | label=<small>[[Kota Kinabalu]]</small>}}
+{{LocMap~ |  Malaysia | position=12 | lat=01/33/00 | long=110/21/00 | region=MY | label=<small>[[Kuching]]</small>}}
+{{LocMap~ |  Malaysia | position=6  | lat=04/35/00 | long=101/05/00 | region=MY | label=<small>[[Ipoh]]</small>}}
+{{LocMap~ |  Malaysia | position=9  | lat=06/07/00 | long=100/22/00 | region=MY | label=<small>[[Alor Setar|Alor</br>Setar]]</small>}}
+{{LocMap~ |  Malaysia | position=3  | lat=05/25/00 | long=100/19/00 | region=MY | label=<small>[[George Town (Penang)|George</br>Town]]</small>}}
+{{LocMap~ |  Malaysia | position=3  | lat=06/07/00 | long=102/15/00 | region=MY | label=<small>[[Kota Bahru]]</small>}}
+{{LocMap~ |  Malaysia | position=3  | lat=03/50/00 | long=103/19/00 | region=MY | label=<small>[[Kuantan]]</small>}}
+{{LocMap~ |  Malaysia | position=3  | lat=05/20/00 | long=103/09/00 | region=MY | label=<small>[[Kuala Terengganu]]</small>}}
+{{LocMap~ |  Malaysia | position=6  | lat=02/12/00 | long=102/15/00 | region=MY | label=<small>[[Malakka]]</small>}}
+{{LocMap~ |  Malaysia | position=3  | lat=05/19/00 | long=115/12/00 | region=MY | label=<small>[[Labuan]]</small>}}
+
+{{LocMap~ | Y=1 | X=6 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Thailand}}
+{{LocMap~ | Y=85 | X=25 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=<small>Singapur</small>}}
+{{LocMap~ | Y=100 | X=8 | position=12 | label_style=bold/uppercase|label_color=#646464 | label=Indoneziska}}
+{{LocMap~ | Y=100 | X=75 | position=12 | label_style=bold/uppercase|label_color=#646464 | label=Indoneziska}}
+{{LocMap~ | Y=55 | X=40 | position=12 | label_style=bold/uppercase|label_color=#646464 | label=<small>Indoneziska</small>}}
+{{LocMap~ | Y=47 | X=70 | position=12 | label_style=bold/uppercase|label_color=#646464 | label=<small>Brunei</small>}}
+
+{{LocMap~ | Y=70 | X=77 | position=12 | label=<small>''[[Borneo]]''</small>}}
+{{LocMap~ | Y=55 | X=4 | position=6 | label=<small>''[[Mórska wuscyna Malakka]]''</small>}}
+}}
+
 {{Nawikašćik Azija}}
 {{-}}
 {{pśeźěłuj|zarodk|img|sources}}
