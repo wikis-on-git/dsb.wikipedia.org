@@ -1,36 +1,216 @@
 {{Stat
-|mě swójske=République du Mali
+|mě swójske=République du Mali {{ref-fr}}
 |mě serbske=Republika Mali
-|wopon=Coat of arms of Mali.gif
+|wopon=Coat_of_arms_of_Mali.gif
 |chórgoj=Flag of Mali.svg
 |gronko=„Un peuple, un but, une foi“<br />Jaden lud, jaden cel, jadna wěra
 |połoženje=LocationMali.svg
-|rěc=[[francojska rěc|francojska]] 
+|rěc=[[Francojšćina]] 
 |stolica=[[Bamako]]
-|forma kněžerstwa=poł-prezidentska republika
-|głowny=prezident Amadou Toumani Touré
-|šef=premierminister Modibo Sidibé
-|płoń=1 240 192 
-|wobydlarje=11 995 402
-|lěto=2007
-|gustosć ludnosći=11
+|forma kněžerstwa=połprezidialna republika
+|głowny=Prezident [[Dioncounda Traoré]] (kommisariski)
+|šef=Premierminister [[Django Sissoko]] (komisariski)
+|płoń=1.240.192 
+|wobydlarje=14.517.176<ref>[http://www.primature.gov.ml/index.php?option=com_content&task=view&id=3036&Itemid=1 (mortwy wótkaz!) Nachylne wuslědki censusa 2009]</ref> (Census 2009) 
+|lěto=
+|gustosć ludnosći=12
 |pjenjeze=frank CFA
 |hymna=Le Mali
 |casowa cona=[[koordiněrowany swětowy cas|UTC]]+0
 |znamje za awta=RMM
 |TLD=.ml
-|telefonowe pśedwólenje=+223
-|kórta=Ml-map.png
+|telefon=+223
+|kórta=Mali on the globe (Africa centered).svg
 }}
+<!--|NAME-AMTSSPRACHE = <span style="font-size:1.4em;">'''République du Mali'''</span>
+|NAME-DEUTSCH = '''Republik Mali'''
+|BILD-FLAGGE = Flag of Mali.svg
+|ARTIKEL-FLAGGE = Flagge Malis
+|BILD-WAPPEN =Coat of arms of Mali.svg
+|BILD-WAPPEN-BREITE = 120px
+|ARTIKEL-WAPPEN = Wappen Malis
+|WAHLSPRUCH = ''Un peuple, un but, une foi''<br />([[Französische Sprache|frz.]] für „Ein Volk, ein Ziel, ein Glaube“)
+|AMTSSPRACHE = [[Französische Sprache|Französisch]]
+|HAUPTSTADT = [[Bamako]]
+|STAATSFORM = [[semipräsidiale Republik]]
+|REGIERUNGSFORM = [[Militärregierung]]
+|STAATSOBERHAUPT = Präsident [[Dioncounda Traoré]] (kommissarisch)
+|REGIERUNGSCHEF = Premierminister [[Django Sissoko]] (kommissarisch)
+|FLÄCHE = 1.240.192
+|EINWOHNER = 14.517.176<ref>[{{Toter Link |inline=ja |date=2012-09-25 | url=http://www.primature.gov.ml/index.php?option=com_content&task=view&id=3036&Itemid=1}} Vorläufige Ergebnisse des Zensus 2009]</ref> (Zensus 2009)
+|BEV-DICHTE = 12
+|BEV-ZUNAHME =
+|BIP = ca. 9,42&nbsp;Mrd.&nbsp;US$ (2009), für 2011 geschätzt 10,29&nbsp;Mrd.&nbsp;US$ <ref>[http://www.auswaertiges-amt.de/DE/Aussenpolitik/Laender/Laenderinfos/01-Nodes_Uebersichtsseiten/Mali_node.html]</ref>
+|BIP-ERWEITERT =
+|BIP/EINWOHNER = ca. 691&nbsp;US$ (2009)
+|HDI = {{Gestiegen}} 0,359 <small>(175.)</small><ref>{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Summary.pdf|title=2011 Human development Report|publisher=[[Entwicklungsprogramm der Vereinten Nationen]]|pages=17-20|accessdate=2012-12-27}}</ref>
+|WÄHRUNG = 1 [[CFA-Franc BCEAO]]
+|UNABHÄNGIGKEIT = von [[Frankreich]] als Teil der [[Mali-Föderation]] am 20. Juni 1960, endgültig am 22. September 1960
+|NATIONALHYMNE = ''[[Pour l’Afrique et pour toi, Mali]]''
+|ZEITZONE = [[Coordinated Universal Time|UTC]]
+|KFZ-KENNZEICHEN = RMM
+|INTERNET-TLD = [[.ml]]
+|TELEFON-VORWAHL = +223
+|BILD-LAGE = Mali on the globe (Africa centered).svg
+|BILD-LAGE-IMAGEMAP = AfrikaGlobus1
+}}-->
+<!--{{ LocMap+ | Mali | width=270 | float=right | maptype=relief | caption= | places=
+ {{ LocMap~ | Mali | position=9 | lat=12/39// | long=08/00//W | region=ML | label='''[[Bamako]]'''}}
+ {{ LocMap~ | Mali | position=9 | lat=11/19// | long=05/40//W | region=ML | label=<small>[[Sikasso]]</small>}}
+ {{ LocMap~ | Mali | position=3 | lat=12/52// | long=07/34//W | region=ML | label=<small>[[Koulikoro]]</small>}}
+ {{ LocMap~ | Mali | position=3 | lat=14/27// | long=11/26//W | region=ML | label=<small>[[Kayes]]</small>}}
+ {{ LocMap~ | Mali | position=12 | lat=13/27// | long=06/16//W | region=ML | label=<small>[[Ségou]]</small>}}
+ {{ LocMap~ | Mali | position=3 | lat=14/30// | long=04/12//W | region=ML | label=<small>[[Mopti]]</small>}}
+ {{ LocMap~ | Mali | position=12 | lat=16/46// | long=03/00//W | region=ML | label=<small>[[Timbuktu]]</small>}}
+ {{ LocMap~ | Mali | position=3 | lat=18/26// | long=01/25//E | region=ML | label=<small>[[Kidal]]</small>}}
+ {{ LocMap~ | Mali | position=3 | lat=16/16// | long=00/03//W | region=ML | label=<small>[[Gao]]</small>}}
 
+ {{ LocMap~ | Mali | position=10 | lat=19/07// | long=01/45//E | region=ML | mark=RedMountain.svg | marksize=12 | label=<small>[[Adrar des Ifoghas]]</small>}}
 
-'''Mali''' jo kraj w pódwjacornej [[Afrika|Africe]].
+ {{ LocMap~ | Y=30 | X=12 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Mawretańska}}
+ {{ LocMap~ | Y=5 | X=80 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Algeriska}}
+ {{ LocMap~ | Y=70 | X=90 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Niger}}
+ {{ LocMap~ | Y=78 | X=63 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Burkina Faso}}
+ {{ LocMap~ | Y=90 | X=10 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Guineja}}
+}}-->
 
+'''Mali''' jo [[nutśikokrajny stat]] w [[Pódwjacorna Afrika|pódwjacornej Africe]]. Jo njewótwisny wót [[Francojska|Francojskeje]] wót lěta 1960, tak pomjenjonego [[Afriske lěto|Afriskego lěta]]. 
+Krajne mě jo se pó pśikłaźe srjejźowěkowskego [[Mali (mócnarstwo)|mócnarstwa Mali]] wóliło. 
+
+Pó [[Putš w Maliju 2012|wójarskim putšu]] w głownem měsće [[Bamako]] a jadnobocnej deklaraciji wó njewótwisnosći pódpołnocy kraja ([[Azawad]]) stoj kraj w lěśe 2013 snaź pśed šćěpjenim.<ref>[http://www.dw.de/europa-will-mali-helfen-aber-wie/a-16326135 Peter Stützle: ''Europa will Mali helfen - aber wie?'' bok Nimskeje žwały wót 23. oktobra 2012], wótwołany ten samski źeń</ref> 11.&nbsp;januara 2013 jo se [[Opération Serval]], zasajźenje [[Francojske wobronjone mócy|francojskich wobronjonych mócow]] za pódpěranje wójska Maliskego kněžerstwa zachopiła. 
 
 == Geografija ==
+=== Połoženje ===
+Mali jo [[nutśikokrajny stat]] w [[Pódwjacorna Afrika|pódwjacornej Africe]] z płonju 1.240.192&nbsp;kwadratnych kilometrow, z kótarychž 20.002 km² přiźo na wódy. Lažy ako we  [[Wjelikokrajina Sudan|wjelikokrajinje Sudan]] tak teke w [[Sahelowa cona|Sahelu]] a źěli se swóju  7243&nbsp;kilometrow dłujku krajnu granicu ze sedym susednymi statami; na dłujkem zajtšu a na pódpołnocy z [[Algeriska|Algeriskej]] (1376&nbsp;kilometrow dłujkosći), na dłujkem pódwjacorje z [[Mawretańska|Mawretańskeju]] (2237&nbsp;kilometrow), na pódzajtšu z [[Niger]]om (821&nbsp;km) a na krotkem zajtšu z [[Burkina Faso]] (1000&nbsp;kilometrow). Z Malijom granicuju mimo togo [[Senegal]] (419&nbsp;kilometrow) na pódwjacorje, [[Guineja]] (858&nbsp;kilometrow) na krotkem wjacorje a [[Słonokosćowy pśibrjog]] (Côte d'Ivoire, 532&nbsp;kilometrow) na pódpołdnju.<ref name="cia">''[https://www.cia.gov/library/publications/the-world-factbook/geos/ml.html Mali].'' In: [[Central Intelligence Agency]] (Hrsg.): ''[https://www.cia.gov/library/publications/the-world-factbook/index.html The World Factbook 2009]''. Washington 2009, {{ISSN|1553-8133}}</ref> Wušej [[Niger (rěka)|Nigerowego]] wokłona lažy pusćina  [[Sahara]], kótaraž pókšywa dwě tśeśinje krajneje płoni.
 
-Nejwuše městno jo: Hombori Tondo (1155 m nad normalneju nulu), a nejniše: rěka Senegal (23 m nad normalneju nulu).
+== Ludnosć ==
+Maliska ludnosć zestaja se z něźi 30 rozdźělnych  [[Etnikum|etnikumow]]. Maju rozdźělne rěcy a kultury a su zgromadnje žywe do dalokeje měry měrnje. 
 
-[[Kategorija:Mali| ]]
+Głowny etnikum jo [[Bambara]], kótarež twórje pśisamem tśeśinu (32&nbsp;%) wobydlarjow. Politiski wjeduce su [[Malinke]], lěcrownož twórje jano 6&nbsp;procentow ludnosći. Teke trajnje zasedlone rolnikarje su [[Senufo (lud)|Senufo]] z 12&nbsp;procentow, [[Soninke]] z 9&nbsp;procentow,  [[Songhai]] z 7&nbsp;procentow a [[Dogon]]. Ako [[nomada|nomady]] abo połnomay su žywe wesrjejź kraja pśedewšym [[Fulbe]], kótarež twórja 14&nbsp;procentow ludnosći kraja, mimo togo [[Tuareg]] a [[Mawry]]. Dalšne kupki su Minianka, [[Bozo]], Khassonké, [[Bobo (lud)|Bobo]] a [[Jula (lud)|Dioula]].<ref name="greb">{{Literatura|titel=Meyers Großes Länderlexikon|nakładnistwo=Meyers Lexikonverlag|městno=Mannheim|lěto=2004|isbn=}}</ref> W něgajšnej francojskej koloniji jo žywe hyšći źinsa něźi 6000 Francozarjow.<ref>[http://www.spiegel.de/politik/ausland/franzosen-sterben-bei-einsaetzen-in-mali-und-somalia-a-877165.html ''Ein schwarzer Tag für Frankreich.''] spiegel. de wót 12. januara 2013, wótwołany 12. januara 2013</ref>
+
+=== Rěcy ===
+Hyšći pśed amtskeju rěcu [[francojšćina]], kótaraž wužywa se ako druga rěc wót něźi  10&nbsp;% lludnosći, jo [[Bambara]] (40&nbsp;procentow powědarjow) nejwěcej rozšyrjona rěc. Lěcrownož něźi 80&nbsp;procentow wobydlarjow, inkluziwnje tych, kótarež wužywaju ako drugu rěc, wuměju Bambaru, jo francojšćina jadnucka amtska a wuwucowańska rěc. Na Bambarje krajne mě Mali wóznamjenijo „[[wódny kóń]]“. Dalšne rěcy su [[Dogon (rěc)|dogonowe rěcy]], [[Fulfulde]], [[Songhai-rěcy]], [[Soninke (rěc)|Soninke]], [[Senufo-rěce]] a [[Tamašek]]. [[Arabšćina]] ma pśedewšym w religioznem konteksće wjeliki wuznam. Wót wjele Maliarjow rozměju se někotare z toś tych rěcow.<ref>Fischer Weltalmanach 2006, ISBN 3-596-72006-0, S. 307.</ref>
+
+=== Nabóžniny ===
+[[Dataja:Map of expansion of Caliphate.svg|miniatur|270px|Wupśestrěśe islama až do lěta 750:
+{{legenda|#a1584e|Wupśestrěśe za cas Mohammeda, 612-632}}
+{{legenda|#ef9070|Wupśestrěśe wob cas prědnych tśoch kalifow, 632-655}}
+{{legenda|#fad07d|Wupśestrěśe wob cas kalifata Umajadow 661-750}}
+]]
+
+Wobydlarje Sudanoweje cony su se wót pódpołnocnoafriskich muslimiskich dobywarjow zwětšego islaměrowali. Rownocasnje su pódla togo domorodne  formy wěrjenja dalej wobstali. Maliski islam jo teke elementy tradiconelnych afriskich nabóžninow pśewzeł, pśedewšym pla narodow Malinke a Songhai.
+Sunitiski islam [[Malikity|malikitiskeje]] pšawniskeje šule jo z něźi 90&nbsp;procentami nejwěcej rozšyrjona nabóžnina ludnosći w Maliju. Muslimy su žywe pśedewšym na pódpołnocy; [[Sufizm|sufistiske]] bratšojstwa wugbaju wjeliki wliw.
+
+Na pśipołdnju prakticěrujo něźi jaden procent ludnosći [[Animizm|animistiske nabóžniny]]. K toś tym nabóžninam se nejwěcej pśisłušnikow narodow Bobo, Senufo a Dogon wuznawa. [[Romsko-katolska cerkwja|Katoliki]] a [[Protestanty|protestanty]] maju jano dwa procenta późěl .<ref name="greb" /> Něgajšna kolonialna móc Francojska jo měła katolski charakter.
+
+== Politika ==
+[[Dataja:Dioncounda Traore photo officielle de campagne 3 Mali 2012.jpg|miniatur|hochkant|Parlamentowy prezident a designěrowany pśechadny prezident Dioncounda Traoré]]
+Mali su měli až do wójerskego putša w měrcu 2012 za mjenjej abo wěcej raźony pśikład [[Demokratizacija|demokratizacije]] w Africe, jo pak jaden z nejchudšych a nejmjenjej wuwitych krajow swěta. Statna forma kraja jo [[Prezidialna republika|semiprezidialna republika]] we formje [[semiprezidentowy kněžerstwowy system|semiprezidentowego kněžerstwowego systema]]. Kužde pěś lět wólona [[Narodna zgromaźina (Mali)|narodna zgromaźina]] wopśimujo 147 wótpósłancow a kněžy se z głownego města Bamako. Parlamentowy prezident jo wót lěta 2007 [[Dioncounda Traoré]]. Z wušej 100 opoziciskich stronow jo 14 w parlamenśe zastupjone.<ref name="auswaertiges-amt.de">http://www.auswaertiges-amt.de/DE/Aussenpolitik/Laender/Laenderinfos/01-Nodes_Uebersichtsseiten/Mali_node.html</ref>
+
+=== Pó wójerskem putšu 2012 ===
+
+21. měrca 2012 jo se w Maliju [[Putš w Maliju 2012|wójerski putš]] wotměł. Powědaŕ putšistow [[Amadou Konaré]] jo wobtwarźił statny pśewrot z njezamóžnosć prezidenta, wót srjejź januara 2012 trajucy zběžk [[Tuareg]]-rebelow [[Narodne gibanje za wulichowanje Azawada|Narodnego gibanja za wulichowanje Azawada]] (MNLA) w regionje [[Azawada]] na pódpołnocy kraja pód kontrolu dostaś. Za nawjedowarja putšistow maju stotnika 
+[[Forces Armées et de Sécurité du Mali|wobronjonych mocow Malija]] [[Amadou Sanogo]]. Pó dobywanju prezidentowego palasta w Bamaku su putšisty kněžerstwo za wóstarcone deklarěrowali. Wustawu su za njepłaśiwu deklarěrowali, za apryl planowanu wólbu prezidenta su šmarnuli a wšykne dotychměstne statne institucije zacynili. Někotarych ministrow su popajźili. Prezidenta [[Amadou Toumani Touré]] su za wótsajźonego deklarěrowali; jomu jo se gromaźe z lojalnymi wójakami wuběgnjenje raźiło.<ref>{{Internetowe žrědło | url=http://derstandard.at/1332323463366/Mali-Putschisten-uebernehmen-Macht-und-verhaengen-Ausgangssperre | titel=DerStandard - Putschisten übernehmen Macht und verhängen Ausgangssperre | pśistup=2012-03-22}}</ref><ref>{{Internetowe žrědło | url=http://www.focus.de/politik/ausland/mehrere-minister-festgenommen-soldaten-in-mali-stuermen-den-praesidentenpalast_aid_726568.html | titel=FOCUS Online: Präsidentenpalast in Hand von Putschisten. Meuternde Soldaten in Mali stürzen Regierung | pśistup=2012-03-22}}</ref>
+
+[[Rada za wěstosć Zjadnośonych narodow|Rada za wěstosć UN]], [[Afriska unija]] a wenkowna społnomócnjona EU [[Catherine Ashton]] su statny pśewrot zasuźili a su wójerskej junśe sankcije nakładli; [[EU-komisija]] jo pśipowěźeła, swóju wuwiśowu pomoc za Mali nachylu wusajźiś.<ref>{{Internetowe žrědło | url=http://www.zeit.de/politik/ausland/2012-03/mali-putsch-un-sicherheitsrat | titel=ZEIT Online: Regierungssturz. UN-Sicherheitsrat verurteilt Militärputsch in Mali | pśistup=2012-03-23}}</ref> 1. apryla 2012 jo Sanogo pśipowěźeł, aby wustawa zasej płaśiwa była a aby se „liche, wótwórjone a demokratiske wólby“ zmóžnili.<ref>{{Internetowe žrědło |awtor= |url=http://www.zeit.de/politik/ausland/2012-04/mali-rebellen-timbuktu |titel=Putschistenführer Sanogo lenkt ein |źěło=[[Die Zeit|Zeit Online]] |datum=2012-04-01 |rěc=de|pśistup=2012-04-07}}</ref> 6. apryla 2012 jo Sanogo do wobłukowego dojednanja z [[Pódwjacornoafriske góspodarske zjadnośenstwo|Pódwjacornoafriskim góspodarskim zjadnośenstwom]] (ECOWAS) za pśepódaśe mocy ciwilnemu kněžerstwoju zwólił. Maliski parlamentowy prezident [[Dioncounda Traoré]] by měł pśechadne prezidentstwo pśewześ a w běgu 40 dnjow nowe wólby organizěrowaś, ECOWAS pak kóńcy swóje sankcije.<ref>{{Internetowe žrědło | url=http://www.bbc.co.uk/news/world-africa-17642276 | titel=Mali coup leaders to stand down as part of Ecowas deal |źěło=[[British Broadcasting Corporation|BBC]] |datum=2012-04-07 |rěc=en | pśistup=2012-04-07}}</ref> Aby toś ten kšac zmóžnił, jo teke něgajšny prezident Touré 8. apryla swój wótstup wózjawił.<ref>{{Internetowe žrědło | url=http://www.tagesschau.de/ausland/mali170.html | titel=Malis Präsident tritt nach Putsch zurück |źěło=[[tagesschau.de]] |datum=2012-04-09 |rěc=de | pśistup=2012-04-09}}</ref>
+
+Mjaztym su Tuareg-zběžkarje MNLA wšykne města regiona [[Azawad]] na pódpołnocy kraja wobsajźili a 6. apryla 2012 jadnobócnu njewótwisnosć Azawada deklarěrowali.<ref name="FAZUnabhängigkeit"/>
+
+Lěcrownož putšisty su nadawki kněžerstwa pśepódali, jo jich dalšna rola njejasna. 16. apryla su wójaki něgajšnego ministerskego prezidenta [[Modibo Sidibé]] popajźili, 17. apryla pśedsedarja strony [[Union pour la république et la démocratie]] (URD) [[Soumaila Cissé]], kandidata z dobrymi wuglědami za zastojnstwo prezidenta.<ref>[http://www.vaterland.li/index.cfm?id=103918&source=sda&ressort=home Übergangsregierung in Mali lässt mehrere Politiker festnehmen]</ref>
+
+17. apryla jo statna telewizija k wěsći dała, až [[Cheick Modibo Diarra]] buźo pśechadne kněžerstwo ako ministerski prezident nawjedowaś.<ref>[http://www.sueddeutsche.de/politik/politicker-vorlage-iii-islamisten-sollen-attentat-in-frankreich-geplant-haben-1.1335247 Nach Militärputsch - Mali ernennt neuen Ministerpräsidenten] sueddeutsche.de</ref> Diarra jo až do kóńca 2011 za Microsoft ako pśedsedaŕ za pśekupowański wobcerk Afrika źěłał.<ref>[http://www.microsoft.com/presspass/emea/presscentre/ExecutiveBiographies/CheickModiboDiarra.mspx Dr. Cheick Modibo Diarra]</ref> Jo wótglěd měł, za wólbu prezidenta kandiděrowaś, kótaraž pópšawem jo planowany za 29. apryla 2012.<ref>[http://www.aljazeera.com/news/africa/2012/04/2012417215625215390.html Profile: Mali's Cheick Modibo Diarra]</ref>
+
+Mjazy januarom a julijom 2012 jo wušej 250.000 Maliarjow dla politiskeje njestabilnosći, njewěsteje situacije a špatnego pśistupa k žywidłam a woźe do susednych krajow [[Burkina Faso]], [[Mawretańska]] a [[Niger]] wuběgnuło. Mimo togo jo było w tom samskem casu něźi 105.000 nutśikownych wuběgańcow na pódpołnocy a něźi 69.000 nutśikownych wuběgańcow na pódpołdnju Malija.<ref>[[OCHA]] (Hrsg.): ''La crise au Sahel. Bulletin Humanitaire Spécial''. Nr. 3 / 13. August 2012 ([http://reliefweb.int/sites/reliefweb.int/files/resources/2012-08-13_HumanitarianBulletin_Sahel_Issue-3_-_FR.pdf Online-Version]), S. 2.</ref>
+
+Zachopjeńk oktobra 2012 jo UNO něgajšnego italskego ministerskego prezidenta [[Romano Prodi]] za ''społnomócnjonego za sahel'' wumjeniła.<ref>[http://www.un.org/News/Press/docs//2012/sga1377.doc.htm UNO-Pressemitteilung (engl.)], wótwołany 23. oktobra 2012</ref>
+Rada za wěstosć UN jo 12. oktobra 2012 rezoluciju pśiwzeł, w kótarejž pomina zdźarženje statneje jadnoty 
+Malija.<ref>[http://www.un.org/News/Press/docs/2012/sc10789.doc.htm Casnikowa informacija na boku UN wót 12. oktobra 2012 (eng.)], wótwołany 23. oktobra 2012</ref> Wójerske wójowanje ECOWAS jo chapjało se pokazowaś.<ref>[http://www.welt.de/politik/ausland/article110143693/Niebel-In-Mali-droht-zweites-Afghanistan.html ''Niebel- „In Mali droht ein zweites Afghanistan.“'' welt.de wot 22. oktobra 2012], wotwołany 23. oktobra 2012</ref> ECOWAS jo kśěł 3.300 luźi interwenciskich jadnotkow pósłaś, Europska unija jo zasajźenje 200 wuwucowarjow planowała<ref>[http://www.sueddeutsche.de/politik/krisenland-mali-ecowas-staaten-einigen-sich-auf-mann-starke-eingreiftruppe-1.1520628 ''ECOWAS-Staaten einigen sich auf 3300 Mann starke Eingreiftruppe.'' sueddeutsche.de wot 11. nowembra 2012], wótwołany 13. nowembra 2012</ref> z wobźělenim [[Zwězkowa armeja|Zwězkoweje armeje]].<ref>[http://www.spiegel.de/politik/deutschland/merkel-gibt-gruenes-licht-fuer-mali-mission-der-bundeswehr-a-862736.html ''Merkel gibt grünes Licht für Mali-Mission.''] spiegel.de wót 22. oktobra 2012, wótwołany 12. januara 2013</ref> Po popajźenju pśez militerow 10. decembra 2012 jo Modibo Diarra 11. decembra rano w pśipowěźenju w statnej telewiziji swój wótstup a wótstup swójogo cełego [[kabinet|kabineta]] deklarěrował.<ref>[http://www.handelsblatt.com/politik/international/nach-der-festnahme-malis-regierungschef-tritt-zurueck/7504092.html Malis Regierungschef tritt zurück] w: Handelsblatt wót 11. decembra 2012</ref><ref>[http://www.fr-online.de/politik/malis-ministerpraesident-diarra-festgenommen-unfreiwilliger-ruecktritt-in-mali,1472596,21076684.html Unfreiwilliger Rücktritt in Mali] Malis Ministerpräsident Diarra festgenommen w: Frankfurter Rundschau online wót 11. decembra 2012</ref> Ten samski źeń jo prezident Traoré [[Django Sissoko]] za interimnego premierministra wumjenił.<ref>[http://www.bbc.co.uk/news/world-africa-20687562%5D Django Sissoko named as Mali prime minister], BBC News Africa</ref> Rada za wěstosć UN jo pódprěła w swójej rezoluciji 20. decembra 2012 wójerske wójowanje susednych statow.<ref>[http://www.new-york-un.diplo.de/Vertretung/newyorkvn/en/__pr/press-releases/2012/20121220-sc-mali-resolution.html?archive=2990092 Tekst rezolucije (eng.) na boku nimskego UN-zastupnistwa], wótwołany 22. decembra 2012</ref> Toś to wójowanje njejo mógło se snaź do septembra 2013 zachopiś. <ref>Katrin Gänsler: [http://www.taz.de/Die-Lage-in-Mali/!108880/ ''Keiner traut mehr der Armee.''] taz.de wót 11. januara 2013, wótwołany 13. januara 2013</ref> Mjaztym su  wójska pódpołnocy k pódpołdnju póstupowali.<ref>Thomas Scheen: [http://www.faz.net/aktuell/politik/ausland/mali-unheilige-allianz-12022027.html ''Unheilige Allianz.''] faz.net wót 11. januara 2013, wótwołany 11. januara 2013</ref>
+
+11. januara 2013 jo se wojerska operacija maliskego wójska z mjenim ''[[Opération Serval]]'', zachopiła, pódpěrana wót francojskich jadnotkow, pśeśiwo islamistiskim rebelam, kótarež su z pódpołnocy póstupowali.<ref>[http://www.spiegel.de/politik/ausland/franzosen-sterben-bei-einsaetzen-in-mali-und-somalia-a-877165.html ''Ein schwarzer Tag für Frankreich.''] spiegel. de wót 12. januara 2013, wótwołany 12. januara 2013</ref>
+
+== Zastojnstwowe rozrědowanje ==
+
+<!--{{Imagemap Mali1|Mali, administrative divisions - de - colored.svg|miniatur|250px|Die Regionen und der Hauptstadtdistrikt Malis}}-->
+[[Dataja:Village Telly in Mali.jpg|miniatur|Wjas pśi [[Skała Bandiagary|skale Bandiagary]]]]
+
+Stat rozrědujo se do wósym regionow a do distrikta głownego města. Toś te rozrěduju se do 49 wokrejsow a 703 gmejnow. Regiony su pó swójich 
+głownych městach pomjenjone. 
+
+{| class="wikitable sortable"
+|-
+! Region !! Głowne město !! data-sort-type="number"|Płoń !! data-sort-type="number"|Wobydlarjow (2009)
+|-
+|colspan=2|[[Bamako]]&nbsp;(distrikt głownego města)||style="text-align:right"| 245&nbsp;km² ||style="text-align:right"| 1.809.106
+|-
+| [[Region Gao|Gao]] || [[Gao]] ||style="text-align:right"| 170.572&nbsp;km² ||style="text-align:right"| 544.120
+|-
+| [[Region Kayes|Kayes]] || [[Kayes]] ||style="text-align:right"| 197.760&nbsp;km² ||style="text-align:right"| 1.996.812
+|-
+| [[Region Kidal|Kidal]] || [[Kidal]] ||style="text-align:right"| 151.450&nbsp;km² ||style="text-align:right"| 67.638
+|-
+| [[Region Koulikoro|Koulikoro]] || [[Koulikoro]] ||style="text-align:right"| 89.833&nbsp;km² ||style="text-align:right"| 2.418.305
+|-
+| [[Region Mopti|Mopti]] || [[Mopti]] ||style="text-align:right"| 88.752&nbsp;km² ||style="text-align:right"| 2.037.330
+|-
+| [[Region Ségou|Ségou]] || [[Ségou]] ||style="text-align:right"| 64.947&nbsp;km² ||style="text-align:right"| 2.336.255
+|-
+| [[Region Sikasso|Sikasso]] || [[Sikasso]] ||style="text-align:right"| 70.280&nbsp;km² ||style="text-align:right"| 2.625.919
+|-
+| [[Region Timbuktu|Timbuktu]] || [[Timbuktu]] ||style="text-align:right"| 408.977&nbsp;km² ||style="text-align:right"| 681.691
+|}== Stawizny ==
+
+Mali jo był wót 11. stolěśa až do wokoło 1600 islamske wjelikomócnarstwo, kótarež jo se pózdźej wót ludowu Mossi a Fulbe dobyło a rozdźěliło. 1893 bu z dobyśim města [[Timbuktu]] pód mjenim ''Francojski Sudan'' [[Kolonija|kolonija]] [[Francojska|Francojskeje]]. 
+4. apryla 1959 stej se [[Francojski Sudan]] a [[Senegal]] w [[Communauté française]] k [[Malif-federacija|Mali-federaciji]] zjadnośiłej, kótaraž jo 20. junija 1960 swóju njewótwisnosć wót Francojskeje dojśpił. Dla diferencow mjazy wjeducyma politikarjoma wobeju źělow kraja, [[Modibo Keïta]] a [[Léopold Sédar Senghor]], jo se federacija južo 20. awgusta togo samskego lěta złamała, a 22. septembra 1960 jo něgajšna kolonija [[Francojski Sudan]] pód mjenim Republika Mali formelnje swóju samostatnosć deklarěrowała. Toś ten źeń płaśi w 
+Maliju wót togo casa ako [[narodny swěźeń]].
+
+Pó njewótwisnosći jo Mali stat jadneje strony, w lěśe 1968 jo se general [[Moussa Traoré]] k mocy putšował, 1991 pśiźo pó zběžkach k demokratiskim reformam a k pśiwześeju wustawy. 1992 jo se [[Alpha Oumar Konaré]] za prezidenta wuzwólił.
+
+Kraj ma wót lěta 1992 demokratisku [[Wustawa|wustawu]]. Głowa stata jo wót 8. junija 2002 statny prezident [[Amadou Toumani Touré]] była, ale [[wólbne wobźělenje]] jo z něźi 30&nbsp;procentami wjelgin małe było. Statny prezident jo se pó wustawje nejpjerwjej na pěś lět direktnje wót luda wuzwólił a 29. apryla 2007 znowego wuzwólił.<ref name="auswaertiges-amt.de"/> Pó wótstupje ministerskego prezidenta [[Modibo Sidibé]] 30. měrca 2011 jo była z stroński njewězaneju [[Cissé Mariam Kaïdama Sidibé]] prědny raz žeńska šefowka kněžerstwa w Maliju.
+
+Na pódpołnocy Malija jo w zachadnosći cesćej ke konfliktam z tam domorodnymi  [[Nomad|nomadami]], [[Tuareg|Tuaregami]] pśišło, kótarež su se pó bergarskej wójnje w [[Libyska|Libyskej]] znowego wuderili. Pó putšu w Maliju w měrcu 2012 su [[Narodne gibanje za wulichowanje Azawada|wobronjene jadnotki Tuaregow]] až do zachopjeńka apryla wšykne města w regionje [[Azawad]] dobyli a samostatny stat proklaměrowali.<ref name="FAZUnabhängigkeit">{{Internetowe žrědło | url=http://www.faz.net/aktuell/politik/ausland/einseitige-erklaerung-tuareg-rufen-eigenen-staat-in-nord-mali-aus-11709541.html | titel=Tuareg rufen eigenen Staat in Nord-Mali aus |źěło=[[Frankfurter Allgemeine Zeitung]] |datum=2012-04-06|rěc=de|pśistup=2012-04-06}}</ref>
+
+== Góspodarstwo ==
+Hyšći w lěśe 2003 jo późěl ludnosći z mjenjej ako jadnym US-dolarom nabrankow na źeń 73&nbsp;procentow wucynił. Pó drugich pódaśach jo w lěśe 2005 na 36&nbsp;procentow ludnosći pód granicu chudoby žywe.<ref>http://www.ipicture.de/daten/wirtschaft_mali.html pśistup 14. januara 2012</ref> Korupcija jo daloko rozšyrjona.
+
+=== Wikowańske partnarje ===
+Nejwažnjejšej eksportowej kraja stej Chinska, kótaraž wóteběra tśeśinu eksportow Malija a Pakistan (něźi 10 procentow). Nejwažnjejšej importowej kraja stej Francojska (něźi 15 procentow) a Senegal (něźi 10 procentow).<ref>http://www.ipicture.de/daten/wirtschaft_mali.html</ref> 
+Zemski wólij jo nejwažnjejša importowa wóra. Nejwažnjejše eksportowe wóry su produkty górnistwa (něźi 75 %), bałma (10 %) a žywe zwěrjeta (5 %).
+
+== Kultura ==
+[[Dataja:Mali Peul woman.jpg|miniatur|hochkant|Žeńska z luda [[Fulbe]] w tradicionelnej drastwje]]
+
+[[Wjelika mošeja w Djenné]] jo jadne z nejwětšych glinjanych twarjow swěta a licy k nejsławnjejšim twarjam Afriki. W lěśe 1998 jo se zgromadnje ze starym městom Djenné wót [[UNESCO]] za swětowe kulturne derbstwo deklarěrowała. pśistup jo njemuslimam zakazany. Kóńc junija 2012 su cłonki islamistiskeje kupki ''[[Ansar Dine]]'' mjazy drugim mawsoleum [[Sufizm|sufistiskego]] swětego [[Sidi Mahmud]] zapusćili, kótaryž słuša k [[Swětowe derbstwo UNESCO|swětowemu derbstwoju UNESCO]]. Wobronjenych konfliktow dla jo komitej swětowego derbstwa UNESCO ako pusćinowe město [[Timbuktu]] z jogo [[Glinjane mošeje Timbuktuwa|glinjanymi mošejami]] tak teke [[rowowy pomnik Askia]] do togo na [[Cerwjena lisćina wobgrozonego swětowego derbstwa|cerwjenu lisćinu wobgrozonego swětowego derbstwa]] stajił.<ref>[http://www.spiegel.de/politik/ausland/timbuktu-islamisten-zerstoeren-weltkulturerbe-a-841892.html ''Islamisten zerstören Weltkulturerbe''], Spiegel online wót 1. julija 2012</ref>
+
+== Literatura ==
+* Éric Milet, Jean-Luc Manaud: ''Mali.'' Olizane, Genf 2007, ISBN 978-2-88086-351-7.
+* Rolf Hofmeier, Andreas Mehler: ''Afrika-Jahrbuch 2003. Politik, Wirtschaft und Gesellschaft in Afrika südlich der Sahara.'' Vs-Verlag, 2004.
+* Wolfgang Lauber: ''Architektur der Dogon. Traditioneller Lehmbau und Kunst in Mali.'' Prestel, 1998.
+* Sebastian Schutyser, Ingeborg Flagge, Jean Dethier: ''Lehmmoscheen in Mali.'' Junius Verlag, 2003.
+* Rolf Vollertsen: ''Wohin die Tropfen fallen oder „Bissimila, ce koroba!“ – Notizen aus und über Mali.'' Nürnberg, 1993.
+* Rainer Waterkamp: ''Mali. Im Banne des Sahel.'' 1991.
+* [[Harald Haarmann]]: ''Sprachen-Almanach – Zahlen und Fakten zu allen Sprachen der Welt.'' Campus-Verl., Frankfurt 2002, ISBN 3-593-36572-3, S. 160.
+* Thomas Krings: ''Sahelländer.'' WBG-Länderkunden, [[Wissenschaftliche Buchgesellschaft]] Darmstadt, 2006, ISBN 3-534-11860-X
+
+== Eksterne wótkaze ==
+{{Commonscat|Mali}}
+* [http://www.diplo.de/Mali Krajne a drogowańske informacije nimskego Wenkownego amta]
+* [http://liportal.inwent.org/mali.html Nadrobne krajne informacije] na websedle Nimskego towaristwa za mjazynarodne zgromadne źěło
+* [http://www.koulouba.pr.ml/ Websedło statnego prezidenta] (francojski)
+* [http://www.princetonol.com/groups/iad/lessons/middle/artmali.htm ''Art of Mali.'' W: Judy Decker: ''Incredible Art Education Resources.'' Princeton, New York] Websedła k stawiznam a kulturje
+* [http://www.mali-online.de/ Informacije wó Maliju jogo konsulariskego zastupnistwa w Düsseldorfje]
+* [http://www.hintergrund.de/201301142408/politik/welt/mali-ein-doppelboediges-spiel.html Nastawk wót Christofa Wackernagela], kenž jo w Maliju žywy, wó politiskej situaciji.
+
+== Žrědła ==
+<references />
+
+{{Afrika}}
+{{Coordinate|article=/|NS=17/00/00/N|EW=04/22/00/W|type=country|region=ML}}
+
+[[Kategorija:Mali]]
+[[Kategorija:Stat w Africe]]
+[[Kategorija:Nutśikowny stat]]
+
+
 
 {{Link GA|en}}
+{{Link GA|es}}
