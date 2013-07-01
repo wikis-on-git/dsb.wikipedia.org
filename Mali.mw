@@ -54,7 +54,7 @@
 |BILD-LAGE = Mali on the globe (Africa centered).svg
 |BILD-LAGE-IMAGEMAP = AfrikaGlobus1
 }}-->
-<!--{{ LocMap+ | Mali | width=270 | float=right | maptype=relief | caption= | places=
+{{ LocMap+ | Mali | width=270 | float=right | maptype=relief | caption= | places=
  {{ LocMap~ | Mali | position=9 | lat=12/39// | long=08/00//W | region=ML | label='''[[Bamako]]'''}}
  {{ LocMap~ | Mali | position=9 | lat=11/19// | long=05/40//W | region=ML | label=<small>[[Sikasso]]</small>}}
  {{ LocMap~ | Mali | position=3 | lat=12/52// | long=07/34//W | region=ML | label=<small>[[Koulikoro]]</small>}}
@@ -72,7 +72,7 @@
  {{ LocMap~ | Y=70 | X=90 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Niger}}
  {{ LocMap~ | Y=78 | X=63 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Burkina Faso}}
  {{ LocMap~ | Y=90 | X=10 | position=6 | label_style=bold/uppercase|label_color=#646464 | label=Guineja}}
-}}-->
+}}
 
 '''Mali''' jo [[nutśikokrajny stat]] w [[Pódwjacorna Afrika|pódwjacornej Africe]]. Jo njewótwisny wót [[Francojska|Francojskeje]] wót lěta 1960, tak pomjenjonego [[Afriske lěto|Afriskego lěta]]. 
 Krajne mě jo se pó pśikłaźe srjejźowěkowskego [[Mali (mócnarstwo)|mócnarstwa Mali]] wóliło. 
