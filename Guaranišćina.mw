@@ -84,7 +84,8 @@ Guaranišćina dowola jano złožki, kótarež se z wokala abo konsonanta plus w
 Wokale:
 
 * Wokale: /a/, /e/, /i/, /o/, /u/ wótpowědaju mjenjej abo wěcej špańskim a IPA-ekwiwalentam, lěcrownož wótergi alofony [ɛ], [ɔ] se wužywaju cesćej; '''y''' je [[zacynjony, centralny njekulowaty wokal]] /ɨ/.
-
+{|
+|
 {| class="prettytable"
 ! Pšawopis
 ! Wugronjenje
@@ -101,7 +102,18 @@ Wokale:
 |-
 |y || [{{IPA|ɨ}}]
 |}
-
+|
+{| class="wikitable"
+|+Oralne a nazalne wokale
+! !! Prědne !! Centralne !! Slězne
+|- align=center
+| '''Wusoke''' || {{IPA|/i/, /ĩ/}} || {{IPA|/ɨ/, /ɨ̃/}}  || {{IPA|/u/, /ũ/}}
+|- align=center
+| '''Srjejźne''' || {{IPA|/e/, /ẽ/}} || || {{IPA|/o/, /õ/}}
+|- align=center
+| '''Niske''' || || {{IPA|/a/, /ã/}} || 
+|}
+|}
 Mimo togo eksistěruju za wše 6 wokalow teke nazalne warianty (ã, ẽ, ĩ, õ, ũ, ỹ) Nazalne wokale su jano w akcentuěrowanej złožce distinktiwne. Pśedpśizukowe wokale budu nazalne dla nazalneje asimilacije pśed slědujucymi nazalnymi wokalami abo nazalnymi konsonantami, njewugranjaju se wšak w drugich padach njenazalnje.
 
 Konsonanty:
