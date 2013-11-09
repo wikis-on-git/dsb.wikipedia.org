@@ -1,53 +1,75 @@
+{{Infokašćik rěc
+|mě=Zazaki
+|kraje=[[Turkojska]], [[Irak]], [[Georgiska]], [[Kazachstan]], [[Iran]], [[Jordaniska]], [[Syriska]]
+|rěcnicy=2 až 3 milionow
+|klasifikacija=[[Indoeuropske rěcy]]
+:[[Indoirańske rěcy]]
+::[[Irańske rěcy]]
+:::[[Dłujkowjacorne irańske rěcy]]
+::::[[Zaza-Gorani]]
+:::::Zazaki
+|iso_639-2=zza
+|iso_639-3=zza (makrorěc)
+* diq (Dimli)
+* kiu (Kirmanjki)
+}}
+
 [[Dataja:Iranian tongues de.svg|miniatur|Zazaki w susedstwje z drugimi modernymi irańskimi rěcami]]
 
 '''Zazaki''' jo rěc w pódzajtšnej [[Turkojska|Turkojskej]]. Wóna słuša k [[Irańske rěcy|irańskim rěcam]]. Z njej powěda něźi 2-3 miliony luźi.
 
-==== Deklinacija ====
+== Gramatika ==
+Zazaki ma dwa genusa, dwa numerusa a dwa primarnej pada. 
+
+=== Deklinacija ===
 
 Pšawidłowna deklinacija substantiw jo na pśikładach ''lacek'' m. „gólc“, ''keyneke'' f. „źowćo“ a ''domani'' „źěśi“ pokazana:
 
 
 {| class="wikitable sortable" 
 |- bgcolor="#F2F2F2"
-!Kasus
-!Präpos.
+!Pad
+!Prepozicija
 !sg. m.
 !sg. f.
 !pl.
 !Wuznam
 |- 
-|[[Rectus]]||.||lacek-Ø||keynek-e||doman-i||''siehe oben''
+|[[Rektus]]||.||lacek-Ø||keynek-e||doman-i||''glědaj górjejce''
 |-
-|[[Obliquus (Kasus)|Obliquus]]||.||lacek-i||keynek-e||doman-an||''siehe oben''
+|[[Oblikwus (pad)|Oblikwus]]||.||lacek-i||keynek-e||doman-an||''glědaj górjejce''
 |-
-|[[Genitiv]]||(yê)||lacek-i||keynek-e||doman-an||gólca atd.
+|[[Genitiw]]||(yê)||lacek-i||keynek-e||doman-an||gólca atd.
 |-
-|[[Dativ]]||.||lacek-i rê||keynek-e rê||doman-an rê||für ...
+|[[Datiw]]||.||lacek-i rê||keynek-e rê||doman-an rê||za ...
 |-
-|[[Separativ]]||.||lacek-i ra||keynek-e ra||doman-an ra||von ... weg
+|[[Separatiw]]||.||lacek-i ra||keynek-e ra||doman-an ra||wót (nim. von ... weg)
 |-
-|[[Sublativ]] 1||.||lacek-i ro||keynek-e ro||doman-an ro||auf ... hinauf
+|[[Sublatiw]] 1||.||lacek-i ro||keynek-e ro||doman-an ro||na + ak.
 |-
-|[[Adessiv]]||.||lacek-i de||keynek-e de||doman-an de||bei ...
+|[[Adesiw]]||.||lacek-i de||keynek-e de||doman-an de||pśi ...
 |-
-|[[Allativ]]||(e)ra||lacek-i||keynek-e||doman-an||zu ... hin
+|[[Alatiw]]||(e)ra||lacek-i||keynek-e||doman-an||k (nim. zu ... hin)
 |-
-|[[Sublativ]] 2||(e)ro||lacek-i||keynek-e||doman-an||auf ... hinauf
+|[[Sublatiw]] 2||(e)ro||lacek-i||keynek-e||doman-an||na + ak.
 |-
-|[[Illativ]]||(e)de||lacek-i||keynek-e||doman-an||in ... hinein
+|[[Ilatiw]]||(e)de||lacek-i||keynek-e||doman-an||do (nim. in ... hinein)
 |-
-|[[Komitativ]]||...be||lacek-i ra||keynek-e ra||doman-an ra||gromaźe z ...
+|[[Komitatiw]]||...be||lacek-i ra||keynek-e ra||doman-an ra||gromaźe z ...
 |- 
-|[[Vokativ]]||.||lac-o!||keyn-ê!||doman-ênê!||gólc! atd.
+|[[Wokatiw]]||.||lac-o!||keyn-ê!||doman-ênê!||gólc! atd.
 |-
 |}
 
-==== Žrědła ====
+== Žrědła ==
 
-Nimska wikipedija
+Nimska wikipedija<!--lěc su dalšne?-->
 
-* [http://www.ethnologue.com/subgroups/zaza-gorani] Ethnologue on Zazaki (language)
+== Eksterne wótkaze ==
+* [http://www.ethnologue.com/subgroups/zaza-gorani] Ethnologue wó Zazaki (rěc)
 * [http://zazasiteler.tr.gg/] (Weblinks of Zaza people)
 * [http://zazaki.de/english/index.htm] Academic Research Center of Zazaki
-* [http://diq.wikipedia.org] Zazaki Wikipedia
-* [http://www.zazakikozmos.org/] Only Zazaki news
+* [http://diq.wikipedia.org] Zazaki Wikipedija
+* [http://www.zazakikozmos.org/] Jano Zazaki nowosći
+
+[[Kategorija:Irańske rěcy]]
