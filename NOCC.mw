@@ -1,6 +1,5 @@
 {{Infokašćik software
  | mě                     = 
- | pochad                 = 
  | logo                   = 
  | screenshot             = 
  | wopisanje              = 
@@ -15,13 +14,13 @@
  | dolnoserbski           = jo
  | webowe_sedło           = [http://nocc.sourceforge.net/ nocc.sourceforge.net]
 }}
-'''NOCC''' jo [[webmail|webmailowy klient]] (to jo websoftwara za zastojanje elektroniskego posta), iniciěrowany wót Olivier Cahagne a Nicolas Chalanset, nejpjerwjej napisany w Perlu pód mjenim Epimail, pón pód mjenim NOCC ('''N'''icolas '''O'''livier '''C'''halanset '''C'''ahagne) w PHP4 pśeprograměrowany. 
+'''NOCC''' jo [[webmail|webmailowy klient]] (to jo websoftwara za zastojanje elektroniskego posta), iniciěrowany wót Olivier Cahagne a Nicolas Chalanset, nejpjerwjej napisany w [[Perl]]u pód mjenim Epimail, pón pód mjenim NOCC ('''N'''icolas '''O'''livier '''C'''halanset '''C'''ahagne) w [[PHP]]4 pśeprograměrowany. 
 
-Pódpěra protokole IMAP (wěsty abo nic), POP3 (wěsty abo nic) a SMTP (z awtentifikaciju abo bźez awtentifikacije). Napórane boki su we formaśe XHTML 1.1 Strict a wužywaju někótare JavaScriptowe funkcije, aby se wěste funkcije wólažcyli. 
+Pódpěra protokole [[IMAP]] (wěsty abo nic), [[POP3]] (wěsty abo nic) a [[SMTP]] (z awtentifikaciju abo bźez awtentifikacije). Napórane boki su we formaśe XHTML 1.1 Strict a wužywaju někótare JavaScriptowe funkcije, aby se wěste funkcije wólažcyli. 
 
 Jogo zaměr jo, jadnory webmailowy klient k dispoziciji stajiś, kótaryž wót tak mało ako móžno PHP-modulow wótwisujo (tuchylu stej to jano modula IMAP za wóteběranje e-mailkow a ICONV za rědowanje trěbnych znamuškowych sajźbow).
 
-NOCC funkcioněrujo z UTF-8: rěcne dataje su w UTF-8, a e-mailki konwertěruju se do UTF-8 do wózjawjenja. Mimo togo jo wón kompatibelny ze wšymi PHP-wersijami wót PHP 4.1.0 sem.
+NOCC funkcioněrujo z [[UTF-8]]: rěcne dataje su w UTF-8, a e-mailki konwertěruju se do UTF-8 do wózjawjenja. Mimo togo jo wón kompatibelny ze wšymi PHP-wersijami wót PHP 4.1.0 sem.
 
 Dokulaž NOCC jo [[swobodna softwara]] pód licencu GPL, jo wón na kuždu architekturu pśiměrjujobny.
 
