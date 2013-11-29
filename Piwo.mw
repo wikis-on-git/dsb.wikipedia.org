@@ -14,7 +14,9 @@ Pjerše šyroko nałožowane pšawo za piwo jo było Bayerske pšawo cystosći (
 
 Pśed 18. wěkom słod su sušyli nad wognjom z drjewa abo wugla, togodla piwa togo casa jo měli ako se zda aroma dyma. Pózdźej z nowu techniku jo se dało dostaś cysćejšy jasny słod, ale teke śamny słod bźez aroma dyma za piwa tipa porter a stout. Něnto jo słod z aroma dyma rědki a wužywany jano w specialnych piwach.
 
-W 19. wěku su nastali wjele nowosći za piwo: dolna fermentacija a piwo typa "lager", wužyśe pasteurizacije. Louis Pasteur jo w lěśe 1857 wunamakał rolu droždźejow w fermentaciji piwa a jo se zachopiło slěźenje a sajźanje droždźejow.
+W 19. wěku su nastali wjele nowosći za piwo: dolna fermentacija a piwo typa "lager", wužyśe pasteurizacije. Louis Pasteur jo w lěśe 1857 wunamakał rolu droždźejow w fermentaciji piwa a jo se zachopiło slěźenje a sajźanje droždźejow. W 20. wěku jasne piwo tipa "lager" jo nastało nejpopularnjejśe piwo na swěśe. 
+
+Něnto wětšyna šyroko pśedawanych piwow jo pasteurizěrowana a filtrowana. Pasteurizacija dajo piwoju dłujku fryšnosć, dokulaž zabija bakterije a druge mikroorganizmy. Filtrowanje dajo piwoju cystu barwu. Su pak kraje, źož wěsty późěl maju piwa z žywymi droždźejami, to groni bźez pasteurizacije a filtrowanja. Stej to na pśikład Belgiska a Wjelika Britaniska (źož takim piwam se groni "real ale").
 
 == Rozdźělenje ==
 
@@ -30,8 +32,90 @@ Dataja:Weihenstephaner Dunkles Weissbier.jpg|Śamne piwo pšenicne
 Dataja:Diebels in Altbierglas.jpg|Altbier z Düsseldorf
 Dataja:Guinness Glass 2010.jpg|Stout, śamne piwo górneje fermentacije z Irskej
 Dataja:Fuller's IPA.JPG|Engelske India Pale Ale
-Dataja:Chimay bleu.jpg|Chimay, belgiske mócne śamne piwo górneje fermentacije
+Dataja:Chimay bleu.jpg|Chimay, belgiske mócne śamne piwo górneje fermentacije wót rěda Trapistow
 Dataja:Augustijn.jpg|Belgiske jasne piwa górnej fermentacije
 </gallery>
+
+== Wótbywanišća ==
+Nejwětše pśedewześe warjece piwo jo belgisko-brazilske [[Anheuser-Busch InBev]], wobsejźaŕ markow Budweiser, Corona, Beck's, Leffe a Stella Artois. Druge město ma [[SABMiller]], wobsejźaŕ markow Grolsch, Miller, Pilsner Urquell a Tyskie. Tśeśe pśedewześe jo nižozemske [[Heineken]], wobsejźaŕ markow Amstel, Heineken, Moretti, Zagorka a Żywiec.
+
+Nejwětšy importer piwa na swěśe jo USA, nejwětšy eksporter jo Mexiko. Nimska jo tśeśi nejwětšy eksporter na swěśe.
+
+<gallery widths=350px heights=320px mode=nolines perrow=2>
+Dataja:Beer Exports by Country Treemap.png|Eksport piwa na swěśe w lěśe 2012
+Dataja:Beer Imports by Country Treemap.png|Import piwa na swěśe w lěśe 2012
+</gallery>
+
+Nejwětše konsuměrowanje pó licbje wobydlarjow jo w Českej, pótom w Nimskej.<ref>http://www.barthhaasgroup.com/images/pdfs/report2013/Barth_Beilage_2013.pdf</ref>
+
+<timeline>
+Colors=
+ id:lightgrey value:gray(0.9)
+ id:darkgrey value:gray(0.7)
+ id:orn value:rgb(1,0.62,0.24)
+ id:red value:rgb(0.7,0.7,1) legend:litrow_piwa_na_wobydlarja_w_2012
+
+ImageSize = width:800 height:350
+PlotArea = left:30 bottom:50 top:30 right:10
+DateFormat = x.y
+Period = from:0 till:170
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:10 start:0
+ScaleMinor = gridcolor:lightgrey increment:5 start:0
+BackgroundColors = canvas:white
+Legend = columns:1 left:40 top:20 columnwidth:800
+
+BarData=
+ bar:CZE
+ bar:DEU
+ bar:AUT
+ bar:POL
+ bar:ROM
+ bar:IRL
+ bar:BEL
+ bar:USA
+ bar:VEZ
+ bar:GB
+
+PlotData=
+ width:60
+ bar:CZE color:orn from:0 till: 144
+ bar:DEU color:red from:0 till: 108
+ bar:AUT color:orn from:0 till: 108
+ bar:POL color:orn from:0 till: 98
+ bar:ROM color:orn from:0 till: 89
+ bar:IRL color:orn from:0 till: 86
+ bar:BEL color:orn from:0 till: 78
+ bar:USA color:orn from:0 till: 75
+ bar:VEZ color:orn from:0 till: 75
+ bar:GB color:orn from:0 till:  73
+
+PlotData=
+ bar:CZE at:10 fontsize:9 text:[[Česka]] shift:(-21,2)
+ bar:CZE at:50 fontsize:9 text: 144 shift:(-12,5)
+ bar:DEU at:10 fontsize:9 text:[[Nimska]] shift:(-20,2)
+ bar:DEU at:50 fontsize:9 text: 108 shift:(-12,5)
+ bar:AUT at:10 fontsize:9 text:[[Awstriska]] shift:(-21,5)
+ bar:AUT at:50 fontsize:9 text: 108 shift:(-12,5)
+ bar:POL at:10 fontsize:9 text:[[Pólska]] shift:(-19,5)
+ bar:POL at:50 fontsize:9 text: 98 shift:(-12,5)
+ bar:ROM at:10 fontsize:9 text:[[Rumuńska]] shift:(-20,5)
+ bar:ROM at:50 fontsize:9 text: 89 shift:(-8,5)
+ bar:IRL at:10 fontsize:9 text:[[Irska]] shift:(-26,5)
+ bar:IRL at:50 fontsize:9 text: 86 shift:(-8,5)
+ bar:BEL at:10 fontsize:9 text:"[[Belgiska]]" shift:(-25,5)
+ bar:BEL at:50 fontsize:9 text: 78 shift:(-8,5)
+ bar:USA at:10 fontsize:9 text:[[USA]] shift:(-19,5)
+ bar:USA at:50 fontsize:9 text: 75 shift:(-8,5)
+ bar:VEZ at:10 fontsize:9 text:[[Wenezuelska]] shift:(-25,5)
+ bar:VEZ at:50 fontsize:9 text: 75 shift:(-8,5)
+ bar:GB at:10 fontsize:9 text:"[[Wjelika Britaniska]]" shift:(-22,5)
+ bar:GB at:50 fontsize:9 text: 73 shift:(-8,5)
+
+</timeline>
+
+== Žrědła ==
+<references/>
 
 [[Kategorija:Piśe]]
