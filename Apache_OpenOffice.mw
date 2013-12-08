@@ -1,11 +1,11 @@
 {{Infokašćik software
  | mě                     = Apache OpenOffice
- | pochad                 = Sun StarOffice a OpenOffice.org → Oracle Open Office → Apache OpenOffice
- | logo                   = Aoo4-main-tm-logo-rgb.svg
+ | póchad                 = Sun StarOffice a OpenOffice.org → Oracle Open Office → Apache OpenOffice
+ | logo                   = {{#property:P154}}
  | screenshot             = [[Dataja:AOO Writer 4.0.0 Windows in Wine.png|250px]]
  | wopisanje              = Apache OpenOffice Writer 4.0<br/>(wersija za Windows źěłajuca w [[Wine]])
  | zgótowaŕ               = [[Apache Software Foundation]]
- | aktualna_wersija       = 4.0.1
+ | aktualna_wersija       = {{#property:P348}}
  | aktualna_wersija_datum = 1. oktobera 2013
  | testowa_wersija        = 
  | testowa_wersija_datum  = 
@@ -13,7 +13,7 @@
  | kategorija             = běrowa software
  | licenca                = [[Apache Licence]] 2.0
  | dolnoserbski           = ně
- | webowe_sedło           = [http://www.openoffice.org/ www.openoffice.org]
+ | webowe_sedło           = [{{#property:P856}} www.openoffice.org]
 }}
 '''Apache OpenOffice''' jo lichotna běrowa software, póchadajuca wót paketa '''OpenOffice.org'''.
 
