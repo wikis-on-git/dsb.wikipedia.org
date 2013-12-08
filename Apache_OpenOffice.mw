@@ -13,12 +13,15 @@
  | kategorija             = běrowa software
  | licenca                = [[Apache Licence]] 2.0
  | dolnoserbski           = ně
- | webowe_sedło           = http://www.openoffice.org/
+ | webowe_sedło           = [http://www.openoffice.org/ www.openoffice.org]
 }}
 '''Apache OpenOffice''' jo lichotna běrowa software, póchadajuca wót paketa '''OpenOffice.org'''.
 
 Wobstoj mjazy drugim z procesora teksta ''Writer'', programa za tabelarisku kalkulaciju ''Calc'', programa za prezentacije ''Impress'' a programa za datowe banki ''Base''. Składujo dataje w formaśe [[OpenDocument]] (ODF), kenž jo standard [[ISO]]/[[IEC]], pak móžna jo teke konwersija do drugich formatow, na pśikład [[Microsoft Office]].
 
 Apache OpenOffice jo źělnje kompatibelny z [[LibreOffice]], kenž jo se rozźělił wót OpenOffice.org, nic jano w formaśe datajow, pak teke źělnje což nastupa dodankow.
+
+== Rozšyrjenje ==
+Ako ''OpenOffice.org'', paket jo był cesto wuběrany w wjele distribucijach Linuxa ako standardowa běrowa software. Gdy jo nastał konflikt mjazy OpenOffice a LibreOffice, jo se wětšyna distribucijow rozsuźiła za LibreOffice.
 
 [[Kategorija:Lichotna software]]
