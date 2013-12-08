@@ -1,0 +1,24 @@
+{{Infokašćik software
+ | mě                     = Apache OpenOffice
+ | pochad                 = Sun StarOffice a OpenOffice.org → Oracle Open Office → Apache OpenOffice
+ | logo                   = Aoo4-main-tm-logo-rgb.svg
+ | screenshot             = [[Dataja:AOO Writer 4.0.0 Windows in Wine.png|250px]]
+ | wopisanje              = Apache OpenOffice Writer 4.0<br/>(wersija za Windows źěłajuca w [[Wine]])
+ | zgótowaŕ               = [[Apache Software Foundation]]
+ | aktualna_wersija       = 4.0.1
+ | aktualna_wersija_datum = 1. oktobera 2013
+ | testowa_wersija        = 
+ | testowa_wersija_datum  = 
+ | źěłański_system        = [[Linux]], [[Mac OS X]], [[Microsoft Windows]]
+ | kategorija             = běrowa software
+ | licenca                = [[Apache Licence]] 2.0
+ | dolnoserbski           = ně
+ | webowe_sedło           = http://www.openoffice.org/
+}}
+'''Apache OpenOffice''' jo lichotna běrowa software, póchadajuca wót paketa '''OpenOffice.org'''.
+
+Wobstoj mjazy drugim z procesora teksta ''Writer'', programa za tabelarisku kalkulaciju ''Calc'', programa za prezentacije ''Impress'' a programa za datowe banki ''Base''. Składujo dataje w formaśe [[OpenDocument]] (ODF), kenž jo standard [[ISO]]/[[IEC]], pak móžna jo teke konwersija do drugich formatow, na pśikład [[Microsoft Office]].
+
+Apache OpenOffice jo źělnje kompatibelny z [[LibreOffice]], kenž jo se rozźělił wót OpenOffice.org, nic jano w formaśe datajow, pak teke źělnje což nastupa dodankow.
+
+[[Kategorija:Lichotna software]]
