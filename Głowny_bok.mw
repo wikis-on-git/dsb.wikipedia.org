@@ -11,15 +11,6 @@
 <!--lěwy górny słup-->
 <div style="width:50%; display:block; float:left;">
 {{Kašćik z pśedłogu
-|wobraz=Internet-news-reader.svg
-|titel =  Aktualnosći
-|slězynowa barwa titela=#f1faff
-|pśedłoga = Pśedłoga:Aktualnosći
-|slězynowa barwa wopśimjeśa=#f3f3ff
-|klasa1=gb-format2
-|klasa2=gb-titel2
-}}
-{{Kašćik z pśedłogu
 |wobraz=Nuvola_filesystems_services.png
 |titel =  Artikel mjaseca
 |slězynowa barwa titela=#f1faff
@@ -40,6 +31,15 @@
 |klasa2=gb-titel2
 |pomoc=[[Wikipedija:Wobraze tyźenja|Nowe wobraze móžoš how pśidaś]] • [[Wikipedija:Wobraze tyźenja/wobraze pśiducych tyźenjow|Lisćina]]
 |mp-id=mf-tfp 
+}}
+{{Kašćik z pśedłogu
+|wobraz=Internet-news-reader.svg
+|titel =  Aktualnosći
+|slězynowa barwa titela=#f1faff
+|pśedłoga = Pśedłoga:Aktualnosći
+|slězynowa barwa wopśimjeśa=#f3f3ff
+|klasa1=gb-format2
+|klasa2=gb-titel2
 }}
 </div>
 <!--pšawy górny słup-->
