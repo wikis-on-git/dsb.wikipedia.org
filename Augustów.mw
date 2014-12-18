@@ -1,0 +1,103 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Augustów
+|mě serbske=Augustów
+|wopon=POL Augustów COA.svg
+|chórgoj=
+|lat_deg=53
+|lat_min=50
+|lon_deg=22
+|lon_min=58
+|stat=Pólska
+|wojewódstwo=[[podleske wójewódstwo|podleske]]
+|wokrejs=Augustów
+|wusokosć=
+|płonina=80,71 km² 
+|wobydlarstwo=30 728 ''<small>(2013)</small>''
+|gustosć wobydlarstwa=380,70
+|postowa licba=16-300 - 16-303
+|pśedwólenje=(+48) 87
+|KFZ-wobznamjenje=BAU
+|website=http://www.urzad.augustow.pl/
+|kórta=
+|adresa=ul. 3 Maja 60
+16-300 Augustów
+}}
+'''Augustów''' jo město w [[Pólska|Pólskej]], w [[podleske wójewódstwo|podleskem wójewódstwje]], we wokrjesu Augustów. W 2013, jo how bydliło 30 728 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:720 height:340
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:32000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1616 from:0 till:1700
+  bar:1631 from:0 till:2700
+  bar:1668 from:0 till:210
+  bar:1808 from:0 till:3459
+  bar:1810 from:0 till:2530
+  bar:1827 from:0 till:3576
+  bar:1857 from:0 till:8730
+  bar:1865 from:0 till:8512
+  bar:1897 from:0 till:9629
+  bar:1921 from:0 till:8762
+  bar:1931 from:0 till:12147
+  bar:1945 from:0 till:4930
+  bar:1950 from:0 till:6900
+  bar:1955 from:0 till:11355
+  bar:1960 from:0 till:14439
+  bar:1970 from:0 till:19784
+  bar:1980 from:0 till:24348
+  bar:1990 from:0 till:28656
+  bar:2000 from:0 till:30387
+  bar:2011 from:0 till:30802
+  bar:2013 from:0 till:30728
+PlotData=
+  textcolor:black fontsize:S
+  bar:1616 at: 1700 text: 1700* shift:(-14,5)
+  bar:1631 at: 2700 text: 2700* shift:(-14,5)
+  bar:1668 at: 210 text: 210* shift:(-10,5)
+  bar:1808 at: 3459 text: 3459 shift:(-10,5)
+  bar:1810 at: 2530 text: 2530 shift:(-10,5)
+  bar:1827 at: 3576 text: 3576 shift:(-10,5)
+  bar:1857 at: 8730 text: 8730 shift:(-10,5)
+  bar:1865 at: 8512 text: 8512 shift:(-10,5)
+  bar:1897 at: 9629 text: 9629 shift:(-10,5)
+  bar:1921 at: 8762 text: 8762 shift:(-10,5)
+  bar:1931 at: 12147 text: 12147 shift:(-14,5)
+  bar:1945 at: 4930 text: 4930 shift:(-10,5)
+  bar:1950 at: 6900 text: 6900 shift:(-10,5)
+  bar:1955 at: 11355 text: 11355 shift:(-14,5)
+  bar:1960 at: 14439 text: 14439 shift:(-14,5)
+  bar:1970 at: 19784 text: 19784 shift:(-14,5)
+  bar:1980 at: 24348 text: 24348 shift:(-14,5)
+  bar:1990 at: 28656 text: 28656 shift:(-14,5)
+  bar:2000 at: 30387 text: 30387 shift:(-14,5)
+  bar:2011 at: 30802 text: 30802 shift:(-14,5)
+  bar:2013 at: 30728 text: 30728 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Augustów rynek kamienica 18.07.2009 p.jpg
+Wobraz:Augustow July 2013 35.JPG
+Wobraz:Augustow. Park.jpg
+Wobraz:Basilica in Augustow 01.JPG
+Wobraz:Kaplica Matki Boskiej w Augustowie-Studzienicznej 77 z 15.03.1980 -Magkrys.JPG
+Wobraz:Bulwar w Augustowie.JPG
+Wobraz:Sajenek.JPG
+Wobraz:Jezioro Studzieniczne.JPG
+</gallery>
+{{Commonscat|Augustów}}
+[[Kategorija:Sedlišćo w Pólskej]]
