@@ -1,0 +1,87 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Zambrów
+|mě serbske=Zambrów
+|wopon=POL Zambrów COA.svg
+|chórgoj=POL Zambrów flag.svg
+|lat_deg=52
+|lat_min=59
+|lon_deg=22
+|lon_min=14
+|stat=Pólska
+|wojewódstwo=[[podleske wójewódstwo|podleske]]
+|wokrejs=Zambrów
+|wusokosć=115 - 133
+|płonina=19 km² 
+|wobydlarstwo=22 643 ''<small>(2012)</small>''
+|gustosć wobydlarstwa=1 190
+|postowa licba=18-300 - 18-301
+|pśedwólenje=(+48) 86
+|KFZ-wobznamjenje=BZA
+|website=http://www.zambrow.pl/
+|kórta=
+|adresa=ul. Fabryczna 3
+18-300 Zambrów
+}}
+'''Zambrów''' jo město w [[Pólska|Pólskej]], w [[podleske wójewódstwo|podleskem wójewódstwje]], we wokrjesu Zambrów. W 2012, jo how bydliło 22 643 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:800 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:30000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:2000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:18 align:left
+ bar:1564 from:0 till:250
+ bar:1800 from:0 till:564
+ bar:1827 from:0 till:886
+ bar:1886 from:0 till:4500
+ bar:1931 from:0 till:7343
+ bar:1939 from:0 till:7500
+ bar:1946 from:0 till:4130
+ bar:2000 color:cobar2 from:0 till:23992
+ bar:2005 from:0 till:22859
+ bar:2006 from:0 till:22724
+ bar:2007 from:0 till:22598
+ bar:2008 from:0 till:22514
+ bar:2012 from:0 till:22643
+PlotData=
+ textcolor:black fontsize:S
+ bar:1564 at: 250  text: 250  shift:(–14,5)
+ bar:1800 at: 564  text: 564  shift:(–14,5)
+ bar:1827 at: 886  text: 886  shift:(–14,5)
+ bar:1886 at: 4500  text: 4.500  shift:(–14,5)
+ bar:1931 at: 7343  text: 7.343  shift:(–14,5)
+ bar:1939 at: 7500  text: 7.500  shift:(–14,5)
+ bar:1946 at: 4130  text: 4.130  shift:(–14,5)
+ bar:2000 at: 23992 text: 23.992 shift:(-14,5)
+ bar:2005 at: 22859 text: 22.859 shift:(-14,5)
+ bar:2006 at: 22724 text: 22.724 shift:(-14,5)
+ bar:2007 at: 22598 text: 22.598 shift:(-14,5)
+ bar:2008 at: 22514 text: 22.514 shift:(-14,5)
+ bar:2012 at: 22643 text: 22.643 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Zambrow Trojcy fc01.jpg
+Wobraz:Zambrów Park.jpg
+Wobraz:Zambrów Zalew.jpg
+Wobraz:Zambrów rynek 2.jpg
+Wobraz:Pomnik Oficera w Zambrowie.jpg
+Wobraz:Kościół Ducha Świętego w Zambrowie.jpg
+Wobraz:Zambrow Trojcy fc02.jpg
+Wobraz:Pomnik71.jpg
+</gallery>
+{{Commonscat|Zambrów}}
+[[Kategorija:Sedlišćo w Pólskej]]
