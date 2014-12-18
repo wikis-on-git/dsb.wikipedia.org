@@ -31,6 +31,59 @@
 # Południe
 # Stare Miasto
 
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:800 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical 
+AlignBars = late
+Colors = 
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:70000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:2000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:22 align:left
+  bar:1931 from:0 till:25065
+  bar:1939 from:0 till:28000
+  bar:1946 from:0 till:13772
+  bar:1950 from:0 till:14839
+  bar:1955 from:0 till:18818
+  bar:1960 from:0 till:19876
+  bar:1965 from:0 till:22564
+  bar:1970 from:0 till:25800
+  bar:1975 from:0 till:29006
+  bar:1980 from:0 till:40813
+  bar:1985 from:0 till:51155
+  bar:1990 from:0 till:59335
+  bar:1995 from:0 till:63338
+  bar:2001 color:cobar2 from:0 till:65265
+  bar:2005 from:0 till:63819
+  bar:2010 from:0 till:63221
+PlotData=
+  textcolor:black fontsize:S
+  bar:1931 at: 25065 text: 25.065 shift:(-14,5) 
+  bar:1939 at: 28000 text: 28.000 shift:(-14,5) 
+  bar:1946 at: 13772 text: 13.772 shift:(-17,5)
+  bar:1950 at: 14839 text: 14.839 shift:(-17,5)
+  bar:1955 at: 18818 text: 18.818 shift:(-17,5)
+  bar:1960 at: 19875 text: 19.875 shift:(-17,5)
+  bar:1965 at: 22564 text: 22.654 shift:(-15,5)
+  bar:1970 at: 25800 text: 25.800 shift:(-15,5)
+  bar:1975 at: 29006 text: 29.006 shift:(-15,5)
+  bar:1980 at: 40813 text: 40.813 shift:(-15,5)
+  bar:1985 at: 51155 text: 51.155 shift:(-15,5)
+  bar:1990 at: 59335 text: 59.335 shift:(-15,5)
+  bar:1995 at: 63338 text: 63.338 shift:(-15,5)
+  bar:2001 at: 65265 text: 65.265 shift:(-15,5)
+  bar:2005 at: 63819 text: 63.819 shift:(-15,5)
+  bar:2010 at: 63221 text: 63.221 shift:(-15,5)
+</timeline>
+
 == Galerija ==
 <gallery widths=155 heights=125>
 Wobraz:Kamienica Śledziewskich w Łomży.jpg
