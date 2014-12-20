@@ -1,0 +1,107 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Grudziądz
+|mě serbske=Grudziądz
+|wopon=POL Grudziądz COA.svg
+|chórgoj=POL Grudziądz flag.svg
+|lat_deg=53
+|lat_min=29
+|lon_deg=18
+|lon_min=45
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=bźezwokrejsne město
+|wusokosć=50 m
+|płonina=57,76 km² 
+|wobydlarstwo=97 443 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=1687
+|postowa licba=86-300 - 86-311
+|pśedwólenje=(+48) 56
+|KFZ-wobznamjenje=CG
+|website=http://www.grudziadz.pl/
+|kórta=
+|adresa=ul. Ratuszowa 1
+86-300 Grudziądz
+}}
+'''Grudziądz''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]]. W lěśe 2014, jo how bydliło 97 443 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:700 height:250
+PlotArea = left:50 right:20 top:25 bottom:15
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:110000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1772 from:0 till:1204
+  bar:1821 from:0 till:5115
+  bar:1826 from:0 till:5300
+  bar:1840 from:0 till:5482
+  bar:1852 from:0 till:7150
+  bar:1885 from:0 till:17336
+  bar:1914 from:0 till:44797
+  bar:1939 from:0 till:64000
+  bar:1945 from:0 till:32746
+  bar:1946 from:0 till:36805
+  bar:1966 from:0 till:72941
+  bar:1976 from:0 till:85600
+  bar:1984 from:0 till:94000
+  bar:1998 from:0 till:102172
+  bar:1999 from:0 till:103606
+  bar:2003 from:0 till:100024
+  bar:2007 from:0 till:99090
+  bar:2013 from:0 till:97676
+
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1772 at:6204 text:1204 shift:0
+  bar:1821 at:10115 text:5115 shift:0
+  bar:1826 at:10300 text:5300 shift:0
+  bar:1840 at:10482 text:5482 shift:0
+  bar:1852 at:12150 text:7150 shift:0
+  bar:1885 at:22336 text:17336 shift:0
+  bar:1914 at:49797 text:44797 shift:0
+  bar:1939 at:69000 text:64000 shift:0
+  bar:1945 at:37746 text:32746 shift:0
+  bar:1946 at:41805 text:36805 shift:0
+  bar:1966 at:77941 text:72941 shift:0
+  bar:1976 at:90600 text:85600 shift:0
+  bar:1984 at:101000 text:94000 shift:0
+  bar:1998 at:107172 text:102172 shift:0
+  bar:1999 at:108606 text:103606 shift:0
+  bar:2003 at:105024 text:100024 shift:0
+  bar:2007 at:104090 text:99090 shift:0
+  bar:2013 at:102676 text:97676 shift:0
+  </timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Grudziądz1.jpg
+Wobraz:Grudziadz spichrze od str Wisly.jpg
+Wobraz:Grudziądz - Brama Wodna V, AM Majewicz.JPG
+Wobraz:Mury obronne, fosa i wieżyczka.jpg
+Wobraz:Spichowa.jpg
+Wobraz:Grudziądz, dzielnica staromiejska, 1291, 2 poł. XIX.JPG
+Wobraz:Kamienice w Rynku u zbiegu ulic-z lewej ul. Pańskiej, z prawej- ul. Kościelnej.jpg
+Wobraz:Ul Mickiewicza.jpg
+Wobraz:Rynek (2).jpg
+Wobraz:Klasztor Benedyktynek - oficyna.JPG
+Wobraz:Urząd Miasta Grudziądz.JPG
+Wobraz:RynekGrudziadzA062.jpg
+Wobraz:Fara - Sanktuarium - Bazylika.jpg
+Wobraz:Kościół oo Reformatów po renowacji - widok od ul. Wybickiego.jpg
+Wobraz:Grudziadz ul Legionow.jpg
+Wobraz:Kościół pw Św. Ducha i były Pałac Opatek.JPG
+</gallery>
+{{Commonscat|Grudziądz}}
+[[Kategorija:Sedlišćo w Pólskej]]
