@@ -1,0 +1,114 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Solec Kujawski
+|mě serbske=Solec Kujawski
+|wopon=POL Solec Kujawski COA.svg
+|chórgoj=POL Solec Kujawski flag.svg
+|lat_deg=53
+|lat_min=04
+|lon_deg=18
+|lon_min=13
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=Bydgoszcz
+|wusokosć=
+|płonina=18,68 km² 
+|wobydlarstwo=15 627 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=837
+|postowa licba=86-050
+|pśedwólenje=(+48) 52
+|KFZ-wobznamjenje=CBY
+|website=http://www.soleckujawski.pl/
+|kórta=
+|adresa=ul. 23 Stycznia 7
+86-050 Solec Kujawski
+}}
+'''Solec Kujawski''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]], we wokrjesu Bydgoszcz, w gmejnje Solec Kujawski. W lěśe 2014, jo how bydliło 15 627 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:830 height:250
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical 
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:16200
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:10 align:center
+  bar:1981 from:0 till:12273
+  bar:1985 from:0 till:12986
+  bar:1986 from:0 till:13166
+  bar:1987 from:0 till:13228
+  bar:1988 from:0 till:13427
+  bar:1989 from:0 till:13589
+  bar:1990 from:0 till:13809
+  bar:1991 from:0 till:13908
+  bar:1992 from:0 till:14055
+  bar:1993 from:0 till:14217
+  bar:1994 from:0 till:14405
+  bar:1995 from:0 till:14458
+  bar:1996 from:0 till:14519
+  bar:1997 from:0 till:14581
+  bar:1998 from:0 till:14641
+  bar:1999 from:0 till:14719
+  bar:2000 from:0 till:14803
+  bar:2001 from:0 till:14849
+  bar:2002 from:0 till:14770
+  bar:2003 from:0 till:14930
+  bar:2004 from:0 till:14958
+  bar:2005 from:0 till:15026
+  bar:2006 from:0 till:15116
+  bar:2007 from:0 till:15149
+  bar:2008 from:0 till:15246
+  bar:2014 from:0 till:15627
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1981 at:12773 text:12273 shift:0
+  bar:1985 at:13486 text:12986 shift:0
+  bar:1986 at:13666 text:13166 shift:0
+  bar:1987 at:13728 text:13228 shift:0
+  bar:1988 at:13927 text:13427 shift:0
+  bar:1989 at:14089 text:13589 shift:0
+  bar:1990 at:14309 text:13809 shift:0
+  bar:1991 at:14408 text:13908 shift:0
+  bar:1992 at:14555 text:14055 shift:0
+  bar:1993 at:14717 text:14217 shift:0
+  bar:1994 at:14905 text:14405 shift:0
+  bar:1995 at:14958 text:14458 shift:0
+  bar:1996 at:15019 text:14519 shift:0
+  bar:1997 at:15081 text:14581 shift:0
+  bar:1998 at:15141 text:14641 shift:0
+  bar:1999 at:15219 text:14719 shift:0
+  bar:2000 at:15303 text:14803 shift:0
+  bar:2001 at:15349 text:14849 shift:0
+  bar:2002 at:15270 text:14770 shift:0
+  bar:2003 at:15430 text:14930 shift:0
+  bar:2004 at:15458 text:14958 shift:0
+  bar:2005 at:15526 text:15026 shift:0
+  bar:2006 at:15616 text:15116 shift:0
+  bar:2007 at:15649 text:15149 shift:0
+  bar:2008 at:15746 text:15246 shift:0
+  bar:2014 at:16127 text:15627 shift:0
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:'Red' Church in Solec Kujawski2.jpg
+Wobraz:UMiG Solec Kujawski.jpg
+Wobraz:POL Solec Kujawski, kościół (1912).jpg
+Wobraz:Solec Kujawski, Stacja kolejowa Solec Kujawski - fotopolska.eu (243807).jpg
+Wobraz:Skwer Solidarności, Solec Kujawski.jpg
+Wobraz:LO Solec Kujawski.jpg
+Wobraz:Wisła Solec 4558.JPG
+Wobraz:Aquapark Solec Kujawski 2.jpg
+</gallery>
+{{Commonscat|Solec Kujawski}}
+[[Kategorija:Sedlišćo w Pólskej]]
