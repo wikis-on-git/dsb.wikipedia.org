@@ -1,0 +1,81 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Strzelno
+|mě serbske=Strzelno
+|wopon=POL Strzelno COA.svg
+|chórgoj=
+|lat_deg=52
+|lat_min=37
+|lon_deg=18
+|lon_min=10
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=Mogilno
+|wusokosć=100 m
+|płonina=4,46 km² 
+|wobydlarstwo=5 805 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=1302
+|postowa licba=88-320
+|pśedwólenje=(+48) 52
+|KFZ-wobznamjenje=CMG
+|website=http://www.strzelno.pl/
+|kórta=
+|adresa=ul. Cieślewicza 2
+88-320 Strzelno
+}}
+'''Strzelno''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]], we wokrjesu Mogilno, w gmejnje Strzelno. W lěśe 2014, jo how bydliło 5 805 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:580 height:250
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:7000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+
+  bar:1931 from:0 till:5846
+  bar:1934 from:0 till:5800
+  bar:1975 from:0 till:5932
+  bar:1980 from:0 till:5527
+  bar:1992 from:0 till:5990
+  bar:2004 color:cobar2 from:0 till:6063
+  bar:2010 from:0 till:5899
+  bar:2011 from:0 till:5885
+  bar:2014 from:0 till:5805
+PlotData=
+  textcolor:black fontsize:S
+
+  bar:1931 at: 5846 text: 5846 shift:(0)
+  bar:1934 at: 5800 text: 5800 shift:(0)
+  bar:1975 at: 5932 text: 5932 shift:(0)
+  bar:1980 at: 5527 text: 5527 shift:(0)
+  bar:1992 at: 5990 text: 5990 shift:(0)
+  bar:2004 at: 6063 text: 6063 shift:(0)
+  bar:2010 at: 5899 text: 5899 shift:(0)
+  bar:2011 at: 5858 text: 5858 shift:(0)
+  bar:2014 at: 5805 text: 5805 shift:(0)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Kościół norbertanek, ob. par. p.w. Świętej Trójcy.JPG
+Wobraz:Church of the Holy Trinity in Strzelno.JPG
+Wobraz:602353 kościół p.w. św. Prokopa Strzelno front.jpg
+Wobraz:Strzelno 3.JPG
+Wobraz:Strzelno St Prokop interior.jpg
+Wobraz:Strzelno, dom, pocz. XX.jpg
+Wobraz:Strzelno, kaplica pogrzebowa, k. XIX.jpg
+Wobraz:Strzelno, pomnik sw. Wojciecha.jpg
+</gallery>
+{{Commonscat|Strzelno}}
+[[Kategorija:Sedlišćo w Pólskej]]
