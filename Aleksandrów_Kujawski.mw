@@ -1,0 +1,83 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Aleksandrów Kujawski
+|mě serbske=Aleksandrów Kujawski
+|wopon=POL Aleksandrów Kujawski COA.svg
+|chórgoj=
+|lat_deg=52
+|lat_min=52
+|lon_deg=18
+|lon_min=41
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=Aleksandrów Kujawski
+|wusokosć=72 m
+|płonina=7,23 km² 
+|wobydlarstwo=12 476 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=1726
+|postowa licba=87-700
+|pśedwólenje=(+48) 54
+|KFZ-wobznamjenje=CAL
+|website=http://www.aleksandrowkujawski.pl/
+|kórta=
+|adresa=ul. Słowackiego 8
+87-700 Aleksandrów Kujawski
+}}
+'''Aleksandrów Kujawski''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]], we wokrjesu Aleksandrów Kujawski. W lěśe 2014, jo how bydliło 12 476 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:500 height:250
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+
+DateFormat = yyyy
+Period = from:0 till:15000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:10 align:center
+  bar:2002 from:0 till:12494
+  bar:2003 from:0 till:12438
+  bar:2004 from:0 till:12437
+  bar:2005 from:0 till:12376
+  bar:2006 from:0 till:12347
+  bar:2007 from:0 till:12281
+  bar:2008 from:0 till:12278
+  bar:2009 from:0 till:12290
+  bar:2010 from:0 till:12275
+  bar:2014 from:0 till:12476
+
+PlotData =
+  textcolor:black fontsize:S
+  bar:2002 at:12994 text:12494 shift:0
+  bar:2003 at:12938 text:12438 shift:0
+  bar:2004 at:12937 text:12437 shift:0
+  bar:2005 at:12937 text:12376 shift:0
+  bar:2006 at:12847 text:12347 shift:0
+  bar:2007 at:12781 text:12281 shift:0
+  bar:2008 at:12778 text:12278 shift:0
+  bar:2009 at:12790 text:12290 shift:0
+  bar:2010 at:12775 text:12275 shift:0
+  bar:2014 at:12976 text:12476 shift:0
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Pałac w Aleksandrowie Kujawskim (Clerk).JPG
+Wobraz:Szkoła realna, ob. liceum salezjanów.JPG
+Wobraz:Aleksandrów Kujawski dworzec (4) WK13.jpg
+Wobraz:Aleksandrów Kujawski wieża ciśnień WK13.jpg
+Wobraz:Church in Aleksandrów Kujawski.JPG
+Wobraz:Kosciol NPMWW Aleksandrow Kuj.JPG
+Wobraz:Kaplica cmentarza paarafialnego.JPG
+Wobraz:Kaplica prawosławna Aleksandrow Kuj.JPG
+</gallery>
+{{Commonscat|Aleksandrów Kujawski}}
+[[Kategorija:Sedlišćo w Pólskej]]
