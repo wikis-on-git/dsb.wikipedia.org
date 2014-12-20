@@ -1,0 +1,86 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Gniewkowo
+|mě serbske=Gniewkowo
+|wopon=POL Gniewkowo COA.svg
+|chórgoj=
+|lat_deg=52
+|lat_min=53
+|lon_deg=18
+|lon_min=24
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=Inowrocław
+|wusokosć=
+|płonina=9,18 km² 
+|wobydlarstwo=7 278 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=793
+|postowa licba=88-140
+|pśedwólenje=(+48) 52
+|KFZ-wobznamjenje=CIN
+|website=http://www.gniewkowo.com.pl/
+|kórta=
+|adresa=ul. 17 Stycznia 11
+88-140 Gniewkowo
+}}
+'''Gniewkowo''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]], we wokrjesu Inowrocław, w gmejnje Gniewkowo. W lěśe 2014, jo how bydliło 7 278 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:500 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical 
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:8000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:250 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1931 from:0 till:3873
+  bar:2002 from:0 till:7352
+  bar:2003 from:0 till:7345
+  bar:2004 from:0 till:7301
+  bar:2005 from:0 till:7250
+  bar:2006 from:0 till:7252
+  bar:2007 from:0 till:7213
+  bar:2008 from:0 till:7224
+  bar:2009 from:0 till:7214
+  bar:2010 from:0 till:7182
+  bar:2011 color:cobar2 from:0 till:7428
+  bar:2014 from:0 till:7278
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1931 at:3898 text:3873 shift:0
+  bar:2002 at:7477 text:7352 shift:0
+  bar:2003 at:7470 text:7345 shift:0
+  bar:2004 at:7426 text:7301 shift:0
+  bar:2005 at:7375 text:7250 shift:0
+  bar:2006 at:7377 text:7252 shift:0
+  bar:2007 at:7338 text:7213 shift:0
+  bar:2008 at:7349 text:7224 shift:0
+  bar:2009 at:7339 text:7214 shift:0
+  bar:2010 at:7307 text:7182 shift:0
+  bar:2011 at:7453 text:7428 shift:0
+  bar:2014 at:7303 text:7278 shift:0
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:SM Gniewkowo ratusz (1) ID 739463.jpg
+Wobraz:Gniewkowo St Nicholas church.jpg
+Wobraz:Gniewkowo church.jpg
+Wobraz:Gniewkowo Rynek 14 2011 06 01 fot K Lewandowski 6864.JPG
+Wobraz:Gniewkowo Dworcowa 17 2011 06 01 fot K Lewandowski 6847.JPG
+Wobraz:Gniewkowo Monument.jpg
+Wobraz:Gniewkowo synagoga.jpg
+Wobraz:Argenau Kaiser Friedrich III Denkmal.jpg|1903
+</gallery>
+{{Commonscat|Gniewkowo}}
+[[Kategorija:Sedlišćo w Pólskej]]
