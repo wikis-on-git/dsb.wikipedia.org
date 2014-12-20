@@ -1,0 +1,92 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Kruszwica
+|mě serbske=Kruszwica
+|wopon=POL Kruszwica COA.svg
+|chórgoj=
+|lat_deg=52
+|lat_min=40
+|lon_deg=18
+|lon_min=19
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=Inowrocław
+|wusokosć=
+|płonina=6,64 km² 
+|wobydlarstwo=9 070 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=1366
+|postowa licba=88-150
+|pśedwólenje=(+48) 52
+|KFZ-wobznamjenje=CIN
+|website=http://www.kruszwica.um.gov.pl/
+|kórta=
+|adresa=ul. Nadgoplańska 4
+88-150 Kruszwica
+}}
+'''Kruszwica''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]], we wokrjesu Inowrocław, w gmejnje Kruszwica. W lěśe 2014, jo how bydliło 9 070 luźi.
+
+== Měsćańske źěle ==
+<div style="-moz-column-count:2; column-count:2;">
+*Bródzki
+*Grodztwo Południowe
+*Grodztwo Wschodnie
+*Kobylniki
+*Łagiewniki
+*Osiedle Robotnicze
+*Osiedle Tysiąclecia
+*Stare Miasto
+*Śródmieście
+*Tryszczyń
+*Zagople
+</div>
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:400 height:250
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:10000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1934 from:0 till:4700
+  bar:1975 from:0 till:6778
+  bar:1980 from:0 till:7614
+  bar:1992 color:cobar2 from:0 till:9554
+  bar:2010 from:0 till:9211
+  bar:2011 from:0 till:9330
+  bar:2013 from:0 till:8969
+  bar:2014 from:0 till:9070
+PlotData=
+  textcolor:black fontsize:S
+  bar:1934 at: 4700 text: 4700 shift:(0)
+  bar:1975 at: 6778 text: 6778 shift:(0)
+  bar:1980 at: 7614 text: 7614 shift:(0)
+  bar:1992 at: 9554 text: 9554 shift:(0)
+  bar:2010 at: 9211 text: 9211 shift:(0)
+  bar:2011 at: 9330 text: 9330 shift:(0)
+  bar:2013 at: 8969 text: 8969 shift:(0)
+  bar:2014 at: 9070 text: 9070 shift:(0)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Kruszwica kolegiata śś. Piotra i Pawła3(WLZ13).jpg
+Wobraz:Rynek kca.jpg
+Wobraz:PL Kruszwica Rynek.JPG
+Wobraz:Kruszwica Mysia Wieża(WLZ13).jpg
+Wobraz:Gopło.JPG
+Wobraz:Kruszwica1.jpg
+Wobraz:Kruszwica z Mysiej Wiezy.JPG
+Wobraz:Kruszwica, kolegiata 6.jpg
+</gallery>
+{{Commonscat|Kruszwica}}
+[[Kategorija:Sedlišćo w Pólskej]]
