@@ -1,0 +1,86 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Łasin
+|mě serbske=Łasin
+|wopon=POL Łasin COA.svg
+|chórgoj=POL Łasin flag.svg
+|lat_deg=53
+|lat_min=31
+|lon_deg=19
+|lon_min=05
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=Grudziądz
+|wusokosć=91,5 m
+|płonina=4,79 km² 
+|wobydlarstwo=3 366 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=703
+|postowa licba=86-320
+|pśedwólenje=(+48) 56
+|KFZ-wobznamjenje=CGR
+|website=http://www.lasin.pl/
+|kórta=
+|adresa=ul. Radzyńska 2
+86-320 Łasin
+}}
+'''Łasin''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]], we wokrejsu Grudziądz, w gmejnje Łasin. W lěśe 2014, jo how bydliło 3 366 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:750 height:220
+PlotArea = left:70 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical 
+AlignBars = justify 
+Colors = 
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:3500
+ScaleMajor = unit:year increment:500 start:0 gridcolor:gray1
+PlotData =
+  bar:1590 color:gray1 width:5 
+   from:0 till:1000  width:15  text:<1000 textcolor:red  fontsize:8px
+  bar:1662 color:gray1 width:5 
+   from:0 till:500  width:15  text:<500 textcolor:red  fontsize:8px
+  bar:1772 color:gray1 width:5 
+   from:0 till:472  width:15  text:472  textcolor:red  fontsize:8px
+  bar:1849 color:gray1 width:5 
+   from:0 till:1900  width:15  text:~1900 textcolor:red  fontsize:8px
+  bar:1864 color:gray1 width:5 
+   from:0 till:2187  width:15  text:2187 textcolor:red  fontsize:8px
+  bar:1880 color:gray1 width:5 
+   from:0 till:2342  width:15  text:2342 textcolor:red  fontsize:8px
+  bar:1910 color:gray1 width:1 
+   from:0 till:2700  width:15  text:~2717 textcolor:red  fontsize:8px
+  bar:1920 color:gray1 width:1 
+   from:0 till:2200   width:15  text:~2200  textcolor:red  fontsize:8px
+  bar:1931 color:gray1 width:1 
+   from:0 till:2541  width:15  text:2541  textcolor:red  fontsize:8px
+  bar:1938 color:gray1 width:1 
+   from:0 till:2500  width:15  text:~2500  textcolor:red  fontsize:8px
+  bar:1945 color:gray1 width:1 
+   from:0 till:1900  width:15  text:~1900  textcolor:red  fontsize:8px
+  bar:1961 color:gray1 width:1 
+   from:0 till:2800  width:15  text:~2800  textcolor:red  fontsize:8px
+  bar:1990 color:gray1 width:1 
+   from:0 till:3100  width:15  text:~3100  textcolor:red  fontsize:8px
+  bar:2004 color:gray1 width:1 
+   from:0 till:3266  width:15  text:3266  textcolor:red  fontsize:8px
+  bar:2008 color:gray1 width:1 
+   from:0 till:3285  width:15  text:3285  textcolor:red  fontsize:8px
+  bar:2013 color:gray1 width:1 
+   from:0 till:3285  width:15  text:3371  textcolor:red  fontsize:8px
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Łasin ratusz.JPG
+Wobraz:Łasin kościół katarzyny.JPG
+Wobraz:KLASZTOR ŁASIN.JPG
+Wobraz:Pomnik Magdalenka Lasin.jpg
+Wobraz:Plebania Łasin.JPG
+Wobraz:Kolej Lasin.jpg
+Wobraz:Łasin spichrz (3).JPG
+Wobraz:Łasin Ratusz (9).JPG
+</gallery>
+{{Commonscat|Łasin}}
+[[Kategorija:Sedlišćo w Pólskej]]
