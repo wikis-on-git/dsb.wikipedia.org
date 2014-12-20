@@ -1,0 +1,106 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Janikowo
+|mě serbske=Janikowo
+|wopon=POL Janikowo COA.svg
+|chórgoj=
+|lat_deg=52
+|lat_min=44
+|lon_deg=18
+|lon_min=06
+|stat=Pólska
+|wójwodstwo=[[kujawsko-pomorske wójwodstwo|kujawsko-pomorske]]
+|wokrejs=Inowrocław
+|wusokosć=87,7-95 m
+|płonina=9,51 km² 
+|wobydlarstwo=9 051 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=952
+|postowa licba=88-160
+|pśedwólenje=(+48) 52
+|KFZ-wobznamjenje=CIN
+|website=http://www.janikowo.com.pl/
+|kórta=
+|adresa=ul. Przemysłowa 6
+88-160 Janikowo
+}}
+'''Janikowo''' jo město w [[Pólska|Pólskej]], w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]], we wokrjesu Inowrocław, w gmejnje Janikowo. W lěśe 2014, jo how bydliło 9 051 luźi.
+
+== Měsćańske źěle ==
+<div style="-moz-column-count:2; column-count:2;">
+*Osiedle Wilkońskiego - wobydlarstwo: ~2240
+*Ostrowo - wobydlarstwo: ~250
+*Stare Janikowo - wobydlarstwo: ~700
+*Śródmieście - wobydlarstwo: ~5610
+*Ustronie - wobydlarstwo: ~300
+</div>
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:580 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:12000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:20 align:center
+ bar:1772 from:0 till:35
+ bar:1880 from:0 till:56
+ bar:1914 from:0 till:500
+ bar:1921 from:0 till:627
+ bar:1939 from:0 till:1100
+ bar:1945 from:0 till:1760
+ bar:1957 from:0 till:3240
+ bar:1962 from:0 till:4300
+ bar:1975 from:0 till:6819
+ bar:1980 from:0 till:7934
+ bar:1992 from:0 till:8863
+ bar:2001 from:0 till:9164
+ bar:2003 from:0 till:9103
+ bar:2006 from:0 till:9131
+ bar:2007 color:cobar2 from:0 till:9215
+ bar:2008 from:0 till:9169
+ bar:2009 from:0 till:9124
+ bar:2013 from:0 till:9079
+PlotData=
+ textcolor:black fontsize:S
+ bar:1772 at: 35 text: 35 shift:(0)
+ bar:1880 at: 56 text: 56 shift:(0)
+ bar:1914 at: 500 text: 500 shift:(0)
+ bar:1921 at: 627 text: 627 shift:(0)
+ bar:1939 at: 1100 text: 1100 shift:(0)
+ bar:1945 at: 1760 text: 1760 shift:(0)
+ bar:1957 at: 3240 text: 3240 shift:(0)
+ bar:1962 at: 4300 text: 4300 shift:(0)
+ bar:1975 at: 6819 text: 6819 shift:(0)
+ bar:1980 at: 7934 text: 7934 shift:(0)
+ bar:1992 at: 8863 text: 8863 shift:(0)
+ bar:2001 at: 9164 text: 9164 shift:(0)
+ bar:2003 at: 9103 text: 9103 shift:(0)
+ bar:2006 at: 9131 text: 9131 shift:(0)
+ bar:2007 at: 9215 text: 9215 shift:(0)
+ bar:2008 at: 9169 text: 9169 shift:(0)
+ bar:2009 at: 9124 text: 9124 shift:(0)
+ bar:2013 at: 9079 text: 9079 shift:(0)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Janikowo church.jpg
+Wobraz:Janikowo pałac.jpg
+Wobraz:Kozaljanikowo.jpg
+Wobraz:Powwlkp1.jpg
+Wobraz:MCPD Janikowo.jpg
+Wobraz:Dworzec PKP Janikowo.jpg
+Wobraz:Strażjzs.jpg
+Wobraz:Mlksjanikowo.jpg
+</gallery>
+{{Commonscat|Janikowo}}
+[[Kategorija:Sedlišćo w Pólskej]]
