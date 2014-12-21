@@ -1,10 +1,106 @@
-[[Dataja:POL Gdańsk COA.svg|100px|thumb|left|[[Wopon]]]]
+{{Infokašćik Město
+|mě=
+|mě swójske=Gdańsk
+|mě serbske=Gdańsk
+|wopon=POL Gdańsk COA.svg
+|chórgoj=Gdansk flag.svg
+|lat_deg=54
+|lat_min=20
+|lon_deg=18
+|lon_min=38
+|stat=Pólska
+|wójwodstwo=[[pomorske wójwodstwo|pomorske]]
+|wokrejs=bźezwokrejsne město
+|wusokosć=
+|płonina=261,96 km² 
+|wobydlarstwo=461 935 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=1763
+|postowa licba=80-008 - 80-958
+|pśedwólenje=(+48) 58
+|KFZ-wobznamjenje=GD
+|website=http://www.gdansk.pl/
+|kórta=
+|adresa=ul. Nowe Ogrody 8/12
+80-803 Gdańsk
+}}
 [[Dataja:Gdansk Glowne Miasto.jpg|250px|thumb|Gdańsk]]
-'''Gdańsk''' ([[nimšćina|nim]]. ''Danzig'') jo [[město]] w [[Pólska|Pólskej]]. W lěśe [[2006]] jo how bydliło 456 658 luźi.
+'''Gdańsk''' ([[nimšćina|nim]]. ''Danzig'') jo [[město]] w [[Pólska|Pólskej]]. W lěśe [[2014]] jo how bydliło 461 935 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:700 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:500000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:left
+  bar:1939 from:0 till:250000
+  bar:1946 from:0 till:117894
+  bar:1950 from:0 till:194633
+  bar:1960 from:0 till:286940
+  bar:1970 from:0 till:365600
+  bar:1980 from:0 till:456707
+  bar:1987 color:cobar2 from:0 till:469053
+  bar:1990 from:0 till:465143
+  bar:1995 from:0 till:463019
+  bar:2000 from:0 till:462995
+  bar:2005 from:0 till:458053
+  bar:2010 from:0 till:460509
+  bar:2014 from:0 till:461935
+PlotData=
+  textcolor:black fontsize:S
+  bar:1939 at: 250000 text: 250.000 shift:(-18,5)
+  bar:1946 at: 117894 text: 117.894 shift:(-18,5)
+  bar:1950 at: 194633 text: 194.633 shift:(-18,5)
+  bar:1960 at: 286940 text: 286.940 shift:(-18,5)
+  bar:1970 at: 365600 text: 365.600 shift:(-18,5)
+  bar:1980 at: 456707 text: 456.707 shift:(-20,5)
+  bar:1987 at: 469053 text: 469.053 shift:(-19,5)
+  bar:1990 at: 465143 text: 465.143 shift:(-18,5)
+  bar:1995 at: 463019 text: 463.019 shift:(-16,5)
+  bar:2000 at: 462995 text: 462.995 shift:(-18,5)
+  bar:2005 at: 458053 text: 458.053 shift:(-18,5)
+  bar:2010 at: 460509 text: 460.509 shift:(-18,5)
+  bar:2014 at: 461935 text: 461.935 shift:(-16,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Gdansk night view.jpg
+Wobraz:Artus Court in Gdańsk - 20060730.jpg
+Wobraz:Długie Pobrzeże in Gdańsk (Motława).jpg
+Wobraz:Old town panorama3.jpg
+Wobraz:Danzig Marienkirche Profil (2011).JPG
+Wobraz:Fontanna neptuna widok od ul dlugiej.jpg
+Wobraz:Gdansk July 2013 30.JPG
+Wobraz:Gdańsk Zielona Brama.jpg
+Wobraz:Gdańsk (DerHexer) 2010-07-12 068.jpg
+Wobraz:Puerta Alta, Gdansk, Polonia, 2013-05-20, DD 04.jpg
+Wobraz:Gdansk Brama Stagiewna (2).jpg
+Wobraz:John III Sobieski Monument in Gdańsk 2669.JPG
+Wobraz:Catedral de Oliwa, Gdansk, Polonia, 2013-05-21, DD 16.jpg
+Wobraz:Gdansk Cystersow12.jpg
+Wobraz:1707 zespół Twierdzy Wisłoujście 2.jpg
+Wobraz:Gmach glowny politechnika.jpg
+Wobraz:Gdańsk, Pomnik Obrońców Wybrzeża - fotopolska.eu (304866).jpg
+Wobraz:Gdańsk (DerHexer) 2010-07-12 016.jpg
+Wobraz:PGE Arena outside.jpg
+Wobraz:GdanskSopot ErgoArena 20110603.jpg
+</gallery>
 
 == Eksterne wótkaze ==
 * [http://www.pieknygdansk.gda.pl Gdańsk] ([[pólšćina|pól]]).
 
-[[Kategorija:Sedlišćo w Pólskej|Gdańsk]]
+{{Commonscat|Gdańsk}}
+[[Kategorija:Sedlišćo w Pólskej]]
 [[Kategorija:Sedlišćo z mórskim pśistawom]]
 [[Kategorija:Pomorske wójwodstwo]]
