@@ -1,28 +1,87 @@
 {{Infokašćik Město
 |mě=Bydgoszcz
 |wopon=POL Bydgoszcz COA.svg
+|chórgoj=POL Bydgoszcz flag.svg
 |lat_deg=53
 |lat_min=07
 |lon_deg=18
 |lon_min=00
 |stat=Pólska
-|wojewódstwo=[[Kujawsko-pomorske wojewódstwo]]
+|wójewodstwo=[[Kujawsko-pomorske wojewódstwo|kujawsko-pomorske]]
 |wusokosć=60 m
-|płonina=174,48 km²
-|wobydlarstwo=358.029
-|gustosć wobydlarstwa=
-|postowa licba=
+|płonina=174,48 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=358 614 (2014)
+|gustosć wobydlarstwa=2038
+|postowa licba=85-001 - 85-950
+|KFZ-wobznamjenje=CB
 |pśedwólenje=
 |website=[http://www.bydgoszcz.pl/ Bydgoszcz.pl]
-}}[[Dataja:Bydgoszcz BRE spichrze.jpg|250px|thumb|Bydgoszcz]]
-
+|adresa=ul. Jezuicka 1<br>85-102 Bydgoszcz
+}}
+[[Dataja:Bydgoszcz BRE spichrze.jpg|thumb|Bydgoszcz]]
 '''Bydgoszcz''' ([[nimšćina|nim]]. ''Bromberg'') jo [[město]] w [[Pólska|Pólskej]].
 
-== Geografija ==
-W lěśe 2009 jo how bydliło 358.029 luźi. Geografiske połoženje : 53° 07' N 18° 00' E
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:720 height:350
+PlotArea = left:50 right:20 top:30 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:400000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:XVII from:0 till:4900
+  bar:1717 from:0 till:150
+  bar:1800 from:0 till:4691
+  bar:1849 from:0 till:10263
+  bar:1875 from:0 till:31308
+  bar:1910 from:0 till:57700
+  bar:1921 from:0 till:90095
+  bar:1930 from:0 till:117945
+  bar:1939 from:0 till:143100
+  bar:1945 from:0 till:135491
+  bar:1955 from:0 till:202044
+  bar:1965 from:0 till:256582
+  bar:1975 from:0 till:322657
+  bar:1985 from:0 till:366424
+  bar:1998 color:cobar2 from:0 till:386855
+  bar:2002 from:0 till:372104
+  bar:2010 from:0 till:356936
+  bar:2012 from:0 till:363926
+PlotData=
+  textcolor:black fontsize:S
+  bar:XVII at: 9900 text: 4900 shift:(0)
+  bar:1717 at: 5150 text: 150 shift:(0)
+  bar:1800 at: 9691 text: 4691 shift:(0)
+  bar:1849 at: 15263 text: 10263 shift:(0)
+  bar:1875 at: 36308 text: 31308 shift:(0)
+  bar:1910 at: 62700 text: 57700 shift:(0)
+  bar:1921 at: 95095 text: 90095 shift:(0)
+  bar:1930 at: 122945 text: 117945 shift:(0)
+  bar:1939 at: 148100 text: 143100 shift:(0)
+  bar:1945 at: 140491 text: 135491 shift:(0)
+  bar:1955 at: 207044 text: 202044 shift:(0)
+  bar:1965 at: 261582 text: 256582 shift:(0)
+  bar:1975 at: 327657 text: 322657 shift:(0)
+  bar:1985 at: 371424 text: 366424 shift:(0)
+  bar:1998 at: 391855 text: 386855 shift:(0)
+  bar:2002 at: 377104 text: 372104 shift:(0)
+  bar:2010 at: 362650 text: 356936 shift:(0)
+  bar:2012 at: 363926 text: 363926 shift:(0)
+</timeline>
 
 == Sportowy ==
-* [[Astoria Bydgoszcz]]
+* [[Astoria Bydgoszcz]] - basketball
+* [[Polonia Bydgoszcz]] - speedway
+* [[Zawisza Bydgoszcz]] - kopańca
 
 == Partnarske města ==
 * [[Czerkasy]]
@@ -37,8 +96,28 @@ W lěśe 2009 jo how bydliło 358.029 luźi. Geografiske połoženje : 53° 07' 
 * [[Reggio Emilia]]
 * [[Wilhelmshaven]]
 * [[Pitesti]]
-
-== Eksterne wótkaze ==
-* [http://www.bydgoszcz.pl/ Bydgoszcz] ([[pólšćina|pól]]).
-
-[[Kategorija:Sedlišćo w Pólskej|Bydgoszcz]]
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Bydgoszcz Przech przez rzekę b.jpg
+Wobraz:Bdg Stare Miasto dm pł pierzeja SR 03-2013.jpg
+Wobraz:Bydgoszcz Spichlerze wieczór.jpg
+Wobraz:Kamienica w stylu eklektycznym-Pl.Wolności 1 w Bydgoszczy.JPG
+Wobraz:Stary Rynek Bydg 05-2012.jpg
+Wobraz:Bdg OperaNova noc 8 07-2013.jpg
+Wobraz:Bdg Ratusz a 05-2013.jpg
+Wobraz:Bydgoszcz-kościół Apostołów Piotra i Pawła.JPG
+Wobraz:Bdg Bazylika noc 4 07-2013.jpg
+Wobraz:Technikum mechaniczne 3465.jpg
+Wobraz:Bdg Gdanska14 noc 10 07-2013.jpg
+Wobraz:Bdg StaryRynek WiMBP 4 07-2013.jpg
+Wobraz:Bydgoszcz,kamienica Nowy Rynek 10.JPG
+Wobraz:Bdg Filharmonia fr 1 07-2013.jpg
+Wobraz:Bdg plTeatralny 4 07-2013.jpg
+Wobraz:SM Bydg 2012m.jpg
+Wobraz:Bdg Gdanska pocz 1 07-2013.jpg
+Wobraz:Bdg nabrzezeplnBrdy 28 07-2013.jpg
+Wobraz:Bdg WenecjaB c 10 07-2013.jpg
+Wobraz:Bdg kladkaKlenczona 2 07-2013.jpg
+</gallery>
+{{commons|Category:Bydgoszcz}}
+[[Kategorija:Sedlišćo w Pólskej]]
