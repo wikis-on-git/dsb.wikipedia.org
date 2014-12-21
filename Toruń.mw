@@ -4,10 +4,10 @@
 |lat_deg=53 |lat_min=00
 |lon_deg=18 |lon_min=37
 |stat=Pólska
-|wojewódstwo=Kujawsko-Pomorske
+|wójwodstwo=kujawsko-pomorske
 |wusokosć=36 - 90 m
-|płonina=115,72 km²
-|wobydlarstwo=206.346 (2008)
+|płonina=115,72 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=203 148 (2014)
 |gustosć wobydlarstwa=1779
 |postowa licba=87-100 hač do 87-120
 |pśedwólenje=(+48) 056
@@ -19,10 +19,122 @@
 87-100 Toruń
 |website=[http://www.torun.pl www.torun.pl]
 }}
+'''Toruń''' (nim. ''Thorn'') jo [[město]] w [[Pólska|Pólskej]], kótarež lažy w [[kujawsko-pomorske wójwodstwo|kujawsko-pomorskem wójwodstwje]]. Historiski centrum jo na lisćinje UNESCO.
 
-'''Toruń''' (nim. '''Thorn''') jo [[město]] w [[Pólska|Pólskej]], kótarež lažy w [[kujawsko-pomorske wojewódstwo|kujawsko-pomorskem wojewódstwje]].
+== Měsćańske źěle ==
+<div style="-moz-column-count:2; column-count:2;">
+*Barbarka
+*Bielany
+*Bielawy
+*Bydgoskie Przedmieście
+*Chełmińskie Przedmieście
+*Czerniewice
+*Glinki
+*Grębocin nad Strugą
+*Jakubskie Przedmieście
+*Kaszczorek
+*Katarzynka
+*Koniuchy
+*Mokre
+*Na Skarpie
+*Piaski
+*Podgórz
+*Rubinkowo
+*Rudak
+*Rybaki
+*Starotoruńskie Przedmieście
+*Stare Miasto
+*Stawki
+*Wrzosy
+*Winnica
+</div>
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:800 height:250
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:230000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1454 from:0 till:11000
+  bar:1500 from:0 till:20000
+  bar:1793 from:0 till:6000
+  bar:1810 from:0 till:6938
+  bar:1920 from:0 till:37356
+  bar:1925 from:0 till:42850
+  bar:1930 from:0 till:55836
+  bar:1937 from:0 till:70000
+  bar:1939 from:0 till:81000
+  bar:1946 from:0 till:68085
+  bar:1955 from:0 till:92550
+  bar:1965 from:0 till:114490
+  bar:1975 from:0 till:149249
+  bar:1985 from:0 till:191305
+  bar:1995 from:0 till:204660
+  bar:2000 color:cobar2 from:0 till:210194
+  bar:2005 from:0 till:208007
+  bar:2010 from:0 till:205312
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1454 at:16000 text:11000 shift:0
+  bar:1500 at:25000 text:20000 shift:0
+  bar:1793 at:11000 text:6000 shift:0
+  bar:1810 at:11938 text:6938 shift:0
+  bar:1920 at:42356 text:37356 shift:0
+  bar:1925 at:47850 text:42850 shift:0
+  bar:1930 at:60836 text:55836 shift:0
+  bar:1937 at:75000 text:70000 shift:0
+  bar:1939 at:86000 text:81000 shift:0
+  bar:1946 at:73085 text:68085 shift:0
+  bar:1955 at:97550 text:92550 shift:0
+  bar:1965 at:119490 text:114490 shift:0
+  bar:1975 at:154249 text:149249 shift:0
+  bar:1985 at:196305 text:191305 shift:0
+  bar:1995 at:209660 text:204660 shift:0
+  bar:2000 at:215194 text:210194 shift:0
+  bar:2005 at:213007 text:208007 shift:0
+  bar:2010 at:210312 text:205312 shift:0
+</timeline>
+
 == Sport ==
-* [[Angels Toruń]] - amerikańska football [http://www.angelstorun.pl]
+* [[Angels Toruń]] - amerikańska football
 * [[Elana Toruń]] - kopańca
+* [[KS Toruń]] - speedway
 * [[Pierniki Toruń]] - basketball
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Torun01CenterWithWall.JPG
+Wobraz:Medieval Town of Torun Poland (355456506).jpg
+Wobraz:Torun ratusz corr.jpg
+Wobraz:Toruń, Kościół Św. Ducha.jpg
+Wobraz:30 Thorn (20).JPG
+Wobraz:Torun ul Szeroka.jpg
+Wobraz:Toruń - Rynek Nowomiejski 01.jpg
+Wobraz:Torun Rynek Nowomiejski pierzeja pn-zach.jpg
+Wobraz:Toruń (DerHexer) 2010-07-17 081.jpg
+Wobraz:Toruń - Poczta Główna 01.jpg
+Wobraz:Teatr im. Wilama Horzycy sm1.jpg
+Wobraz:Rynek Staromiejski, Toruń.JPG
+Wobraz:Toruń (DerHexer) 2010-07-17 039.jpg
+Wobraz:Poland Torun Leaning tower.jpg
+Wobraz:Torun Building XIX.JPG
+Wobraz:Toruń, hotel przy ul. Przedzamcze 6a i ruiny zamku krzyżackiego (Gdanisko) (1) (OLA Z.).JPG
+Wobraz:Toruń (DerHexer) 2010-07-17 026.jpg
+Wobraz:Baszta Koci Łeb.jpg
+Wobraz:UMK w Toruniu.JPG
+Wobraz:603176 Toruń Dwór Obronny 01.JPG
+</gallery>
+{{commons|Category:Toruń}}
 [[Kategorija:Sedlišćo w Pólskej]]
