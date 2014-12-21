@@ -3,24 +3,129 @@
         |mě swójske=Gdynia
         |mě serbske=
         |wopon=POL Gdynia COA.svg
+        |chórgoj=POL Gdynia flag.svg
         |lat_deg=54
         |lat_min=32
         |lon_deg=18
         |lon_min=32
         |stat=Pólska
         |wójwodstwo=[[Pomorske wójwodstwo|Pomorske]]
-        |KFZ-znamješko=GA
+        |wusokosć=0 - 205,7 m
         |płonina=135 [[Kwadratny kilometer|km²]]
         |wobydlarstwo=248.726 (2012)
         |gustosć wobydlarstwa=1841 wobydlarjow na km²
+        |KFZ-wobznamjenje=GA
         |postowa licba=wót 81-004 až do 81-919
-        |pśedwólenje=58
+        |pśedwólenje=(+48) 58
         |website=[http://www.gdynia.pl www.gdynia.pl]
         |adresa=Al. Marszałka<br /> Piłsudskiego 52/54<br />81-382 Gdynia
         |kórta=
         }}
-[[File:Red Bull Air Race Gdynia - 2014.JPG|thumb|270px| Red Bull Air Race Gdynia - 2014]]  '''Gdynia''' ([[kašubšćina|kašubski]] '''Gdiniô''', nim. '''Gdingen''') jo [[město]] w [[Pólska|Pólskej]], kótarež lažy w [[pomorske wójwodstwo|pomorskim wójwodstwje]].
+[[File:Red Bull Air Race Gdynia - 2014.JPG|thumb|Red Bull Air Race Gdynia - 2014]]
+'''Gdynia''' ([[kašubšćina|kaš.]] ''Gdiniô'', [[nimšćina|nim.]] ''Gdingen'') jo [[město]] w [[Pólska|Pólskej]], kótarež lažy w [[pomorske wójwodstwo|pomorskim wójwodstwje]].
 
+== Měsćańske źěle ==
+<div style="-moz-column-count:2; column-count:2;">
+*Babie Doły
+*Chwarzno-Wiczlino
+*Chylonia
+*Cisowa
+*Działki Leśne
+*Dąbrowa
+*Grabówek
+*Kamienna Góra
+*Karwiny
+*Leszczynki
+*Mały Kack
+*Obłuże
+*Oksywie
+*Orłowo
+*Pogórze
+*Pustki Cisowskie-Demptowo
+*Redłowo
+*Śródmieście
+*Wielki Kack
+*Witomino-Radiostacja
+*Witomino-Leśniczówka
+*Wzgórze Św. Maksymiliana
+</div>
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:800 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:260000
+ScaleMajor = unit:year increment:25000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:5000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1870 from:0 till:1200
+  bar:1920 from:0 till:1300
+  bar:1926 from:0 till:12000
+  bar:1939 from:0 till:127000
+  bar:1946 from:0 till:77829
+  bar:1950 from:0 till:103458
+  bar:1955 from:0 till:129639
+  bar:1960 from:0 till:147625
+  bar:1965 from:0 till:166063
+  bar:1970 from:0 till:191500
+  bar:1975 from:0 till:221056
+  bar:1980 from:0 till:236432
+  bar:1985 from:0 till:246492
+  bar:1990 from:0 till:251498
+  bar:1998 color:cobar2 from:0 till:253521
+  bar:2005 from:0 till:252791
+  bar:2010 from:0 till:249461
+  bar:2012 from:0 till:248726
+PlotData=
+  textcolor:black fontsize:S
+  bar:1870 at: 1200 text: 1.200 shift:(-11,5)
+  bar:1920 at: 1300 text: 1.300 shift:(-11,5)
+  bar:1926 at: 12000 text: 12.000 shift:(-14,5)
+  bar:1939 at: 127000 text: 127.000 shift:(-17,5)
+  bar:1946 at: 77829 text: 77.829 shift:(-14,5)
+  bar:1950 at: 103458 text: 103.458 shift:(-17,5)
+  bar:1955 at: 129639 text: 129.639 shift:(-17,5)
+  bar:1960 at: 147625 text: 147.625 shift:(-17,5)
+  bar:1965 at: 166063 text: 166.063 shift:(-17,5)
+  bar:1970 at: 191500 text: 191.500 shift:(-17,5)
+  bar:1975 at: 221056 text: 221.056 shift:(-17,5)
+  bar:1980 at: 236432 text: 236.432 shift:(-17,5)
+  bar:1985 at: 246492 text: 246.492 shift:(-21,5)
+  bar:1990 at: 251498 text: 251.498 shift:(-21,5)
+  bar:1998 at: 253521 text: 253.521 shift:(-17,5)
+  bar:2005 at: 252791 text: 252.791 shift:(-17,5)
+  bar:2010 at: 249461 text: 249.461 shift:(-17,5)
+  bar:2012 at: 248726 text: 248.726 shift:(-17,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Basen-portowy-gdynia.jpg
+Wobraz:Gdynia z lotu ptaka - 081.JPG
+Wobraz:Sea Towers Skwer.jpg
+Wobraz:Plac Kaszubski, Gdynia2.jpg
+Wobraz:Klif w Gdyni-Orłowie - 134.JPG
+Wobraz:Gdynia Orlowo plaza.jpg
+Wobraz:GDYNIA, AB. 086.JPG
+Wobraz:Gdynia, 10 Lutego 24.JPG
+Wobraz:Trzy maszty i akwarium gdyńskie.jpg
+Wobraz:Kościół parafialny pw. NMP Królowej Polski w Gdyni 01.jpg
+Wobraz:Budynek Narodowego Banku Polskiego I Oddział Miejski ul 3 Maja 25 10 Lutego 20 22 Gdynia KS.JPG
+Wobraz:Gdynia Poland hala sportowo-widowiskowa 1.JPG
+Wobraz:Gdynia, Kościół św. Michała Archanioła - fotopolska.eu (344483).jpg
+Wobraz:Gdynia Swietojanska Empik.jpg
+Wobraz:Muzeum Miasta Gdyni 01.jpg
+Wobraz:Dworzec Gdynia Główna z pl. Konst. (2).JPG
+</gallery>
 {{commons|Category:Gdynia}}
 
 [[Kategorija:Sedlišćo w Pólskej]]
