@@ -1,8 +1,114 @@
-[[Dataja:POL Olsztyn COA.svg|100px|thumb|left|[[Wopon]]]]
+{{Infokašćik Město
+|mě=
+|mě swójske=Olsztyn
+|mě serbske=Olsztyn
+|wopon=POL Olsztyn COA.svg
+|chórgoj=POL Olsztyn flag.svg
+|lat_deg=53
+|lat_min=46
+|lon_deg=20
+|lon_min=28
+|stat=Pólska
+|wójwodstwo=[[warmińsko-mazurske wójwodstwo|warmińsko-mazurske]]
+|wokrejs=bźezwokrejsne město
+|wusokosć=87,7 - 154,4 m
+|płonina=87,89 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=174 775 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=1979
+|postowa licba=10-001 - 11-041
+|pśedwólenje=(+48) 89
+|KFZ-wobznamjenje=NO
+|website=[http://www.um.olsztyn.pl/ UM.Olsztyn.pl]
+|kórta=
+|adresa=pl. Jana Pawła II 1<br>10-101 Olsztyn
+}}
 [[Dataja:Olsztyn Ratusz.jpg|200px|thumb|Olsztyn]]
-'''Olsztyn''' ([[nimšćina|nim]]. ''Allenstein'') jo [[město]] w [[Pólska|Pólskej]]. W lěśe [[2007]] jo how bydliło 175 241 luźi.
+'''Olsztyn''' ([[nimšćina|nim]]. ''Allenstein'') jo [[město]] w [[Pólska|Pólskej]], w [[warmińsko-mazurske wójwodstwo|warmińsko-mazurskem wójewódstwje]]. W lěśe [[2014]] jo how bydliło 174 775 luźi.
 
-== Eksterne wótkaze ==
-* [http://www.um.olsztyn.pl/ Olsztyn] ([[pólšćina|pól]]).
+== Měsćańske źěle ==
+<div style="position: relative; left">
+[[File:Osiedla olsztyna.svg|600px]]
+{{Image label|x=195|y=90|text='''Redykajny'''}}
+{{Image label|x=98|y=136|text='''Gutkowo'''}}
+{{Image label|x=190|y=205|text='''Likusy'''}}
+{{Image label|x=246|y=193|text='''Osiedle Nad<br>Jeziorem Długim'''}}
+{{Image label|x=152|y=300|text='''Dajtki'''}}
+{{Image label|x=238|y=283|text='''Osiedle<br>Grunwaldzkie'''}}
+{{Image label|x=238|y=370|text='''Kortowo'''}}
+{{Image label|x=285|y=123|text='''Osiedle Wojska<br>Polskiego'''}}
+{{Image label|x=398|y=126|text='''Podleśna'''}}
+{{Image label|x=475|y=173|text='''Zielona Górka'''}}
+{{Image label|x=345|y=204|text='''Zatorze'''}}
+{{Image label|x=310|y=257|text='''Śródmieście'''}}
+{{Image label|x=400|y=221|text='''Os. Kętrzyńskiego'''}}
+{{Image label|x=400|y=260|text='''Pojezierze'''}}
+{{Image label|x=332|y=280|text='''Os.<br>Kościuszki'''}}
+{{Image label|x=276|y=319|text='''Podgrodzie'''}}
+{{Image label|x=305|y=378|text='''Brzeziny'''}}
+{{Image label|x=370|y=290|text='''Kormoran'''}}
+{{Image label|x=418|y=340|text='''Osiedle Mazurskie'''}}
+{{Image label|x=358|y=368|text='''Nagórki'''}}
+{{Image label|x=297|y=466|text='''Osiedle<br>Generałów'''}}
+{{Image label|x=370|y=435|text='''Jaroty'''}}
+{{Image label|x=421|y=428|text='''Pieczewo'''}}
+</div>
 
-[[Kategorija:Sedlišćo w Pólskej|Olsztyn]]
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:500 height:200
+PlotArea = left:40 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey value:gray(0.85)
+ id:cobar value:red
+
+DateFormat = yyyy
+Period = from:0 till:210
+ScaleMajor = unit:year increment:30 start:0 gridcolor:linegrey
+TextData =
+ pos:(30,20) textcolor:black fontsize:S
+PlotData =
+ bar:1770 color:cobar width:1 from:0 till:2 width:15
+ bar:1800 color:cobar width:1 from:0 till:2 width:15
+ bar:1830 color:cobar width:1 from:0 till:3 width:15
+ bar:1860 color:cobar width:1 from:0 till:8 width:15
+ bar:1890 color:cobar width:1 from:0 till:24 width:15
+ bar:1920 color:cobar width:1 from:0 till:50 width:15
+ bar:1950 color:cobar width:1 from:0 till:68 width:15
+ bar:1980 color:cobar width:1 from:0 till:133 width:15
+ bar:2010 color:oceanblue width:1 from:0 till:176 width:15
+
+PlotData=
+ bar:1770 at: 10 fontsize:S text: 1.8 shift:(-10,5) textcolor:black
+ bar:1800 at: 10 fontsize:S text: 2.2 shift:(-10,5) textcolor:black
+ bar:1830 at: 10 fontsize:S text: 3.1 shift:(-10,5) textcolor:black
+ bar:1860 at: 10 fontsize:S text: 7.6 shift:(-10,5) textcolor:black
+ bar:1890 at: 24 fontsize:S text: 24.3 shift:(-10,5) textcolor:black
+ bar:1920 at: 50 fontsize:S text: 50.4 shift:(-10,5) textcolor:black
+ bar:1950 at: 68 fontsize:S text: 67.8 shift:(-10,5) textcolor:black
+ bar:1980 at: 133 fontsize:S text: 133.3 shift:(-10,5) textcolor:black
+ bar:2010 at: 176 fontsize:S text: 176.5 shift:(-10,5) textcolor:black
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Olsztyn Katedra noc.jpg
+Wobraz:KP, Olsztyn, zamek2.JPG
+Wobraz:Olsztyn, ulica Staromiejska.jpg
+Wobraz:Olsztyn, stary ratusz..jpg
+Wobraz:Allenstein Marktplatz.JPG
+Wobraz:Dom gazety olsztynskiej.JPG
+Wobraz:647625 dom "Kopernik".JPG
+Wobraz:KOS Staromiejska Olsztyn.jpg
+Wobraz:Olsztyn, ulica Prosta.jpg
+Wobraz:KP, Olsztyn, kościół Chrystusa Króla i Św. Franciszka.JPG
+Wobraz:Wiadekt Olsztyn 001.jpg
+Wobraz:Olsztyn nocą KOS.jpg
+Wobraz:Olsztyn, ul. Marii Curie-Skłodowskiej (2008).jpg
+Wobraz:647389 Olsztyn Bema 4.JPG
+Wobraz:UWM.jpg
+Wobraz:Olsztyn, 17.jpg
+</gallery>
+{{Commonscat|Olsztyn}}
+[[Kategorija:Sedlišćo w Pólskej]]
