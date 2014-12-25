@@ -1,8 +1,155 @@
-[[Dataja:POL Lublin COA.svg|100px|thumb|left|[[Wopon]]]]
-[[Dataja:Collage of views of Lublin.jpg|250px|thumb|Lublin]]
-'''Lublin''' jo [[město]] w [[Pólska|Pólskej]]. W lěśe [[2006]] jo how bydliło 353 483 luźi.
+{{Infokašćik Město
+|mě=
+|mě swójske=Lublin
+|mě serbske=
+|wopon=POL Lublin COA 1.svg
+|chórgoj=POL Lublin flag 1.svg
+|lat_deg=51
+|lat_min=14
+|lon_deg=22
+|lon_min=34
+|stat=Pólska
+|wójwodstwo=[[lublińske wójwodstwo|lublińske]]
+|wokrejs=bźezwokrejsne město
+|wusokosć=163-238 m
+|płonina=147 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=343 144 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=2358
+|postowa licba=20-001 - 20-999
+|pśedwólenje=(+48) 81
+|KFZ-wobznamjenje=LU
+|website=[http://www.um.lublin.pl/pl/ UM.Lublin.pl]
+|kórta=
+|adresa=plac Łokietka 1<br>20-109 Lublin
+}}
+'''Lublin''' jo [[město]] w [[Pólska|Pólskej]]. W lěśe [[2014]] jo how bydliło 343 144 luźi.
 
-== Eksterne wótkaze ==
-* [http://www.um.lublin.pl/pl/ Lublin] ([[pólšćina|pól]]).
+== Měsćańske źěle ==
+<div style="-moz-column-count:2; column-count:2;">
+*Abramowice
+*Bronowice
+*Czechów Południowy
+*Czechów Północny
+*Czuby Południowe
+*Czuby Północne
+*Dziesiąta
+*Felin
+*Głusk
+*Hajdów-Zadębie
+*Kalinowszczyzna
+*Konstantynów
+*Kośminek
+*Ponikwoda
+*Rury
+*Sławin
+*Sławinek
+*Stare Miasto
+*Szerokie
+*Śródmieście
+*Tatary
+*Węglin Południowy
+*Węglin Północny
+*Wieniawa
+*Wrotków
+*Za Cukrownią
+*Zemborzyce
+</div>
 
-[[Kategorija:Sedlišćo w Pólskej|Lublin]]
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:700 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:360000
+ScaleMajor = unit:year increment:40000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:XVII from:0 till:5000
+  bar:1857 from:0 till:16290
+  bar:1873 from:0 till:28900
+  bar:1897 from:0 till:50150
+  bar:1921 from:0 till:94412
+  bar:1931 from:0 till:112539
+  bar:1939 from:0 till:122000
+  bar:1946 from:0 till:99400
+  bar:1950 from:0 till:116629
+  bar:1955 from:0 till:132234
+  bar:1960 from:0 till:181304
+  bar:1965 from:0 till:204296
+  bar:1970 from:0 till:238500
+  bar:1975 from:0 till:271955
+  bar:1980 from:0 till:304424
+  bar:1985 from:0 till:326991
+  bar:1990 from:0 till:351353
+  bar:1995 from:0 till:354552
+  bar:1999 color:cobar2 from:0 till:359154
+  bar:2000 from:0 till:358933
+  bar:2005 from:0 till:354967
+  bar:2010 from:0 till:348450
+  bar:2014 from:0 till:343144
+PlotData=
+  textcolor:black fontsize:S
+  bar:XVII at: 5000 text: 5,0 shift:(-8,5)
+  bar:1857 at: 16290 text: 16,3 shift:(-10,5)
+  bar:1873 at: 28900 text: 28,9 shift:(-10,5)
+  bar:1897 at: 50150 text: 50,1 shift:(-8,5)
+  bar:1921 at: 94412 text: 94,4 shift:(-12,5)
+  bar:1931 at: 112539 text: 112,5 shift:(-12,5)
+  bar:1939 at: 122000 text: 122,0 shift:(-12,5)
+  bar:1946 at: 99400 text: 99,4 shift:(-8,5)
+  bar:1950 at: 116629 text: 116,6 shift:(-12,5)
+  bar:1955 at: 132234 text: 132,2 shift:(-12,5)
+  bar:1960 at: 181304 text: 181,3 shift:(-12,5)
+  bar:1965 at: 204296 text: 204,3 shift:(-12,5)
+  bar:1970 at: 238500 text: 238,5 shift:(-12,5)
+  bar:1975 at: 271955 text: 272,0 shift:(-12,5)
+  bar:1980 at: 304424 text: 304,4 shift:(-12,5)
+  bar:1985 at: 326991 text: 327,0 shift:(-12,5)
+  bar:1990 at: 351353 text: 351,4 shift:(-14,5)
+  bar:1995 at: 354552 text: 354,6 shift:(-12,5)
+  bar:1999 at: 359154 text: 359,2 shift:(-12,5)
+  bar:2000 at: 358933 text: 358,9 shift:(-12,5)
+  bar:2005 at: 354967 text: 355,0 shift:(-12,5)
+  bar:2010 at: 348450 text: 348,5 shift:(-12,5)
+  bar:2014 at: 343144 text: 343,1 shift:(-12,5)
+</timeline>
+
+== Sportowy ==
+*KMŻ Lublin - speedway
+*KS Lublinianka - kopańca
+*Motor Lublin - kopańca
+*Start Lublin - basketball
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Lublin Plac Zamkowy Stare Miasto z Czwartku.jpg
+Wobraz:Alians PL,CracowGateInLublin,2012,P9240022.jpg
+Wobraz:Lublin Rynek 11-13.jpg
+Wobraz:Krakowskie Przedmieście w Lublinie, obchody 440-lecia Unii Lubelskiej.jpg
+Wobraz:Alians PL LublinCastle,2009 08 02,P8020015.jpg
+Wobraz:Lublin Donżon i dziedziniec zamku.jpg
+Wobraz:Zamek Lublin.JPG
+Wobraz:PanoramaSM.JPG
+Wobraz:Grodzka kamienica30.jpg
+Wobraz:5 Lublin 42.jpg
+Wobraz:Alians PL,Plac Zamkowy Lublin,2008-02-08,P3300207,WikimediaCommons BronislawWesolowskiLublin20-325.jpg
+Wobraz:Alians PL LublinCrownTribunalMarketplace,2007 03 30,P3300313.jpg
+Wobraz:Lublin Nowy Ratusz.jpg
+Wobraz:5 Lublin 04.jpg
+Wobraz:Alians PL LublinPlacWolnosci,2009 08 09,P8090010.jpg
+Wobraz:Lublin, Teatr im. Juliusza Osterwy - fotopolska.eu (214424).jpg
+Wobraz:Alians PL LublinPlacPoFarze,2009 08 02,P8020020.jpg
+Wobraz:Lublin Brama Grodzka.jpg
+Wobraz:Panorama kościoła Św. Agnieszki w Lublinie.jpg
+Wobraz:Alians PL,NarutowiczaStreetChurchPowizytkowski,2009,P3070289.jpg
+</gallery>
+{{Commonscat|Lublin}}
+[[Kategorija:Sedlišćo w Pólskej]]
