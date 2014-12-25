@@ -1,0 +1,116 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Siedlce
+|mě serbske=
+|wopon=Herb Siedlce.svg
+|chórgoj=Flaga Siedlce.svg
+|lat_deg=52
+|lat_min=10
+|lon_deg=22
+|lon_min=16
+|stat=Pólska
+|wojewódstwo=[[mazowske wójewódstwo|mazowske]]
+|wokrejs=bźezwokrejsne město
+|wusokosć=155 m
+|płonina=31,86 km² 
+|wobydlarstwo=76 585 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=2403
+|postowa licba=08-100 - 08-110
+|pśedwólenje=(+48) 25
+|KFZ-wobznamjenje=WS
+|website=http://www.siedlce.pl/
+|kórta=
+|adresa=Skwer Niepodległości 2<br>08-110 Siedlce
+}}
+'''Siedlce''' jo město w [[Pólska|Pólskej]], w [[mazowske wójewódstwo|mazowskem wójewódstwje]]. W lěśe 2014, jo how bydliło 76 585 luźi.
+
+== Měsćańske źěle ==
+<div style="position: relative; font-size:85%">
+[[Dataja:Siedlce.png|400px]]
+{{Image label|x=50|y=120|text=Piaski Zamiejskie}}
+{{Image label|x=100|y=240|text=Roskosz}}
+{{Image label|x=110|y=280|text=Sekuła}}
+{{Image label|x=140|y=50|text=Północna Dzielnica Przemysłowa}}
+{{Image label|x=150|y=160|text=Śródmieście}}
+{{Image label|x=170|y=250|text=Taradajki}}
+{{Image label|x=200|y=100|text=Nowe Siedlce}}
+{{Image label|x=245|y=210|text=Południowa Dzielnica Przemysłowa}}
+{{Image label|x=300|y=130|text=Stara Wieś}}
+</div>
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:720 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:80000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:2000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1810 from:0 till:2738
+  bar:1840 from:0 till:5800
+  bar:1865 from:0 till:9466
+  bar:1897 from:0 till:20826
+  bar:1911 from:0 till:21949
+  bar:1931 from:0 till:36927
+  bar:1939 from:0 till:41294
+  bar:1944 from:0 till:27584
+  bar:1950 from:0 till:25322
+  bar:1960 from:0 till:32587
+  bar:1970 from:0 till:39280
+  bar:1975 from:0 till:44285
+  bar:1980 from:0 till:54821
+  bar:1985 from:0 till:64974
+  bar:1990 from:0 till:71963
+  bar:1995 from:0 till:74575
+  bar:2000 from:0 till:76454
+  bar:2005 from:0 till:77056
+  bar:2009 color:cobar2 from:0 till:77319
+  bar:2010 from:0 till:76303
+  bar:2014 from:0 till:76585
+PlotData=
+  textcolor:black fontsize:S
+  bar:1810 at: 2738 text: 2.738 shift:(-11,5)
+  bar:1840 at: 5800 text: 5.800 shift:(-11,5)
+  bar:1865 at: 9466 text: 9.466 shift:(-11,5)
+  bar:1897 at: 20826 text: 20.826 shift:(-11,5)
+  bar:1911 at: 21949 text: 21.949 shift:(-11,5)
+  bar:1931 at: 36927 text: 36.927 shift:(-11,5)
+  bar:1939 at: 41294 text: 41.294 shift:(-14,5)
+  bar:1944 at: 27584 text: 27.584 shift:(-11,5)
+  bar:1950 at: 25322 text: 25.322 shift:(-14,5)
+  bar:1960 at: 32587 text: 32.587 shift:(-14,5)
+  bar:1970 at: 39280 text: 39.280 shift:(-14,5)
+  bar:1975 at: 44285 text: 44.285 shift:(-14,5)
+  bar:1980 at: 54821 text: 54.821 shift:(-14,5)
+  bar:1985 at: 64974 text: 64.974 shift:(-14,5)
+  bar:1990 at: 71963 text: 71.963 shift:(-14,5)
+  bar:1995 at: 74575 text: 74.575 shift:(-14,5)
+  bar:2000 at: 76454 text: 76.454 shift:(-14,5)
+  bar:2005 at: 77056 text: 77.056 shift:(-14,5)
+  bar:2009 at: 77319 text: 77.319 shift:(-14,5)
+  bar:2010 at: 76303 text: 76.303 shift:(-14,5)
+  bar:2014 at: 76585 text: 76.585 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Katedra w Siedlcach.JPG
+Wobraz:Pałac Ogińskich w Siedlcach 03.JPG
+Wobraz:Siedlce, kościół pw. św. Stanisława (noc).jpg
+Wobraz:Siedlce Ratusz 03.JPG
+Wobraz:Siedlce, ulica Kilińskiego.jpg
+Wobraz:Kamienica przy ul. Floriańskiej 5 w Siedlcach.JPG
+Wobraz:Kurii Biskupia w Siedlcach.JPG
+Wobraz:Siedlce, Poczta Polska.jpg
+</gallery>
+{{Commonscat|Siedlce}}
+[[Kategorija:Sedlišćo w Pólskej]]
