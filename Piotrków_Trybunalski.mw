@@ -1,0 +1,79 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Piotrków Trybunalski
+|mě serbske=
+|wopon=POL Piotrków Trybunalski COA 1.svg
+|chórgoj=POL Piotrków Trybunalski flag 1.svg
+|lat_deg=51
+|lat_min=24
+|lon_deg=19
+|lon_min=41
+|stat=Pólska
+|wójwodstwo=[[łódźske wójwodstwo|łódźske]]
+|wokrejs=
+|wusokosć=
+|płonina=67,24 km²
+|wobydlarstwo=75 732 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=97-300 - 97-312
+|pśedwólenje=(+48) 44
+|KFZ-wobznamjenje=EP
+|website=http://www.piotrkow.pl/
+|kórta=
+|adresa=Pasaż Rudowskiego 10<br>97-300 Piotrków Trybunalski
+}}
+'''Piotrków Trybunalski''' jo město w [[Pólska|Pólskej]], w [[łódźske wójwodstwo|łódźskem wójwodstwje]]. W lěśe 2014 jo how bydliło 75 732 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:800 height:220
+PlotArea = left:70 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:81284
+ScaleMajor = unit:year increment:20000 start:0 gridcolor:gray1
+PlotData =
+  bar:1921 color:gray1 width:1
+   from:0 till:40992 width:15 text:40992 textcolor:red fontsize:8px
+  bar:1938 color:gray1 width:1
+   from:0 till:51000 width:15 text:51000 textcolor:red fontsize:8px
+  bar:1939 color:gray1 width:1
+   from:0 till:53000 width:15 text:53000 textcolor:red fontsize:8px
+  bar:1946 color:gray1 width:1
+   from:0 till:40141 width:15 text:40141 textcolor:red fontsize:8px
+  bar:1960 color:gray1 width:1
+   from:0 till:52782 width:15 text:52782 textcolor:red fontsize:8px
+  bar:1970 color:gray1 width:1
+   from:0 till:59843 width:15 text:59843 textcolor:red fontsize:8px
+  bar:1978 color:gray1 width:1
+   from:0 till:68900 width:15 text:68900 textcolor:red fontsize:8px
+  bar:1988 color:gray1 width:1
+   from:0 till:80062 width:15 text:80062 textcolor:red fontsize:8px
+  bar:1998 color:gray1 width:1
+   from:0 till:81284 width:15 text:81284 textcolor:red fontsize:8px
+  bar:2008 color:gray1 width:1
+   from:0 till:78149 width:15 text:78149 textcolor:red fontsize:8px
+  bar:2009 color:gray1 width:1
+   from:0 till:77810 width:15 text:77810 textcolor:red fontsize:8px
+  bar:2010 color:gray1 width:1
+   from:0 till:77383 width:15 text:77383 textcolor:red fontsize:8px
+  bar:2014 color:gray1 width:1
+   from:0 till:75732 width:15 text:75732 textcolor:red fontsize:8px
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:220913 Jesuit Church in Piotrków Trybunalski - 02.jpg
+Wobraz:Piotrkow Rynek nr 10.JPG
+Wobraz:Piotrków Trybunalski Gmach Sądu.jpg
+Wobraz:PL Piotrkow Trybunalski mury klasztor dominikanek 02.jpg
+Wobraz:PL Piotrkow Tryb Palac Rudowskiego01.jpg
+Wobraz:PL Piotrkow Tryb Fara sw Jakuba 01.jpg
+Wobraz:PL Piotrkow Tryb kamienica Czarnieckiego 10 01.jpg
+Wobraz:Piotrkow (js).jpg
+</gallery>
+{{Commonscat|Piotrków Trybunalski}}
+[[Kategorija:Sedlišćo w Pólskej]]
