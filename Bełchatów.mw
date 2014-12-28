@@ -1,0 +1,94 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Bełchatów
+|mě serbske=
+|wopon=POL Bełchatów 1 COA.svg
+|chórgoj=POL Bełchatów flag.svg
+|lat_deg=51
+|lat_min=21
+|lon_deg=19
+|lon_min=21
+|stat=Pólska
+|wójwodstwo=[[łódźske wójwodstwo|łódźske]]
+|wokrejs=Bełchatów
+|wusokosć=
+|płonina=34,64 km²
+|wobydlarstwo=59 469 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=97-400
+|pśedwólenje=(+48) 44
+|KFZ-wobznamjenje=EBE
+|website=http://www.belchatow.pl/
+|kórta=
+|adresa=ul. Kościuszki 1<br>97-400 Bełchatów
+}}
+'''Bełchatów''' jo město w [[Pólska|Pólskej]], w [[łódźske wójwodstwo|łódźskem wójwodstwje]], we wokrejsu Bełchatów. W lěśe 2014 jo how bydliło 59 469 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:630 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.0,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:64000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1820 from:0 till:352
+  bar:1860 from:0 till:1899
+  bar:1931 from:0 till:8932
+  bar:1939 from:0 till:10500
+  bar:1946 from:0 till:4780
+  bar:1950 from:0 till:5146
+  bar:1955 from:0 till:6340
+  bar:1960 from:0 till:7327
+  bar:1965 from:0 till:8359
+  bar:1970 from:0 till:9259
+  bar:1975 from:0 till:10836
+  bar:1980 from:0 till:27644
+  bar:1985 from:0 till:48819
+  bar:1995 from:0 till:59868
+  bar:2002 color:cobar2 from:0 till:63208
+  bar:2007 from:0 till:61496
+  bar:2014 from:0 till:59469
+PlotData=
+  textcolor:black fontsize:S
+  bar:1820 at: 352 text: 352 shift:(-8,5)
+  bar:1860 at: 1899 text: 1.899 shift:(-11,5)
+  bar:1931 at: 8932 text: 8.932 shift:(-11,5)
+  bar:1939 at: 10500 text: 10.500 shift:(-14,5)
+  bar:1946 at: 4780 text: 4.780 shift:(-11,5)
+  bar:1950 at: 5146 text: 5.146 shift:(-11,5)
+  bar:1955 at: 6340 text: 6.340 shift:(-11,5)
+  bar:1960 at: 7327 text: 7.327 shift:(-11,5)
+  bar:1965 at: 8359 text: 8.359 shift:(-11,5)
+  bar:1970 at: 9259 text: 9.259 shift:(-11,5)
+  bar:1975 at: 10836 text: 10.836 shift:(-14,5)
+  bar:1980 at: 27644 text: 27.644 shift:(-14,5)
+  bar:1985 at: 48819 text: 48.819 shift:(-14,5)
+  bar:1995 at: 59868 text: 59.868 shift:(-14,5)
+  bar:2002 at: 63208 text: 63.208 shift:(-14,5)
+  bar:2007 at: 61496 text: 61.496 shift:(-14,5)
+  bar:2014 at: 59469 text: 59.469 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Bełchatów - siedziba PGE 3.JPG
+Wobraz:Dworek Olszewskich (strona wschodnia).JPG
+Wobraz:Cmentarz główny w Grocholicach.jpg
+Wobraz:Kościół Grocholice - wejście główne (Bełchatów).JPG
+Wobraz:Hotel Wawrzynek Bełchatów.JPG
+Wobraz:Stadion GKS Bełchatów (Poland).JPG
+Wobraz:Kościół os. Dolnośląskie 02.JPG
+Wobraz:Rakówka (rzeka) Bełchatów.JPG
+</gallery>
+{{Commonscat|Bełchatów}}
+[[Kategorija:Sedlišćo w Pólskej]]
