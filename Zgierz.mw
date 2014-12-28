@@ -1,0 +1,107 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Zgierz
+|mě serbske=
+|wopon=POL Zgierz COA.svg
+|chórgoj=POL Zgierz flag.svg
+|lat_deg=51
+|lat_min=51
+|lon_deg=19
+|lon_min=24
+|stat=Pólska
+|wójwodstwo=[[łódźske wójwodstwo|łódźske]]
+|wokrejs=Zgierz
+|wusokosć=184 m
+|płonina=42,33 km²
+|wobydlarstwo=57 458 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=95-100 - 95-110
+|pśedwólenje=(+48) 42
+|KFZ-wobznamjenje=EZG
+|website=http://www.miasto.zgierz.pl/
+|kórta=
+|adresa=plac Jana Pawła II 16<br>95-100 Zgierz
+}}
+'''Zgierz''' jo město w [[Pólska|Pólskej]], w [[łódźske wójwodstwo|łódźskem wójwodstwje]], we wokrejsu Zgierz. W lěśe 2014 jo how bydliło 57 458 luźi.
+
+== Měsćańske źěle ==
+[[Dataja:Zgierz - dzielnice.png|450px]]
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:650 height:270
+PlotArea = left:50 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:65000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text:Ludność Zgierza (w tys.) od 1897 do 2008
+PlotData =
+  bar:1897 color:gray1 width:1
+   from:0 till:19108 width:10 text:19,1 textcolor:red fontsize:8px
+  bar:1902 color:gray1 width:1
+   from:0 till:18624 width:10 text:18,6 textcolor:red fontsize:8px
+  bar:1909 color:gray1 width:1
+   from:0 till:18483 width:10 text:18,5 textcolor:red fontsize:8px
+  bar:1914 color:gray1 width:1
+   from:0 till:21723 width:10 text:21,7 textcolor:red fontsize:8px
+  bar:1921 color:gray1 width:1
+   from:0 till:21129 width:10 text:21,1 textcolor:red fontsize:8px
+  bar:1931 color:gray1 width:1
+   from:0 till:26618 width:10 text:26,6 textcolor:red fontsize:8px
+  bar:1939 color:gray1 width:1
+   from:0 till:28259 width:10 text:28,3 textcolor:red fontsize:8px
+  bar:1946 color:gray1 width:1
+   from:0 till:21690 width:10 text:21,7 textcolor:red fontsize:8px
+  bar:1950 color:gray1 width:1
+   from:0 till:26169 width:10 text:26,2 textcolor:red fontsize:8px
+  bar:1955 color:gray1 width:1
+   from:0 till:32085 width:10 text:32,1 textcolor:red fontsize:8px
+  bar:1960 color:gray1 width:1
+   from:0 till:36666 width:10 text:36,7 textcolor:red fontsize:8px
+  bar:1965 color:gray1 width:1
+   from:0 till:39596 width:10 text:39,6 textcolor:red fontsize:8px
+  bar:1970 color:gray1 width:1
+   from:0 till:43025 width:10 text:43,0 textcolor:red fontsize:8px
+  bar:1975 color:gray1 width:1
+   from:0 till:48292 width:10 text:48,3 textcolor:red fontsize:8px
+  bar:1980 color:gray1 width:1
+   from:0 till:53091 width:10 text:53,1 textcolor:red fontsize:8px
+  bar:1985 color:gray1 width:1
+   from:0 till:55504 width:10 text:55,5 textcolor:red fontsize:8px
+  bar:1990 color:gray1 width:1
+   from:0 till:58970 width:10 text:59,0 textcolor:red fontsize:8px
+  bar:1995 color:gray1 width:1
+   from:0 till:59313 width:10 text:59,3 textcolor:red fontsize:8px
+  bar:2000 color:gray1 width:1
+   from:0 till:58863 width:10 text:58,9 textcolor:red fontsize:8px
+  bar:2005 color:gray1 width:1
+   from:0 till:58351 width:10 text:58,3 textcolor:red fontsize:8px
+ bar:2006 color:gray1 width:1
+   from:0 till:58272 width:10 text:58,3 textcolor:red fontsize:8px
+ bar:2007 color:gray1 width:1
+   from:0 till:58164 width:10 text:58,2 textcolor:red fontsize:8px
+ bar:2008 color:gray1 width:1
+   from:0 till:58055 width:10 text:58,1 textcolor:red fontsize:8px
+ bar:2014 color:gray1 width:1
+   from:0 till:57458 width:10 text:57,5 textcolor:red fontsize:8px
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Plac 700-lecia nocą.jpg
+Wobraz:Ul. Długa 34.JPG
+Wobraz:Laznia w Zgierzu.jpg
+Wobraz:Zgierz-church-closer-2012-04-13.jpg
+Wobraz:Plac Stu Straconych (Zgierz).jpg
+Wobraz:Muzeum miasta Zgierza.JPG
+Wobraz:Zgierz kolegium 1.JPG
+Wobraz:Zgierz dworzec PKP.jpg
+</gallery>
+{{Commonscat|Zgierz}}
+[[Kategorija:Sedlišćo w Pólskej]]
