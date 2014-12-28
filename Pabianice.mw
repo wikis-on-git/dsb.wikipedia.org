@@ -1,0 +1,88 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Pabianice
+|mě serbske=
+|wopon=POL Pabianice COA.svg
+|chórgoj=POL Pabianice flag.svg
+|lat_deg=51
+|lat_min=39
+|lon_deg=19
+|lon_min=21
+|stat=Pólska
+|wójwodstwo=[[łódźske wójwodstwo|łódźske]]
+|wokrejs=Pabianice
+|wusokosć=174–203 m
+|płonina=32,99 km²
+|wobydlarstwo=67 462 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=95-200
+|pśedwólenje=(+48) 42
+|KFZ-wobznamjenje=EPA
+|website=http://www.um.pabianice.pl/
+|kórta=
+|adresa=ul. Zamkowa 16<br>95-200 Pabianice
+}}
+'''Pabianice''' jo město w [[Pólska|Pólskej]], w [[łódźske wójwodstwo|łódźskem wójwodstwje]], we wokrejsu Pabianice. W lěśe 2014 jo how bydliło 67 462 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:600 height:250
+PlotArea = left:70 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:75668
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:gray1
+TextData =
+  pos:(190,20) textcolor:black fontsize:M
+  text:Ludność Pabianic na przestrzeni lat (w tys.)
+PlotData =
+  bar:1939 color:gray1 width:1
+   from:0 till:53000 width:15 text:53,0 textcolor:red fontsize:8px
+  bar:1946 color:gray1 width:1
+   from:0 till:37140 width:15 text:37,1 textcolor:red fontsize:8px
+  bar:1950 color:gray1 width:1
+   from:0 till:48817 width:15 text:48,8 textcolor:red fontsize:8px
+  bar:1955 color:gray1 width:1
+   from:0 till:51671 width:15 text:51,7 textcolor:red fontsize:8px
+  bar:1960 color:gray1 width:1
+   from:0 till:56222 width:15 text:56,2 textcolor:red fontsize:8px
+  bar:1965 color:gray1 width:1
+   from:0 till:59355 width:15 text:59,4 textcolor:red fontsize:8px
+  bar:1970 color:gray1 width:1
+   from:0 till:62402 width:15 text:62,4 textcolor:red fontsize:8px
+  bar:1975 color:gray1 width:1
+   from:0 till:66758 width:15 text:66,8 textcolor:red fontsize:8px
+  bar:1980 color:gray1 width:1
+   from:0 till:70487 width:15 text:70,5 textcolor:red fontsize:8px
+  bar:1985 color:gray1 width:1
+   from:0 till:72575 width:15 text:72,6 textcolor:red fontsize:8px
+  bar:1990 color:gray1 width:1
+   from:0 till:75247 width:15 text:75,3 textcolor:red fontsize:8px
+  bar:1995 color:gray1 width:1
+   from:0 till:75668 width:15 text:75,7 textcolor:red fontsize:8px
+  bar:2000 color:gray1 width:1
+   from:0 till:74270 width:15 text:74,3 textcolor:red fontsize:8px
+  bar:2005 color:gray1 width:1
+   from:0 till:70743 width:15 text:70,7 textcolor:red fontsize:8px
+  bar:2010 color:gray1 width:1
+   from:0 till:69598 width:15 text:69,6 textcolor:red fontsize:8px
+  bar:2014 color:gray1 width:1
+   from:0 till:67462 width:15 text:67,5 textcolor:red fontsize:8px
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Pabianice centrum.jpg
+Wobraz:Krusche-Ender - Biuro.jpg
+Wobraz:Pabianice - domy tkaczy - 01.jpg
+Wobraz:Pabianice Pisudskiego14(pischmak).JPG
+Wobraz:Kosciol NMP.jpg
+Wobraz:Pabianice - kamiennice mr01.jpg
+Wobraz:Pabianice, Stary Rynek 1, Dwór Kapituły Krakowskiej.jpg
+Wobraz:Pabianice fabryki.jpg
+</gallery>
+{{Commonscat|Pabianice}}
+[[Kategorija:Sedlišćo w Pólskej]]
