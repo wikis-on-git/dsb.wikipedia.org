@@ -1,0 +1,101 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Zduńska Wola
+|mě serbske=
+|wopon=POL Zduńska Wola COA.svg
+|chórgoj=POL Zduńska Wola flag.svg
+|lat_deg=51
+|lat_min=36
+|lon_deg=18
+|lon_min=56
+|stat=Pólska
+|wójwodstwo=[[łódźske wójwodstwo|łódźske]]
+|wokrejs=Zduńska Wola
+|wusokosć=
+|płonina=24,58 km²
+|wobydlarstwo=43 430 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=98-220
+|pśedwólenje=(+48) 43
+|KFZ-wobznamjenje=EZD
+|website=http://www.zdunskawola.pl/
+|kórta=
+|adresa=ul. Stefana Złotnickiego 12<br>98-220 Zduńska Wola
+}}
+'''Zduńska Wola''' jo město w [[Pólska|Pólskej]], w [[łódźske wójwodstwo|łódźskem wójwodstwje]], we wokrejsu Zduńska Wola. W lěśe 2014 jo how bydliło 43 430 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:750 height:300
+PlotArea = left:50 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:50000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+PlotData =
+  bar:1825 color:gray1 width:1
+   from:0 till:5000 width:10  text:5000 textcolor:red fontsize:8px
+  bar:1885 color:gray1 width:1
+   from:0 till:10000 width:10  text:10000 textcolor:red fontsize:8px
+  bar:1902 color:gray1 width:1
+   from:0 till:20472 width:10  text:20472 textcolor:red fontsize:8px
+  bar:1914 color:gray1 width:1
+   from:0 till:28437 width:10  text:28437 textcolor:red fontsize:8px
+  bar:1921 color:gray1 width:1
+   from:0 till:19987 width:10  text:19987 textcolor:red fontsize:8px
+  bar:1925 color:gray1 width:1
+   from:0 till:23784 width:10  text:23784 textcolor:red fontsize:8px
+  bar:1931 color:gray1 width:1
+   from:0 till:22904 width:10  text:22904 textcolor:red fontsize:8px
+  bar:1939 color:gray1 width:1
+   from:0 till:27000 width:10  text:27000 textcolor:red fontsize:8px
+  bar:1946 color:gray1 width:1
+   from:0 till:14601 width:10  text:14601 textcolor:red fontsize:8px
+  bar:1950 color:gray1 width:1
+   from:0 till:17135 width:10  text:17135 textcolor:red  fontsize:8px
+  bar:1955 color:gray1 width:1
+   from:0 till:22879 width:10  text:22879 textcolor:red  fontsize:8px
+  bar:1960 color:gray1 width:1
+   from:0 till:25343 width:10   text:25343 textcolor:red  fontsize:8px
+  bar:1965 color:gray1 width:1
+   from:0 till:27416  width:10  text:27416 textcolor:red  fontsize:8px
+  bar:1970 color:gray1 width:1
+   from:0 till:29100  width:10  text:29100 textcolor:red  fontsize:8px
+  bar:1975 color:gray1 width:1
+   from:0 till:37013  width:10  text:37013 textcolor:red  fontsize:8px
+  bar:1980 color:gray1 width:1
+   from:0 till:38976  width:10  text:38976 textcolor:red  fontsize:8px
+  bar:1985 color:gray1 width:1
+   from:0 till:42382  width:10  text:42382 textcolor:red  fontsize:8px
+  bar:1990 color:gray1 width:1
+   from:0 till:45135  width:10  text:45135 textcolor:red  fontsize:8px
+  bar:1995 color:gray1 width:1
+   from:0 till:45964  width:10  text:45964 textcolor:red  fontsize:8px
+  bar:2000 color:gray1 width:1
+   from:0 till:45791  width:10  text:45791 textcolor:red  fontsize:8px
+  bar:2005 color:gray1 width:1
+   from:0 till:44495  width:10  text:44495 textcolor:red  fontsize:8px
+  bar:2010 color:gray1 width:1
+   from:0 till:43854  width:10  text:43854 textcolor:red  fontsize:8px
+  bar:2014 color:gray1 width:1
+   from:0 till:43430  width:10  text:43430 textcolor:red  fontsize:8px
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:PL ZdWola Laska street.jpg
+Wobraz:PL ZdWola Municipial police.jpg
+Wobraz:Zduńska Wola, ZSE im. Stanisława Staszica(1).JPG
+Wobraz:Zduńska Wola, ul. Kościelna 20, kościół Wniebowzięcia NMP, 1891 -2.JPG
+Wobraz:Zduńska Wola, Kościuszki 5, Kościół ewangelicko-augsburski.JPG
+Wobraz:Zduńska Wola, ul. Kościelna 13, dom, 1825 -2.JPG
+Wobraz:PL ZdWola Baptist church.jpg
+Wobraz:Zduńska Wola, Św. M. Kolbego 9-001.JPG
+</gallery>
+{{Commonscat|Zduńska Wola}}
+[[Kategorija:Sedlišćo w Pólskej]]
