@@ -1,0 +1,109 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Turek
+|mě serbske=
+|wopon=POL Turek COA.svg
+|chórgoj=POL Turek flag.svg
+|lat_deg=52
+|lat_min=00
+|lon_deg=18
+|lon_min=29
+|stat=Pólska
+|wójwodstwo=[[wjelikopólske wójwodstwo|wjelikopólske]]
+|wokrejs=Turek
+|wusokosć=113 m
+|płonina=16,17 km²
+|wobydlarstwo=28 003 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=62-700
+|pśedwólenje=(+48) 63
+|KFZ-wobznamjenje=PTU
+|website=http://www.miastoturek.pl/
+|kórta=
+|adresa=ul. Kaliska 59<br>62-700, 62-701 Turek
+}}
+'''Turek''' jo město w [[Pólska|Pólskej]], w [[wjelikopólske wójwodstwo|wjelikopólskem wójwodstwje]], we wokrejsu Turek, w gmejnje Turek. W lěśe 2014 jo how bydliło 28 003 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:800 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:32000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:30000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1515 from:0 till:800
+  bar:1794 from:0 till:444
+  bar:1811 from:0 till:744
+  bar:1817 from:0 till:671
+  bar:1826 from:0 till:1594
+  bar:1830 from:0 till:2302
+  bar:1860 from:0 till:6200
+  bar:1886 from:0 till:7340
+  bar:1895 from:0 till:8178
+  bar:1913 from:0 till:11232
+  bar:1918 from:0 till:10000
+  bar:1921 from:0 till:9948
+  bar:1942 from:0 till:9000
+  bar:1945 from:0 till:7000
+  bar:1951 from:0 till:7660
+  bar:1960 from:0 till:10900
+  bar:1965 from:0 till:15800
+  bar:1975 from:0 till:20300
+  bar:1985 from:0 till:26900
+  bar:1990 from:0 till:29300
+  bar:2004 from:0 till:29522
+  bar:2007 from:0 till:29047
+  bar:2008 from:0 till:28818
+  bar:2012 from:0 till:28935
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1515 at:2500 text:800 shift:0
+  bar:1794 at:1500 text:444 shift:0
+  bar:1811 at:2200 text:744 shift:0
+  bar:1817 at:2000 text:671 shift:0
+  bar:1826 at:4800 text:1594 shift:0
+  bar:1830 at:5500 text:2302 shift:0
+  bar:1860 at:9100 text:6200 shift:0
+  bar:1886 at:10555 text:7340 shift:0
+  bar:1895 at:11666 text:8178 shift:0
+  bar:1913 at:15000 text:11232 shift:0
+  bar:1918 at:13500 text:10000 shift:0
+  bar:1921 at:13400 text:9948 shift:0
+  bar:1942 at:12000 text:9000 shift:0
+  bar:1945 at:10500 text:7000 shift:0
+  bar:1951 at:11000 text:7660 shift:0
+  bar:1960 at:12700 text:10900 shift:0
+  bar:1965 at:18888 text:15800 shift:0
+  bar:1975 at:23000 text:20300 shift:0
+  bar:1985 at:28000 text:26900 shift:0
+  bar:1990 at:31500 text:29300 shift:0
+  bar:2004 at:31200 text:29522 shift:0
+  bar:2007 at:31000 text:29047 shift:0
+  bar:2008 at:30800 text:28818 shift:0
+  bar:2012 at:30900 text:28935 shift:0
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:JHHChurch Turek PioM.jpg
+Wobraz:Turek ratusz.jpg
+Wobraz:Turek SP1.jpg
+Wobraz:Turek-uklad-urbanistyczny2014-01.jpg
+Wobraz:Turek - Plebania kościoła ewangelickiego2.jpg
+Wobraz:Turek Park.jpg
+Wobraz:Turek-ul-kaliska-59(um)-01.jpg
+Wobraz:Turek-ul-zeromskiego-30.jpg
+</gallery>
+{{Commonscat|Turek}}
+[[Kategorija:Sedlišćo w Pólskej]]
