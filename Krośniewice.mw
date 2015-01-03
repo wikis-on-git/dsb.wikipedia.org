@@ -1,0 +1,71 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Krośniewice
+|mě serbske=
+|wopon=POL Krośniewice COA.svg
+|chórgoj=
+|lat_deg=52
+|lat_min=15
+|lon_deg=19
+|lon_min=10
+|stat=Pólska
+|wójwodstwo=[[łódźske wójwodstwo|łódźske]]
+|wokrejs=Kutno
+|wusokosć=
+|płonina=2,96 km²
+|wobydlarstwo=4 530 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=99-340
+|pśedwólenje=(+48) 24
+|KFZ-wobznamjenje=EKU
+|website=http://www.krosniewice.pl/
+|kórta=
+|adresa=ul. Poznańska 5<br>99-340 Krośniewice
+}}
+'''Krośniewice''' jo město w [[Pólska|Pólskej]], w [[łódźske wójwodstwo|łódźskem wójwodstwje]], we wokrejsu Kutno, w gmejnje Krośniewice. W lěśe 2014 jo how bydliło 4 530 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:500 height:200
+PlotArea = left:70 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical 
+AlignBars = justify 
+Colors = 
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:4648
+ScaleMajor = unit:year increment:2000 start:0 gridcolor:gray1
+PlotData =
+  bar:1660 color:gray1 width:1 
+   from:0 till:200 width:15 text:200 textcolor:red  fontsize:8px
+  bar:1793 color:gray1 width:1 
+   from:0 till:400 width:15 text:400 textcolor:red  fontsize:8px
+  bar:1850 color:gray1 width:1 
+   from:0 till:	1500 width:15 text:1500 textcolor:red  fontsize:8px
+  bar:1910 color:gray1 width:1 
+   from:0 till:2800  width:15  text:2800 textcolor:red  fontsize:8px
+  bar:1931 color:gray1 width:1 
+   from:0 till:3506  width:15  text:3506 textcolor:red  fontsize:8px
+  bar:1939 color:gray1 width:1 
+   from:0 till:3500  width:15  text:3500 textcolor:red  fontsize:8px
+  bar:2000 color:gray1 width:1 
+   from:0 till:4500  width:15  text:4500 textcolor:red  fontsize:8px
+  bar:2007 color:gray1 width:1 
+   from:0 till:4648 width:15  text:4648 textcolor:red  fontsize:8px
+  bar:2014 color:gray1 width:1 
+   from:0 till:4530 width:15  text:4530 textcolor:red  fontsize:8px
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Muzeum im jerzego dunin borkowskiego w krosniewicach.jpg
+Wobraz:Krosniewice church.jpg
+Wobraz:Krośniewice, ul. Toruńska 7 (pałac).jpg
+Wobraz:POL Krośniewice UG.jpg
+Wobraz:POL Krośniewice railway.jpg
+Wobraz:Krośniewice, muzeum (kolekcjonerskie pasje).jpg
+Wobraz:Krośniewice, sala portretowa w muzeum.jpg
+Wobraz:MBxd2 224 Krosniewice.jpg|2004
+</gallery>
+{{Commonscat|Krośniewice}}
+[[Kategorija:Sedlišćo w Pólskej]]
