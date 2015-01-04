@@ -11,15 +11,15 @@
 |stat=Pólska
 |wusokosć=219 m 
 |płonina=326,80 km² 
-|wobydlarstwo=
-|gustosć wobydlarstwa=
-|postowa licba=
+|wobydlarstwo=760 700 <small>(2014)</small>
+|gustosć wobydlarstwa=2327,7
+|postowa licba=30-001 - 31-999
 |pśedwólenje=
-|website=
+|website=[http://www.krakow.pl Krakow.pl]
 |kórta=Okolice_Krakowa_XIXwiek.jpg
+|adresa=plac Wszystkich Świętych 3-4<br>31-004 Kraków
 }}
-
-'''Krakow''' (pól. '''Kraków''', nim. '''Krakau''') jo město w pódpołdnjowej [[Pólska|Pólskej]], w [[małopólske wójewódstwo|małopólskem wójewódstwje]], nad rěku [[Wisła|Wisłu]]. Krakow jo stolica wójewódstwa a teke samostatny wokrejs (''[[powiat]]''). Toś to město jo wažny turistiski centrum.
+'''Krakow''' (pól. ''Kraków'', nim. ''Krakau'') jo město w pódpołdnjowej [[Pólska|Pólskej]], w [[małopólske wójewódstwo|małopólskem wójewódstwje]], nad rěku [[Wisła|Wisłu]]. Krakow jo stolica wójewódstwa a teke samostatny wokrejs (''[[powiat]]''). Toś to město jo wažny turistiski centrum.
 
 W lěśe 2007 jo w Krakowje bydliło 756 267 luźi. Šołta města jo Jacek Majchrowski.
 
@@ -35,11 +35,108 @@ Pódla Krakowa lažy mjazynarodne lětanišćo Balice.
 
 W Krakowje grajotej nejstaršej [[kopańca|kopańcowej]] kluba Pólskeje (załožonej w lěśe [[1906]]): [[Cracovia Kraków]] a [[Wisła Kraków]] (w lětach 1999-2008 6 razow mejstaŕ). Dalšny kopańcowy klub jo Hutnik Kraków (źěl Nowa Huta).
 
-[[Dataja:Krakau Wawel Wisla.jpg|thumb|left|grod [[Wawel]], rěka Wisła]]
+[[Dataja:Krakau Wawel Wisla.jpg|thumb|grod [[Wawel]], rěka Wisła]]
+== Wobydlarstwo ==
+<timeline>
+ImageSize=width:660 height:240
+PlotArea =left:50 right:25 top:15 bottom:20
+TimeAxis =orientation:vertical
+AlignBars=late
+Colors=
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat= yyyy
+Period =from:0 till:760000
+ScaleMajor= unit:year increment:100000 start:0 gridcolor:linegrey
+ScaleMinor= unit:year increment:25000 start:0 gridcolor:linegrey2
+PlotData=
+ color:cobar width:19 align:left
+ bar:1791 from:0 till:23591
+ bar:1835 from:0 till:36000
+ bar:1870 from:0 till:49800
+ bar:1900 from:0 till:85300
+ bar:1910 from:0 till:137592
+ bar:1921 from:0 till:184300
+ bar:1931 from:0 till:219300
+ bar:1939 from:0 till:259000
+ bar:1945 from:0 till:298500
+ bar:1955 from:0 till:428231
+ bar:1965 from:0 till:520145
+ bar:1975 from:0 till:684600
+ bar:1985 from:0 till:740120
+ bar:1995 from:0 till:744987
+ bar:2003 from:0 till:757685
+ bar:2009 from:0 till:754854
+ bar:2014 from:0 till:759144
+PlotData=
+ textcolor:black fontsize:S
+ bar:1791 at: 23591 text: 23.591 shift:(-14,5)
+ bar:1835 at: 36000 text: 36.000 shift:(-14,5)
+ bar:1870 at: 49800 text: 49.800 shift:(-14,5)
+ bar:1900 at: 85300 text: 85.300 shift:(-14,5)
+ bar:1910 at: 137592 text: 137.592 shift:(-17,5)
+ bar:1921 at: 184300 text: 184.300 shift:(-17,5)
+ bar:1931 at: 219300 text: 219.300 shift:(-17,5)
+ bar:1939 at: 259000 text: 259.000 shift:(-17,5)
+ bar:1945 at: 298500 text: 298.500 shift:(-17,5)
+ bar:1955 at: 428231 text: 428.231 shift:(-17,5)
+ bar:1965 at: 520145 text: 520.145 shift:(-17,5)
+ bar:1975 at: 684600 text: 684.600 shift:(-17,5)
+ bar:1985 at: 740120 text: 740.120 shift:(-23,5)
+ bar:1995 at: 744987 text: 744.987 shift:(-17,5)
+ bar:2003 at: 757685 text: 757.685 shift:(-12,6)
+ bar:2009 at: 754854 text: 754.854 shift:(-7,5)
+ bar:2014 at: 759144 text: 759.144 shift:(-5,8)
+</timeline>
 
-== Eksterne wótkaze ==
+== Měsćańske źěle ==
+[[Dataja:Kraków dzielnice.svg|300px]]
+<div style="-moz-column-count:2; column-count:2;">
+*Stare Miasto (I)
+*Grzegórzki (II)
+*Prądnik Czerwony (III)
+*Prądnik Biały (IV)
+*Łobzów (V)
+*Bronowice (VI)
+*Zwierzyniec (VII)
+*Dębniki (VIII)
+*Łagiewniki-Borek Fałęcki (IX)
+*Swoszowice (X)
+*Podgórze Duchackie (XI)
+*Bieżanów-Prokocim (XII)
+*Podgórze (XIII)
+*Czyżyny (XIV)
+*Mistrzejowice (XV)
+*Bieńczyce (XVI)
+*Wzgórza Krzesławickie (XVII)
+*Nowa Huta (XVIII)
+</div>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Rynek Glowny w Krakowie.jpg
+Wobraz:Krakow rynek 01.jpg
+Wobraz:Wawel castle.jpg
+Wobraz:616297 Kraków zespół Wzgórza Wawelskiego 02.JPG
+Wobraz:Sukiennice.jpg
+Wobraz:Barbakan Krakow od Bramy Florianskiej.jpg
+Wobraz:Kraków Kanonicza Wawel.JPG
+Wobraz:20110514 Krakow Teatr Slowackiego 9264.jpg
+Wobraz:Kosciol Sw. Piotra i Pawla 1.JPG
+Wobraz:Akademia Ekonomiczna w Krakowie Main building 00.JPG
+Wobraz:Krakow Church of Saint Bernardino 20070804 1005.jpg
+Wobraz:Collegium Novum Kraków 001.JPG
+Wobraz:Palace of Art, 4,Szczepanski square,secession building, Krakow Old Town.jpg
+Wobraz:00180 Kraków, ratusz d. miasta Kazimierz, 1578, 1876.jpg
+Wobraz:Kleparz.jpg
+Wobraz:Pod Baranami.JPG
+Wobraz:DZolopa 031 2013.jpg
+Wobraz:Kraków, pałac Decjusza, l. 30. XVI, XVII, XIX, 1882 4.JPG
+Wobraz:617170 Kraków pl Na Groblach 9 szkoła 2.JPG
+Wobraz:Krakow 2006 195.jpg
+</gallery>
 {{commons|Kraków}}
-* [http://www.krakow.pl Krakow]
-
 [[Kategorija:Sedlišćo w Pólskej]]
 {{Link GA|en}}
