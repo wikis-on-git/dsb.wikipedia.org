@@ -1,29 +1,133 @@
 {{Infokašćik Město
 |mě=<font size="+1">Łodź</font>
 |wopon=POL Łódź COA.svg
+|chórgoj=POL Łódź flag.svg
 |wokrejs=Město Łodź
-|płonina=294,4 [[kwadratny kilometer|km²]]
 |lat_deg=51
 |lat_min=45
 |lon_deg=19
 |lon_min=28
 |stat=Pólska
-|wobydlarstwo= 764.168 ''<small>(30. Jun. 2006)</small>''
+|wójwodstwo=[[łódźske wójwodstwo|łódźske]]
+|wusokosć=161,8 - 278,5 m
+|płonina=294,4 [[kwadratny kilometer|km²]]
+|wobydlarstwo=708 554 ''<small>(30. Jun. 2014)</small>''
+|gustosć wobydlarstwa=2420
 |postowa licba=90-001 - 94-201
 |pśedwólenje=(+48) 42
 |KFZ-znamješko=EL
+|adresa=ul. Piotrkowska 104<br>90-926 Łódź
 }}
-[[Dataja:Łódź - Pałac Izraela Poznańskiego.jpg|250px|thumb|Łódź]]
-'''Łódź''' jo [[město]] w [[Pólska|Pólskej]], kótarež lažy w [[łódźske wójewódstwo|łódźskem wójewódstwje]]. W lěśe [[2006]] jo how bydliło 767 628 luźi.
+'''Łódź''' jo [[město]] w [[Pólska|Pólskej]], kótarež lažy w [[łódźske wójwodstwo|łódźskem wójwodstwje]]. W lěśe [[2014]] jo how bydliło 708 554 luźi.
+
+== Měsćańske źěle ==
+[[Dataja:Łódź - districts.svg|200px]]
+#Bałuty
+#Widzew
+#Śródmieście
+#Polesie
+#Górna
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:780 height:310
+PlotArea = left:55 right:30 top:25 bottom:35
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:870000
+ScaleMajor = unit:year increment:100000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:25000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:20 align:left
+ bar:1800 from:0 till:428
+ bar:1830 from:0 till:4343
+ bar:1872 from:0 till:100000
+ bar:1900 from:0 till:314020
+ bar:1915 from:0 till:600000
+ bar:1921 from:0 till:452000
+ bar:1931 from:0 till:605500
+ bar:1939 from:0 till:672000
+ bar:1946 from:0 till:496929
+ bar:1955 from:0 till:674172
+ bar:1965 from:0 till:744086
+ bar:1975 from:0 till:798263
+ bar:1985 from:0 till:847864
+ bar:1988 color:cobar2 from:0 till:854003
+ bar:1995 from:0 till:823215
+ bar:2000 from:0 till:793217
+ bar:2005 from:0 till:767628
+ bar:2010 from:0 till:737098
+ bar:2014 from:0 till:708554
+
+PlotData=
+ textcolor:black fontsize:S
+ bar:1800 at: 428 text: 428 shift:(-8,5)
+ bar:1830 at: 4343 text: 4.343 shift:(-12,5)
+ bar:1872 at: 100000 text: 100.000 shift:(-18,5)
+ bar:1900 at: 314020 text: 314.020 shift:(-18,5)
+ bar:1915 at: 600000 text: 600.000 shift:(-18,5)
+ bar:1921 at: 452000 text: 452.000 shift:(-18,5)
+ bar:1931 at: 605500 text: 605.500 shift:(-18,5)
+ bar:1939 at: 672000 text: 672.000 shift:(-18,5)
+ bar:1946 at: 496929 text: 496.929 shift:(-18,5)
+ bar:1955 at: 674172 text: 674.172 shift:(-18,5)
+ bar:1965 at: 744086 text: 744.086 shift:(-18,5)
+ bar:1975 at: 798263 text: 798.263 shift:(-18,5)
+ bar:1985 at: 847864 text: 847.864 shift:(-18,5)
+ bar:1988 at: 854003 text: 854.003 shift:(-18,5)
+ bar:1995 at: 823215 text: 823.215 shift:(-18,5)
+ bar:2000 at: 793217 text: 793.217 shift:(-18,5)
+ bar:2005 at: 767628 text: 767.628 shift:(-18,5)
+ bar:2010 at: 737098 text: 737.098 shift:(-18,5)
+ bar:2014 at: 708554 text: 708.554 shift:(-18.5)
+</timeline>
+
+== Sport ==
+*Łódzki Klub Sportowy - kopańca
+*Orzeł Łódź - speedway
+*Widzew Łódź - kopańca
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Lodz Piotrkowska.jpg
+Wobraz:5 Lodz 087.jpg
+Wobraz:Łódź - Pałac Izraela Poznańskiego.jpg
+Wobraz:PL Wikiwarsztaty fotograficzne Łódź 089.jpg
+Wobraz:Palac Juliusza Heinzla Lodz.JPG
+Wobraz:Lodz - ul Piotrkowska 04.JPG
+Wobraz:Archikatedra Łódź v2.jpg
+Wobraz:Łódź ul Sienkiewicza kościół jezuitów 2013 MZW 6430.JPG
+Wobraz:Lodz Biala Fabryka 4(pischmak).JPG
+Wobraz:Łódź - Teatr Wielki.JPG
+Wobraz:Łódź - Muzeum Archeologiczno-Etnograficzne.JPG
+Wobraz:Łodź, Piotrkowska, knihovna arcidiecéze.JPG
+Wobraz:Hotel Polonia Palast in Łódź.JPG
+Wobraz:Kamienica Piotrkowska 78 Lodz.jpg
+Wobraz:Kamienica braci Auerbachów.jpg
+Wobraz:Pałac Poznańskich, ul. Więckowskiego 36.jpg
+Wobraz:Lodz Concert Hall (7993603012).jpg
+Wobraz:Schweikert Palace.jpg
+Wobraz:Ulica Andrzeja Struga 61-63 w Łodzi - Zespół dawnej fabryki Franciszka Kindermanna (1).jpg
+Wobraz:Lodz Polnocna39 elewacja tylna(pischmak).JPG
+</gallery>
 
 == Partnerske města ==
+* {{chórgoj|Portugalska|22px}} [[Barreiro]], [[Portugalska]]
 * [[Dataja:Flag of Germany.svg|22px]] [[Kamjenica]], [[Nimska]]
+* {{chórgoj|Nimska|22px}} [[Stuttgart]], [[Nimska]]
+* {{chórgoj|Litawska|22px}} [[Vilnius]], [[Litawska]]
 
 == Eksterne wótkaze ==
 {{Commonscat|Łódź}}
 * [http://www.uml.lodz.pl/index.php Łódź] ([[pólšćina|pól]]).
 * [http://lodz.pl/newPlatform/ Łódź] ([[pólšćina|pól]]).
 
-[[Kategorija:Sedlišćo w Pólskej|Łódź]]
+[[Kategorija:Sedlišćo w Pólskej]]
 
 {{Link FA|no}}
