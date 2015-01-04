@@ -1,0 +1,99 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Zamość
+|mě serbske=
+|wopon=POL Zamość COA.svg
+|chórgoj=POL Zamość flag.svg
+|lat_deg=50
+|lat_min=43
+|lon_deg=23
+|lon_min=15
+|stat=Pólska
+|wójwodstwo=[[lublińske wójwodstwo|lublińske]]
+|wokrejs=
+|wusokosć=212 m
+|płonina=30,34 km²
+|wobydlarstwo=65 149 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=2147
+|postowa licba=22-400 - 22-410
+|pśedwólenje=(+48) 84
+|KFZ-wobznamjenje=LZ
+|website=http://www.zamosc.pl/
+|kórta=Zamość plan miasta.png
+|adresa=Rynek Wielki 13<br>22-400 Zamość
+}}
+'''Zamość''' jo město w [[Pólska|Pólskej]], w [[lublińske wójwodstwo|lublińskem wójwodstwje]]. W lěśe 2014 jo how bydliło 65 149 luźi. Historiski centrum jo na lisćinje UNESCO.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize  = width:700 height:300
+PlotArea   = left:50 right:20 top:25 bottom:30
+TimeAxis   = orientation:vertical 
+AlignBars  = late
+Colors = 
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.0,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period     = from:0 till:70000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1591 from:0 till:1500
+  bar:1650 from:0 till:4000
+  bar:1696 from:0 till:4600
+  bar:1770 from:0 till:5000
+  bar:1809 from:0 till:6500
+  bar:1880 from:0 till:9200
+  bar:1900 from:0 till:11300
+  bar:1921 from:0 till:19000
+  bar:1939 from:0 till:26400
+  bar:1946 from:0 till:20889
+  bar:1955 from:0 till:25686
+  bar:1965 from:0 till:30587
+  bar:1975 from:0 till:39143
+  bar:1985 from:0 till:55516
+  bar:1995 from:0 till:66253
+  bar:1998 color:cobar2 from:0 till:68288
+  bar:2005 from:0 till:66593
+  bar:2010 from:0 till:66234
+  bar:2014 from:0 till:65149
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1591 at: 1500 text: 1.500 shift:(-11,5)
+  bar:1650 at: 4000 text: 4.000 shift:(-14,5)
+  bar:1696 at: 4600 text: 4.600 shift:(-14,5)
+  bar:1770 at: 5000 text: 5.000 shift:(-14,5)
+  bar:1809 at: 6500 text: 6.500 shift:(-14,5)
+  bar:1880 at: 9200 text: 9.200 shift:(-14,5)
+  bar:1900 at: 11300 text: 11.300 shift:(-14,5)
+  bar:1921 at: 19000 text: 19.000 shift:(-14,5)
+  bar:1939 at: 26400 text: 26.400 shift:(-14,5)
+  bar:1946 at: 20889 text: 20.889 shift:(-14,5)
+  bar:1955 at: 25686 text: 25.686 shift:(-14,5)
+  bar:1965 at: 30587 text: 30.587 shift:(-14,5)
+  bar:1975 at: 39143 text: 39.143 shift:(-14,5)
+  bar:1985 at: 55516 text: 55.516 shift:(-14,5)
+  bar:1995 at: 66253 text: 66.253 shift:(-14,5)
+  bar:1998 at: 68288 text: 68.288 shift:(-14,5)
+  bar:2005 at: 66593 text: 66.593 shift:(-14,5)
+  bar:2010 at: 66234 text: 66.234 shift:(-14,5)
+  bar:2014 at: 65149 text: 65.149 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Ratusz Zamosc.jpg
+Wobraz:Ormianska1.JPG
+Wobraz:Zespół kamienicy (XVI, XVII w., XVIII w., XX w.), Zamość.jpg
+Wobraz:57840006.jpg
+Wobraz:Twierdza Zamość 4.JPG
+Wobraz:Kościół Zwiastowania Najświętszej Maryi Panny, Zamość.jpg
+Wobraz:Katedra Zamosc 2013.JPG
+Wobraz:Brama szczebrzeska od strony południowej.JPG
+</gallery>
+{{Commonscat|Zamość}}
+[[Kategorija:Sedlišćo w Pólskej]]
