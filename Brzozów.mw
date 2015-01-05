@@ -1,0 +1,116 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Brzozów
+|mě serbske=
+|wopon=POL Brzozów COA.svg
+|chórgoj=POL Brzozów flag.svg
+|lat_deg=49
+|lat_min=41
+|lon_deg=22
+|lon_min=01
+|stat=Pólska
+|wójwodstwo=[[pokarpatske wójwodstwo|pokarpatske]]
+|wokrejs=Brzozów
+|wusokosć=270 - 420 m
+|płonina=11,46 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=7 525 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=657
+|postowa licba=36-200
+|pśedwólenje=(+48) 13
+|KFZ-wobznamjenje=RBR
+|website=http://www.brzozow.pl/
+|kórta=
+|adresa=ul. Armii Krajowej 1<br>36-200 Brzozów
+}}
+'''Brzozów''' jo město w [[Pólska|Pólskej]], w [[pokarpatske wójwodstwo|pokarpatskem wójwodstwje]], we wokrejsu Brzozów, w gmejnje Brzozów. W lěśe 2014 jo how bydliło 7 525 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:750 height:250
+PlotArea = left:50 right:20 top:10 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.6,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.7,0.6)
+DateFormat = yyyy
+Period = from:0 till:8500
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:250 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:12 align:left
+  bar:1589 from:0 till:1960
+  bar:1799 from:0 till:671
+  bar:1816 from:0 till:856
+  bar:1824 from:0 till:1008
+  bar:1921 from:0 till:4160
+  bar:1931 from:0 till:4242
+  bar:1939 from:0 till:4106
+  bar:1946 from:0 till:3725
+  bar:1950 from:0 till:3533
+  bar:1955 from:0 till:3726
+  bar:1956 from:0 till:3833
+  bar:1957 from:0 till:3844
+  bar:1958 from:0 till:3957
+  bar:1959 from:0 till:4010
+  bar:1964 from:0 till:4410
+  bar:1968 from:0 till:4555
+  bar:1969 from:0 till:4560
+  bar:1970 from:0 till:4896
+  bar:1971 from:0 till:4968
+  bar:1978 from:0 till:6167
+  bar:1980 from:0 till:6311
+  bar:1983 from:0 till:6875
+  bar:1993 color:cobar2 from:0 till:7854
+  bar:2001 from:0 till:7739
+  bar:2004 from:0 till:7799
+  bar:2007 from:0 till:7693
+  bar:2009 from:0 till:7836
+  bar:2014 from:0 till:7525
+PlotData=
+  textcolor:black fontsize:S
+  bar:1589 at: 1960 text: 1960 shift:(–11,5)
+  bar:1799 at: 671 text: 671 shift:(–8,5)
+  bar:1816 at: 856 text: 856 shift:(–8,5)
+  bar:1824 at: 1008 text: 1008 shift:(–11,5)
+  bar:1921 at: 4106 text: 4160 shift:(–11,5)
+  bar:1931 at: 4242 text: 4242 shift:(–11,5)
+  bar:1939 at: 4106 text: 4106 shift:(–11,5)
+  bar:1946 at: 3725 text: 3725 shift:(–11,5)
+  bar:1950 at: 3533 text: 3533 shift:(–11,5)
+  bar:1955 at: 3726 text: 3726 shift:(–11,5)
+  bar:1956 at: 3833 text: 3833 shift:(–11,5)
+  bar:1957 at: 3844 text: 3844 shift:(–11,5)
+  bar:1958 at: 3957 text: 3957 shift:(–11,5)
+  bar:1959 at: 4010 text: 4010 shift:(–11,5)
+  bar:1964 at: 4410 text: 4410 shift:(–11,5)
+  bar:1968 at: 4555 text: 4555 shift:(–11,5)
+  bar:1969 at: 4560 text: 4560 shift:(–11,5)
+  bar:1970 at: 4896 text: 4896 shift:(–11,5)
+  bar:1971 at: 4968 text: 4968 shift:(–11,5)
+  bar:1978 at: 6167 text: 6167 shift:(–11,5)
+  bar:1980 at: 6311 text: 6311 shift:(–11,5)
+  bar:1983 at: 6875 text: 6875 shift:(–11,5)
+  bar:1993 at: 7854 text: 7854 shift:(–11,5)
+  bar:2001 at: 7739 text: 7739 shift:(–11,5)
+  bar:2004 at: 7799 text: 7799 shift:(–11,5)
+  bar:2007 at: 7693 text: 7693 shift:(–11,5)
+  bar:2009 at: 7836 text: 7836 shift:(–11,5)
+  bar:2014 at: 7525 text: 7525 shift:(–11,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:0.2014 Der Marktplatz mit Rathaus in Brzozow..JPG
+Wobraz:Sokół building in Brzozów 2014.jpg
+Wobraz:25 Mickiewicza Street in Brzozów right church bus depot.jpg
+Wobraz:Kosciol Przemienienia Panskiego Brzozow 2.jpg
+Wobraz:Brzozów, lékárn.jpg
+Wobraz:Brzozów, dom pl. Grunwaldzki 4.jpg
+Wobraz:Brzozów, dom Armii Krajowej 3 Maja.jpg
+Wobraz:21 Mickiewicza Street in Brzozów front.jpg
+</gallery>
+{{Commonscat|Brzozów}}
+[[Kategorija:Sedlišćo w Pólskej]]
