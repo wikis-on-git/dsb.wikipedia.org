@@ -1,0 +1,98 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Hrubieszów
+|mě serbske=
+|wopon=POL Hrubieszów COA 1.svg
+|chórgoj=
+|lat_deg=50
+|lat_min=48
+|lon_deg=23
+|lon_min=53
+|stat=Pólska
+|wójwodstwo=[[lublińske wójwodstwo|lublińske]]
+|wokrejs=Hrubieszów
+|wusokosć=200 m
+|płonina=33,03 km²
+|wobydlarstwo=18 541 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=561
+|postowa licba=22-500
+|pśedwólenje=(+48) 84
+|KFZ-wobznamjenje=LHR
+|website=http://www.miasto.hrubieszow.pl/
+|kórta=
+|adresa=ul. Dobrzańskiego 1<br>22-500 Hrubieszów
+}}
+'''Hrubieszów''' jo město w [[Pólska|Pólskej]], w [[lublińske wójwodstwo|lublińskem wójwodstwje]], we wokrejsu Hrubieszów. W lěśe 2014 jo how bydliło 18 541 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:630 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:21000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1400 from:0 till:500
+  bar:1765 from:0 till:2362
+  bar:1823 from:0 till:4200
+  bar:1872 from:0 till:9606
+  bar:1890 from:0 till:10601
+  bar:1899 from:0 till:12554
+  bar:1909 from:0 till:15000
+  bar:1917 from:0 till:8208
+  bar:1921 from:0 till:10000
+  bar:1939 from:0 till:13000
+  bar:1942 from:0 till:15500
+  bar:1945 from:0 till:8000
+  bar:1951 from:0 till:10000
+  bar:1979 from:0 till:17400
+  bar:1995 from:0 till:18800
+  bar:2000 color:cobar2 from:0 till:20200
+  bar:2008 from:0 till:18603
+  bar:2009 from:0 till:19113
+  bar:2014 from:0 till:18541
+PlotData=
+  textcolor:black fontsize:S
+  bar:1400 at: 500 text: 500 shift:(-11,5)
+  bar:1765 at: 2362 text: 2.362 shift:(-14,5)
+  bar:1823 at: 4200 text: 4.200 shift:(-14,5)
+  bar:1872 at: 9606 text: 9.606 shift:(-17,5)
+  bar:1890 at: 10601 text: 10.601 shift:(-14,5)
+  bar:1899 at: 12554 text: 12.554 shift:(-17,5)
+  bar:1909 at: 15000 text: 15.000 shift:(-17,5)
+  bar:1917 at: 8208 text: 8.208 shift:(-17,5)
+  bar:1921 at: 10000 text: 10.000 shift:(-17,5)
+  bar:1939 at: 13000 text: 13.000 shift:(-17,5)
+  bar:1942 at: 15500 text: 15.500 shift:(-17,5)
+  bar:1945 at: 8000 text: 8.000 shift:(-17,5)
+  bar:1951 at: 10000 text: 10.000 shift:(-17,5)
+  bar:1979 at: 17400 text: 17.400 shift:(-23,5)
+  bar:1995 at: 18800 text: 18.800 shift:(-17,5)
+  bar:2000 at: 20200 text: 20.200 shift:(-17,5)
+  bar:2008 at: 18603 text: 18.603 shift:(-17,5)
+  bar:2009 at: 19113 text: 19.113 shift:(-17,5)
+  bar:2014 at: 18541 text: 18.541 shift:(-17,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Hrubieszów - budynek (03).jpg
+Wobraz:Hrubieszów, Kościół św. Stanisława Kostki - fotopolska.eu (240320).jpg
+Wobraz:Hrubieszów, kościół pw. Św. Mikołaja.JPG
+Wobraz:Hrubieszów, Plebania - fotopolska.eu (242107).jpg
+Wobraz:Hrubieszów Cerkiew prawosławna p.w. Wniebowzięcia NMP (1873) 01 JoannaPyka.JPG
+Wobraz:Hrubieszow-Dom Kiesewetterow.jpg
+Wobraz:Hrubieszów, Fundacja Polsko-Francuska im. Krystyny i Stefana du Chateau - fotopolska.eu (239833).jpg
+Wobraz:Hrubieszów, Przychodnia lekarska - fotopolska.eu (242105).jpg
+</gallery>
+{{Commonscat|Hrubieszów}}
+[[Kategorija:Sedlišćo w Pólskej]]
