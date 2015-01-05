@@ -1,0 +1,105 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Przeworsk
+|mě serbske=
+|wopon=POL Przeworsk COA 1.svg
+|chórgoj=POL Przeworsk flag.svg
+|lat_deg=50
+|lat_min=03
+|lon_deg=22
+|lon_min=29
+|stat=Pólska
+|wójwodstwo=[[pokarpatske wójwodstwo|pokarpatske]]
+|wokrejs=Przeworsk
+|wusokosć=
+|płonina=22,13 km²
+|wobydlarstwo=15 737 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=711
+|postowa licba=37-200
+|pśedwólenje=(+48) 17
+|KFZ-wobznamjenje=RPZ
+|website=http://www.przeworsk.um.gov.pl/
+|kórta=
+|adresa=ul. Jagiellońska 10<br>37-200 Przeworsk
+}}
+'''Przeworsk''' jo město w [[Pólska|Pólskej]], w [[pokarpatske wójwodstwo|pokarpatskem wójwodstwje]], we wokrejsu Przeworsk. W lěśe 2014 jo how bydliło 15 737 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:770 height:400
+PlotArea = left:50 right:20 top:10 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.6,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.7,0.6)
+
+DateFormat = yyyy
+Period = from:0 till:17000
+ScaleMajor = unit:year increment:2000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+
+PlotData =
+  bar:1490 color:cobar width:1 from:0 till:2000 width:19
+  bar:1582 color:cobar width:1 from:0 till:3100 width:19
+  bar:1625 color:cobar width:1 from:0 till:3350 width:19
+  bar:1786 color:cobar width:1 from:0 till:3230 width:19
+  bar:1914 color:cobar width:1 from:0 till:3200 width:19
+  bar:1924 color:cobar width:1 from:0 till:3371 width:19
+  bar:1931 color:cobar width:1 from:0 till:5941 width:19
+  bar:1939 color:cobar width:1 from:0 till:7307 width:19
+  bar:1945 color:cobar width:1 from:0 till:8445 width:19
+  bar:1946 color:cobar width:1 from:0 till:8570 width:19
+  bar:1951 color:cobar width:1 from:0 till:7062 width:19
+  bar:1960 color:cobar width:1 from:0 till:8040 width:19
+  bar:1967 color:cobar width:1 from:0 till:8373 width:19
+  bar:1987 color:cobar width:1 from:0 till:14400 width:19
+  bar:1995 color:cobar width:1 from:0 till:16655 width:19
+  bar:1997 color:green width:1 from:0 till:16685 width:19
+  bar:2000 color:cobar width:1 from:0 till:16184 width:19
+  bar:2003 color:cobar width:1 from:0 till:15991 width:19
+  bar:2005 color:cobar width:1 from:0 till:15948 width:19
+  bar:2007 color:cobar width:1 from:0 till:15963 width:19
+  bar:2009 color:cobar width:1 from:0 till:15917 width:19
+  bar:2014 color:cobar width:1 from:0 till:15737 width:19
+
+PlotData=
+  bar:1490 at: 2000 fontsize:S text: 2.000 shift:(-10,5) textcolor:black
+  bar:1582 at: 3100 fontsize:S text: 3.100 shift:(-10,5) textcolor:black
+  bar:1625 at: 3350 fontsize:S text: 3.350 shift:(-10,5) textcolor:black
+  bar:1786 at: 3230 fontsize:S text: 3.230 shift:(-10,5) textcolor:black
+  bar:1914 at: 3200 fontsize:S text: 3.200 shift:(-10,5) textcolor:black
+  bar:1924 at: 3371 fontsize:S text: 3.371 shift:(-10,5) textcolor:black
+  bar:1931 at: 5941 fontsize:S text: 5.941 shift:(-10,5) textcolor:black
+  bar:1939 at: 7307 fontsize:S text: 7.307 shift:(-10,5) textcolor:black
+  bar:1945 at: 8445 fontsize:S text: 8.445 shift:(-10,5) textcolor:black
+  bar:1946 at: 8570 fontsize:S text: 8.570 shift:(-10,5) textcolor:black
+  bar:1951 at: 7062 fontsize:S text: 7.062 shift:(-10,5) textcolor:black
+  bar:1960 at: 8040 fontsize:S text: 8.040 shift:(-10,5) textcolor:black
+  bar:1967 at: 8373 fontsize:S text: 8.373 shift:(-10,5) textcolor:black
+  bar:1987 at: 14400 fontsize:S text: 14.400 shift:(-10,5) textcolor:black
+  bar:1995 at: 16655 fontsize:S text: 16.655 shift:(-10,5) textcolor:black
+  bar:1997 at: 16685 fontsize:S text: 16.685 shift:(-10,5) textcolor:black
+  bar:2000 at: 16184 fontsize:S text: 16.184 shift:(-10,5) textcolor:black
+  bar:2003 at: 15991 fontsize:S text: 15.991 shift:(-10,5) textcolor:black
+  bar:2005 at: 15948 fontsize:S text: 15.948 shift:(-10,5) textcolor:black
+  bar:2007 at: 15963 fontsize:S text: 15.963 shift:(-10,5) textcolor:black
+  bar:2009 at: 15917 fontsize:S text: 15.917 shift:(-10,5) textcolor:black
+  bar:2014 at: 15737 fontsize:S text: 15.737 shift:(-10,5) textcolor:black
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:PL - Przeworsk - ratusz - Kroton 001.jpg
+Wobraz:PL - Przeworsk - bazylika Ducha Świętego - Kroton 002.jpg
+Wobraz:Przeworsk tomb of Christ chapel.jpg
+Wobraz:Poland Przeworsk - palace.jpg
+Wobraz:POL Przeworsk Kamienica Nr 2.jpg
+Wobraz:Szkoła muzyczna Przeworsk przed renowacją.jpg
+Wobraz:Poland, Przeworsk - Country manor at open air museum.JPG
+Wobraz:POL Przeworsk Widok.JPG
+</gallery>
+{{Commonscat|Przeworsk}}
+[[Kategorija:Sedlišćo w Pólskej]]
