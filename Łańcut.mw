@@ -1,0 +1,98 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=Łańcut
+|mě serbske=
+|wopon=POL Łańcut COA.svg
+|chórgoj=POL Łańcut flag.PNG
+|lat_deg=50
+|lat_min=04
+|lon_deg=22
+|lon_min=13
+|stat=Pólska
+|wójwodstwo=[[pokarpatske wójwodstwo|pokarpatske]]
+|wokrejs=Łańcut
+|wusokosć=
+|płonina=19,42 km²
+|wobydlarstwo=18 062 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=930
+|postowa licba=37-100
+|pśedwólenje=(+48) 17
+|KFZ-wobznamjenje=RLA
+|website=http://www.lancut.pl/
+|kórta=
+|adresa=pl. Sobieskiego 18<br>37-100 Łańcut
+}}
+'''Łańcut''' jo město w [[Pólska|Pólskej]], w [[pokarpatske wójwodstwo|pokarpatskem wójwodstwje]], we wokrejsu Łańcut. W lěśe 2014 jo how bydliło 18 062 luźi.
+
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:730 height:280
+PlotArea = left:50 right:40 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period     = from:15000 till:19000
+ScaleMajor = unit:year increment:1000 start:15000 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:15000 gridcolor:linegrey2
+PlotData =
+ color:cobar width:16 align:left
+  bar:1995 from:15000 till:17773
+  bar:1996 from:15000 till:17911
+  bar:1997 from:15000 till:18099
+  bar:1998 from:15000 till:18092
+  bar:1999 from:15000 till:17950
+  bar:2000 from:15000 till:17895
+  bar:2001 from:15000 till:17909
+  bar:2002 from:15000 till:17989
+  bar:2003 from:15000 till:17999
+  bar:2004 from:15000 till:18045
+  bar:2005 from:15000 till:18076
+  bar:2006 from:15000 till:18124
+  bar:2007 from:15000 till:18069
+  bar:2008 from:15000 till:18025
+  bar:2009 from:15000 till:18018
+  bar:2010 color:cobar2 from:15000 till:18183
+  bar:2011 from:15000 till:18199
+  bar:2012 from:15000 till:18143
+  bar:2014 from:15000 till:18062
+PlotData=
+ textcolor:black fontsize:S
+  bar:1995 at: 17773 text: 17.773 shift:(-14,5)
+  bar:1996 at: 17911 text: 17.911 shift:(-14,5)
+  bar:1997 at: 18099 text: 18.099 shift:(-14,5)
+  bar:1998 at: 18092 text: 18.092 shift:(-14,5)
+  bar:1999 at: 17950 text: 17.950 shift:(-14,5)
+  bar:2000 at: 17895 text: 17.895 shift:(-14,5)
+  bar:2001 at: 17909 text: 17.909 shift:(-14,5)
+  bar:2002 at: 17989 text: 17.989 shift:(-14,5)
+  bar:2003 at: 17999 text: 17.999 shift:(-14,5)
+  bar:2004 at: 18045 text: 18.045 shift:(-14,5)
+  bar:2005 at: 18076 text: 18.076 shift:(-14,5)
+  bar:2006 at: 18124 text: 18.124 shift:(-14,5)
+  bar:2007 at: 18069 text: 18.069 shift:(-14,5)
+  bar:2008 at: 18025 text: 18.025 shift:(-14,5)
+  bar:2009 at: 18018 text: 18.018 shift:(-14,5)
+  bar:2010 at: 18183 text: 18.183 shift:(-14,5)
+  bar:2011 at: 18199 text: 18.199 shift:(-14,5)
+  bar:2012 at: 18143 text: 18.143 shift:(-14,5)
+  bar:2014 at: 18062 text: 18.062 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Łańcut - Pałac.jpg
+Wobraz:Lancut palace orangery beentree.jpg
+Wobraz:Gloriette in Łańcut.JPG
+Wobraz:PL - Łańcut - park zamkowy - 2012-05-02--11-01-05-06.jpg
+Wobraz:Łańcut Palace - moat.JPG
+Wobraz:Łańcut - Zameczek romantyczny.jpg
+Wobraz:Łańcut palace - library (2).jpg
+Wobraz:Łańcut - kościół farny (2).jpg
+</gallery>
+{{Commonscat|Łańcut}}
+[[Kategorija:Sedlišćo w Pólskej]]
