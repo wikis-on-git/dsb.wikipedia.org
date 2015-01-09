@@ -3,6 +3,7 @@
 |mě swójske=
 |mě serbske=
 |wopon=Herb wroclaw.svg
+|chórgoj=Wroclaw horizontal flag.svg
 |lat_deg=51
 |lat_min=07
 |lon_deg=17
@@ -11,18 +12,18 @@
 |wojewódstwo=Dolnošlazyńska
 |wokrejs=bźezwokrejsne město
 |wusokosć=111 m
-|płonina=292,9 km²
-|wobydlarstwo=635 932 ''<small>(2005)</small>''
-|gustosć wobydlarstwa=
+|płonina=292,9 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=633 105 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=2160
 |postowa licba=50-014 do 54-612
-|pśedwólenje=(+48)71
+|pśedwólenje=(+48) 71
 |KFZ-wobznamjenje=DW
 |website=[http://www.wroclaw.pl www.wroclaw.pl]
+|adresa=Nowy Targ 1/8<br>50-141 Wrocław
 |Politika=jo
 |głowa sedlišća=Rafał Dutkiewicz 
 |titel głowy sedlišća=prezident města
 }}
-
 '''Wrocław''' jo z něźi 640 000 wobydlarjami stwórte nejwětše město [[Pólska|Pólskeje]] a jo stolica wójwodstwa Dolnošlazyńska. 
 
 Wrocław twóri ze sedłom romsko-katolskego arcybiskopa, ewangeliskego dioceznego biskopa, 10 wusokošulami z 130 000 studentami, kopicu slěźerskich institucijow, 11 źiwadłami, 9 muzejami, jadneju operu a filharmoniju kulturne a wědomnostne srjejźišćo cełego šlazyńskego ruma.
@@ -30,7 +31,7 @@ Wrocław twóri ze sedłom romsko-katolskego arcybiskopa, ewangeliskego diocezne
 Město lažy pśi Odrje wósrjejź wunosnego rolnikarskego a górnistwowego regiona, jo pak teke we wobłuku mašinotwari a metaloweje industrije wuznamne stojnišćo.
 
 == Mě a wopon ==
-[[Dataja:Wratislauia Breßlaw Breslau 17.Jh.jpg|thumb|left|350px|Breslau]]
+[[Dataja:Wratislauia Breßlaw Breslau 17.Jh.jpg|thumb|left|350px|Breslau, 17. stolěśe]]
 
 Mě se wótwóźijo wót českego wójwody Wratislawa I (888-921), kótaryž jo był zazdaśim załoźaŕ města. Inicial W namakajo se we woponje města, kótaryž jo kejžor Korla V. 1530 městu pósćił. 
 
@@ -43,7 +44,7 @@ Město Wratislawa se prědny raz w lěśe 900 naspomnjejo.
 W 13. stolěśu su nimske sedlarje zachopili se na městnje źinsajšneje uniwersity zasedlowaś. 1261 jo město dostało Magdeburske měsćańske pšawo. 
 
 Wót srjejź 14. stolěśa jo Wrocław słušał k [[Česka|Českej]] a z tym teke k Swětemu romskemu mócnarstwu. 
-Wót 1526 su Habsburgske kněžyli nad Wrocławom. 1702 jo [[Awstriska]] Wrocław Pšuskej pśepódała. 
+Wót 1526 su Habsburgske kněžyli nad Wrocławom. 1702 jo [[Awstriska]] Wrocław [[Pšuska|Pšuskej]] pśepódała. 
 
 Južo 1840 bu Wrocław z 100 000 wobydlarjami wjelike město.
 1910 su bydliło we Wrocławju 510 000 luźi, z kótarychž su byli 95,71% Nimce a 2,95 % Pólaki.
@@ -51,7 +52,93 @@ Wót 1919-1945 jo Wrocław był stolica nowo wutwórjoneje prowince Dolnošlazy�
 
 Pó drugej swětowej wójnje jo se zastojnistwo města a cełeje Šlazyńskeje Pólskej pśepódało. Wšykne nimske wobydlarje su musali Wrocław wopušćiś. Južo 1948 jo jano hyšći 7 000 Nimcow we Wrocławju bydliło.
 
+== Wobydlarstwo ==
+<timeline>
+ImageSize = width:750 height:300
+PlotArea = left:60 right:30 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:660000
+ScaleMajor = unit:year increment:100000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:25000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:22 align:left
+  bar:1819 from:0 till:78135
+  bar:1852 from:0 till:121052
+  bar:1871 from:0 till:207997
+  bar:1890 from:0 till:335186
+  bar:1900 from:0 till:422709
+  bar:1910 from:0 till:512105
+  bar:1933 from:0 till:625198
+  bar:1946 from:0 till:170656
+  bar:1955 from:0 till:378619
+  bar:1965 from:0 till:474199
+  bar:1975 from:0 till:575890
+  bar:1985 from:0 till:637207
+  bar:1991 color:cobar2 from:0 till:643640
+  bar:1995 from:0 till:641974
+  bar:2000 from:0 till:633857
+  bar:2007 from:0 till:632930
+  bar:2008 from:0 till:632162
+  bar:2009 from:0 till:632146
+  bar:2012 from:0 till:630131
+PlotData=
+  textcolor:black fontsize:S
+  bar:1819 at: 78135 text: 78.135 shift:(-14,5)
+  bar:1852 at: 121052 text: 121.052 shift:(-17,5)
+  bar:1871 at: 207997 text: 207.997 shift:(-17,5)
+  bar:1890 at: 335186 text: 335.186 shift:(-17,5)
+  bar:1900 at: 422709 text: 422.709 shift:(-17,5)
+  bar:1910 at: 512105 text: 512.105 shift:(-17,5)
+  bar:1933 at: 625198 text: 625.198 shift:(-17,5)
+  bar:1946 at: 170656 text: 170.656 shift:(-17,5)
+  bar:1955 at: 378619 text: 378.619 shift:(-17,5)
+  bar:1965 at: 474199 text: 474.199 shift:(-17,5)
+  bar:1975 at: 575890 text: 575.890 shift:(-17,5)
+  bar:1985 at: 637207 text: 637.207 shift:(-29,5)
+  bar:1991 at: 643640 text: 643.640 shift:(-23,5)
+  bar:1995 at: 641974 text: 641.974 shift:(-17,5)
+  bar:2000 at: 633857 text: 633.857 shift:(-12,5)
+  bar:2007 at: 632930 text: 632.930 shift:(-7,5)
+  bar:2008 at: 632162 text: 632.162 shift:(-4,5)
+  bar:2009 at: 632146 text: 632.146 shift:(-2,0)
+  bar:2012 at: 630131 text: 631.188 shift:(5,0)
+</timeline>
+
+== Sport ==
+*Sparta Wrocław - speedway
+*Śląsk Wrocław - kopańca, basketball
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Wroclaw-Rynek-7.2005.jpg
+Wobraz:Wroclaw-Rathaus.jpg
+Wobraz:Wroclaw Nowy Ratusz 3.jpg
+Wobraz:Basylika św. Elżbiety.jpg
+Wobraz:Plac solny (Wrocław).jpg
+Wobraz:5716viki Uniwersytet Wrocławski - Gmach Główny widziany z Mostów Pomorskich. Foto Barbara Maliszewska.jpg
+Wobraz:Wrocław - Opera Wrocławska.jpg
+Wobraz:Front of Ossolineum.jpg
+Wobraz:Wrocław - Jahrhunderthalle4.jpg
+Wobraz:Wrocław Dworzec Główny.jpg
+Wobraz:Muzeum Narodowe nocą fot BMaliszewska.jpg
+Wobraz:PL - Wrocław - Teatr Lalek - Kroton 001.jpg
+Wobraz:Wroclaw - Most Grunwaldzki w nocy.jpg
+Wobraz:Udsigt til domkirkeoeen i Wroclaw.jpg
+Wobraz:Pałac Królewski od ul. K. Wielkiego foto BMaliszewska.jpg
+Wobraz:Katedralna 4 Kościół Piotra i Pawła i dawny sierociniec fot BMaliszewska.jpg
+Wobraz:WroclawLesnica-zamek.jpg
+Wobraz:Muzeum Etnograficzne, Wrocław.jpg
+Wobraz:Wroclaw - budynek politechniki.jpg
+Wobraz:SM Wrocław Kazimierza Wielkiego15 (0).jpg
+</gallery>
+{{Commonscat|Wrocław}}
 [[Kategorija:Sedlišćo w Dolnošlazyńskej]]
-[[Kategorija:Pólska]]
 [[Kategorija:Sedlišćo w Pólskej]]
 [[Kategorija:Sedlišćo pśi Odrje]]
