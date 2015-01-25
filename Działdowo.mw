@@ -1,0 +1,99 @@
+{{Infokašćik Město
+|mě=
+|mě swójske=
+|mě serbske=
+|wopon=POL Działdowo COA.svg
+|chórgoj=POL Działdowo flag.svg
+|lat_deg=53
+|lat_min=14
+|lon_deg=20
+|lon_min=10
+|stat=Pólska
+|wójwodstwo=[[warmińsko-mazurske wójwodstwo|warmińsko-mazurske]]
+|wokrejs=Działdowo
+|wusokosć=
+|płonina=11,47 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=21 507 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=13-200
+|pśedwólenje=(+48) 23
+|KFZ-wobznamjenje=NDZ
+|website=http://www.dzialdowo.pl/
+|kórta=
+|adresa=ul. Zamkowa 12<br>13-200 Działdowo
+}}
+'''Działdowo''' jo město w [[Pólska|Pólskej]], w [[warmińsko-mazurske wójwodstwo|warmińsko-mazurskem wójwodstwje]], we wokrejsu Działdowo. Lažy w [[Mazurska|Mazurskej]]. W lěśe 2014 jo how bydliło 21 507 luźi.
+
+== Demografija ==
+<timeline>
+ImageSize = width:630 height:300
+PlotArea = left:50 right:20 top:10 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.6,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.7,0.6)
+
+DateFormat = yyyy
+Period = from:0 till:25000
+ScaleMajor = unit:year increment:2000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+
+PlotData =
+  color:cobar width:19 align:left
+
+  bar:1789 from:0 till:2000
+  bar:1817 from:0 till:1421
+  bar:1846 from:0 till:1778
+  bar:1881 from:0 till:3000
+  bar:1910 from:0 till:3925
+  bar:1921 from:0 till:3568
+  bar:1930 from:0 till:4944
+  bar:1939 from:0 till:5106
+
+  bar:1945 from:0 till:3997
+  bar:1954 from:0 till:6419
+  bar:1967 from:0 till:9253
+  bar:1976 from:0 till:13196
+  bar:1983 from:0 till:16642
+  bar:1991 from:0 till:19593
+  bar:2001 from:0 till:21664
+  bar:2012 from:0 till:21592
+
+PlotData=
+  textcolor:black fontsize:S
+
+  bar:1789 at: 2000 text: 2000 shift:(-8,5)
+  bar:1817 at: 1421 text: 1421 shift:(-11,5)
+  bar:1846 at: 1778 text: 1778 shift:(-11,5)
+  bar:1881 at: 3000 text: 3000 shift:(-11,5)
+  bar:1910 at: 3925 text: 3925 shift:(-11,5)
+  bar:1921 at: 3568 text: 3568 shift:(-11,5)
+  bar:1930 at: 4944 text: 4944 shift:(-11,5)
+  bar:1939 at: 5106 text: 5106 shift:(-14,5)
+
+  bar:1945 at: 3997 text: 3997 shift:(-11,5)
+  bar:1954 at: 6419 text: 6419 shift:(-14,5)
+  bar:1967 at: 9253 text: 9253 shift:(-14,5)
+  bar:1976 at: 13196 text: 13&nbsp;196 shift:(-14,5)
+  bar:1983 at: 16642 text: 16&nbsp;642 shift:(-14,5)
+  bar:1991 at: 19593 text: 19&nbsp;593 shift:(-14,5)
+  bar:2001 at: 21664 text: 21&nbsp;664 shift:(-14,5)
+  bar:2012 at: 21592 text: 21&nbsp;592 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Dzialdowo1.jpg
+Wobraz:Działdowo - kościół Podwyższenia Krzyża Świętego.jpg
+Wobraz:Działdowo - Budynek przy ul. Jagiełły 10.jpg
+Wobraz:Działdowo - willa przy ul. Jagiełły 42 (03).jpg
+Wobraz:Działdowo - Budynek przy ul. Jagiełły 15.jpg
+Wobraz:Działdowo - szpital, ob. zespół szkoł medycznych.jpg
+Wobraz:Działdowo, kościół św. Wojciecha.jpg
+Wobraz:Działdowo - Budynek przy ul. Jagiełły 16.jpg
+</gallery>
+{{Commonscat|Działdowo}}
+[[Kategorija:Sedlišćo w Pólskej]]
