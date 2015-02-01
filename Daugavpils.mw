@@ -1,0 +1,79 @@
+{{Infokašćik Město
+|wopon=Coat of arms of Daugavpils.svg
+|chórgoj=Flag of Daugavpils.png
+|lat_deg=55
+|lat_min=53
+|lon_deg=26
+|lon_min=32
+|stat=Letiska
+|wusokosć=105 m
+|płonina=72,48 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=98 089 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|pśedwólenje=(+371) 654
+|website=http://www.daugavpils.lv/
+}}
+'''Daugavpils ''' ([[Pólšćina|pól.]] ''Dyneburg''; łat. ''Daugpiļs'') jo město w pódzajtšnej [[Letiska|Letiskej]], w [[Łatgalska|Łatgalskej]].
+
+== Stawizny ==
+*[[1561]]-[[1569]] - [[Dataja:Alex K Kingdom of Poland-flag.svg|22px]] Kralojstwo Pólske
+*1569-[[1772]] - [[Dataja:Chorągiew królewska króla Zygmunta III Wazy.svg|22px]] [[Republika Dweju Narodowu|Kralojstwo Pólske]]
+*1772-[[1917]] - {{chórgoj|Rusojska|22px}} [[Rusojska|Rusojske Mócnarstwo]]
+*1917 - {{chórgoj|Rusojska|22px}} Republika Rusojska
+*1917-[[1920]] - [[Dataja:Flag of Russian SFSR (1918-1937).svg|22px]] Sowjetska Rusojska
+*1920-[[1940]] - {{chórgoj|Letiska|22px}} Republika Letiska
+*1940-[[1991]] - {{chórgoj|Sowjetski zwězk|22px}} [[Sowjetski zwězk]]
+*wót 1991 - {{chórgoj|Letiska|22px}} Republika Letiska
+
+== Demografija ==
+<timeline>
+ImageSize = width:600 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:130000
+ScaleMajor = unit:year increment:20000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:9000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:19 align:left
+ bar:1897 from:0 till:69675
+ bar:1913 from:0 till:112848
+ bar:1920 color:red from:0 till:31500
+ bar:1979 from:0 till:115731
+ bar:1989 color:cobar2 from:0 till:129000
+ bar:1995 from:0 till:120000
+ bar:2000 from:0 till:115264
+ bar:2007 from:0 till:108091
+ bar:2012 color:red from:0 till:102338
+PlotData=
+ textcolor:black fontsize:S
+ bar:1897 at: 69675 text: 69.675 shift:(-14,5)
+ bar:1913 at: 112848 text: 112.848 shift:(-14,5)
+ bar:1920 at: 31500 text: 31.500 shift:(-14,5)
+ bar:1979 at: 115731 text: 115.731 shift:(-14,5)
+ bar:1989 at: 129000 text: 129.000 shift:(-14,5)
+ bar:1995 at: 120000 text: 120.000 shift:(-14,5)
+ bar:2000 at: 115264 text: 115.264 shift:(-14,5)
+ bar:2007 at: 108091 text: 108.091 shift:(-14,5)
+ bar:2012 at: 102338 text: 102.338 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Daugavpils University square.jpg
+Wobraz:Daugavpils Dievmātes katoļu baznīca 2002-08-11.jpg
+Wobraz:Daugavpils Evangelical Lutheran church of Martin Luther11.JPG
+Wobraz:Daugavpils museum.jpg
+Wobraz:Daugavpils city hall.jpg
+Wobraz:Red brick architecture in Daugavpils.jpg
+Wobraz:CKP Dyneburg.JPG
+Wobraz:Daugavpils Sv. Pētera katoļu baznīca 2000-07-21.jpg
+</gallery>
+{{Commonscat|Daugavpils}}
+[[Kategorija:Sedlišćo w Letiskej]]
