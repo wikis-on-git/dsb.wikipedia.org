@@ -1,0 +1,101 @@
+{{Infokašćik Město
+|wopon=POL Słupsk COA 1.svg
+|chórgoj=POL Słupsk flag 2.svg
+|lat_deg=54
+|lat_min=28
+|lon_deg=17
+|lon_min=01
+|stat=Pólska
+|wójwodstwo=[[pomorske wójwodstwo|pomorske]]
+|wusokość=22 m
+|płonina=43,15 [[kwadratny kilometer|km²]]
+|wobydlarstwo=93 706 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=2177 wob./km²
+|postowa licba=76-200 - 76-210, 76-215, 76-216, 76-218, 76-280
+|KFZ-wobznamjenje=GS
+|website=http://www.slupsk.pl/
+|adresa=plac Zwycięstwa 3<br>76-200 Słupsk
+}}
+'''Słupsk''' jo město w [[Pólska|Pólskej]], w [[pomorske wójwodstwo|pomorskem wójwodstwje]]. Lažy w [[Pomorska|Pomorskej]].
+
+== Demografija ==
+<timeline>
+ImageSize = width:730 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:105000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:2000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1810 from:0 till:5393
+  bar:1898 from:0 till:26000
+  bar:1914 from:0 till:34340
+  bar:1939 from:0 till:50373
+  bar:1946 from:0 till:33948
+  bar:1950 from:0 till:33115
+  bar:1955 from:0 till:44275
+  bar:1960 from:0 till:53383
+  bar:1965 from:0 till:59452
+  bar:1970 from:0 till:68939
+  bar:1975 from:0 till:77611
+  bar:1980 from:0 till:86138
+  bar:1985 from:0 till:93073
+  bar:1994 color:cobar2 from:0 till:102832
+  bar:2000 from:0 till:102244
+  bar:2007 from:0 till:98419
+  bar:2008 from:0 till:97331
+  bar:2010 from:0 till:96655
+  bar:2011 from:0 till:95882
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1810 at: 5393 text: 5.393 shift:(-11,5)
+  bar:1898 at: 26000 text: 26.000 shift:(-14,5)
+  bar:1914 at: 34340 text: 34.340 shift:(-14,5)
+  bar:1939 at: 50373 text: 50.373 shift:(-14,5)
+  bar:1946 at: 33948 text: 33.948 shift:(-14,5)
+  bar:1950 at: 33115 text: 33.115 shift:(-14,5)
+  bar:1955 at: 44275 text: 44.275 shift:(-14,5)
+  bar:1960 at: 53383 text: 53.383 shift:(-14,5)
+  bar:1965 at: 59452 text: 59.452 shift:(-14,5)
+  bar:1970 at: 68939 text: 68.939 shift:(-14,5)
+  bar:1975 at: 77611 text: 77.611 shift:(-14,5)
+  bar:1980 at: 86138 text: 86.138 shift:(-14,5)
+  bar:1985 at: 93073 text: 93.073 shift:(-14,5)
+  bar:1994 at: 102832 text: 102.832 shift:(-17,5)
+  bar:2000 at: 102244 text: 102.244 shift:(-14,5)
+  bar:2007 at: 98419 text: 98.419 shift:(-14,5)
+  bar:2008 at: 97331 text: 97.331 shift:(-14,5)
+  bar:2010 at: 96655 text: 96.655 shift:(-14,5)
+  bar:2011 at: 95882 text: 95.882 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Panorama Słupska z Ratusza MG 3745.JPG
+Wobraz:Slupsk Stary Rynek IMG 2846.JPG
+Wobraz:637196 Słupsk Jedności Narodowej 2.JPG
+Wobraz:637187 Słupsk młyn zamkowy 01.JPG
+Wobraz:Kościół Mariacki Słupsk.jpg
+Wobraz:Castle of Pomeranian Dukes in Słupsk.jpg
+Wobraz:637184 Słupsk Baszta Czarownic 03.JPG
+Wobraz:Słupsk Wojska Polskiego 1 DSC 1528.jpg
+Wobraz:637239 Słupsk spichrz 02.JPG
+Wobraz:739810 Słupsk Ratusz 02.JPG
+Wobraz:Słupsk 08 2014 ubt.JPG
+Wobraz:637172 Słupsk 01.JPG
+Wobraz:Starostwo Powiatowe w Slupsku.jpg
+Wobraz:Slowiniec slupsk dom towarowy MG 4887.JPG
+Wobraz:Słupsk, zespół dawnych koszar Regimentu Huzarów (03).jpg
+Wobraz:Evangelical-Augsburg Church in Słupsk.jpg
+</gallery>
+{{Commonscat|Słupsk}}
+[[Kategorija:Sedlišćo w Pólskej]]
