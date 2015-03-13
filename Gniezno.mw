@@ -1,11 +1,95 @@
-[[Image:Gniezno. View of metropolitan cathedral and church of St John the Baptist.JPG|190px|right||thumb|Gniezno]]
-[[Image:Drzwi gnieznienskie widok ogolny.jpg|130px|right||thumb|Porta Regia]]
+{{Infokašćik Město
+|wopon=POL Gniezno COA.svg
+|chórgoj=POL Gniezno flag.svg
+|lat_deg=52
+|lat_min=33
+|lon_deg=17
+|lon_min=36
+|stat=Pólska
+|wójwodstwo=[[wjelikopólske wójwodstwo|wjelikopólske]]
+|wusokość=100 m
+|płonina=40,6 [[kwadratny kilometer|km²]]
+|wobydlarstwo=69 810 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=62-200 - 62-210
+|pśedwólenje=(+48) 61
+|KFZ-wobznamjenje=PGN
+|website=http://www.gniezno.eu/
+|adresa=ul. Lecha 6<br>62-200 Gniezno
+}}
+[[Image:Drzwi gnieznienskie widok ogolny.jpg|thumb|Porta Regia]]
+'''Gniezno''' ([[Łatyńšćina|łat.]] ''Gnesna''; [[Nimšćina|nim.]] ''Gnesen'') jo město w [[Pólska|Pólskej]]. Až do lěta 1038 jo Gniezno było stolica Pólskeje. Město lažy w [[Wjelikopólska|Wjelikopólskej]].
 
-'''Gniezno''' (nim. '''Gnesen''') jo město w [[Pólska|Pólskej]]. Až do lěta 1038 jo Gniezno było stolica Pólskeje.
+== Demografija ==
+<timeline>
+ImageSize = width:630 height:330
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:80000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:2000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1939 from:0 till:34000
+  bar:1946 from:0 till:30292
+  bar:1950 from:0 till:36039
+  bar:1955 from:0 till:42002
+  bar:1960 from:0 till:44080
+  bar:1965 from:0 till:47152
+  bar:1970 from:0 till:50926
+  bar:1975 from:0 till:55063
+  bar:1980 from:0 till:62392
+  bar:1985 from:0 till:68373
+  bar:1990 from:0 till:70415
+  bar:1997 from:0 till:71198
+  bar:2000 color:cobar2 from:0 till:71562
+  bar:2005 from:0 till:70145
+  bar:2010 from:0 till:69526
+  bar:2011 from:0 till:70322
+PlotData=
+  textcolor:black fontsize:S
+  bar:1939 at: 34000 text: 34.000 shift:(-14,5)
+  bar:1946 at: 30292 text: 30.292 shift:(-14,5)
+  bar:1950 at: 36039 text: 36.039 shift:(-14,5)
+  bar:1955 at: 42002 text: 42.002 shift:(-14,5)
+  bar:1960 at: 44080 text: 44.080 shift:(-14,5)
+  bar:1965 at: 47152 text: 47.152 shift:(-14,5)
+  bar:1970 at: 50926 text: 50.926 shift:(-14,5)
+  bar:1975 at: 55063 text: 55.063 shift:(-14,5)
+  bar:1980 at: 62392 text: 62.392 shift:(-14,5)
+  bar:1985 at: 68373 text: 68.373 shift:(-14,5)
+  bar:1990 at: 70415 text: 70.415 shift:(-14,5)
+  bar:1997 at: 71192 text: 71.192 shift:(-14,5)
+  bar:2000 at: 71562 text: 71.562 shift:(-14,5)
+  bar:2005 at: 70145 text: 70.145 shift:(-14,5)
+  bar:2010 at: 69526 text: 69.526 shift:(-14,5)
+  bar:2011 at: 70322 text: 70.322 shift:(-14,5)
+</timeline>
 
-{{commons|Gniezno}}
-
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Gniezno - rynek.jpg
+Wobraz:Rynek gniezno.JPG
+Wobraz:Hnězdno, Tumska.jpg
+Wobraz:Katedra Gniezno.JPG
+Wobraz:Gniezno ul.Łaskiego 1.jpg
+Wobraz:Gniezno, kanonia, XVII, 1825.JPG
+Wobraz:Kościół św. Wawrzyńca I.jpg
+Wobraz:Pałac Arcybiskupi w Gnieźnie.JPG
+Wobraz:Gniezno kosciol sw Jana.jpg
+Wobraz:Buildings in Gniezno - corner kamienica.JPG
+Wobraz:Buildings in Gniezno - Stary Ratusz 01.JPG
+Wobraz:Miejski Osrodek Kultury w Gnieznie.JPG
+</gallery>
 == Eksterne wótkaze ==
+{{commons|Gniezno}}
 * [http://www.gniezno.home.pl Gniezno]
 
 [[Kategorija:Sedlišćo w Pólskej]]
