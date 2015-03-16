@@ -3,16 +3,17 @@
 |mě swójske=
 |mě serbske=
 |wopon=POL Jelenia Góra COA.svg
+|chórgoj=POL Jelenia Góra flag.svg
 |lat_deg=50
 |lat_min=54
 |lon_deg=15
 |lon_min=44
 |stat=Pólska
-|wojewódstwo=[[dolnošlazyńske wojewódstwo]]
-|wokrejs=[[bźezwokrejsne město]]
+|wojewódstwo=[[dolnošlazyńske wójwodstwo|dolnošlazyńske]]
+|wokrejs=bźezwokrejsne město
 |wusokosć=350 m
-|płonina=108,4 [[Kwadratowy meter|km²]]
-|wobydlarstwo=85.782 <small>(31. decembra 2007)</small>
+|płonina=108,4 [[Kwadratny kilometer|km²]]
+|wobydlarstwo=81 640 ''<small>(30. junija 2014)</small>''
 |gustosć wobydlarstwa=
 |postowa licba=58-500 až 58-588
 |pśedwólenje=(+48) 75
@@ -20,13 +21,82 @@
 |Politika=jo
 |głowa sedlišća=Marcin Zawiła
 |titel głowy sedlišća=měsćański prezident
-|adresa=pl. Ratuszowy 58
-58-500 Jelenia Góra
+|adresa=pl. Ratuszowy 58<br>58-500 Jelenia Góra
 |website=[http://www.jeleniagora.pl/ www.jeleniagora.pl/]
 }}
-'''Jelenia Góra''' (nimski: ''Hirschberg im Riesengebirge''; česki: ''Jelení Hora'', něga: ''Hornšperk)'' jo [[Pólska|pólske]] město we [[dolnošlazyńske wojewódstwo|dolnošlazyńskej]] [[Wojewódstwo|wojewódstwje]]. Lažy něźi 90 km na krotki wjacor [[Wrocław]]a. Jo turistiski centrum regiona.
+'''Jelenia Góra''' ([[Nimšćina|nim.]] ''Hirschberg im Riesengebirge''; [[Česka rěc|čes.]] ''Jelení Hora'', něga: ''Hornšperk)'' jo [[Pólska|pólske]] město we [[dolnošlazyńske wójwodstwo|dolnošlazyńskej]] [[wójwodstwo|wójwodstwje]]. Lažy něźi 90 km na krotki wjacor [[Wrocław]]a. Jo turistiski centrum regiona.
 
-== Stawizny ==
+== Demografija ==
+[[Dataja:Jelenia Góra, Zamek Chojnik.jpg|thumb|Chojnik]]
+<timeline>
+ImageSize = width:650 height:330
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:94000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:2000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:XVI from:0 till:3500
+  bar:1800 from:0 till:6000
+  bar:1885 from:0 till:15662
+  bar:1900 from:0 till:20000
+  bar:1939 from:0 till:35296
+  bar:1946 from:0 till:39050
+  bar:1950 from:0 till:34996
+  bar:1955 from:0 till:45025
+  bar:1960 from:0 till:49617
+  bar:1965 from:0 till:53708
+  bar:1970 from:0 till:55900
+  bar:1980 from:0 till:86943
+  bar:1990 from:0 till:93414
+  bar:1998 color:cobar2 from:0 till:93901
+  bar:2004 from:0 till:87643
+  bar:2007 from:0 till:85782
+  bar:2011 from:0 till:83463
+PlotData=
+  textcolor:black fontsize:S
+  bar:XVI at: 3500 text: 3.500 shift:(-11,5)
+  bar:1800 at: 6000 text: 6.000 shift:(-11,5)
+  bar:1885 at: 15662 text: 15.662 shift:(-14,5)
+  bar:1900 at: 20000 text: 20.000 shift:(-14,5)
+  bar:1939 at: 35296 text: 35.296 shift:(-14,5)
+  bar:1946 at: 39050 text: 39.050 shift:(-14,5)
+  bar:1950 at: 34996 text: 34.996 shift:(-14,5)
+  bar:1955 at: 45025 text: 45.025 shift:(-14,5)
+  bar:1960 at: 49617 text: 49.617 shift:(-14,5)
+  bar:1965 at: 53708 text: 53.708 shift:(-14,5)
+  bar:1970 at: 55900 text: 55.900 shift:(-14,5)
+  bar:1980 at: 86943 text: 86.943 shift:(-14,5)
+  bar:1990 at: 93414 text: 93.414 shift:(-14,5)
+  bar:1998 at: 93901 text: 93.901 shift:(-14,5)
+  bar:2004 at: 87643 text: 87.643 shift:(-14,5)
+  bar:2007 at: 85782 text: 85.782 shift:(-14,5)
+  bar:2011 at: 83463 text: 83.463 shift:(-14,5)
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Jelenia Góra (ośrodek historyczny).jpg
+Wobraz:1629 Jelenia Góra. Foto Barbara Maliszewska.jpg
+Wobraz:City Hall Jelenia Gora.jpg
+Wobraz:6348 Jelenia Góra. Foto Barbara Maliszewska.jpg
+Wobraz:Jelenia Góra-Cieplice, pl.Piastowski.JPG
+Wobraz:Teatr im C.K.Norwida w Jeleniej Górze.jpg
+Wobraz:6390 Kościół i cmentarz Jelenia Góra - Cieplice. Foto Barbara Maliszewska.JPG
+Wobraz:Cieplice Pałac Schaffgotschów2.jpg
+Wobraz:Dwór Czarne.jpg
+Wobraz:PL, Jelenia Góra, Pałac Paulinum DSC 0085-1.JPG
+Wobraz:Jelenia Góra, Kościół Zbawiciela - ewangelicko-augsburski - fotopolska.eu (295793).jpg
+Wobraz:Jelenia Góra, Brama Wojanowska - fotopolska.eu (151609).jpg
+</gallery>
 
 == Partnarske města ==
 * {{chórgoj|Nimska|20px}} [[Bautzen]], Sakska
@@ -36,9 +106,8 @@
 
 == Eksterne wótkaze ==
 * http://www.jeleniagora.pl/
+{{commonscat|Jelenia Góra}}
 {{-}}
 {{pśeźěłuj|zarodk|sources}}
-
-[[Kategorija:Pólska]]
-[[Kategorija:Sedlišćo w Pólskej|Jelenia Góra]]
+[[Kategorija:Sedlišćo w Pólskej]]
 [[Kategorija:Sedlišćo w Dolnošlazyńskej]]
