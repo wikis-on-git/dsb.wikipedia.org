@@ -1,0 +1,103 @@
+{{Infokašćik Město
+|wopon=POL Stargard Szczeciński COA.svg
+|chórgoj=POL Stargard Szczeciński flag.svg
+|lat_deg=53
+|lat_min=20
+|lon_deg=15
+|lon_min=02
+|stat=Pólska
+|wójwodstwo=[[pódwjacoropomorske wójwodstwo|pódwjacoropomorske]]
+|wusokość=20 m
+|płonina=48,08 [[kwadratny kilometer|km²]]
+|wobydlarstwo=69 251 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=73-100 - 73-110
+|KFZ-wobznamjenje=ZST
+|pśedwólenje=(+48) 91
+|website=http://www.stargard.pl/
+|adresa=ul. Czarnieckiego 17<br>73-100 Stargard Szczeciński
+}}
+'''Stargard Szczeciński''' jo město w [[Pólska|Pólskej]], w [[pódwjacoropomorske wójwodstwo|pódwjacoropomorskem wójwodstwje]]. Lažy w [[Pomorska|Pomorskej]].
+
+== Demografija ==
+<timeline>
+ImageSize = width:780 height:270
+PlotArea = left:50 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:75000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+PlotData =
+  bar:1618 color:gray1 width:1
+   from:0 till:12000 width:15 text:12000 textcolor:red fontsize:8px
+  bar:1640 color:gray1 width:1
+   from:0 till:1200 width:15 text:1200 textcolor:red fontsize:8px
+  bar:1688 color:gray1 width:1
+   from:0 till:3600 width:15 text:3600 textcolor:red fontsize:8px
+  bar:1720 color:gray1 width:1
+   from:0 till:400 width:15 text:400 textcolor:red fontsize:8px
+  bar:1740 color:gray1 width:1
+   from:0 till:5529 width:15 text:5529 textcolor:red fontsize:8px
+  bar:1786 color:gray1 width:1
+   from:0 till:6243 width:15 text:6243 textcolor:red fontsize:8px
+  bar:1800 color:gray1 width:1
+   from:0 till:7000 width:15 text:7000 textcolor:red fontsize:8px
+  bar:1855 color:gray1 width:1
+   from:0 till:12749 width:15 text:12749 textcolor:red fontsize:8px
+  bar:1901 color:gray1 width:1
+   from:0 till:25000 width:15 text:25000 textcolor:red fontsize:8px
+  bar:1913 color:gray1 width:1
+   from:0 till:28000 width:15 text:28000 textcolor:red fontsize:8px
+  bar:1929 color:gray1 width:1
+   from:0 till:34600 width:15 text:34600 textcolor:red fontsize:8px
+  bar:1939 color:gray1 width:1
+   from:0 till:39760 width:15 text:39760 textcolor:red fontsize:8px
+  bar:1945 color:gray1 width:1
+   from:0 till:2870 width:15 text:2870 textcolor:red fontsize:8px
+  bar:1946 color:gray1 width:1
+   from:0 till:9733 width:15 text:9733 textcolor:red fontsize:8px
+  bar:1950 color:gray1 width:1
+   from:0 till:20684 width:15 text:20684 textcolor:red fontsize:8px
+  bar:1960 color:gray1 width:1
+   from:0 till:33650 width:15 text:33650 textcolor:red fontsize:8px
+  bar:1970 color:gray1 width:1
+   from:0 till:44460 width:15 text:44460 textcolor:red fontsize:8px
+  bar:1975 color:gray1 width:1
+   from:0 till:51400 width:15 text:51400 textcolor:red fontsize:8px
+  bar:1980 color:gray1 width:1
+   from:0 till:59227 width:15 text:59227 textcolor:red fontsize:8px
+  bar:1990 color:gray1 width:1
+   from:0 till:70952 width:15 text:70952 textcolor:red fontsize:8px
+  bar:1995 color:gray1 width:1
+   from:0 till:72254 width:15 text:72254 textcolor:red fontsize:8px
+  bar:2000 color:gray1 width:1
+   from:0 till:74362 width:15 text:74362 textcolor:red fontsize:8px
+  bar:2005 color:gray1 width:1
+   from:0 till:71017 width:15 text:71017 textcolor:red fontsize:8px
+  bar:2007 color:gray1 width:1
+   from:0 till:70217 width:15 text:70217 textcolor:red fontsize:8px
+</timeline>
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Stargard Kolegiata6.JPG
+Wobraz:Stargard Rynek1.JPG
+Wobraz:Stargard Szczec Brama Mlynska (1).jpg
+Wobraz:660073 Stargard Szczeciński - odwach.JPG
+Wobraz:660054 budynek Ratusza w Stargardzie Szczecińskim.JPG
+Wobraz:Stargard kosciol przemienienia panskiego kolb9104.JPG
+Wobraz:Stargard Szczec basteja.jpg
+Wobraz:Stargard willa karowow kolb9494.JPG
+Wobraz:Stargard Archiwum.jpg
+Wobraz:St. John's Church Stargard.JPG
+Wobraz:Stargard Szczec Brama Walowa (3).jpg
+Wobraz:Stargardinum.jpg
+</gallery>
+{{Wjeliki wobraz|Stargard panorama 2.JPG|1500px|Panorama}}
+{{Commonscat|Stargard Szczeciński}}
+[[Kategorija:Sedlišćo w Pólskej]]
