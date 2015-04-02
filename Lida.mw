@@ -1,0 +1,71 @@
+{{Infokašćik Město
+|mě swójske=Ліда
+|wopon=Herb Lidy.svg
+|chórgoj=Flag Lida.svg
+|lat_deg=53
+|lat_min=53
+|lon_deg=25
+|lon_min=18
+|stat=Běłoruska
+|wusokosć=142 m
+|płonina=25 [[kwadratny kilometer|km²]]
+|wobydlarstwo=99 928 ''<small>(2014)</small>''
+|gustosć wobydlarstwa=
+|postowa licba=231300
+|pśedwólenje=+375 154
+}}
+'''Lida''' ([[Běłoruska rěc|běł.]] ''Ліда''; [[Pólšćina|pól.]] ''Lida''; [[Rusojska rěc|rus.]] ''Лида'') jo město w [[Běłoruska|Běłoruskej]].
+
+== Stawizny ==
+*[[1323]]-[[1387]] - [[Dataja:Alex K Grundwald flags 1410-03.svg|22px]] Wjelikie Wjerchojstwo Litawske
+*1387-[[1569]] - [[Dataja:Alex K Grundwald flags 1410-03.svg|22px]] Wjelikie Wjerchojstwo Litawske (Unija pólsko-litawska)
+*1569-[[1795]] - [[Dataja:Chorągiew królewska króla Zygmunta III Wazy.svg|22px]] [[Republika Dweju Narodowu|Kralojstwo Pólske]]
+*1795-[[1915]] - {{chórgoj|Rusojska|22px}} Rusojske Mócnarstwo
+*1915-[[1918]] - [[Dataja:Flag of the German Empire.svg|22px]] Nimski Rajch
+*[[1919]]-[[1939]] - {{chórgoj|Pólska|22px}} Republika Pólska
+*1939-[[1991]] - {{chórgoj|Sowjetski zwězk|22px}} [[Sowjetski zwězk]]
+*wót 1991 - {{chórgoj|Běłoruska|22px}} Republika Běłoruskeje
+
+== Demografija ==
+<timeline>
+ImageSize = width:500 height:180
+PlotArea = left:70 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:100900
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:gray1
+PlotData =
+  bar:1921 color:gray1 width:1
+   from:0 till:13401 width:15 text:13401 textcolor:red  fontsize:8px
+  bar:1959 color:gray1 width:1
+   from:0 till:28500  width:15  text:28500 textcolor:red  fontsize:8px
+  bar:1979 color:gray1 width:1
+   from:0 till:65500  width:15  text:65500 textcolor:red  fontsize:8px
+  bar:1996 color:gray1 width:1
+   from:0 till:100900 width:15  text:100900 textcolor:red  fontsize:8px
+  bar:2004 color:gray1 width:1
+   from:0 till:98231  width:15  text:98231 textcolor:red  fontsize:8px
+  bar:2010 color:gray1 width:1
+   from:0 till:97600  width:15  text:97600 textcolor:red  fontsize:8px
+</timeline>
+*Běłoruse – 44,2%
+*Pólaki – 38,3%
+*Rusy – 14,0%
+*Ukrainarje – 2,6%
+
+== Galerija ==
+<gallery widths=155 heights=125>
+Wobraz:Ліда. Лідскі замак.jpg
+Wobraz:Lida-Church.JPG
+Wobraz:Lida-Kastrychnik.JPG
+Wobraz:Лідскія краявіды 24.jpg
+Wobraz:Лідскія краявіды 01.jpg
+Wobraz:Лідскія краявіды 09.jpg
+Wobraz:Лідскія краявіды 07.jpg
+Wobraz:Лідскія краявіды 12.jpg
+</gallery>
+{{Commonscat|Lida}}
+[[Kategorija:Sedlišćo w Běłoruskej]]
