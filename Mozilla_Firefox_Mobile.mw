@@ -1,0 +1,75 @@
+{{Infokašćik software
+|logo                  = 
+|mě                 = Mozilla Firefox Mobile
+|screenshot            = 
+|wopisanje             = 
+|zgótowaŕ             = [[Mozilla Foundation]]
+|aktualna_wersija       = 37.0.1<ref>[//www.mozilla.org/en-US/mobile/37.0.1/releasenotes/ Pśispomnjenja k aktualnej wersiji.] {{ref-en}}</ref>
+|aktualna_wersija_datum  = 3. apryla 2015
+|testowa_wersija        = 38.0 beta 1
+|testowa_wersija_datum   = 30. měrca 2015
+|źěłowy_system         = [[Android (źěłowy system)|Android]]
+|kategorija            = [[Seśowy wobglědowak|webwobglědowak]]
+|licenca               = [[:de:Mozilla Public License|MPL]]/[[:de:GNU General Public License|GPL]]/[[:de:GNU Lesser General Public License|LGPL]] (trojna licenca)
+|dolnoserbski         = jo (wersija 37.0.1), wót Android 5.0
+|webowe_sedło           = [//www.mozilla.org/dsb/firefox/android/ Firefox za Android]
+}}
+'''Mozilla Firefox Mobile''' jo [[Lichotna software|lichotny]] [[Seśowy wobglědowak|webwobglědowak]] [[Mozilla|projekta Mozilla]] za mobilne kóńcne rědy, ako na pś. [[Personal Digital Assistant|PDA]], [[Mobilny telefon|mobilne telefony]] abo [[Mobile internet device|MID]]. Jadnučki źěłowy system, kótaryž se pódpěra, jo [[Android (źěłowy system)|Android]].
+
+Kodowe mě za Firefox Mobile jo '''Fennec''', engelske a francojske pomjenjenje za pusćinowu lišku [[Fenek]]. Firefox Mobile za [[Maemo]] 1.0 Beta 5 jo w lěśe 2009 prědna wersija wobglědowaka była, kótaraž jo měła oficielne mě a logo Firefox.<ref>{{Internetowe žrědło | url=https://blog.mozilla.com/blog/2009/11/09/firefox-for-maemo-beta-5-released/ | titel=Firefox for Maemo Beta 5 Released | awtor=Melissa Shapiro | źěło=The Mozilla Blog | datum=2009-11-09 | pśistup=2012-10-25 | rěc=en}}</ref>
+
+== Funkcionalnosć ==
+
+Firefox Mobile wuwija se na zakłaźe [[Mozilla Firefox]], ma pak swójski [[Grafiski wužywarski pówjerch|wužywarski pówjerch]]. Ten jo na specielne zamóžnosći (na pśikład ako [[Dotyknjeńska wobrazowka|dotyknjeńske wobrazowki]])  tak teke na wobgranicowanja (małe wobrazowki) toś teje rědoweje klase pśiměrjony.<ref>{{Internetowe žrědło | url=https://wiki.mozilla.org/Mobile/Fennec/Architecture#Background | titel=Mobile/Fennec/Architecture | titelerg=Background | hrsg=Mozilla | 
+źěło=MozillaWiki | pśistup=2012-10-25 | rěc=en}}</ref>
+
+Firefox Mobile bitujo funkcije ako [[Tabbed Browsing|rejtarki]], gesty dotknjeńskeje wobrazowki, blokěrowanje wuskokujucych woknow a zastojnik gronidłow. Wobměra programa dajo se z [[Pśidank (rozšyrjenje webwobglědowaka)|pśidankami]] rozšyriś.
+
+== Aktualne platformy ==
+
+'''Android'''
+
+Wersija za [[Android (źěłowy system)|Android]] jo wót 29.&nbsp;měrca 2011 wózjawjoneje wersije 4.0 Firefox Mobile k dostaśeju. Z wersiju 14 jo se [[XML User Interface Language|XUL]]-pówjerch pśez pówjerch Android narownał, aby se pótrjeba składa a napołnjowański cas znižyłej. Z wersiju 31 jo se zrazom pódpěra za Android 2.2 skóńcyła.<ref>{{Internetowe žrědło | 
+url=http://www.soeren-hentzschel.at/mozilla/firefox/2014/07/21/firefox-mobile-31-letzter-release-fuer-android-2-2/ | titel=Firefox Mobile 31 letzter Release für Android 2.2 | hrsg=Sören Hentzschel | pśistup=2014-07-21 | rěc=de}}</ref>
+
+Wót wersije 37.0, kótaraž jo se 31. měrca 2015 wózjawiła, jo Mozilla Firefox Mobile teke z dolnoserbskim a górnoserbskim wužywarskim pówjerchom k dispoziciji, ale jano za rědy z Android 5.0 a wušej, dokulaž akle Android 5 pódpěra tśipismikowe rěcne kody.
+
+== Pjerwjej pódpěrane platformy ==
+
+'''Maemo / MeeGo'''
+
+Na zachopjeńku jo Firefox Mobile jano za internetnej tableta [[Nokia]] N800 a N810 k dostsaśeju. W februaru 2009 jo se pótom prědna alfawersija za HTC Touch Pro wózjawiła.
+
+Prědna stabilna wersija jo se 28.&nbsp;januara 2010 za smartfon N900 wózjawiła. Wužywanje na tabletoma N800 a N810 jo teke móžno było, njejo se pak dopórucyło.<ref>{{Internetowe žrědło | url=https://wiki.mozilla.org/Mobile/Platforms/Maemo | 
+titel=Mobile/Platforms/Maemo | titelerg=Firefox for Nokia Maemo | hrsg=Mozilla | źěło=MozillaWiki | pśistup=2012-10-25 | rěc=en | format=HTTPS}}</ref> W [[MeeGo]], to jo naslědnik [[Maemo]], Firefox Mobile jo měł standardny wobglědowak za smartfony byś.<ref>{{Internetowe žrědło | url=https://meego.com/downloads/releases/1.0/meego-v1.0-netbooks | titel=MeeGo v1.0 for Netbooks | titelerg=The MeeGo Netbook User Experience includes: | hrsg=The Linux Foundation | źěło=meego.com | pśistup=2012-10-30 | rěc=en | format=HTTPS }}</ref>
+
+Mozilla jo mjaztym z wuwiśim za Maemo a MeeGo pśestał, slědna wózjawjona wersija jo Firefox Mobile 7 był.
+
+'''Windows Mobile'''
+
+22.&nbsp;februara 2010 jo se stwórta alfawersija Firefox za [[Windows Mobile]] (Fennec) wózjawiła. Ale 22.&nbsp;měrca 2010 jo se pśipowěźeło, až pśestanu z wuwijanim za Windows Mobile. Toś ten kšac  jo se z tym wobtwarźił, až Microsoft za [[Windows Phone&nbsp;7]], to jo naslědnik Windows Mobile, njestaja rědy za wuwijanje natiwnych nałoženjow k dispozicji.<ref>{{Internetowe žrědło | url=http://blog.pavlov.net/2010/03/22/stopping-development-for-windows-mobile | awtor=Stuart Parmenter | titel=Stopping Development for Windows Mobile | rěc=en | pśistup=2010-03-23}}</ref>
+
+== Druge platformy ==
+
+Lěcrownož Firefox Mobile jo na mobilne kóńcne rědy wusměrjony, su se na zachopjeńku pšawidłownje wersije za desktopowe źěłowe systemy [[Linux]], [[Mac OS X|OS X]] a [[Windows]] wózjawili, aby wuwijarjam a pśełožowarjam bźez pódpěranego mobilnego rěda wuwijanje dodankow atd. zmóžnili. Nowše wersije muse se za toś te systemy samostatnje kompilěrowaś.<ref>{{Internetowe žrědło | 
+url=https://wiki.mozilla.org/Mobile/Fennec/Android#Building_Fennec | titel=Mobile/Fennec/Android | titelerg=Building Fennec | hrsg=Mozilla | źěło=MozillaWiki | pśistup=2013-04-05 | rěc=en}}</ref>
+
+== Eksterne wótkaze ==
+{{Commonscat|Mozilla Fennec}}
+* [https://wiki.mozilla.org/Mobile wiki.mozilla.org/Mobile] – Mozilla Mobile Wiki
+* [https://play.google.com/store/apps/details?id=org.mozilla.firefox Google Play] – Wótkaz k Mozilla Firefox w Google Play
+* [http://www.mozilla.com/en-US/mobile/ www.mozilla.com/en-US/mobile] – Produktowy bok Fennec (engelski)
+* [http://www.zdnet.de/41531228/erste-vorschau-auf-firefox-mobile-fuer-android-erschienen/ Erste Vorschau auf Firefox Mobile für Android erschienen], powěsć 28. apryla 2010 wó pśedalfawersiji na ZDNet.de
+
+== Žrědła ==
+<references />
+
+{{Nawikašćik Mozilla-programy}}
+
+[[Kategorija:Software]]
+[[Kategorija:Lichotna software]]
+[[Kategorija:Software za Android]]
+[[Kategorija:Mozilla|Firefox]]
+[[Kategorija:Webowy wobglědowak]]
+[[Kategorija:World Wide Web]]
+[[Kategorija:Informatika]]
