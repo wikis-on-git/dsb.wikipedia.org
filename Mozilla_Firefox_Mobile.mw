@@ -6,15 +6,15 @@
 |zgótowaŕ             = [[Mozilla Foundation]]
 |aktualna_wersija       = 38.0.1<ref>[//www.mozilla.org/en-US/mobile/38.0.1/releasenotes/ Pśispomnjenja k aktualnej wersiji.] {{ref-en}}</ref>
 |aktualna_wersija_datum  = 15. maja 2015
-|testowa_wersija        = 39.0 beta 1
-|testowa_wersija_datum   = 24. maja 2015
-|źěłowy_system         = [[Android (źěłowy system)|Android]]
+|testowa_wersija        = 39.0 beta 8
+|testowa_wersija_datum   = 23. junija 2015
+|źěłański_system         = [[Android]]
 |kategorija            = [[Seśowy wobglědowak|webwobglědowak]]
 |licenca               = [[:de:Mozilla Public License|MPL]]/[[:de:GNU General Public License|GPL]]/[[:de:GNU Lesser General Public License|LGPL]] (trojna licenca)
 |dolnoserbski         = jo (wersija 38.0.1), wót Android 5.0
 |webowe_sedło           = [//www.mozilla.org/dsb/firefox/android/ Firefox za Android]
 }}
-'''Mozilla Firefox Mobile''' jo [[Lichotna software|lichotny]] [[Seśowy wobglědowak|webwobglědowak]] [[Mozilla|projekta Mozilla]] za mobilne kóńcne rědy, ako na pś. [[Personal Digital Assistant|PDA]], [[Mobilny telefon|mobilne telefony]] abo [[Mobile internet device|MID]]. Jadnučki źěłowy system, kótaryž se pódpěra, jo [[Android (źěłowy system)|Android]].
+'''Mozilla Firefox Mobile''' jo [[Lichotna software|lichotny]] [[Seśowy wobglědowak|webwobglědowak]] [[Mozilla|projekta Mozilla]] za mobilne kóńcne rědy, ako na pś. [[Personal Digital Assistant|PDA]], [[Mobilny telefon|mobilne telefony]] abo [[Mobile internet device|MID]]. Jadnučki źěłowy system, kótaryž se pódpěra, jo [[Android]].
 
 Kodowe mě za Firefox Mobile jo '''Fennec''', engelske a francojske pomjenjenje za pusćinowu lišku [[Fenek]]. Firefox Mobile za [[Maemo]] 1.0 Beta 5 jo w lěśe 2009 prědna wersija wobglědowaka była, kótaraž jo měła oficielne mě a logo Firefox.<ref>{{Internetowe žrědło | url=https://blog.mozilla.com/blog/2009/11/09/firefox-for-maemo-beta-5-released/ | titel=Firefox for Maemo Beta 5 Released | awtor=Melissa Shapiro | źěło=The Mozilla Blog | datum=2009-11-09 | pśistup=2012-10-25 | rěc=en}}</ref>
 
@@ -29,7 +29,7 @@ Firefox Mobile bitujo funkcije ako [[Rejtarkowa nawigacija|rejtarki]], gesty dot
 
 '''Android'''
 
-Wersija za [[Android (źěłowy system)|Android]] jo wót 29.&nbsp;měrca 2011 wózjawjoneje wersije 4.0 Firefox Mobile k dostaśeju. Z wersiju 14 jo se [[XML User Interface Language|XUL]]-pówjerch pśez pówjerch Android narownał, aby se pótrjeba składa a napołnjowański cas znižyłej. Z wersiju 31 jo se zrazom pódpěra za Android 2.2 skóńcyła.<ref>{{Internetowe žrědło | 
+Wersija za [[Android]] jo wót 29.&nbsp;měrca 2011 wózjawjoneje wersije 4.0 Firefox Mobile k dostaśeju. Z wersiju 14 jo se [[XML User Interface Language|XUL]]-pówjerch pśez pówjerch Android narownał, aby se pótrjeba składa a napołnjowański cas znižyłej. Z wersiju 31 jo se zrazom pódpěra za Android 2.2 skóńcyła.<ref>{{Internetowe žrědło | 
 url=http://www.soeren-hentzschel.at/mozilla/firefox/2014/07/21/firefox-mobile-31-letzter-release-fuer-android-2-2/ | titel=Firefox Mobile 31 letzter Release für Android 2.2 | hrsg=Sören Hentzschel | pśistup=2014-07-21 | rěc=de}}</ref>
 
 Wót wersije 37.0, kótaraž jo se 31. měrca 2015 wózjawiła, jo Mozilla Firefox Mobile teke z dolnoserbskim a górnoserbskim wužywarskim pówjerchom k dispoziciji, ale jano za rědy z Android 5.0 a wušej, dokulaž akle Android 5 pódpěra tśipismikowe rěcne kody.
