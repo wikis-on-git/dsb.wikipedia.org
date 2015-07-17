@@ -1,0 +1,34 @@
+{{infokašćik datajowy format
+| mě  = Cascading Style Sheets
+| kóńcowka = .css
+| logo = [[Dataja:Class-header-css3.jpg|160px]]
+| screenshot = 
+| mime = text/css
+| wobsejźaŕ = [[World Wide Web Consortium]]
+| žanr = [[stylesheetowa rěc]]
+| standard = [http://www.w3.org/TR/CSS1 Level 1 (Recommendation)]<br />[http://www.w3.org/TR/CSS2/ Level 2 (Recommendation)]<br />[http://www.w3.org/TR/CSS21/ Level 2 Revision 1 (Candidate Recommendation)]
+}}
+{{HTML}}
+'''CSS''' (skrotconka za [[engelšćina|engelski]] ''Caskading Style Sheets'', pó słowach "kaskadujuce stilowe łopjena") jo deklaratiwna ''stylesheet''owa rěc za strukturowane dokumenty. Wóna se mjaz drugim na pś. zgromadnje z [[HTML]] a [[XHTML]] wužywa, ale teke se móžo za někaku družynu [[XML]], kaž na pś. za [[SVG]] a [[XUL]].
+
+CSS ma źěliś wopśimjeśe dokumenta (pisany w HTML abo drugej rěcy) wót zwobraznjenja dokumenta, kaž na pś. [[barwa|barwy]], [[znamjenjowa sada|znamjenowe sady]], [[layout]]. 
+
+Specifikacije CSS se wót [[World Wide Web Consortium]] (W3C) wobstarujo.
+
+== Bazowa struktura ==
+<pre>
+selektor { 
+kajkosć1:gódnosć1;
+kajkosć2:gódnosć; 
+/* komentar */
+}
+</pre>
+
+== Glědaj teke ==
+* [[HTML]]
+* [[XHTML]]
+
+{{Nawikašćik W3C-standardy}}
+
+[[Kategorija:Datowy format]]
+[[Kategorija:HTML]]
