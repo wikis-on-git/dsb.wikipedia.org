@@ -1,0 +1,43 @@
+'''HTML''' (eng. {{lang|en|Hyper Text Markup Language}}) jo na teksće bazěrowana, wóznamjenjeńska rěc za zwobraznjenje wopśimjeśow kaž teksty, wobraze a wótkaze w dokumentach. HTML-dokumenty su bazy za [[World Wide Web]] a se z pomocu [[Seśowy wobglědowak|seśowego wobglědowaka]] pokaza. Mimo wopśimjeśow, kótarež se z browserom pokazuju, HTML teke wopśimjejo dalšne pódaśe w formje Meta-informacijach, kótarež na pś. informěruju we teksće wó wužywanej rěcy abo wó awtorje boka, abo wopśimjeśe boka zhornu. Wóznamjenjeńska rěc bu wót [[World Wide Web Consortium]] (W3C) až do wersije 4.01 dalejwuwiwana a se ma něnto pśez [[Extensible Hypertext Markup Language|XHTML]] narownowana.
+
+== Wersije ==
+HTML bu w lětu 1989 wót [[Tim Berners-Lee]] na [[CERN]] w [[Genf]]je zrědowana.
+* '''HTML''' (bźez wersijowego cysła, [[3. nowembra]] 1992): prawersija, kótaraž se jano na teksće orientěrował. [http://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/MarkUp.html Weblink]
+* '''HTML''' (bźez wersijowego cysła, [[30. apryla]] 1993): K tekstoju se mimo atributam kaž tucnego abo kursiwnego zwobraznjenja teke integracija wobrazow pśidało.
+* '''HTML+''' (Nowember 1993) Planowane rozšyrjenja, kótarež se do pózdźejšych wersijow pśidali, ale njebu ženje kaž HTML+ rozžohnowane. [http://www.w3.org/MarkUp/htmlplus paper/hatmlplus.html|Weblink]
+* '''HTML 2.0''' (Nowember 1995): Ta z [http://tools.ietf.org/html/rfc1866|RFC 1866] definěrowana wersija zawjedujo mjaz drugim formularsku techniku. Status toś togo standarda jo „HISTORIC“. Teke pśedchadnicy su zastarske.
+* '''HTML 3.0''': Wersija njebu oficialěrowana, dokulaž wóna z zawjedowanim [[Netscape Navigator|Netscape-Browsera]] we wersiji 3 južo pśed publicěrowanim jo była zastarska.
+* '''HTML 3.2''' (14. januara 1997): Nowa w toś tej wersiji jo była młogolicbny Features kaž tabele, tekstowy běg wokoło wobrazow, zapśijeśe z [[Applet]].
+* '''HTML 4.0''' (18. decembra 1997): Z toś tej wersiju buchu teke [[Stylesheet]]y, skripty a frame zawjedne. Teke su rozdźělenje do ''Strict'', ''Frameset'' a ''Transitional'' se wótměwało. 24. apryla 1998 se wudawa pitśku korigěrowana wersija toś togo standarda.
+* '''HTML 4.01''' (24. decembra 1999): Narowna HTML 4.0 z wšakimi, małymi korekturami. Jo slědna HTML-wersija.
+* '''[[Extensible Hypertext Markup Language|XHTML]] 1.0''' (26. januara 2000): Nowoformulěrowanje HTML 4.01 z pomocu z [[Extensible Markup Language|XMLa]]. 1. awgusta 2002 se wobźěłowana wersija wuda.
+* '''XHTML 1.1''' ([[31. maja]] 2001): Pó tym až XHTML bu do modulow rozdźělowana, bu z XHTML 1.1 strikta wersija definěrowana, pśi kótarejž z HTML 4 zawjedne warianśe Frameset a Transitional wótpadnjetej.
+* '''XHTML 2.0''' (zjawne nacerjenje): Tuta wersija wěcej njebazěrujo na HTML 4.01 a zawjeźe někotare nowe tagsy, na pś. <code><nl></code> za nawigaciske lisćiny. Rozdźělenje wuznamjenjowanja a stila se ma w toś tej wersiji dokóńcyś.
+
+== HTML-struktura ==
+HTML-dokument wobstoj z tśi wobłukow:
+
+# [[Dokumenttypowa deklaracija|Dokumenttypoweje deklaracije]] cełego na zachopjeńku dataje, kótaraž wužywanu DTD pomjenjujo, na pś. HTML 4.01 Strict,
+# HTML-głowy (<code>head</code>), kótaraž pśedewšym techniske abo dokumentariske informacije wopśimjejo, kótarež nic direktnje w seśowem wobglědowaku widne su a
+# HTML-śělesa (<code>body</code>), kótarež wopśimjeju informacije, kótarež se maju pokazowaś.
+Pótakem wupada bazowa struktura webstrony pó slědujucej šemje:
+<pre style="overflow:auto;">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Titel webstrony</title>
+<!-- Ewtl. dalšne głowne informacije -->
+</head>
+<body>
+Wopśimjeśe webstrony
+</body>
+</html>
+</pre>
+== Glědaj teke ==
+* [[XHTML]]
+* [[CSS]]
+
+{{Nawikašćik W3C-standardy}}
+
+[[Kategorija:HTML]]
+[[Kategorija:Wóznamjenjeńske rěcy]]
