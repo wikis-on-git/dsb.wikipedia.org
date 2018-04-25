@@ -1,5 +1,5 @@
 {|class="wikitable sortable"
-|+ Městno
+|+ Městnok
 |- class="hintergrundfarbe5"
 ! Městno !!class="unsortable"| Gmejna/Amt !! Wokrejs !! Nimske mě !! class="unsortable" | Pśispomnjeśa
 |- class="sortbottom hintergrundfarbe5"
@@ -23,9 +23,9 @@
 |-
 | [[Bluń]] || [[Bluno]] 
 |- 
-| [[Bobolce]] || [[Lübbenau/Spreewald]] || [[Wokrejs Górne Błota-Łužyca|OSL]] || Boblitz (Lübbenau)|Boblitz ||
+| [[Bobolce]] || [[Lubnjow]] || [[Wokrejs Górne Błota-Łužyca|OSL]] || Boblitz (Lübbenau)|Boblitz ||
 |-
-| [[Bobow]] || [[Kolkwitz]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Babow/Spreewald ||
+| [[Bobow]] || [[Gołkojce]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Babow/Spreewald ||
 |-
 | [[Bórkowy (Błota)]] || Amt Burg (Spreewald) || [[Wokrejs Sprjewja-Nysa|SPN]] || Burg (Spreewald ||
 |-
@@ -44,6 +44,8 @@
 | [[Brjazyna]] || [[Amt Burg (Spreewald)]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Briesen (Spreewald)|Briesen||
 |-
 | [[Brjazynka]] || || [[Wokrejs Damna-Błota|LDS]] ||  Birkenhainchen ||
+|-
+| [[Bronkow]] || || [[Wokrejs Górne Błota-Łužyca|OSL]] ||  Bronkow ||
 |-
 | [[Budyšyn]] || [[Landkreis Bautzen|Große Kreisstadt]] || [[Sachsen|SN]] || Bautzen ||
 |-
@@ -67,7 +69,7 @@
 |-
 | [[Dobryń]] || [[Sonnewalde]] || [[Landkreis Elbe-Elster|EE]] ||  Dabern ||
 |-
-| [[Drjejce]] || [[Jänschwalde]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Drewitz ||
+| [[Drjejce]] || [[Janšojce]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Drewitz ||
 |-
 | [[Drjenow]] || [[Amt Picnjo]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Drehnow ||
 |-
@@ -93,7 +95,7 @@
 |-
 | [[Gogolow]] || [[Chóśebuz]] || CB || Groß Gaglow || 
 |-
-| [[Gołbin]] || [[Kolkwitz]] || [[Wokrejs Damna-Błota|LDS]] || Gulben ||
+| [[Gołbin]] || [[Gołkojce]] || [[Wokrejs Damna-Błota|LDS]] || Gulben ||
 |-
 | [[Gołkojce]] || || [[Wokrejs Sprjewja-Nysa|SPN]] || Kolkwitz || 
 |-
@@ -127,11 +129,11 @@
 |-
 | [[Janšojce]] || [[Amt Picnjo]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Jänschwalde || 
 |-
-| Janšojce-Pipanojce || [[Jänschwalde]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Jänschwalde-Kolonie || 
+| Janšojce-Pipanojce || [[Janšojce]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Jänschwalde-Kolonie || 
 |-
-| Janšojce-Pódzajtšo || [[Jänschwalde]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Jänschwalde-Ost || 
+| Janšojce-Pódzajtšo || [[Janšojce]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Jänschwalde-Ost || 
 |-
-| Janšojce-Wjas || [[Jänschwalde]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Jänschwalde-Dorf || 
+| Janšojce-Wjas || [[Janšojce]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Jänschwalde-Dorf || 
 
 |-
 | [[Kalawa]] || || [[Wokrejs Górne Błota-Łužyca|OSL]] || Calau ||
@@ -140,13 +142,13 @@
 |-
 | [[Kopańce]] || || [[Wokrejs Sprjewja-Nysa|SPN]] || Neuhausen/Spree|Neuhausen|| 
 |-
-| [[Kóšnojce]] || [[Drebkau]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Kóšnojce Koschendorf|| 
+| [[Kóšnojce]] || [[Drjowk]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Kóšnojce Koschendorf|| 
 |-
-| [[Kózle]] || [[Drebkau]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Casel ||
+| [[Kózle]] || [[Drjowk]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Casel ||
 |-
 | [[Kšušwica]] || [[Krausnick-Groß Wasserburg]], [[Amt Unterspreewald]] ||  [[Wokrejs Damna-Błota|LDS]] || Krausnick || 
 |-
-| [[Kśišow]] || [[Kolkwitz]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Krieschow || 
+| [[Kśišow]] || [[Gołkojce]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Krieschow || 
 |-
 | [[Łakoma]] || || [[Wokrejs Sprjewja-Nysa|SPN]] || Lakoma || [[Tagebau|abgebaggert]]
 |-
@@ -154,7 +156,7 @@
 |-
 | [[Łukow]] || Město [[Dolna Łužyca|Dolneje Łužycy]]  || [[Wokrejs Damna-Błota|LDS]] || Luckau || 
 |-
-| [[Lědy]] || [[Lübbenau/Spreewald]] || [[Wokrejs Górne Błota-Łužyca|OSL]] || Lehde (Spreewald)|Lehde|| 
+| [[Lědy]] || [[Lubnjow]] || [[Wokrejs Górne Błota-Łužyca|OSL]] || Lehde (Spreewald)|Lehde|| 
 |-
 | [[Libanojce]] || [[Neuhausen/Spree]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Laubsdorf || 
 |-
@@ -168,7 +170,7 @@
 |-
 | [[Lukojce]] || || [[Landkreis Teltow-Fläming|TF]] || Luckenwalde || 
 |-
-| [[Lutol]] || [[Drebkau]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Leuthen || 
+| [[Lutol]] || [[Drjowk]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Leuthen || 
 |-
 | [[Matyjojce]] || [[Wiesengrund]]<br />[[Amt Derbno-kraj]] || [[Wokrejs Sprjewja-Nysa|SPN]] ||  Mattendorf|| 
 |-
@@ -190,7 +192,7 @@
 |-
 | [[Picnjo]]  || [[Chóśebuz]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Peitz || 
 |-
-| [[Popojce (Gołkojce)|Popojce]] || [[Kolkwitz]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Papitz || 
+| [[Popojce (Gołkojce)|Popojce]] || [[Gołkojce]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Papitz || 
 |-
 | [[Prjawoz]] || [[Schmogrow-Fehrow]]<br />[[Amt Burg (Spreewald)]]|| [[Wokrejs Sprjewja-Nysa|SPN]] ||  Fehrow|| 
 |-
@@ -204,7 +206,7 @@
 |-
 | [[Rogozno]] || [[Chóśebuz]] || CB || Willmersdorf || 
 |-
-| [[Skjarbošć]] || [[Drebkau]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Schorbus || 
+| [[Skjarbošc]] || [[Drjowk]] || [[Wokrejs Sprjewja-Nysa|SPN]] || Schorbus || 
 |-
 | [[Storkow]] ||  ||   || Storkow || 
 |-
@@ -248,7 +250,7 @@
 |-
 | [[Wołobuz]] || [[Großräschen]] || [[Wokrejs Górne Błota-Łužyca|OSL]] || Allmosen ||
 |-
-| [[Wótšowc]] || [[Lübbenau/Spreewald]] || [[Wokrejs Górne Błota-Łužyca|OSL]] || Bischdorf (Lübbenau)|Bischdorf ||
+| [[Wótšowc]] || [[Lubnjow]] || [[Wokrejs Górne Błota-Łužyca|OSL]] || Bischdorf (Lübbenau)|Bischdorf ||
 |-
 | [[Zabrod]] || [[Sabrodt]] 
 |-
