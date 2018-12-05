@@ -6,101 +6,33 @@
 |fam1=žedna
 |iso15924=Cher
 }}
-[[Dataja:Cherokee Syllabary.svg|thumb|Tabela čerokiskego pisma]]
+[[Dataja:Ĉeroka silabaro.png|thumb|Tabela čerokiskego pisma]]
 
 '''Čerokiske złožkowe pismo''' jo pisański system kótaryž jo se wuźěłany wót muža, [[Sequoyah]], w lěśe 1819, aby [[čerokiska rěc|čerokisku rěc]] pisał. Naměty kontakt z europskimi sedlarjami, jo ideju pisanja pśewzeł, a sam jo zachopił<!--ekpenis--> wuźěłaś pódobny pisański system za swójski čerokiski lud. Pó někotarych wopytach, inkluziwnje ideografije, jogo źěło jo płoźiło pśez wuźěłanje złožkowego alfabeta, nic alfabet kaž ten sedlarjow. Někotare ze symbolow su pśipadnje pśewzete z alfabeta sedlarjow, a druge su cele wunamakane z jogo pśestajenja.
 
 [[Dataja:Sequoyah.jpg|thumb|Sequoyah]]
-
-{| class="wikitable" style="margin-left: auto; margin-right: auto; border: none;"
-|-
-! Wokale →<br />Konsonanty ↓ !! a<br />[a]~[ə] !! e<br />[e]~[ɛ] !! i<br />[i]~[ɪ] !! o<br />[o]~[ɔ] !! u<br />[u]~[ʊ] !! v<br />[ə̃]
-|-
-! —
-| Ꭰꭰ ''a'' || Ꭱꭱ ''e'' || Ꭲꭲ ''i'' || Ꭳꭳ ''o'' || Ꭴꭴ ''u'' || Ꭵꭵ ''v''
-|-
-! g<br />[ɡ]
-| Ꭶꭶ ''ga'' • Ꭷꭷ ''ka'' || Ꭸꭸ ''ge'' || Ꭹꭹ ''gi'' || Ꭺꭺ ''go'' || Ꭻꭻ ''gu'' || Ꭼꭼ ''gv''
-|-
-! h<br />[h]
-| Ꭽꭽ ''ha'' || Ꭾꭾ ''he'' || Ꭿꭿ ''hi'' || Ꮀꮀ ''ho'' || Ꮁꮁ ''hu'' || Ꮂꮂ ''hv''
-|-
-! l<br />[l]
-| Ꮃꮃ ''la'' || Ꮄꮄ ''le'' || Ꮅꮅ ''li'' || Ꮆꮆ ''lo'' || Ꮇꮇ ''lu'' || Ꮈꮈ ''lv''
-|-
-! m<br />[m]
-| Ꮉꮉ ''ma'' || Ꮊꮊ ''me'' || Ꮋꮋ ''mi'' || Ꮌꮌ ''mo'' || Ꮍꮍ ''mu'' ||
-|-
-! n<br />[n]
-| Ꮎꮎ ''na'' • Ꮐꮐ ''nah'' • Ꮏꮏ ''hna'' || Ꮑꮑ ''ne'' || Ꮒꮒ ''ni'' || Ꮓꮓ ''no'' || Ꮔꮔ ''nu'' || Ꮕꮕ ''nv''
-|-
-! qu<br />[kʰw]
-| Ꮖꮖ ''qua'' || Ꮗꮗ ''que'' || Ꮘꮘ ''qui'' || Ꮙꮙ ''quo'' || Ꮚꮚ ''quu'' || Ꮛꮛ ''quv''
-|-
-! s<br />[s]
-| Ꮝꮝ ''s'' • Ꮜꮜ ''sa'' || Ꮞꮞ ''se'' || Ꮟꮟ ''si'' || Ꮠꮠ ''so'' || Ꮡꮡ ''su'' || Ꮢꮢ ''sv''
-|-
-! d/t<br />[d]/[t]
-| Ꮣꮣ ''da'' • Ꮤꮤ ''ta'' || Ꮥꮥ ''de'' • Ꮦꮦ ''te'' || Ꮧꮧ ''di'' • Ꮨꮨ ''ti'' || Ꮩꮩ ''do'' || Ꮪꮪ ''du'' || Ꮫꮫ ''dv''
-|-
-! tl<br />[t͡ɬ]
-| Ꮬꮬ ''dla'' • Ꮭꮭ ''tla'' || Ꮮꮮ ''tle'' || Ꮯꮯ ''tli'' || Ꮰꮰ ''tlo'' || Ꮱꮱ ''tlu'' || Ꮲꮲ ''tlv''
-|-
-! ts<br />[t͡s]~[d͡ʒ]
-| Ꮳꮳ ''tsa'' || Ꮴꮴ ''tse'' || Ꮵꮵ ''tsi'' || Ꮶꮶ ''tso'' || Ꮷꮷ ''tsu'' || Ꮸꮸ ''tsv''
-|-
-! w<br />[ɰ]
-| Ꮹꮹ ''wa'' || Ꮺꮺ ''we'' || Ꮻꮻ ''wi'' || Ꮼꮼ ''wo'' || Ꮽꮽ ''wu'' || Ꮾꮾ ''wv''
-|-
-! y<br />[j]
-| Ꮿꮿ ''ya'' || Ᏸᏸ ''ye'' || Ᏹᏹ ''yi'' || Ᏺᏺ ''yo'' || Ᏻᏻ ''yu'' || Ᏼᏼ ''yv''
-|}
+[[Dataja:Cherokee Syllabary.svg|600px]]
 
 == Kompjuterowa reprezentacija ==
-Čerokiske pismo se w [[Unicode]] reprezentěrujo, w znamješkowem wobłuku (engelski ''character range'') U+13AD až U+13F4.  
-{| style="display: inline-table;"
+Čerokiske pismo se w [[Unicode]] reprezentěrujo, w znamješkowem wobłuku (engelski ''character range'') U+13A0 až U+13F4.  
+{|
 |- align="center"
-!&nbsp;!!0!!1!!2!!3!!4!!5!!6!!7!!8!!9!!A!!B!!C!!D!!E!!F
+|&nbsp;||&nbsp;||0||1||2||3||4||5||6||7||8||9||A||B||C||D||E||F
 |- align="center"
-!13A
-|Ꭰ||Ꭱ||Ꭲ||Ꭳ||Ꭴ||Ꭵ||Ꭶ||Ꭷ||Ꭸ||Ꭹ||Ꭺ||Ꭻ||Ꭼ||Ꭽ||Ꭾ||Ꭿ
+|13A0||&nbsp;||Ꭰ||Ꭱ||Ꭲ||Ꭳ||Ꭴ||Ꭵ||Ꭶ||Ꭷ||Ꭸ||Ꭹ||Ꭺ||Ꭻ||Ꭼ||Ꭽ||Ꭾ||Ꭿ
 |- align="center"
-!13B
-|Ꮀ||Ꮁ||Ꮂ||Ꮃ||Ꮄ||Ꮅ||Ꮆ||Ꮇ||Ꮈ||Ꮉ||Ꮊ||Ꮋ||Ꮌ||Ꮍ||Ꮎ||Ꮏ
+|13B0||&nbsp;||Ꮀ||Ꮁ||Ꮂ||Ꮃ||Ꮄ||Ꮅ||Ꮆ||Ꮇ||Ꮈ||Ꮉ||Ꮊ||Ꮋ||Ꮌ||Ꮍ||Ꮎ||Ꮏ
 |- align="center"
-!13C
-|Ꮐ||Ꮑ||Ꮒ||Ꮓ||Ꮔ||Ꮕ||Ꮖ||Ꮗ||Ꮘ||Ꮙ||Ꮚ||Ꮛ||Ꮜ||Ꮝ||Ꮞ||Ꮟ
+|13C0||&nbsp;||Ꮐ||Ꮑ||Ꮒ||Ꮓ||Ꮔ||Ꮕ||Ꮖ||Ꮗ||Ꮘ||Ꮙ||Ꮚ||Ꮛ||Ꮜ||Ꮝ||Ꮞ||Ꮟ
 |- align="center"
-!13D
-|Ꮠ||Ꮡ||Ꮢ||Ꮣ||Ꮤ||Ꮥ||Ꮦ||Ꮧ||Ꮨ||Ꮩ||Ꮪ||Ꮫ||Ꮬ||Ꮭ||Ꮮ||Ꮯ
+|13D0||&nbsp;||Ꮠ||Ꮡ||Ꮢ||Ꮣ||Ꮤ||Ꮥ||Ꮦ||Ꮧ||Ꮨ||Ꮩ||Ꮪ||Ꮫ||Ꮬ||Ꮭ||Ꮮ||Ꮯ
 |- align="center"
-!13E
-|Ꮰ||Ꮱ||Ꮲ||Ꮳ||Ꮴ||Ꮵ||Ꮶ||Ꮷ||Ꮸ||Ꮹ||Ꮺ||Ꮻ||Ꮼ||Ꮽ||Ꮾ||Ꮿ
+|13E0||&nbsp;||Ꮰ||Ꮱ||Ꮲ||Ꮳ||Ꮴ||Ꮵ||Ꮶ||Ꮷ||Ꮸ||Ꮹ||Ꮺ||Ꮻ||Ꮼ||Ꮽ||Ꮾ||Ꮿ
 |- align="center"
-!13F
-|Ᏸ||Ᏹ||Ᏺ||Ᏻ||Ᏼ||Ᏽ||&nbsp;||&nbsp;||ᏸ||ᏹ||ᏺ||ᏻ||ᏼ||ᏽ||&nbsp;||&nbsp;
-|}
-{| style="display: inline-table;"
-|- align="center"
-!&nbsp;!!0!!1!!2!!3!!4!!5!!6!!7!!8!!9!!A!!B!!C!!D!!E!!F
-|- align="center"
-!AB7
-|ꭰ||ꭱ||ꭲ||ꭳ||ꭴ||ꭵ||ꭶ||ꭷ||ꭸ||ꭹ||ꭺ||ꭻ||ꭼ||ꭽ||ꭾ||ꭿ
-|- align="center"
-!AB8
-|ꮀ||ꮁ||ꮂ||ꮃ||ꮄ||ꮅ||ꮆ||ꮇ||ꮈ||ꮉ||ꮊ||ꮋ||ꮌ||ꮍ||ꮎ||ꮏ
-|- align="center"
-!AB9
-|ꮐ||ꮑ||ꮒ||ꮓ||ꮔ||ꮕ||ꮖ||ꮗ||ꮘ||ꮙ||ꮚ||ꮛ||ꮜ||ꮝ||ꮞ||ꮟ
-|- align="center"
-!ABA
-|ꮠ||ꮡ||ꮢ||ꮣ||ꮤ||ꮥ||ꮦ||ꮧ||ꮨ||ꮩ||ꮪ||ꮫ||ꮬ||ꮭ||ꮮ||ꮯ
-|- align="center"
-!ABB
-|ꮰ||ꮱ||ꮲ||ꮳ||ꮴ||ꮵ||ꮶ||ꮷ||ꮸ||ꮹ||ꮺ||ꮻ||ꮼ||ꮽ||ꮾ||ꮿ
+|13F0||&nbsp;||Ᏸ||Ᏹ||Ᏺ||Ᏻ||Ᏼ||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;
 |}
 
-Jadnučka čerokiska [[Typeface|pismowa družyna]] (engelski ''font'') se z [[macOS]] dodawa, wersija 10.3 (Panther) a pózdźej a [[Windows Vista]]. Čerokiske pismo se teke pódpěra z lichotnych pismow namakane na boku languagegeek.com a Touzet's atypical.net, a shareware-pismowe družyny [[Code2000]] a Everson Mono.
+Jadnučka čerokiska [[Typeface|pismowa družyna]] (engelski ''font'') se z [[Mac OS X]] dodawa, wersija 10.3 (Panther) a pózdźej a [[Windows Vista]]. Čerokiske pismo se teke pódpěra z lichotnych pismow namakane na boku languagegeek.com a Touzet's atypical.net, a shareware-pismowe družyny [[Code2000]] a Everson Mono.
 
 == Eksterne wótkaze ==
 * [http://www.languagegeek.com/font/fontdownload.html languagegeek.com fonts] {{ref-en}}
