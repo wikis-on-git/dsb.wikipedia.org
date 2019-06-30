@@ -13,8 +13,8 @@
 |wokrejs=Ełk
 |wusokosć=147 m
 |płonina=21,07 [[Kwadratny kilometer|km²]]
-|wobydlarstwo=59 934 ''<small>(2014)</small>''
-|gustosć wobydlarstwa=2 844,5 wobydlarjow na km²
+|wobydlarstwo=61 523 ''<small>(2017)</small>''
+|gustosć wobydlarstwa=2 922,7 wobydlarjow na km²
 |postowa licba=19-300 - 19-306
 |pśedwólenje=(+48) 87
 |KFZ-wobznamjenje=NEL
@@ -22,7 +22,7 @@
 |kórta=
 |adresa=ul. Marszałka Piłsudskiego 4<br>19-300 Ełk
 }}
-'''Ełk''' jo město w [[Pólska|Pólskej]], w [[warmińsko-mazurske wójwodstwo|warmińsko-mazurskem wójwodstwje]], we wokrejsu Ełk, nejwětše město [[Mazurska|Mazurskej]]. W lěśe 2014 jo how bydliło 59 934 luźi.
+'''Ełk''' jo město w [[Pólska|Pólskej]], w [[warmińsko-mazurske wójwodstwo|warmińsko-mazurskem wójwodstwje]], we wokrejsu Ełk, nejwětše město [[Mazurska|Mazurskej]]. W lěśe 2017 jo how bydliło 61 523 luźi.
 
 == Wobydlarstwo ==
 <timeline>
@@ -36,7 +36,7 @@ Colors =
  id:cobar value:rgb(0.2,0.7,0.8)
  id:cobar2 value:rgb(0.6,0.9,0.6)
 DateFormat = yyyy
-Period = from:0 till:61000
+Period = from:0 till:62000
 ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
 ScaleMinor = unit:year increment:2000 start:0 gridcolor:linegrey2
 PlotData =
@@ -58,7 +58,8 @@ PlotData =
   bar:2000 from:0 till:56610
   bar:2005 from:0 till:56120
   bar:2010 from:0 till:57897
-  bar:2014 color:cobar2 from:0 till:59934
+  bar:2014 from:0 till:59934
+  bar:2017 color:cobar2 from:0 till:61523
 PlotData=
   textcolor:black fontsize:S
   bar:1910 at: 13428 text: 13.428 shift:(-14,5) 
@@ -79,10 +80,11 @@ PlotData=
   bar:2005 at: 56120 text: 56.120 shift:(-15,5)
   bar:2010 at: 57897 text: 57.897 shift:(-15,5)
   bar:2014 at: 59934 text: 59.934 shift:(-15,5)
+  bar:2017 at: 61523 text: 61.523 shift:(-15,5)
 </timeline>
 
 == Galerija ==
-<gallery widths=155 heights=125>
+<gallery widths="155" heights="125">
 Wobraz:Ełk i Ełk 003.jpg
 Wobraz:Park Solidarności w Ełku.JPG
 Wobraz:Ełk Katedra Św. Wojciecha 002.jpg
