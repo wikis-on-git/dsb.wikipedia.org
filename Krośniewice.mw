@@ -28,9 +28,9 @@
 <timeline>
 ImageSize = width:500 height:200
 PlotArea = left:70 right:40 top:20 bottom:20
-TimeAxis = orientation:vertical 
-AlignBars = justify 
-Colors = 
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
   id:gray1 value:gray(0.9)
 DateFormat = yyyy
 Period = from:0 till:4648
@@ -68,4 +68,5 @@ Wobraz:Krośniewice, sala portretowa w muzeum.jpg
 Wobraz:MBxd2 224 Krosniewice.jpg|2004
 </gallery>
 {{Commonscat|Krośniewice}}
+
 [[Kategorija:Sedlišćo w Pólskej]]
