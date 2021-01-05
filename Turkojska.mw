@@ -50,7 +50,7 @@
     {{ LocMap~ | Y=54 | X=100 | position=10 | label_style=bold/uppercase|label_color=#646464 | label=<small>Iran</small>}}
     {{ LocMap~ | Y=28 | X=100 | position=9 | label_style=bold/uppercase|label_color=#646464 | label=<small>Armeń-<br />ska</small>}}
     {{ LocMap~ | Y=7 | X=98 | position=9 | label_style=bold/uppercase|label_color=#646464 | label=<small>Georgiska</small>}}
-    {{ LocMap~ | Y=0 | X=0 | position=4 | label_style=bold/uppercase|label_color=#646464 | label=<small>Bulgarska</small>}}
+    {{ LocMap~ | Y=0 | X=0 | position=4 | label_style=bold/uppercase|label_color=#646464 | label=<small>Bulgaŕska</small>}}
     {{ LocMap~ | Y=19 | X=11 | position=6 | label_style=bold/italic/letterspacing/uppercase|label_color=#2A6DB5 | label=<small>Marmara-<br />mórjo</small>}}
     {{ LocMap~ | Y=65 | X=0 | position=3 | label_style=bold/italic/letterspacing/uppercase|label_color=#2A6DB5 | label=<small>Egejske<br />mórjo</small>}}
     {{ LocMap~ | Y=2 | X=65 | position=6 | label_style=bold/italic/letterspacing/uppercase|label_color=#2A6DB5 | label=Carne mórjo}}
@@ -62,7 +62,7 @@
     {{ LocMap~ | Y=64 | X=28 | position=9 | label=<small>''[[Eğirdir Gölü|Eğirdir<br />Gölü]]''</small>}}
 }}
 
-'''Turkojska''' jo stat w Małej [[Azija|Aziji]] a pó źělach na [[Balkańska połkupa|Balkańskej połkupje]] w krotkozajtšnej [[Europa|Europje]]. Granicujo z [[Grichiska|Grichiskeju]] na pódwjacorje, z [[Bulgarska|Bulgarskeju]] na dłujkem wjacorje, z [[Carne mórjo|Carnym mórjom]] na pódpołnocu, z [[Georgiska|Georgiskeju]] na dłujkem zajtšu, z [[Armeńska|Armeńskeju]] a [[Iran]]om na pódzajtšu, z [[Irak]]om na krotkem zajtšu a ze [[Syriska|Syriskej]] na pódpołdnju.
+'''Turkojska''' jo stat w Małej [[Azija|Aziji]] a pó źělach na [[Balkańska połkupa|Balkańskej połkupje]] w krotkozajtšnej [[Europa|Europje]]. Granicujo z [[Grichiska|Grichiskeju]] na pódwjacorje, z [[Bulgaŕska|Bulgaŕskeju]] na dłujkem wjacorje, z [[Carne mórjo|Carnym mórjom]] na pódpołnocu, z [[Georgiska|Georgiskeju]] na dłujkem zajtšu, z [[Armeńska|Armeńskeju]] a [[Iran]]om na pódzajtšu, z [[Irak]]om na krotkem zajtšu a ze [[Syriska|Syriskej]] na pódpołdnju.
 
 Stolica jo [[Ankara]], nejwětše město pak [[Istanbul]].
 
