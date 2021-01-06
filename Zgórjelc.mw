@@ -1,41 +1,21 @@
-{| cellpadding="2" style="float: right; width: 280px; background: #e3e3e3; margin-right: 1em; border-spacing: 1px;"
-! Wopon
-! Kórta
-|- style="background: #ffffff;" align="center"
-| style="width: 145px;" | [[Dataja:Wappen Goerlitz vector.svg|140px]]
-| style="width: 145px;" | [[Dataja:Görlitz-Position.png|140px|]]
-|-----
-! colspan="2" | zakładne daty
-|----- bgcolor="#FFFFFF"
-| [[Zwězkowy kraj]]: || '''[[Sakska]]'''
-|----- bgcolor="#FFFFFF"
-| [[wokrejs]]: || [[bźezwokrejsne město]]
-|----- bgcolor="#FFFFFF"
-| [[płoń:]]: || '''67,22''' [[kwadratny kilometer|km²]]
-|----- bgcolor="#FFFFFF"
-| [[wobydlarjow]]: || '''57.111''' ''<small>(31. Dec. 2006)</small>''
-|----- bgcolor="#FFFFFF"
-| [[gustosć ludnosći:]]: || '''850''' wobydlarjow/km²
-|----- bgcolor="#FFFFFF"
-| [[postowe licby]]: || '''02826–02828''' 
-|----- bgcolor="#FFFFFF"
-| [[pśedwólenje]]: || '''03581'''
-|----- bgcolor="#FFFFFF"
-| [[znamje za wósobowe awta]]: || '''GR'''
-|----- bgcolor="#FFFFFF"
-| adresa měsćańskego zastojnistwa: || Untermarkt 6/8<br />02826 Görlitz
-|----- bgcolor="#FFFFFF"
-| internetowe boki: || [http://www.goerlitz.de görlitz.de]
-|----- bgcolor="#FFFFFF"
-| e-mailowa adresa: || 
-|-----
-! colspan="2" | Politika
-|----- bgcolor="#FFFFFF"
-| [[wušy šołta]]: || '''[[Siegfried Deinege]]'''
-|-----
-|}
+{{Město DE
+|mě serbske=Zhorjelc
+|mě němske=Görlitz
+|wopon=Wappen Goerlitz vector.svg
+|šěrina=51/09
+|dlinina=14/59
+|kórta=Görlitz in GR.svg
+|region-ISO=DE-SN
+|gmejnske cysło=14626110
+|wusokosć=199
+|postowa licba=02826–02828
+|pśedwólenje=03581
+|šołta=Octavian Ursu
+|strona=CDU
+|webstrona=[http://www.goerlitz.de goerlitz.de]
+}}
 
-'''Zgórjelc''' (nim. '''Görlitz'''; ''gsb''. '''Zhorjelc'''; ''pól''. '''[[Zgorzelec]]'''; ''čs''. '''Zhořelec''') jo město w [[Dolnošlazyński|dolnošlazyńskej]] [[Górna Łužyca|Górnej Łužycy]] w [[Sakska|pódzajtšnej sakskej]] i [[Dolnošlazyńske wojewódstwo|pódwjacornem dolnošlazyńskem wojewódstwe]] nad [[Łužyska Nysa|Nysu]], na granicy mjazy [[Nimska|Nimskom]] a [[Pólska|Pólskom]]. 
+'''Zgórjelc''' ({{wrěcy|de}} '''Görlitz''', {{wrěcy|hsb}} ''Zhorjelc''', {{wrěcy|pl}} ''[[Zgorzelec]]'', {{wrěcy|cs}} ''Zhořelec'') jo město w [[Górna Łužyca|Górnej Łužycy]] w [[Sakska|pódzajtšnej sakskej]] nad [[Łužyska Nysa|Nysu]], na granicy mjazy [[Nimska|Nimskeju]] a [[Pólska|Pólskeju]]. 
 
 Źel města lažy w Pólskej a ma mě [[Zgorzelec]].
 
@@ -58,43 +38,11 @@
 * jatšownik 1945 - twarde wójowanje wó pśestupjenje Łužyskej Nysy na połnoc wót Zgórjelca pódla Toporow, město było intaktne njepósrědnem wójowanjem. Znicenje wšyknych móstow na Łužyskej Nysje pśez [[SS]]
 * 1945 - źěl města na pšawym brjoze w Pólskej, granica na Łužyskej Nysy.
 
-== Politika ==
-
-=== Měsćańska rada ===
-
-{| class="prettytable"
-! bgcolor="#EECFA1" align="left" | strona 
-! bgcolor="#EECFA1" | sejźi
-|-
-|[[Bergaŕ wót Zgórjelca]]
-| align="center" | 13
-|-
-|[[CDU]]
-| align="center" | 10
-|-
-|[[Lěwica]]
-| align="center" | 8
-|-
-|[[SPD]]
-| align="center" | 2
-|-
-|[[FDP]]
-| align="center" | 2
-|-
-|[[Zwězk 90/Zeleny]]
-| align="center" | 1
-|-
-|[[DSU]]
-| align="center" | 1
-|-
-|[[bźezpartajna]]
-| align="center" | 1
-|}
 {{-}}
 
 == Stawizny ==
 
-[[Dataja:Goerlitz 1575.jpg|thumb|left|150px|Zgórjelc wót pódzajtšo, 1575]]
+[[Dataja:Goerlitz 1575.jpg|thumb|left|150px|Zgórjelc z pódzajtša, 1575]]
 [[Dataja:Fussgaengerbruecke goerlitz.jpg|thumb|right|150px|Móst w starem měsće]]
 {{-}}
 
@@ -103,15 +51,14 @@
 [[Dataja:Bahnsteig Bahnhof Görlitz.jpg|thumb|right|150px|Głowne dwórnišćo<br />Zgórjelca]]
 {{-}}
 
-== Eksterne wótkaze ==
+== Nóžki ==
+<references />
 
-* [[Dataja:Wappen Goerlitz vector.svg|25px]] [http://www.goerlitz.de görlitz.de <small>(nimski)</small>]
+== Wótkaze ==
+{{Commonscat|Görlitz|Zgórjelc}}
+* [http://www.goerlitz.de görlitz.de] {{ref-de}}
 
-* [[Dataja:POL Zgorzelec COA.svg|25px]] [http://www.zgorzelec.eu/ zgorzelec.eu <small>(pólski)</small>]
-{{commons|Category:Görlitz}}
-{{Nawikašćik Wokrejs Zgórjelc}}
-
-{{pśeźěłuj|sady|sources|style|zarodk}}
+{{Wokrejs Zgórjelc}}
 
 [[Kategorija:Sedlišćo w Górnej Łužycy]]
 [[Kategorija:Wokrejs Zgórjelc]]
